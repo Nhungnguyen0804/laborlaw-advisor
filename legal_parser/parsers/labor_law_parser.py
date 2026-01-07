@@ -1,20 +1,8 @@
-from PyPDF2 import PdfReader
-import unicodedata
-import pdfplumber
+
 import re
 import json
-
-
-def read_pdf_pdfplumber(pdf_path):
-    pages = []
-    with pdfplumber.open(pdf_path) as pdf:
-        for page in pdf.pages:
-            text = page.extract_text()
-            if text:
-                text = unicodedata.normalize('NFC', text)
-                pages.append(text)
-    return pages
-
+from legal_parser.pdf_processor.pdf_extractor import read_pdf_pdfplumber
+from legal_parser.preprocessing.normalizer import format_newlines_after_dot
 
 def clean_header(full_text):
     lines = full_text.split('\n')
@@ -22,33 +10,6 @@ def clean_header(full_text):
     return '\n'.join(filtered_lines)
 
 
-def format_newlines_after_dot(full_text):
-    """Xử lý xuống dòng, chỉ giữ xuống dòng sau dấu chấm hoặc từ khóa cấu trúc"""
-    lines = full_text.split('\n')
-    processed_lines = []
-    temp_line = ""
-
-    for line in lines:
-        line = line.strip()
-        if not line:
-            continue
-        
-        # Kiểm tra từ khóa cấu trúc
-        starts_with_structure = line.startswith(('Điều ', 'Chương ', 'Mục ')) or re.match(r'^\d+\.\s', line)
-        
-        if temp_line:
-            if temp_line.endswith('.') or starts_with_structure:
-                processed_lines.append(temp_line)
-                temp_line = line
-            else:
-                temp_line += ' ' + line
-        else:
-            temp_line = line
-
-    if temp_line:
-        processed_lines.append(temp_line)
-
-    return processed_lines
 
 
 def extract_sections(processed_lines, keyword):
@@ -126,7 +87,7 @@ def parse_points(clause_text):
             if point_content:
                 point_key = f"diem_{point_id}"
                 cleaned_point_content = re.sub(r'^([a-zA-Z]|\d+)\)\s*', '', point_content).strip()
-                # Lưu cả ký hiệu và nội dung
+                # Lưu 
                 points[point_key] = f"{point_id}) {point_content}"
                 # points[point_key] = f"{cleaned_point_content}"
             
@@ -205,6 +166,40 @@ def parse_articles(chapter_lines):
     
     return articles
 
+#Mục 
+def parse_sections(chapter_lines):
+    """
+    Parse MỤC từ chương (nếu có)
+    Return: dict hoặc None nếu không có mục
+    """
+    # Thử tìm mục
+    section_blocks = extract_sections(chapter_lines, "Mục ")
+    
+    if not section_blocks:
+        return None  # Chương này không có mục
+    
+    sections = {}
+    section_pattern = r"Mục\s+(\d+)"
+    
+    for section in section_blocks:
+        section_lines = format_newlines_after_dot(section)
+        section_num = re.findall(section_pattern, section_lines[0])
+        
+        if not section_num:
+            continue
+        
+        section_key = f"muc_{section_num[0]}"
+        
+        # Parse điều từ mục này
+        articles = parse_articles(section_lines)
+        
+        sections[section_key] = {
+            'info': section_lines[0],
+            'articles': articles
+        }
+    
+    return sections
+
 
 def parse_legal_document(processed_lines):
     """
@@ -229,13 +224,30 @@ def parse_legal_document(processed_lines):
         chapter_num = roman_to_int(roman_chapter[0])
         chapter_key = f"chuong_{chapter_num}"
         
-        # Parse điều từ chương
-        articles = parse_articles(chapter_lines)
+        # # Parse điều từ chương
+        # articles = parse_articles(chapter_lines)
         
-        all_chapters[chapter_key] = {
-            'info': chapter_lines[0],
-            'articles': articles
-        }
+        # all_chapters[chapter_key] = {
+        #     'info': chapter_lines[0],
+        #     'articles': articles
+        # }
+
+        # thử parse mục trước
+        sections = parse_sections(chapter_lines)
+        if sections:
+            # có mục 
+            all_chapters[chapter_key] = {
+                'info': chapter_lines[0],
+                'sections': sections
+            }
+
+        else:
+            # k có mục => parse điều
+            articles = parse_articles(chapter_lines)
+            all_chapters[chapter_key] = {
+                'info': chapter_lines[0],
+                'articles': articles
+            }
     
     return all_chapters
 

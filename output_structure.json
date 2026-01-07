@@ -270,94 +270,99 @@
   },
   "chuong_3": {
     "info": "Chương III HỢP ĐỒNG LAO ĐỘNG",
-    "articles": {
-      "dieu_13": {
-        "info": "Điều 13. Hợp đồng lao động",
-        "clauses": {
-          "khoan_1": {
-            "info": "1. Hợp đồng lao động là sự thỏa thuận giữa người lao động và người sử dụng lao động về việc làm có trả công, tiền lương, điều kiện lao động, quyền và nghĩa vụ của mỗi bên trong quan hệ lao động.\nTrường hợp hai bên thỏa thuận bằng tên gọi khác nhưng có nội dung thể hiện về việc làm có trả công, tiền lương và sự quản lý, điều hành, giám sát của một bên thì được coi là hợp đồng lao động.",
-            "points": {}
+    "sections": {
+      "muc_1": {
+        "info": "Mục 1 GIAO KẾT HỢP ĐỒNG LAO ĐỘNG",
+        "articles": {
+          "dieu_13": {
+            "info": "Điều 13. Hợp đồng lao động",
+            "clauses": {
+              "khoan_1": {
+                "info": "1. Hợp đồng lao động là sự thỏa thuận giữa người lao động và người sử dụng lao động về việc làm có trả công, tiền lương, điều kiện lao động, quyền và nghĩa vụ của mỗi bên trong quan hệ lao động.\nTrường hợp hai bên thỏa thuận bằng tên gọi khác nhưng có nội dung thể hiện về việc làm có trả công, tiền lương và sự quản lý, điều hành, giám sát của một bên thì được coi là hợp đồng lao động.",
+                "points": {}
+              },
+              "khoan_2": {
+                "info": "2. Trước khi nhận người lao động vào làm việc thì người sử dụng lao động phải giao kết hợp đồng lao động với người lao động.",
+                "points": {}
+              }
+            }
           },
-          "khoan_2": {
-            "info": "2. Trước khi nhận người lao động vào làm việc thì người sử dụng lao động phải giao kết hợp đồng lao động với người lao động.",
-            "points": {}
-          }
-        }
-      },
-      "dieu_14": {
-        "info": "Điều 14. Hình thức hợp đồng lao động",
-        "clauses": {
-          "khoan_1": {
-            "info": "1. Hợp đồng lao động phải được giao kết bằng văn bản và được làm thành 02 bản, người lao động giữ 01 bản, người sử dụng lao động giữ 01 bản, trừ trường hợp quy định tại khoản 2 Điều này.\nHợp đồng lao động được giao kết thông qua phương tiện điện tử dưới hình thức thông điệp dữ liệu theo quy định của pháp luật về giao dịch điện tử có giá trị như hợp đồng lao động bằng văn bản.",
-            "points": {}
+          "dieu_14": {
+            "info": "Điều 14. Hình thức hợp đồng lao động",
+            "clauses": {
+              "khoan_1": {
+                "info": "1. Hợp đồng lao động phải được giao kết bằng văn bản và được làm thành 02 bản, người lao động giữ 01 bản, người sử dụng lao động giữ 01 bản, trừ trường hợp quy định tại khoản 2 Điều này.\nHợp đồng lao động được giao kết thông qua phương tiện điện tử dưới hình thức thông điệp dữ liệu theo quy định của pháp luật về giao dịch điện tử có giá trị như hợp đồng lao động bằng văn bản.",
+                "points": {}
+              },
+              "khoan_2": {
+                "info": "2. Hai bên có thể giao kết hợp đồng lao động bằng lời nói đối với hợp đồng có thời hạn dưới 01 tháng, trừ trường hợp quy định tại khoản 2 Điều 18, điểm a khoản 1 Điều 145 và khoản 1 Điều 162 của Bộ luật này.",
+                "points": {}
+              }
+            }
           },
-          "khoan_2": {
-            "info": "2. Hai bên có thể giao kết hợp đồng lao động bằng lời nói đối với hợp đồng có thời hạn dưới 01 tháng, trừ trường hợp quy định tại khoản 2 Điều 18, điểm a khoản 1 Điều 145 và khoản 1 Điều 162 của Bộ luật này.",
-            "points": {}
-          }
-        }
-      },
-      "dieu_15": {
-        "info": "Điều 15. Nguyên tắc giao kết hợp đồng lao động",
-        "clauses": {
-          "khoan_1": {
-            "info": "1. Tự nguyện, bình đẳng, thiện chí, hợp tác và trung thực.",
-            "points": {}
+          "dieu_15": {
+            "info": "Điều 15. Nguyên tắc giao kết hợp đồng lao động",
+            "clauses": {
+              "khoan_1": {
+                "info": "1. Tự nguyện, bình đẳng, thiện chí, hợp tác và trung thực.",
+                "points": {}
+              },
+              "khoan_2": {
+                "info": "2. Tự do giao kết hợp đồng lao động nhưng không được trái pháp luật, thỏa ước lao động tập thể và đạo đức xã hội.",
+                "points": {}
+              }
+            }
           },
-          "khoan_2": {
-            "info": "2. Tự do giao kết hợp đồng lao động nhưng không được trái pháp luật, thỏa ước lao động tập thể và đạo đức xã hội.",
-            "points": {}
-          }
-        }
-      },
-      "dieu_16": {
-        "info": "Điều 16. Nghĩa vụ cung cấp thông tin khi giao kết hợp đồng lao động",
-        "clauses": {
-          "khoan_1": {
-            "info": "1. Người sử dụng lao động phải cung cấp thông tin trung thực cho người lao động về công việc, địa điểm làm việc, điều kiện làm việc, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn, vệ sinh lao động, tiền lương, hình thức trả lương, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, quy định về bảo vệ bí mật kinh doanh, bảo vệ bí mật công nghệ và vấn đề khác liên quan trực tiếp đến việc giao kết hợp đồng lao động mà người lao động yêu cầu.",
-            "points": {}
+          "dieu_16": {
+            "info": "Điều 16. Nghĩa vụ cung cấp thông tin khi giao kết hợp đồng lao động",
+            "clauses": {
+              "khoan_1": {
+                "info": "1. Người sử dụng lao động phải cung cấp thông tin trung thực cho người lao động về công việc, địa điểm làm việc, điều kiện làm việc, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn, vệ sinh lao động, tiền lương, hình thức trả lương, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, quy định về bảo vệ bí mật kinh doanh, bảo vệ bí mật công nghệ và vấn đề khác liên quan trực tiếp đến việc giao kết hợp đồng lao động mà người lao động yêu cầu.",
+                "points": {}
+              },
+              "khoan_2": {
+                "info": "2. Người lao động phải cung cấp thông tin trung thực cho người sử dụng lao động về họ tên, ngày tháng năm sinh, giới tính, nơi cư trú, trình độ học vấn, trình độ kỹ năng nghề, xác nhận tình trạng sức khỏe và vấn đề khác liên quan trực tiếp đến việc giao kết hợp đồng lao động mà người sử dụng lao động yêu cầu.",
+                "points": {}
+              }
+            }
           },
-          "khoan_2": {
-            "info": "2. Người lao động phải cung cấp thông tin trung thực cho người sử dụng lao động về họ tên, ngày tháng năm sinh, giới tính, nơi cư trú, trình độ học vấn, trình độ kỹ năng nghề, xác nhận tình trạng sức khỏe và vấn đề khác liên quan trực tiếp đến việc giao kết hợp đồng lao động mà người sử dụng lao động yêu cầu.",
-            "points": {}
-          }
-        }
-      },
-      "dieu_17": {
-        "info": "Điều 17. Hành vi người sử dụng lao động không được làm khi giao kết, thực hiện hợp đồng lao động",
-        "clauses": {
-          "khoan_1": {
-            "info": "1. Giữ bản chính giấy tờ tùy thân, văn bằng, chứng chỉ của người lao động.",
-            "points": {}
+          "dieu_17": {
+            "info": "Điều 17. Hành vi người sử dụng lao động không được làm khi giao kết, thực hiện hợp đồng lao động",
+            "clauses": {
+              "khoan_1": {
+                "info": "1. Giữ bản chính giấy tờ tùy thân, văn bằng, chứng chỉ của người lao động.",
+                "points": {}
+              },
+              "khoan_2": {
+                "info": "2. Yêu cầu người lao động phải thực hiện biện pháp bảo đảm bằng tiền hoặc tài sản khác cho việc thực hiện hợp đồng lao động.",
+                "points": {}
+              },
+              "khoan_3": {
+                "info": "3. Buộc người lao động thực hiện hợp đồng lao động để trả nợ cho người sử dụng lao động.",
+                "points": {}
+              }
+            }
           },
-          "khoan_2": {
-            "info": "2. Yêu cầu người lao động phải thực hiện biện pháp bảo đảm bằng tiền hoặc tài sản khác cho việc thực hiện hợp đồng lao động.",
-            "points": {}
-          },
-          "khoan_3": {
-            "info": "3. Buộc người lao động thực hiện hợp đồng lao động để trả nợ cho người sử dụng lao động.",
-            "points": {}
-          }
-        }
-      },
-      "dieu_18": {
-        "info": "Điều 18. Thẩm quyền giao kết hợp đồng lao động",
-        "clauses": {
-          "khoan_1": {
-            "info": "1. Người lao động trực tiếp giao kết hợp đồng lao động, trừ trường hợp quy định tại khoản 2 Điều này.",
-            "points": {}
-          },
-          "khoan_2": {
-            "info": "2. Đối với công việc theo mùa vụ, công việc nhất định có thời hạn dưới 12 tháng thì nhóm người lao động từ đủ 18 tuổi trở lên có thể ủy quyền cho một người lao động trong nhóm để giao kết hợp đồng lao động; trong trường hợp này, hợp đồng lao động phải được giao kết bằng văn bản và có hiệu lực như giao kết với từng người lao động.\nHợp đồng lao động do người được ủy quyền ký kết phải kèm theo danh sách ghi rõ họ tên, ngày tháng năm sinh, giới tính, nơi cư trú và chữ ký của từng người lao động.",
-            "points": {}
-          },
-          "khoan_3": {
-            "info": "3. Người giao kết hợp đồng lao động bên phía người sử dụng lao động là người thuộc một trong các trường hợp sau đây:",
-            "points": {
-              "diem_a": "a) Người đại diện theo pháp luật của doanh nghiệp hoặc người được ủy quyền theo quy định của pháp luật;",
-              "diem_b": "b) Người đứng đầu cơ quan, tổ chức có tư cách pháp nhân theo quy định của pháp luật hoặc người được ủy quyền theo quy định của pháp luật;",
-              "diem_c": "c) Người đại diện của hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân hoặc người được ủy quyền theo quy định của pháp luật;",
-              "diem_d": "d) Cá nhân trực tiếp sử dụng lao động."
+          "dieu_18": {
+            "info": "Điều 18. Thẩm quyền giao kết hợp đồng lao động",
+            "clauses": {
+              "khoan_1": {
+                "info": "1. Người lao động trực tiếp giao kết hợp đồng lao động, trừ trường hợp quy định tại khoản 2 Điều này.",
+                "points": {}
+              },
+              "khoan_2": {
+                "info": "2. Đối với công việc theo mùa vụ, công việc nhất định có thời hạn dưới 12 tháng thì nhóm người lao động từ đủ 18 tuổi trở lên có thể ủy quyền cho một người lao động trong nhóm để giao kết hợp đồng lao động; trong trường hợp này, hợp đồng lao động phải được giao kết bằng văn bản và có hiệu lực như giao kết với từng người lao động.\nHợp đồng lao động do người được ủy quyền ký kết phải kèm theo danh sách ghi rõ họ tên, ngày tháng năm sinh, giới tính, nơi cư trú và chữ ký của từng người lao động.",
+                "points": {}
+              },
+              "khoan_3": {
+                "info": "3. Người giao kết hợp đồng lao động bên phía người sử dụng lao động là người thuộc một trong các trường hợp sau đây:",
+                "points": {
+                  "diem_a": "a) Người đại diện theo pháp luật của doanh nghiệp hoặc người được ủy quyền theo quy định của pháp luật;",
+                  "diem_b": "b) Người đứng đầu cơ quan, tổ chức có tư cách pháp nhân theo quy định của pháp luật hoặc người được ủy quyền theo quy định của pháp luật;",
+                  "diem_c": "c) Người đại diện của hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân hoặc người được ủy quyền theo quy định của pháp luật;",
+                  "diem_d": "d) Cá nhân trực tiếp sử dụng lao động."
+                }
+              }
             }
           }
         }
