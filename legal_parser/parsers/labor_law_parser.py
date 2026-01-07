@@ -1,4 +1,5 @@
-
+import time
+from tqdm import tqdm
 import re
 import json
 from legal_parser.pdf_processor.pdf_extractor import read_pdf_pdfplumber
@@ -8,9 +9,6 @@ def clean_header(full_text):
     lines = full_text.split('\n')
     filtered_lines = [line for line in lines if "CÔNG BÁO/Số 993 + 994/Ngày 26-12-2019" not in line]
     return '\n'.join(filtered_lines)
-
-
-
 
 def extract_sections(processed_lines, keyword):
     """
@@ -254,28 +252,37 @@ def parse_legal_document(processed_lines):
 
 
 if __name__ == "__main__":
-    pdf_path = 'test/test1.pdf'
+    INPUT_FILE_PATH = 'data/raw/laborlaw.pdf'
+    OUTPUT_FILE_PATH = 'data/processed/all_laborlaw.json'
+    pdf_path = INPUT_FILE_PATH
     
     try:
+        start_time = time.time()
         # Đọc PDF
         pages = read_pdf_pdfplumber(pdf_path)
-        print(f"Đọc được {len(pages)} trang")
+        print(f"Đọc được {len(pages)} trang ({time.time() - start_time:.2f}s)")
         
         # Xử lý text
+        step_time = time.time()
         full_text = '\n'.join(pages)
         full_text = clean_header(full_text)
         processed_lines = format_newlines_after_dot(full_text)
-        print(f"Xử lý xong {len(processed_lines)} dòng")
+        print(f"Xử lý xong {len(processed_lines)} dòng ({time.time() - step_time:.2f}s)")
         
         # Parse cấu trúc
+        step_time = time.time()
         result = parse_legal_document(processed_lines)
-       
+        print(f"Parse hoàn tất ({time.time() - step_time:.2f}s)")
         
         # Lưu ra file JSON
-        output_file = 'output_structure.json'
+        step_time = time.time()
+        output_file = OUTPUT_FILE_PATH
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(result, f, ensure_ascii=False, indent=2)
-        print(f"\nĐã lưu kết quả vào: {output_file}")
+        print(f"Đã lưu kết quả vào: {output_file} ({time.time() - step_time:.2f}s)")
+
+        total_time = time.time() - start_time
+        print(f"===> Tổng thời gian: {total_time:.2f}s ({total_time/60:.2f} phút)")
         
     except FileNotFoundError:
         print("Không tìm thấy file PDF!")
