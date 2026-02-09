@@ -2,8 +2,8 @@ import time
 from tqdm import tqdm
 import re
 import json
-from legal_parser.pdf_processor.pdf_extractor import read_pdf_pdfplumber
-from legal_parser.preprocessing.normalizer import format_newlines_after_dot
+from src.legal_parser.pdf_processor.pdf_extractor import read_pdf_pdfplumber
+from src.legal_parser.preprocessing.normalizer import format_newlines_after_dot
 
 def clean_header(full_text):
     lines = full_text.split('\n')
@@ -252,8 +252,8 @@ def parse_legal_document(processed_lines):
 
 
 if __name__ == "__main__":
-    INPUT_FILE_PATH = 'data/raw/laborlaw.pdf'
-    OUTPUT_FILE_PATH = 'data/processed/all_laborlaw.json'
+    INPUT_FILE_PATH = 'src/data/raw/laborlaw.pdf'
+    OUTPUT_FILE_PATH = 'src/data/processed/all_laborlaw.json'
     pdf_path = INPUT_FILE_PATH
     
     try:
