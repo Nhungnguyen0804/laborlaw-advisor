@@ -1,0 +1,33 @@
+[
+  {
+    "item_id": "179106",
+    "title": "Luật 80-2025-QH15",
+    "status": "failed",
+    "error": "no_download_link_found"
+  },
+  {
+    "item_id": "179262",
+    "title": "Luật 73-2025-QH15",
+    "status": "failed",
+    "error": "no_download_link_found"
+  },
+  {
+    "item_id": "179273",
+    "title": "Luật 74-2025-QH15",
+    "status": "failed",
+    "error": "no_download_link_found"
+  },
+  {
+    "item_id": "179989",
+    "title": "Luật 71-2025-QH15",
+    "status": "failed",
+    "error": "no_download_link_found"
+  },
+  {
+    "item_id": "173625",
+    "title": "Luật 52-2024-QH15",
+    "status": "failed",
+    "error": "502 Server Error: Bad Gateway for url: https://vbpl.vn/TW/Lists/vbpq/Attachments/173625/52.2024.QH15.doc",
+    "download_url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/173625/52.2024.QH15.doc"
+  }
+]

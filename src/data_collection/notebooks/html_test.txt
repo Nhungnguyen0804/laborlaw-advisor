@@ -1,0 +1,1678 @@
+
+
+<div class="message"><span>Tìm thấy <strong>656</strong> văn bản.</span></div>
+<div class="results">
+    <ul class="listLaw">
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=179106&Keyword=luật lao động" target="_blank">
+                                Luật 80/2025/QH15
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Cán bộ, công chức</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="source"><a href="/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=179106" target="_blank">
+                                Bản PDF</a></li>
+                            
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=179106&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=179106&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=179106&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="download"><a href="javascript:ShowDialogDownload(179106);">Tải
+                                về</a></li>
+                            
+                            <div id="divShowDialogDownload_179106" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                    <li><span><a id="A2" rel="subcontent" href="javascript:downloadfile('80_2025_QH15_649688.doc','/TW/Lists/vbpq/Attachments/179106/80_2025_QH15_649688.doc');" class="show_hide">
+                                        <img src="/VBQPPL_UserControls/Resources/images/attachment.png">80_2025_QH15_649688.doc</a></span></li>
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>24/06/2025</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>01/07/2025</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=179273&Keyword=luật lao động" target="_blank">
+                                Luật 74/2025/QH15
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Việc làm</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="source"><a href="/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=179273" target="_blank">
+                                Bản PDF</a></li>
+                            
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=179273&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=179273&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=179273&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="download"><a href="javascript:ShowDialogDownload(179273);">Tải
+                                về</a></li>
+                            
+                            <div id="divShowDialogDownload_179273" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                    <li><span><a id="A2" rel="subcontent" href="javascript:downloadfile('74.L.2025-Luat Viec lam.doc','/TW/Lists/vbpq/Attachments/179273/74.L.2025-Luat Viec lam.doc');" class="show_hide">
+                                        <img src="/VBQPPL_UserControls/Resources/images/attachment.png">74.L.2025-Luat Viec lam.doc</a></span></li>
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>16/06/2025</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>01/01/2026</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=179262&Keyword=luật lao động" target="_blank">
+                                Luật 73/2025/QH15
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Luật Nhà giáo</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="source"><a href="/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=179262" target="_blank">
+                                Bản PDF</a></li>
+                            
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=179262&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=179262&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=179262&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="download"><a href="javascript:ShowDialogDownload(179262);">Tải
+                                về</a></li>
+                            
+                            <div id="divShowDialogDownload_179262" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                    <li><span><a id="A2" rel="subcontent" href="javascript:downloadfile('73.L.2025- Luat Nha giao.docx','/TW/Lists/vbpq/Attachments/179262/73.L.2025- Luat Nha giao.docx');" class="show_hide">
+                                        <img src="/VBQPPL_UserControls/Resources/images/attachment.png">73.L.2025- Luat Nha giao.docx</a></span></li>
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>16/06/2025</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>01/01/2026</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=179989&Keyword=luật lao động" target="_blank">
+                                Luật 71/2025/QH15
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Luật Công nghiệp công nghệ số</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="source"><a href="/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=179989" target="_blank">
+                                Bản PDF</a></li>
+                            
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=179989&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=179989&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=179989&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="download"><a href="javascript:ShowDialogDownload(179989);">Tải
+                                về</a></li>
+                            
+                            <div id="divShowDialogDownload_179989" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                    <li><span><a id="A2" rel="subcontent" href="javascript:downloadfile('2025.6.26.Luật Công nghiệp công nghệ số. Bản trình ký chứng thực.docx','/TW/Lists/vbpq/Attachments/179989/2025.6.26.Luật Công nghiệp công nghệ số. Bản trình ký chứng thực.docx');" class="show_hide">
+                                        <img src="/VBQPPL_UserControls/Resources/images/attachment.png">2025.6.26.Luật Công nghiệp công nghệ số. Bản trình ký chứng thực.docx</a></span></li>
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>14/06/2025</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>01/01/2026</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=173625&Keyword=luật lao động" target="_blank">
+                                Luật 52/2024/QH15
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Luật sửa đổi, bổ sung một số điều của Luật Sĩ quan Quân đội nhân dân Việt Nam</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=173625&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=173625&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=173625&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="download"><a href="javascript:downloadfile('52.2024.QH15.doc','/TW/Lists/vbpq/Attachments/173625/52.2024.QH15.doc');">Tải về</a></li>
+                            
+                            <div id="divShowDialogDownload_173625" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>28/11/2024</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>01/12/2024</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=172923&Keyword=luật lao động" target="_blank">
+                                Luật Luật số 51/2024/QH15
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Luật Bảo hiểm y tế sửa đổi 2024</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="source"><a href="/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=172923" target="_blank">
+                                Bản PDF</a></li>
+                            
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=172923&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=172923&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=172923&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="download"><a href="javascript:ShowDialogDownload(172923);">Tải
+                                về</a></li>
+                            
+                            <div id="divShowDialogDownload_172923" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                    <li><span><a id="A2" rel="subcontent" href="javascript:downloadfile('51_2024_QH15_505750.doc','/TW/Lists/vbpq/Attachments/172923/51_2024_QH15_505750.doc');" class="show_hide">
+                                        <img src="/VBQPPL_UserControls/Resources/images/attachment.png">51_2024_QH15_505750.doc</a></span></li>
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>27/11/2024</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>01/07/2025</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=170620&Keyword=luật lao động" target="_blank">
+                                Luật 36/2024/QH15
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Trật tự, an toàn giao thông đường bộ</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=170620&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=170620&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=170620&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="download"><a href="javascript:downloadfile('luat trật tự.doc','/TW/Lists/vbpq/Attachments/170620/luat trật tự.doc');">Tải về</a></li>
+                            
+                            <div id="divShowDialogDownload_170620" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>27/06/2024</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>01/01/2025</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=167658&Keyword=luật lao động" target="_blank">
+                                Luật 21/2023/QH15
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Luật sửa đổi, bổ sung một số điều của Luật Công an nhân dân</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=167658&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=167658&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=167658&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="download"><a href="javascript:downloadfile('21.2023.QH15.doc','/TW/Lists/vbpq/Attachments/167658/21.2023.QH15.doc');">Tải về</a></li>
+                            
+                            <div id="divShowDialogDownload_167658" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>22/06/2023</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>15/08/2023</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=146643&Keyword=luật lao động" target="_blank">
+                                Luật 69/2020/QH14
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="source"><a href="/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=146643" target="_blank">
+                                Bản PDF</a></li>
+                            
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=146643&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=146643&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=146643&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="en"><a href="/TW/pages/vbpqen-toanvan.aspx?ItemID=11131" target="_blank">
+                                Tiếng anh</a></li>
+                            
+                            <li class="download"><a href="javascript:ShowDialogDownload(146643);">Tải
+                                về</a></li>
+                            
+                            <div id="divShowDialogDownload_146643" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                    <li><span><a id="A2" rel="subcontent" href="javascript:downloadfile('69.2020.QH14.doc','/TW/Lists/vbpq/Attachments/146643/69.2020.QH14.doc');" class="show_hide">
+                                        <img src="/VBQPPL_UserControls/Resources/images/attachment.png">69.2020.QH14.doc</a></span></li>
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>13/11/2020</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>01/01/2022</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=96121&Keyword=luật lao động" target="_blank">
+                                Luật 99/2015/QH13
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Tổ chức cơ quan điều tra hình sự</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="source"><a href="/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=96121" target="_blank">
+                                Bản PDF</a></li>
+                            
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=96121&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=96121&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=96121&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="download"><a href="javascript:ShowDialogDownload(96121);">Tải
+                                về</a></li>
+                            
+                            <div id="divShowDialogDownload_96121" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                    <li><span><a id="A2" rel="subcontent" href="javascript:downloadfile('99.2015.QH13.doc','/TW/Lists/vbpq/Attachments/96121/99.2015.QH13.doc');" class="show_hide">
+                                        <img src="/VBQPPL_UserControls/Resources/images/attachment.png">99.2015.QH13.doc</a></span></li>
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>26/11/2015</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>01/01/2018</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=36823&Keyword=luật lao động" target="_blank">
+                                Luật 47/2014/QH13
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại Việt Nam</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="source"><a href="/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=36823" target="_blank">
+                                Bản PDF</a></li>
+                            
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=36823&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=36823&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=36823&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="download"><a href="javascript:ShowDialogDownload(36823);">Tải
+                                về</a></li>
+                            
+                            <div id="divShowDialogDownload_36823" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                    <li><span><a id="A2" rel="subcontent" href="javascript:downloadfile('47.2014.QH13.doc','/TW/Lists/vbpq/Attachments/36823/47.2014.QH13.doc');" class="show_hide">
+                                        <img src="/VBQPPL_UserControls/Resources/images/attachment.png">47.2014.QH13.doc</a></span></li>
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>16/06/2014</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>01/01/2015</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=25681&Keyword=luật lao động" target="_blank">
+                                Luật 53/2010/QH12
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Thi hành án hình sự</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=25681&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=25681&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=25681&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="en"><a href="/TW/pages/vbpqen-toanvan.aspx?ItemID=10495" target="_blank">
+                                Tiếng anh</a></li>
+                            
+                            <li class="download"><a href="javascript:downloadfile('53.2010.QH12.doc.zip','/FileData/TW/Lists/vbpq/Attachments/25681/53.2010.QH12.doc.zip');">Tải về</a></li>
+                            
+                            <div id="divShowDialogDownload_25681" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>17/06/2010</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>01/07/2011</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=14838&Keyword=luật lao động" target="_blank">
+                                Luật 73/2006/QH11
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Bình đẳng giới</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=14838&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=14838&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=14838&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="en"><a href="/TW/pages/vbpqen-toanvan.aspx?ItemID=3798" target="_blank">
+                                Tiếng anh</a></li>
+                            
+                            <li class="download"><a href="javascript:downloadfile('73.2006.QH11.doc','/TW/Lists/vbpq/Attachments/14838/73.2006.QH11.doc');">Tải về</a></li>
+                            
+                            <div id="divShowDialogDownload_14838" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>29/11/2006</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>01/07/2007</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=11591&Keyword=luật lao động" target="_blank">
+                                Pháp lệnh Không số
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Bảo hộ lao động</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=11591&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=11591&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=11591&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="download"><a href="javascript:downloadfile('Khong so.doc','/TW/Lists/vbpq/Attachments/11591/Khong so.doc');">Tải về</a></li>
+                            
+                            <div id="divShowDialogDownload_11591" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>09/09/1991</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>01/01/1992</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=25395&Keyword=luật lao động" target="_blank">
+                                Pháp lệnh Không số
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Trừng trị các tội phản cách mạng</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=25395&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=25395&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=25395&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="download"><a href="javascript:ShowDialogDownload(25395);">Tải
+                                về</a></li>
+                            
+                            <div id="divShowDialogDownload_25395" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                    <li><span><a id="A2" rel="subcontent" href="javascript:downloadfile('PLTrungtricactoiphancachmang1967.doc','/TW/Lists/vbpq/Attachments/25395/PLTrungtricactoiphancachmang1967.doc');" class="show_hide">
+                                        <img src="/VBQPPL_UserControls/Resources/images/attachment.png">PLTrungtricactoiphancachmang1967.doc</a></span></li>
+                                    
+                                    <li><span><a id="A2" rel="subcontent" href="javascript:downloadfile('PLTrungtricactoiphancachmang1967.zip','/FileData/TW/Lists/vbpq/Attachments/25395/PLTrungtricactoiphancachmang1967.zip');" class="show_hide">
+                                        <img src="/VBQPPL_UserControls/Resources/images/attachment.png">PLTrungtricactoiphancachmang1967.zip</a></span></li>
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>30/10/1967</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>30/10/1967</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=27614&Keyword=luật lao động" target="_blank">
+                                Lệnh 08/2012/L-CTN
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Về việc công bố Bộ luật Lao động</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="source"><a href="/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=27614" target="_blank">
+                                Bản PDF</a></li>
+                            
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=27614&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=27614&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=27614&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="download"><a href="javascript:ShowDialogDownload(27614);">Tải
+                                về</a></li>
+                            
+                            <div id="divShowDialogDownload_27614" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                    <li><span><a id="A2" rel="subcontent" href="javascript:downloadfile('08.2012.L.CTN.doc','/TW/Lists/vbpq/Attachments/27614/08.2012.L.CTN.doc');" class="show_hide">
+                                        <img src="/VBQPPL_UserControls/Resources/images/attachment.png">08.2012.L.CTN.doc</a></span></li>
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>02/07/2012</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>02/07/2012</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=14455&Keyword=luật lao động" target="_blank">
+                                Lệnh 02/2007/L-CTN
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Về việc công bố Luật</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=14455&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=14455&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=14455&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="en"><a href="/TW/pages/vbpqen-toanvan.aspx?ItemID=3990" target="_blank">
+                                Tiếng anh</a></li>
+                            
+                            <li class="download"><a href="javascript:downloadfile('02.2007.L.CTN.doc','/TW/Lists/vbpq/Attachments/14455/02.2007.L.CTN.doc');">Tải về</a></li>
+                            
+                            <div id="divShowDialogDownload_14455" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>11/04/2007</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>28/04/2007</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=14219&Keyword=luật lao động" target="_blank">
+                                Lệnh 19/2006/L-CTN
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Về việc công bố Luật</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=14219&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=14219&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=14219&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="en"><a href="/TW/pages/vbpqen-toanvan.aspx?ItemID=3795" target="_blank">
+                                Tiếng anh</a></li>
+                            
+                            <li class="download"><a href="javascript:downloadfile('19.2006.L.CTN.doc','/TW/Lists/vbpq/Attachments/14219/19.2006.L.CTN.doc');">Tải về</a></li>
+                            
+                            <div id="divShowDialogDownload_14219" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>12/12/2006</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>12/06/2007</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=22153&Keyword=luật lao động" target="_blank">
+                                Lệnh 08/2002/L-CTN
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Về việc công bố Luật sửa đổi, bổ sung một số điều của Bộ Luật Lao động.</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=22153&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=22153&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=22153&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="en"><a href="/TW/pages/vbpqen-toanvan.aspx?ItemID=10208" target="_blank">
+                                Tiếng anh</a></li>
+                            
+                            <li class="download"><a href="javascript:downloadfile('08.2002.L.CTN.doc','/TW/Lists/vbpq/Attachments/22153/08.2002.L.CTN.doc');">Tải về</a></li>
+                            
+                            <div id="divShowDialogDownload_22153" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>12/04/2002</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>01/01/2003</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=6138&Keyword=luật lao động" target="_blank">
+                                Lệnh 05-L/CTN
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Về việc công bố Bộ luật Lao động của nước Cộng hoà xã hội chủ nghĩa Việt Nam</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=6138&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=6138&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=6138&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="download"><a href="javascript:downloadfile('05.L.CTN.doc','/TW/Lists/vbpq/Attachments/6138/05.L.CTN.doc');">Tải về</a></li>
+                            
+                            <div id="divShowDialogDownload_6138" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>05/07/1994</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>05/07/1994</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=168013&Keyword=luật lao động" target="_blank">
+                                Nghị quyết 101/2019/QH14
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Kỳ họp thứ 8, Quốc hội khóa XIV</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=168013&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=168013&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=168013&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="download"><a href="javascript:downloadfile('101_2019_QH14.doc','/TW/Lists/vbpq/Attachments/168013/101_2019_QH14.doc');">Tải về</a></li>
+                            
+                            <div id="divShowDialogDownload_168013" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>27/11/2019</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>...</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=145200&Keyword=luật lao động" target="_blank">
+                                Nghị quyết 72/2018/QH14
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Phê chuẩn Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương cùng các văn kiện liên quan</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="source"><a href="/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=145200" target="_blank">
+                                Bản PDF</a></li>
+                            
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=145200&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=145200&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=145200&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="download"><a href="javascript:ShowDialogDownload(145200);">Tải
+                                về</a></li>
+                            
+                            <div id="divShowDialogDownload_145200" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                    <li><span><a id="A2" rel="subcontent" href="javascript:downloadfile('72.2018.QH14.doc','/TW/Lists/vbpq/Attachments/145200/72.2018.QH14.doc');" class="show_hide">
+                                        <img src="/VBQPPL_UserControls/Resources/images/attachment.png">72.2018.QH14.doc</a></span></li>
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>12/11/2018</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>27/12/2018</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=121554&Keyword=luật lao động" target="_blank">
+                                Nghị quyết 04/2017/NQ-HĐTP
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Hướng dẫn một số quy định tại khoản 1 và khoản 3 Điều 192 Bộ Luật tố tụng dân sự số 92/2015/QH13 về trả lại đơn khởi kiện, quyền nộp đơn khởi kiện lại vụ án</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="source"><a href="/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=121554" target="_blank">
+                                Bản PDF</a></li>
+                            
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=121554&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=121554&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=121554&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="download"><a href="javascript:ShowDialogDownload(121554);">Tải
+                                về</a></li>
+                            
+                            <div id="divShowDialogDownload_121554" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                    <li><span><a id="A2" rel="subcontent" href="javascript:downloadfile('04_2017_NQ-HDTP.doc','/TW/Lists/vbpq/Attachments/121554/04_2017_NQ-HDTP.doc');" class="show_hide">
+                                        <img src="/VBQPPL_UserControls/Resources/images/attachment.png">04_2017_NQ-HDTP.doc</a></span></li>
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>05/05/2017</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>01/07/2017</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=47108&Keyword=luật lao động" target="_blank">
+                                Nghị quyết 77/2014/QH13
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Về kế hoạch phát triển kinh tế-xã hội năm 2015</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=47108&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=47108&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=47108&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="download"><a href="javascript:downloadfile('77.2014.QH13.doc','/TW/Lists/vbpq/Attachments/47108/77.2014.QH13.doc');">Tải về</a></li>
+                            
+                            <div id="divShowDialogDownload_47108" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>10/11/2014</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>10/11/2014</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=70482&Keyword=luật lao động" target="_blank">
+                                Nghị quyết 52/2013/QH13
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Về chất vấn và trả lời chất vấn tại kỳ họp thứ 5, Quốc hội khóa XIII</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=70482&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=70482&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=70482&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="download"><a href="javascript:downloadfile('52.2013.QH13.doc','/TW/Lists/vbpq/Attachments/70482/52.2013.QH13.doc');">Tải về</a></li>
+                            
+                            <div id="divShowDialogDownload_70482" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>21/06/2013</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>21/06/2013</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=36686&Keyword=luật lao động" target="_blank">
+                                Nghị quyết 03/2012/NQ-HĐTP
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Hướng dẫn thi hành một số quy định trong phần thứ nhất “Những quy định chung” của Bộ luật tố tụng dân sự đã được sửa đổi, bổ sung theo Luật sửa đổi, bổ sung một số điều của Bộ luật tố tụng dân sự</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="source"><a href="/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=36686" target="_blank">
+                                Bản PDF</a></li>
+                            
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=36686&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=36686&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=36686&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="download"><a href="javascript:ShowDialogDownload(36686);">Tải
+                                về</a></li>
+                            
+                            <div id="divShowDialogDownload_36686" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                    <li><span><a id="A2" rel="subcontent" href="javascript:downloadfile('03.2012.NQ.HĐTP.doc','/TW/Lists/vbpq/Attachments/36686/03.2012.NQ.HĐTP.doc');" class="show_hide">
+                                        <img src="/VBQPPL_UserControls/Resources/images/attachment.png">03.2012.NQ.HĐTP.doc</a></span></li>
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>03/12/2012</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>01/07/2013</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=51322&Keyword=luật lao động" target="_blank">
+                                Nghị quyết 01/NQ-CP
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Về những giải pháp chủ yếu chỉ đạo điều hành thực hiện kế hoạch phát triển Kinh tế - Xã hội và dự toán ngân sách nhà nước năm 2012</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=51322&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=51322&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=51322&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="download"><a href="javascript:downloadfile('01.NQ.CP.doc','/TW/Lists/vbpq/Attachments/51322/01.NQ.CP.doc');">Tải về</a></li>
+                            
+                            <div id="divShowDialogDownload_51322" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>03/01/2012</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>03/01/2012</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=32969&Keyword=luật lao động" target="_blank">
+                                Nghị quyết 07/2011/QH13
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Về Chương trình xây dựng Luật, Pháp lệnh năm 2012 và điều chỉnh chương trình xây dựng Luật, Pháp lệnh 2011</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=32969&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=32969&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=32969&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="download"><a href="javascript:downloadfile('07.2011.QH13.doc','/TW/Lists/vbpq/Attachments/32969/07.2011.QH13.doc');">Tải về</a></li>
+                            
+                            <div id="divShowDialogDownload_32969" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>06/08/2011</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>06/08/2011</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=11940&Keyword=luật lao động" target="_blank">
+                                Nghị quyết 13/NQ-CP
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Về định hướng, giải pháp thu hút và quản lý vốn đầu tư trực tiếp nước ngoài trong thời gian tới</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=11940&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=11940&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=11940&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="download"><a href="javascript:downloadfile('NQ13.CP.zip','/FileData/TW/Lists/vbpq/Attachments/11940/NQ13.CP.zip');">Tải về</a></li>
+                            
+                            <div id="divShowDialogDownload_11940" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>07/04/2009</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>07/04/2009</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+        <li>
+            <div class="item">
+                <p class="title">
+                       
+                            <a href="/TW/Pages/vbpq-toanvan.aspx?ItemID=25722&Keyword=luật lao động" target="_blank">
+                                Nghị quyết 01/NQ-CP
+                            </a>
+                        
+                </p>
+                <div class="left">
+                    <div class="des">
+                        <p>
+                            Về những giải pháp chủ yếu chỉ đạo, điều hành thực hiện kế hoạch phát triển kinh tế xã hội và dự toán ngân sách nhà nước năm 2009</p>
+                    </div>
+                    <div class="link">
+                        <ul>
+                         
+                            <li class="ref"><a href="/TW/Pages/vbpq-vanbanlienquan.aspx?ItemID=25722&Keyword=luật lao động" target="_blank">
+                                VB liên quan</a></li>
+                            <li class="thuoctinh"><a href="/TW/Pages/vbpq-thuoctinh.aspx?ItemID=25722&Keyword=luật lao động" target="_blank">
+                                Thuộc tính</a></li>
+                            <li class="map"><a href="/TW/pages/vbpq-luocdo.aspx?ItemID=25722&Keyword=luật lao động">
+                                Lược đồ</a></li>
+                                                            
+                            <li class="download"><a href="javascript:downloadfile('01.2009.NQ.CP.zip','/FileData/TW/Lists/vbpq/Attachments/25722/01.2009.NQ.CP.zip');">Tải về</a></li>
+                            
+                            <div id="divShowDialogDownload_25722" title="Danh sách văn bản tải về"
+                                style="display: none">
+                                <ul class="fileAttack">
+                                    
+                                </ul>
+                            </div>
+                            <script type="text/javascript">
+                                function ShowDialogDownload(id) {
+                                    $('#divShowDialogDownload_' + id + '').dialog();
+                                }
+                            </script>
+                        </ul>
+                    </div>
+                </div>
+                <div class="right">
+                    <p class="green">
+                        <label>
+                            Ban hành:</label>09/01/2009</p>
+                    <p class="green">
+                        <label>
+                            Hiệu lực:</label>09/01/2009</p>
+                    
+                </div>
+            </div>
+        </li>
+        
+    </ul>
+    <div class="paging"><a href="javascript:;" class="current">1</a><a href="javascript:Nexpage('resultSearch','2');">2</a><a href="javascript:Nexpage('resultSearch','3');">3</a><a href="javascript:Nexpage('resultSearch','4');">4</a><span>...</span><a href="javascript:Nexpage('resultSearch','2');">Sau</a><a href="javascript:Nexpage('resultSearch','22');">Cuối »</a></div>
+</div>

@@ -1,0 +1,168 @@
+[
+  {
+    "item_id": "12434",
+    "title": "Nghị quyết 01-NQ-CP",
+    "status": "failed",
+    "error": "no_url"
+  },
+  {
+    "item_id": "169619",
+    "title": "Nghị định 97-2022-NĐ-CP",
+    "status": "failed",
+    "error": "404 Client Error: NOT FOUND for url: https://vbpl.vn/TW/Lists/vbpq/Attachments/169619/97.2022.N%C4%90-CP.docx",
+    "download_url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/169619/97.2022.NĐ-CP.docx"
+  },
+  {
+    "item_id": "169627",
+    "title": "Nghị định 88-2022-NĐ-CP",
+    "status": "failed",
+    "error": "404 Client Error: NOT FOUND for url: https://vbpl.vn/TW/Lists/vbpq/Attachments/169627/88.2022.N%C4%90-CP.docx",
+    "download_url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/169627/88.2022.NĐ-CP.docx"
+  },
+  {
+    "item_id": "158798",
+    "title": "Nghị định 35-2022-NĐ-CP",
+    "status": "failed",
+    "error": "500 Server Error: INTERNAL SERVER ERROR for url: https://vbpl.vn/TW/Lists/vbpq/Attachments/158798/35.2022.N%C4%90-CP%20(word)..doc",
+    "download_url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/158798/35.2022.NĐ-CP (word)..doc"
+  },
+  {
+    "item_id": "143476",
+    "title": "Nghị định 84-2020-NĐ-CP",
+    "status": "failed",
+    "error": "no_download_link_found"
+  },
+  {
+    "item_id": "25074",
+    "title": "Nghị định 29-2010-NĐ-CP",
+    "status": "failed",
+    "error": "no_url"
+  },
+  {
+    "item_id": "13759",
+    "title": "Nghị định 126-2007-NĐ-CP",
+    "status": "failed",
+    "error": "no_url"
+  },
+  {
+    "item_id": "13941",
+    "title": "Nghị định 110-2007-NĐ-CP",
+    "status": "failed",
+    "error": "no_url"
+  },
+  {
+    "item_id": "174097",
+    "title": "Thông tư 16-2024-TT-BVHTTDL",
+    "status": "failed",
+    "error": "no_url"
+  },
+  {
+    "item_id": "170282",
+    "title": "Thông tư 07-2024-TT-BVHTTDL",
+    "status": "failed",
+    "error": "no_url"
+  },
+  {
+    "item_id": "153297",
+    "title": "Thông tư 18-2021-TT-BLĐTBXH",
+    "status": "failed",
+    "error": "404 Client Error: NOT FOUND for url: https://vbpl.vn/TW/Lists/vbpq/Attachments/153297/Thong%20tu%2018.2021.TT-BL%C4%90TBXH.docx",
+    "download_url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/153297/Thong tu 18.2021.TT-BLĐTBXH.docx"
+  },
+  {
+    "item_id": "138489",
+    "title": "Thông tư 39-2019-TT-BGTVT",
+    "status": "failed",
+    "error": "no_url"
+  },
+  {
+    "item_id": "118831",
+    "title": "Thông tư 14-2016-TT-BCA",
+    "status": "failed",
+    "error": "no_url"
+  },
+  {
+    "item_id": "60295",
+    "title": "Thông tư 04-2015-TT-BLĐTBXH",
+    "status": "failed",
+    "error": "no_url"
+  },
+  {
+    "item_id": "43543",
+    "title": "Thông tư 33-2013-TT-BLĐTBXH",
+    "status": "failed",
+    "error": "no_download_link_found"
+  },
+  {
+    "item_id": "24872",
+    "title": "Thông tư 42-2009-TT-BLĐTBXH",
+    "status": "failed",
+    "error": "no_url"
+  },
+  {
+    "item_id": "12061",
+    "title": "Thông tư 19-2009-TT-BQP",
+    "status": "failed",
+    "error": "no_url"
+  },
+  {
+    "item_id": "26056",
+    "title": "Thông tư 21-2007-TT-BLĐTBXH",
+    "status": "failed",
+    "error": "no_url"
+  },
+  {
+    "item_id": "12872",
+    "title": "Thông tư 18-2007-TT-BLĐTBXH",
+    "status": "failed",
+    "error": "no_url"
+  },
+  {
+    "item_id": "21060",
+    "title": "Thông tư 65-2003-TT-BQP",
+    "status": "failed",
+    "error": "no_url"
+  },
+  {
+    "item_id": "83279",
+    "title": "Thông tư 170-2009-TT-BTC",
+    "status": "failed",
+    "error": "no_url"
+  },
+  {
+    "item_id": "5707",
+    "title": "Thông tư 319-2000-TT-BGTVT",
+    "status": "failed",
+    "error": "no_url"
+  },
+  {
+    "item_id": "5807",
+    "title": "Thông tư 19-2000-TT-BLĐTBXH",
+    "status": "failed",
+    "error": "no_url"
+  },
+  {
+    "item_id": "8226",
+    "title": "Thông tư 60-TC-CĐKT",
+    "status": "failed",
+    "error": "no_url"
+  },
+  {
+    "item_id": "8383",
+    "title": "Thông tư 12-GD-ĐT",
+    "status": "failed",
+    "error": "no_url"
+  },
+  {
+    "item_id": "8682",
+    "title": "Thông tư 07-LĐTBXH-TT",
+    "status": "failed",
+    "error": "no_url"
+  },
+  {
+    "item_id": "8766",
+    "title": "Thông tư 03-LĐTBXH-TT",
+    "status": "failed",
+    "error": "no_url"
+  }
+]
