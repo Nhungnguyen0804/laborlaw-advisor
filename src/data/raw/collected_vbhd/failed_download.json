@@ -9,22 +9,19 @@
     "item_id": "169619",
     "title": "Nghị định 97-2022-NĐ-CP",
     "status": "failed",
-    "error": "404 Client Error: NOT FOUND for url: https://vbpl.vn/TW/Lists/vbpq/Attachments/169619/97.2022.N%C4%90-CP.docx",
-    "download_url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/169619/97.2022.NĐ-CP.docx"
+    "error": "no_download_link_found"
   },
   {
     "item_id": "169627",
     "title": "Nghị định 88-2022-NĐ-CP",
     "status": "failed",
-    "error": "404 Client Error: NOT FOUND for url: https://vbpl.vn/TW/Lists/vbpq/Attachments/169627/88.2022.N%C4%90-CP.docx",
-    "download_url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/169627/88.2022.NĐ-CP.docx"
+    "error": "no_download_link_found"
   },
   {
     "item_id": "158798",
     "title": "Nghị định 35-2022-NĐ-CP",
     "status": "failed",
-    "error": "500 Server Error: INTERNAL SERVER ERROR for url: https://vbpl.vn/TW/Lists/vbpq/Attachments/158798/35.2022.N%C4%90-CP%20(word)..doc",
-    "download_url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/158798/35.2022.NĐ-CP (word)..doc"
+    "error": "no_download_link_found"
   },
   {
     "item_id": "143476",
@@ -66,8 +63,7 @@
     "item_id": "153297",
     "title": "Thông tư 18-2021-TT-BLĐTBXH",
     "status": "failed",
-    "error": "404 Client Error: NOT FOUND for url: https://vbpl.vn/TW/Lists/vbpq/Attachments/153297/Thong%20tu%2018.2021.TT-BL%C4%90TBXH.docx",
-    "download_url": "https://vbpl.vn/TW/Lists/vbpq/Attachments/153297/Thong tu 18.2021.TT-BLĐTBXH.docx"
+    "error": "no_download_link_found"
   },
   {
     "item_id": "138489",
@@ -86,12 +82,6 @@
     "title": "Thông tư 04-2015-TT-BLĐTBXH",
     "status": "failed",
     "error": "no_url"
-  },
-  {
-    "item_id": "43543",
-    "title": "Thông tư 33-2013-TT-BLĐTBXH",
-    "status": "failed",
-    "error": "no_download_link_found"
   },
   {
     "item_id": "24872",
