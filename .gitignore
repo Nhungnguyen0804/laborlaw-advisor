@@ -1,6 +1,5 @@
 /test
 /law-env
 constants.py
-
-src/data/raw/downloaded_pdf
-src/data/raw/downloaded_pdf.zip
+data/raw/downloaded_pdf
+data/raw/downloaded_pdf.zip
