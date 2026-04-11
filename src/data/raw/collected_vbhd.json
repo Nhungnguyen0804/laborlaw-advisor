@@ -290,6 +290,18 @@
     },
     {
       "title": "Nghị quyết 01/NQ-CP",
+      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=12434&Keyword=luật lao động",
+      "url_pdf": "",
+      "url_doc": "",
+      "filename_doc": "",
+      "item_id": "12434",
+      "ban_hanh": "09/01/2009",
+      "hieu_luc": "09/01/2009",
+      "mo_ta": "Về những giải pháp chủ yếu chỉ đạo, điều hành thực hiện kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2009",
+      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=12434&Keyword=luật lao động"
+    },
+    {
+      "title": "Nghị quyết 01/NQ-CP",
       "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=25722&Keyword=luật lao động",
       "url_pdf": "",
       "url_doc": "/FileData/TW/Lists/vbpq/Attachments/25722/01.2009.NQ.CP.zip",
@@ -300,18 +312,6 @@
       "mo_ta": "Về những giải pháp chủ yếu chỉ đạo, điều hành thực hiện kế hoạch phát triển kinh tế xã hội và dự toán ngân sách nhà nước năm 2009",
       "url_doc_full": "https://vbpl.vn/FileData/TW/Lists/vbpq/Attachments/25722/01.2009.NQ.CP.zip",
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=25722&Keyword=luật lao động"
-    },
-    {
-      "title": "Nghị quyết 01/NQ-CP",
-      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=12434&Keyword=luật lao động",
-      "url_pdf": "",
-      "url_doc": "",
-      "filename_doc": "",
-      "item_id": "12434",
-      "ban_hanh": "09/01/2009",
-      "hieu_luc": "09/01/2009",
-      "mo_ta": "Về những giải pháp chủ yếu chỉ đạo, điều hành thực hiện kế hoạch phát triển kinh tế - xã hội và dự toán ngân sách nhà nước năm 2009",
-      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=12434&Keyword=luật lao động"
     },
     {
       "title": "Nghị quyết 02/2008/NQ-CP",
@@ -600,19 +600,6 @@
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=186096&Keyword=luật lao động"
     },
     {
-      "title": "Nghị định 355/2025/NĐ-CP",
-      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=187275&Keyword=luật lao động",
-      "url_pdf": "",
-      "url_doc": "/TW/Lists/vbpq/Attachments/187275/ND.355.2025.doc",
-      "filename_doc": "ND.355.2025.doc",
-      "item_id": "187275",
-      "ban_hanh": "31/12/2025",
-      "hieu_luc": "01/01/2026",
-      "mo_ta": "Quy định chi tiết thi hành một số điều của Luật Tư pháp \nngười chưa thành niên về áp dụng biện pháp giáo dục tại trường \ngiáo dưỡng, thi hành án phạt tù tại trại giam và chuẩn bị tái hòa nhập \ncộng đồng đối với người chưa thành niên",
-      "url_doc_full": "https://vbpl.vn/TW/Lists/vbpq/Attachments/187275/ND.355.2025.doc",
-      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=187275&Keyword=luật lao động"
-    },
-    {
       "title": "Nghị định 374/2025/NĐ-CP",
       "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=186281&Keyword=luật lao động",
       "url_pdf": "/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=186281",
@@ -624,6 +611,19 @@
       "mo_ta": "Quy định chi tiết một số điều của Luật Việc làm về bảo hiểm thất nghiệp",
       "url_pdf_full": "https://vbpl.vn/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=186281",
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=186281&Keyword=luật lao động"
+    },
+    {
+      "title": "Nghị định 355/2025/NĐ-CP",
+      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=187275&Keyword=luật lao động",
+      "url_pdf": "",
+      "url_doc": "/TW/Lists/vbpq/Attachments/187275/ND.355.2025.doc",
+      "filename_doc": "ND.355.2025.doc",
+      "item_id": "187275",
+      "ban_hanh": "31/12/2025",
+      "hieu_luc": "01/01/2026",
+      "mo_ta": "Quy định chi tiết thi hành một số điều của Luật Tư pháp \nngười chưa thành niên về áp dụng biện pháp giáo dục tại trường \ngiáo dưỡng, thi hành án phạt tù tại trại giam và chuẩn bị tái hòa nhập \ncộng đồng đối với người chưa thành niên",
+      "url_doc_full": "https://vbpl.vn/TW/Lists/vbpq/Attachments/187275/ND.355.2025.doc",
+      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=187275&Keyword=luật lao động"
     },
     {
       "title": "Nghị định 349/2025/NĐ-CP",
@@ -808,19 +808,6 @@
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=179711&Keyword=luật lao động"
     },
     {
-      "title": "Nghị định 173/2025/NĐ-CP",
-      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=179121&Keyword=luật lao động",
-      "url_pdf": "/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=179121",
-      "url_doc": "",
-      "filename_doc": "",
-      "item_id": "179121",
-      "ban_hanh": "30/06/2025",
-      "hieu_luc": "01/07/2025",
-      "mo_ta": "Về hợp đồng thực hiện nhiệm vụ của công chức",
-      "url_pdf_full": "https://vbpl.vn/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=179121",
-      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=179121&Keyword=luật lao động"
-    },
-    {
       "title": "Nghị định 170/2025/NĐ-CP",
       "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=179178&Keyword=luật lao động",
       "url_pdf": "/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=179178",
@@ -832,6 +819,19 @@
       "mo_ta": "Quy định về tuyển dụng, sử dụng và quản lý công chức",
       "url_pdf_full": "https://vbpl.vn/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=179178",
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=179178&Keyword=luật lao động"
+    },
+    {
+      "title": "Nghị định 173/2025/NĐ-CP",
+      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=179121&Keyword=luật lao động",
+      "url_pdf": "/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=179121",
+      "url_doc": "",
+      "filename_doc": "",
+      "item_id": "179121",
+      "ban_hanh": "30/06/2025",
+      "hieu_luc": "01/07/2025",
+      "mo_ta": "Về hợp đồng thực hiện nhiệm vụ của công chức",
+      "url_pdf_full": "https://vbpl.vn/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=179121",
+      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=179121&Keyword=luật lao động"
     },
     {
       "title": "Nghị định 162/2025/NĐ-CP",
@@ -860,19 +860,6 @@
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=179149&Keyword=luật lao động"
     },
     {
-      "title": "Nghị định 158/2025/NĐ-CP",
-      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=178757&Keyword=luật lao động",
-      "url_pdf": "/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=178757",
-      "url_doc": "",
-      "filename_doc": "",
-      "item_id": "178757",
-      "ban_hanh": "25/06/2025",
-      "hieu_luc": "01/07/2025",
-      "mo_ta": "Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội bắt buộc",
-      "url_pdf_full": "https://vbpl.vn/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=178757",
-      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=178757&Keyword=luật lao động"
-    },
-    {
       "title": "Nghị định 157/2025/NĐ-CP",
       "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=179780&Keyword=luật lao động",
       "url_pdf": "/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=179780",
@@ -884,6 +871,19 @@
       "mo_ta": "Quy định chi tiết và biện pháp thi hành một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội bắt buộc đối với quân nhân, công an nhân dân, dân quân thường trực và người làm công tác cơ yếu hưởng lương như đối với quân nhân",
       "url_pdf_full": "https://vbpl.vn/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=179780",
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=179780&Keyword=luật lao động"
+    },
+    {
+      "title": "Nghị định 158/2025/NĐ-CP",
+      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=178757&Keyword=luật lao động",
+      "url_pdf": "/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=178757",
+      "url_doc": "",
+      "filename_doc": "",
+      "item_id": "178757",
+      "ban_hanh": "25/06/2025",
+      "hieu_luc": "01/07/2025",
+      "mo_ta": "Quy định chi tiết và hướng dẫn thi hành một số điều của Luật Bảo hiểm xã hội về bảo hiểm xã hội bắt buộc",
+      "url_pdf_full": "https://vbpl.vn/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=178757",
+      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=178757&Keyword=luật lao động"
     },
     {
       "title": "Nghị định 67/2025/NĐ-CP",
@@ -1211,19 +1211,6 @@
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=131010&Keyword=luật lao động"
     },
     {
-      "title": "Nghị định 104/2018/NĐ-CP",
-      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=130537&Keyword=luật lao động",
-      "url_pdf": "/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=130537",
-      "url_doc": "",
-      "filename_doc": "",
-      "item_id": "130537",
-      "ban_hanh": "08/08/2018",
-      "hieu_luc": "08/08/2018",
-      "mo_ta": "Nghị định 104/2018/NĐ-CP hướng dẫn Luật sửa đổi, bổ sung một số điều của Luật Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài",
-      "url_pdf_full": "https://vbpl.vn/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=130537",
-      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=130537&Keyword=luật lao động"
-    },
-    {
       "title": "Nghị định 105/2018/NĐ-CP",
       "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=131278&Keyword=luật lao động",
       "url_pdf": "/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=131278",
@@ -1235,6 +1222,19 @@
       "mo_ta": "Ban hành Điều lệ tổ chức và hoạt động của Tập đoàn Công nghiệp Than - Khoáng sản Việt Nam",
       "url_pdf_full": "https://vbpl.vn/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=131278",
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=131278&Keyword=luật lao động"
+    },
+    {
+      "title": "Nghị định 104/2018/NĐ-CP",
+      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=130537&Keyword=luật lao động",
+      "url_pdf": "/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=130537",
+      "url_doc": "",
+      "filename_doc": "",
+      "item_id": "130537",
+      "ban_hanh": "08/08/2018",
+      "hieu_luc": "08/08/2018",
+      "mo_ta": "Nghị định 104/2018/NĐ-CP hướng dẫn Luật sửa đổi, bổ sung một số điều của Luật Cơ quan đại diện nước Cộng hòa xã hội chủ nghĩa Việt Nam ở nước ngoài",
+      "url_pdf_full": "https://vbpl.vn/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=130537",
+      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=130537&Keyword=luật lao động"
     },
     {
       "title": "Nghị định 141/2017/NĐ-CP",
@@ -1806,19 +1806,6 @@
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=56633&Keyword=luật lao động"
     },
     {
-      "title": "Nghị định 208/2004/NĐ-CP",
-      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=18653&Keyword=luật lao động",
-      "url_pdf": "",
-      "url_doc": "/TW/Lists/vbpq/Attachments/18653/208.2004.ND.CP.doc",
-      "filename_doc": "208.2004.ND.CP.doc",
-      "item_id": "18653",
-      "ban_hanh": "14/12/2004",
-      "hieu_luc": "04/01/2005",
-      "mo_ta": "Về việc điều chỉnh lương hưu và trợ cấp bảo hiểm xã hội",
-      "url_doc_full": "https://vbpl.vn/TW/Lists/vbpq/Attachments/18653/208.2004.ND.CP.doc",
-      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=18653&Keyword=luật lao động"
-    },
-    {
       "title": "Nghị định 206/2004/NĐ-CP",
       "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=18651&Keyword=luật lao động",
       "url_pdf": "",
@@ -1830,6 +1817,19 @@
       "mo_ta": "Quy định quản lý lao động, tiền lương và thu nhập trong các công ty nhà nước",
       "url_doc_full": "https://vbpl.vn/TW/Lists/vbpq/Attachments/18651/206.2004.ND.CP.doc",
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=18651&Keyword=luật lao động"
+    },
+    {
+      "title": "Nghị định 208/2004/NĐ-CP",
+      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=18653&Keyword=luật lao động",
+      "url_pdf": "",
+      "url_doc": "/TW/Lists/vbpq/Attachments/18653/208.2004.ND.CP.doc",
+      "filename_doc": "208.2004.ND.CP.doc",
+      "item_id": "18653",
+      "ban_hanh": "14/12/2004",
+      "hieu_luc": "04/01/2005",
+      "mo_ta": "Về việc điều chỉnh lương hưu và trợ cấp bảo hiểm xã hội",
+      "url_doc_full": "https://vbpl.vn/TW/Lists/vbpq/Attachments/18653/208.2004.ND.CP.doc",
+      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=18653&Keyword=luật lao động"
     },
     {
       "title": "Nghị định 207/2004/NĐ-CP",
@@ -1975,19 +1975,6 @@
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=9369&Keyword=luật lao động"
     },
     {
-      "title": "Nghị định 03/CP",
-      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=9384&Keyword=luật lao động",
-      "url_pdf": "",
-      "url_doc": "/TW/Lists/vbpq/Attachments/9384/03.CP.doc",
-      "filename_doc": "03.CP.doc",
-      "item_id": "9384",
-      "ban_hanh": "25/01/1996",
-      "hieu_luc": "25/01/1996",
-      "mo_ta": "Phê chuẩn Điều lệ tổ chức và hoạt động của Tổng công ty Thép Việt Nam",
-      "url_doc_full": "https://vbpl.vn/TW/Lists/vbpq/Attachments/9384/03.CP.doc",
-      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=9384&Keyword=luật lao động"
-    },
-    {
       "title": "Nghị định 02/CP",
       "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=9385&Keyword=luật lao động",
       "url_pdf": "",
@@ -1999,6 +1986,19 @@
       "mo_ta": "Phê chuẩn Điều lệ tổ chức và hoạt động của Tổng công ty Hoá chất Việt Nam",
       "url_doc_full": "https://vbpl.vn/TW/Lists/vbpq/Attachments/9385/02.CP.doc",
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=9385&Keyword=luật lao động"
+    },
+    {
+      "title": "Nghị định 03/CP",
+      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=9384&Keyword=luật lao động",
+      "url_pdf": "",
+      "url_doc": "/TW/Lists/vbpq/Attachments/9384/03.CP.doc",
+      "filename_doc": "03.CP.doc",
+      "item_id": "9384",
+      "ban_hanh": "25/01/1996",
+      "hieu_luc": "25/01/1996",
+      "mo_ta": "Phê chuẩn Điều lệ tổ chức và hoạt động của Tổng công ty Thép Việt Nam",
+      "url_doc_full": "https://vbpl.vn/TW/Lists/vbpq/Attachments/9384/03.CP.doc",
+      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=9384&Keyword=luật lao động"
     },
     {
       "title": "Nghị định 81/CP",
@@ -2095,19 +2095,6 @@
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=9835&Keyword=luật lao động"
     },
     {
-      "title": "Nghị định 47/CP",
-      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=9619&Keyword=luật lao động",
-      "url_pdf": "",
-      "url_doc": "/TW/Lists/vbpq/Attachments/9619/47.CP.doc",
-      "filename_doc": "47.CP.doc",
-      "item_id": "9619",
-      "ban_hanh": "17/07/1995",
-      "hieu_luc": "17/07/1995",
-      "mo_ta": "Phê chuẩn Điều lệ tổ chức và hoạt động của Tổng công ty Lương thực miền Nam",
-      "url_doc_full": "https://vbpl.vn/TW/Lists/vbpq/Attachments/9619/47.CP.doc",
-      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=9619&Keyword=luật lao động"
-    },
-    {
       "title": "Nghị định 46/CP",
       "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=9583&Keyword=luật lao động",
       "url_pdf": "",
@@ -2119,6 +2106,19 @@
       "mo_ta": "Phê chuẩn Điều lệ Tổ chức và hoạt động của Tổng công ty Lương thực miền Bắc",
       "url_doc_full": "https://vbpl.vn/TW/Lists/vbpq/Attachments/9583/46.CP.doc",
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=9583&Keyword=luật lao động"
+    },
+    {
+      "title": "Nghị định 47/CP",
+      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=9619&Keyword=luật lao động",
+      "url_pdf": "",
+      "url_doc": "/TW/Lists/vbpq/Attachments/9619/47.CP.doc",
+      "filename_doc": "47.CP.doc",
+      "item_id": "9619",
+      "ban_hanh": "17/07/1995",
+      "hieu_luc": "17/07/1995",
+      "mo_ta": "Phê chuẩn Điều lệ tổ chức và hoạt động của Tổng công ty Lương thực miền Nam",
+      "url_doc_full": "https://vbpl.vn/TW/Lists/vbpq/Attachments/9619/47.CP.doc",
+      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=9619&Keyword=luật lao động"
     },
     {
       "title": "Nghị định 44/CP",
@@ -3082,19 +3082,6 @@
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=132236&Keyword=luật lao động"
     },
     {
-      "title": "Thông tư 23/2017/TT-BLĐTBXH",
-      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=124207&Keyword=luật lao động",
-      "url_pdf": "/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=124207",
-      "url_doc": "",
-      "filename_doc": "",
-      "item_id": "124207",
-      "ban_hanh": "15/08/2017",
-      "hieu_luc": "02/10/2017",
-      "mo_ta": "Hướng dẫn thực hiện cấp giấy phép lao động cho người lao động nước ngoài làm việc tại Việt Nam qua mạng điện tử",
-      "url_pdf_full": "https://vbpl.vn/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=124207",
-      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=124207&Keyword=luật lao động"
-    },
-    {
       "title": "Thông tư 03/2017/TT- BVHTTDL",
       "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=127767&Keyword=luật lao động",
       "url_pdf": "",
@@ -3106,6 +3093,19 @@
       "mo_ta": "Thông tư quy định một số nội dung về an toàn, vệ sinh lao động đối với người lao động làm việc trong lĩnh vực nghệ thuật, thể dục thể thao.",
       "url_doc_full": "https://vbpl.vn/TW/Lists/vbpq/Attachments/127767/03_2017_TT-BVHTTDL_m_345794.doc",
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=127767&Keyword=luật lao động"
+    },
+    {
+      "title": "Thông tư 23/2017/TT-BLĐTBXH",
+      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=124207&Keyword=luật lao động",
+      "url_pdf": "/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=124207",
+      "url_doc": "",
+      "filename_doc": "",
+      "item_id": "124207",
+      "ban_hanh": "15/08/2017",
+      "hieu_luc": "02/10/2017",
+      "mo_ta": "Hướng dẫn thực hiện cấp giấy phép lao động cho người lao động nước ngoài làm việc tại Việt Nam qua mạng điện tử",
+      "url_pdf_full": "https://vbpl.vn/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=124207",
+      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=124207&Keyword=luật lao động"
     },
     {
       "title": "Thông tư 142/2017/TT-BQP",
@@ -3160,19 +3160,6 @@
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=118915&Keyword=luật lao động"
     },
     {
-      "title": "Thông tư 31/2016/TT-BLĐTBXH",
-      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=117564&Keyword=luật lao động",
-      "url_pdf": "/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=117564",
-      "url_doc": "",
-      "filename_doc": "",
-      "item_id": "117564",
-      "ban_hanh": "25/10/2016",
-      "hieu_luc": "10/12/2016",
-      "mo_ta": "Hướng dẫn thực hiện quản lý lao động, tiền lương, thù lao và tiền thưởng trong các tổ chức được thành lập và hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ theo quy định của Luật Chứng khoán",
-      "url_pdf_full": "https://vbpl.vn/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=117564",
-      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=117564&Keyword=luật lao động"
-    },
-    {
       "title": "Thông tư 35/2016/TT-BLĐTBXH",
       "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=117558&Keyword=luật lao động",
       "url_pdf": "/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=117558",
@@ -3186,17 +3173,17 @@
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=117558&Keyword=luật lao động"
     },
     {
-      "title": "Thông tư 20/2016/TT-BLĐTBXH",
-      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=159861&Keyword=luật lao động",
-      "url_pdf": "",
-      "url_doc": "/TW/Lists/vbpq/Attachments/159861/TT 20.2016.TT-BLĐTBXH 28.6.16.doc",
-      "filename_doc": "TT 20.2016.TT-BLĐTBXH 28.6.16.doc",
-      "item_id": "159861",
-      "ban_hanh": "28/06/2016",
-      "hieu_luc": "12/08/2016",
-      "mo_ta": "Ban hành Danh mục nghề, công việc nặng nhọc, độc hại, nguy hiểm và đặc biệt nặng nhọc, độc hại, nguy hiểm trong Quân đội",
-      "url_doc_full": "https://vbpl.vn/TW/Lists/vbpq/Attachments/159861/TT 20.2016.TT-BLĐTBXH 28.6.16.doc",
-      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=159861&Keyword=luật lao động"
+      "title": "Thông tư 31/2016/TT-BLĐTBXH",
+      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=117564&Keyword=luật lao động",
+      "url_pdf": "/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=117564",
+      "url_doc": "",
+      "filename_doc": "",
+      "item_id": "117564",
+      "ban_hanh": "25/10/2016",
+      "hieu_luc": "10/12/2016",
+      "mo_ta": "Hướng dẫn thực hiện quản lý lao động, tiền lương, thù lao và tiền thưởng trong các tổ chức được thành lập và hoạt động theo mô hình công ty trách nhiệm hữu hạn một thành viên do Nhà nước nắm giữ 100% vốn điều lệ theo quy định của Luật Chứng khoán",
+      "url_pdf_full": "https://vbpl.vn/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=117564",
+      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=117564&Keyword=luật lao động"
     },
     {
       "title": "Thông tư 15/2016/TT-BLĐTBXH",
@@ -3210,6 +3197,19 @@
       "mo_ta": "Ban hành Danh mục nghề, công việc nặng nhọc, độc hại, nguy hiểm và đặc biệt nặng nhọc, độc hại, nguy hiểm",
       "url_pdf_full": "https://vbpl.vn/TW/Pages/vbpq-van-ban-goc.aspx?ItemID=180542",
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=180542&Keyword=luật lao động"
+    },
+    {
+      "title": "Thông tư 20/2016/TT-BLĐTBXH",
+      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=159861&Keyword=luật lao động",
+      "url_pdf": "",
+      "url_doc": "/TW/Lists/vbpq/Attachments/159861/TT 20.2016.TT-BLĐTBXH 28.6.16.doc",
+      "filename_doc": "TT 20.2016.TT-BLĐTBXH 28.6.16.doc",
+      "item_id": "159861",
+      "ban_hanh": "28/06/2016",
+      "hieu_luc": "12/08/2016",
+      "mo_ta": "Ban hành Danh mục nghề, công việc nặng nhọc, độc hại, nguy hiểm và đặc biệt nặng nhọc, độc hại, nguy hiểm trong Quân đội",
+      "url_doc_full": "https://vbpl.vn/TW/Lists/vbpq/Attachments/159861/TT 20.2016.TT-BLĐTBXH 28.6.16.doc",
+      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=159861&Keyword=luật lao động"
     },
     {
       "title": "Thông tư 72/2016/TT-BTC",
@@ -3263,19 +3263,6 @@
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=95739&Keyword=luật lao động"
     },
     {
-      "title": "Thông tư 139/2015/TT-BQP",
-      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=96593&Keyword=luật lao động",
-      "url_pdf": "",
-      "url_doc": "/TW/Lists/vbpq/Attachments/96593/139.2015.TT.BQP.doc",
-      "filename_doc": "139.2015.TT.BQP.doc",
-      "item_id": "96593",
-      "ban_hanh": "16/12/2015",
-      "hieu_luc": "01/02/2016",
-      "mo_ta": "Hướng dẫn thực hiện một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật việc làm về bảo hiểm thất nghiệp trong Bộ Quốc phòng",
-      "url_doc_full": "https://vbpl.vn/TW/Lists/vbpq/Attachments/96593/139.2015.TT.BQP.doc",
-      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=96593&Keyword=luật lao động"
-    },
-    {
       "title": "Thông tư 54/2015/TT-BLĐTBXH",
       "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=94345&Keyword=luật lao động",
       "url_pdf": "",
@@ -3287,6 +3274,19 @@
       "mo_ta": "Hướng dẫn về thời giờ làm việc, thời giờ nghỉ ngơi đối với người lao động làm công việc sản xuất có tính thời vụ và công việc gia công hàng theo đơn đặt hàng",
       "url_doc_full": "https://vbpl.vn/TW/Lists/vbpq/Attachments/94345/54.2015.TT.BLĐTBXH và Phụ lục.doc",
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=94345&Keyword=luật lao động"
+    },
+    {
+      "title": "Thông tư 139/2015/TT-BQP",
+      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=96593&Keyword=luật lao động",
+      "url_pdf": "",
+      "url_doc": "/TW/Lists/vbpq/Attachments/96593/139.2015.TT.BQP.doc",
+      "filename_doc": "139.2015.TT.BQP.doc",
+      "item_id": "96593",
+      "ban_hanh": "16/12/2015",
+      "hieu_luc": "01/02/2016",
+      "mo_ta": "Hướng dẫn thực hiện một số điều của Nghị định số 28/2015/NĐ-CP ngày 12 tháng 3 năm 2015 của Chính phủ quy định chi tiết thi hành một số điều của Luật việc làm về bảo hiểm thất nghiệp trong Bộ Quốc phòng",
+      "url_doc_full": "https://vbpl.vn/TW/Lists/vbpq/Attachments/96593/139.2015.TT.BQP.doc",
+      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=96593&Keyword=luật lao động"
     },
     {
       "title": "Thông tư 55/2015/TT-BLĐTBXH",
@@ -4424,19 +4424,6 @@
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=6878&Keyword=luật lao động"
     },
     {
-      "title": "Thông tư 07/1998/TT-TCBĐ",
-      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=87476&Keyword=luật lao động",
-      "url_pdf": "",
-      "url_doc": "/TW/Lists/vbpq/Attachments/87476/07.1998.TT.TCBD.doc",
-      "filename_doc": "07.1998.TT.TCBD.doc",
-      "item_id": "87476",
-      "ban_hanh": "19/12/1998",
-      "hieu_luc": "03/01/1999",
-      "mo_ta": "Hướng dẫn thực hiện chế độ thời giờ làm việc, thời giờ nghỉ ngơi đối với người lao động làm các công việc có tính chất đặc biệt thuộc ngành bưu điện",
-      "url_doc_full": "https://vbpl.vn/TW/Lists/vbpq/Attachments/87476/07.1998.TT.TCBD.doc",
-      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=87476&Keyword=luật lao động"
-    },
-    {
       "title": "Thông tư 07/1998/TT/TCBĐ",
       "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=4122&Keyword=luật lao động",
       "url_pdf": "",
@@ -4448,6 +4435,19 @@
       "mo_ta": "Về việc hướng dẫn chế độ thời gian làm việc, thời giờ nghỉ ngơi đối với người lao động làm các công việc có tính chất đặc biệt thuộc ngành bưu điện",
       "url_doc_full": "https://vbpl.vn/TW/Lists/vbpq/Attachments/4122/07.1998.TT.TCBD.doc",
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=4122&Keyword=luật lao động"
+    },
+    {
+      "title": "Thông tư 07/1998/TT-TCBĐ",
+      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=87476&Keyword=luật lao động",
+      "url_pdf": "",
+      "url_doc": "/TW/Lists/vbpq/Attachments/87476/07.1998.TT.TCBD.doc",
+      "filename_doc": "07.1998.TT.TCBD.doc",
+      "item_id": "87476",
+      "ban_hanh": "19/12/1998",
+      "hieu_luc": "03/01/1999",
+      "mo_ta": "Hướng dẫn thực hiện chế độ thời giờ làm việc, thời giờ nghỉ ngơi đối với người lao động làm các công việc có tính chất đặc biệt thuộc ngành bưu điện",
+      "url_doc_full": "https://vbpl.vn/TW/Lists/vbpq/Attachments/87476/07.1998.TT.TCBD.doc",
+      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=87476&Keyword=luật lao động"
     },
     {
       "title": "Thông tư 79/1997/TT-BTC",
@@ -4628,19 +4628,6 @@
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=9280&Keyword=luật lao động"
     },
     {
-      "title": "Thông tư 23/TC-TCT",
-      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=9233&Keyword=luật lao động",
-      "url_pdf": "",
-      "url_doc": "/TW/Lists/vbpq/Attachments/9233/23TC.TCT.doc",
-      "filename_doc": "23TC.TCT.doc",
-      "item_id": "9233",
-      "ban_hanh": "26/04/1996",
-      "hieu_luc": "26/04/1996",
-      "mo_ta": "Hướng dẫn thủ tục miễn thuế đối với cơ sở sản xuất kinh doanh dành riêng cho lao động là người tàn tật",
-      "url_doc_full": "https://vbpl.vn/TW/Lists/vbpq/Attachments/9233/23TC.TCT.doc",
-      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=9233&Keyword=luật lao động"
-    },
-    {
       "title": "Thông tư 09/LĐTBXH-TT",
       "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=9398&Keyword=luật lao động",
       "url_pdf": "",
@@ -4654,17 +4641,17 @@
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=9398&Keyword=luật lao động"
     },
     {
-      "title": "Thông tư 45/TCCP-BCTL",
-      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=8783&Keyword=luật lao động",
+      "title": "Thông tư 23/TC-TCT",
+      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=9233&Keyword=luật lao động",
       "url_pdf": "",
-      "url_doc": "/TW/Lists/vbpq/Attachments/8783/45.TCCP.BCTL.doc",
-      "filename_doc": "45.TCCP.BCTL.doc",
-      "item_id": "8783",
-      "ban_hanh": "11/03/1996",
-      "hieu_luc": "01/01/1996",
-      "mo_ta": "Hướng dẫn chế độ nâng bậc lương thường xuyên hàng năm đối với cán bộ, công chức khu vực hành chính sự nghiệp, Đảng, đoàn thể.",
-      "url_doc_full": "https://vbpl.vn/TW/Lists/vbpq/Attachments/8783/45.TCCP.BCTL.doc",
-      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=8783&Keyword=luật lao động"
+      "url_doc": "/TW/Lists/vbpq/Attachments/9233/23TC.TCT.doc",
+      "filename_doc": "23TC.TCT.doc",
+      "item_id": "9233",
+      "ban_hanh": "26/04/1996",
+      "hieu_luc": "26/04/1996",
+      "mo_ta": "Hướng dẫn thủ tục miễn thuế đối với cơ sở sản xuất kinh doanh dành riêng cho lao động là người tàn tật",
+      "url_doc_full": "https://vbpl.vn/TW/Lists/vbpq/Attachments/9233/23TC.TCT.doc",
+      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=9233&Keyword=luật lao động"
     },
     {
       "title": "Thông tư 45/TCCP-BCTL",
@@ -4678,6 +4665,19 @@
       "mo_ta": "Hướng dẫn chế độ nâng bậc lương thường xuyên  hàng năm đối với cán bộ, công chức khu vực hành chính sự nghiệp, Đảng, đoàn thể",
       "url_doc_full": "https://vbpl.vn/TW/Lists/vbpq/Attachments/9341/45.TCCP.BCTL.doc",
       "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=9341&Keyword=luật lao động"
+    },
+    {
+      "title": "Thông tư 45/TCCP-BCTL",
+      "url_fulltext": "/TW/Pages/vbpq-toanvan.aspx?ItemID=8783&Keyword=luật lao động",
+      "url_pdf": "",
+      "url_doc": "/TW/Lists/vbpq/Attachments/8783/45.TCCP.BCTL.doc",
+      "filename_doc": "45.TCCP.BCTL.doc",
+      "item_id": "8783",
+      "ban_hanh": "11/03/1996",
+      "hieu_luc": "01/01/1996",
+      "mo_ta": "Hướng dẫn chế độ nâng bậc lương thường xuyên hàng năm đối với cán bộ, công chức khu vực hành chính sự nghiệp, Đảng, đoàn thể.",
+      "url_doc_full": "https://vbpl.vn/TW/Lists/vbpq/Attachments/8783/45.TCCP.BCTL.doc",
+      "url_fulltext_full": "https://vbpl.vn/TW/Pages/vbpq-toanvan.aspx?ItemID=8783&Keyword=luật lao động"
     },
     {
       "title": "Thông tư 05-LĐTBXH/TT",
