@@ -9,7 +9,7 @@
         "chapter_num": 1,
         "chapter_roman": "I",
         "chapter_title": "NHỮNG QUY ĐỊNH CHUNG",
-        "orgin_chapter": "Chương I NHỮNG QUY ĐỊNH CHUNG",
+        "origin_chapter": "Chương I NHỮNG QUY ĐỊNH CHUNG",
         "articles": [
           {
             "article_id": "ch1_d1",
@@ -450,7 +450,7 @@
         "chapter_num": 2,
         "chapter_roman": "II",
         "chapter_title": "VIỆC LÀM, TUYỂN DỤNG VÀ QUẢN LÝ LAO ĐỘNG",
-        "orgin_chapter": "Chương II VIỆC LÀM, TUYỂN DỤNG VÀ QUẢN LÝ LAO ĐỘNG",
+        "origin_chapter": "Chương II VIỆC LÀM, TUYỂN DỤNG VÀ QUẢN LÝ LAO ĐỘNG",
         "articles": [
           {
             "article_id": "ch2_d9",
@@ -554,7 +554,7 @@
         "chapter_num": 3,
         "chapter_roman": "III",
         "chapter_title": "HỢP ĐỒNG LAO ĐỘNG",
-        "orgin_chapter": "Chương III HỢP ĐỒNG LAO ĐỘNG",
+        "origin_chapter": "Chương III HỢP ĐỒNG LAO ĐỘNG",
         "sections": [
           {
             "section_id": "ch3_muc1",
@@ -1470,7 +1470,50 @@
                     "clause_num": "1",
                     "clause_content": "Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động trong trường hợp sau đây: a) Người lao động thường xuyên không hoàn thành công việc theo hợp đồng lao động được xác định theo tiêu chí đánh giá mức độ hoàn thành công việc trong quy chế của người sử dụng lao động. Quy chế đánh giá mức độ hoàn thành công việc do người sử dụng lao động ban hành nhưng phải tham khảo ý kiến tổ chức đại diện người lao động tại cơ sở đối với nơi có tổ chức đại diện người lao động tại cơ sở; b) Người lao động bị ốm đau, tai nạn đã điều trị 12 tháng liên tục đối với người làm việc theo hợp đồng lao động không xác định thời hạn hoặc đã điều trị 06 tháng liên tục đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng hoặc quá nửa thời hạn hợp đồng lao động đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng mà khả năng lao động chưa hồi phục. Khi sức khỏe của người lao động bình phục thì người sử dụng lao động xem xét để tiếp tục giao kết hợp đồng lao động với người lao động; c) Do thiên tai, hỏa hoạn, dịch bệnh nguy hiểm, địch họa hoặc di dời, thu hẹp sản xuất, kinh doanh theo yêu cầu của cơ quan nhà nước có thẩm quyền mà người sử dụng lao động đã tìm mọi biện pháp khắc phục nhưng vẫn buộc phải giảm chỗ làm việc; d) Người lao động không có mặt tại nơi làm việc sau thời hạn quy định tại Điều 31 của Bộ luật này; đ) Người lao động đủ tuổi nghỉ hưu theo quy định tại Điều 169 của Bộ luật này, trừ trường hợp có thỏa thuận khác; e) Người lao động tự ý bỏ việc mà không có lý do chính đáng từ 05 ngày làm việc liên tục trở lên; g) Người lao động cung cấp không trung thực thông tin theo quy định tại khoản 2 Điều 16 của Bộ luật này khi giao kết hợp đồng lao động làm ảnh hưởng đến việc tuyển dụng người lao động.",
                     "origin_clause": "1. Người sử dụng lao động có quyền đơn phương chấm dứt hợp đồng lao động trong trường hợp sau đây: a) Người lao động thường xuyên không hoàn thành công việc theo hợp đồng lao động được xác định theo tiêu chí đánh giá mức độ hoàn thành công việc trong quy chế của người sử dụng lao động. Quy chế đánh giá mức độ hoàn thành công việc do người sử dụng lao động ban hành nhưng phải tham khảo ý kiến tổ chức đại diện người lao động tại cơ sở đối với nơi có tổ chức đại diện người lao động tại cơ sở; b) Người lao động bị ốm đau, tai nạn đã điều trị 12 tháng liên tục đối với người làm việc theo hợp đồng lao động không xác định thời hạn hoặc đã điều trị 06 tháng liên tục đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng hoặc quá nửa thời hạn hợp đồng lao động đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng mà khả năng lao động chưa hồi phục.",
-                    "points": null
+                    "points": [
+                      {
+                        "point_id": "ch3_muc3_d36_k1_a",
+                        "point_label": "a)",
+                        "point_content": "Người lao động thường xuyên không hoàn thành công việc theo hợp đồng lao động được xác định theo tiêu chí đánh giá mức độ hoàn thành công việc trong quy chế của người sử dụng lao động. Quy chế đánh giá mức độ hoàn thành công việc do người sử dụng lao động ban hành nhưng phải tham khảo ý kiến tổ chức đại diện người lao động tại cơ sở đối với nơi có tổ chức đại diện người lao động tại cơ sở;",
+                        "origin_point": "a) Người lao động thường xuyên không hoàn thành công việc theo hợp đồng lao động được xác định theo tiêu chí đánh giá mức độ hoàn thành công việc trong quy chế của người sử dụng lao động. Quy chế đánh giá mức độ hoàn thành công việc do người sử dụng lao động ban hành nhưng phải tham khảo ý kiến tổ chức đại diện người lao động tại cơ sở đối với nơi có tổ chức đại diện người lao động tại cơ sở;"
+                      },
+                      {
+                        "point_id": "ch3_muc3_d36_k1_b",
+                        "point_label": "b)",
+                        "point_content": "Người lao động bị ốm đau, tai nạn đã điều trị 12 tháng liên tục đối với người làm việc theo hợp đồng lao động không xác định thời hạn hoặc đã điều trị 06 tháng liên tục đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng hoặc quá nửa thời hạn hợp đồng lao động đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng mà khả năng lao động chưa hồi phục. Khi sức khỏe của người lao động bình phục thì người sử dụng lao động xem xét để tiếp tục giao kết hợp đồng lao động với người lao động;",
+                        "origin_point": "b) Người lao động bị ốm đau, tai nạn đã điều trị 12 tháng liên tục đối với người làm việc theo hợp đồng lao động không xác định thời hạn hoặc đã điều trị 06 tháng liên tục đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng hoặc quá nửa thời hạn hợp đồng lao động đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng mà khả năng lao động chưa hồi phục. Khi sức khỏe của người lao động bình phục thì người sử dụng lao động xem xét để tiếp tục giao kết hợp đồng lao động với người lao động;"
+                      },
+                      {
+                        "point_id": "ch3_muc3_d36_k1_c",
+                        "point_label": "c)",
+                        "point_content": "Do thiên tai, hỏa hoạn, dịch bệnh nguy hiểm, địch họa hoặc di dời, thu hẹp sản xuất, kinh doanh theo yêu cầu của cơ quan nhà nước có thẩm quyền mà người sử dụng lao động đã tìm mọi biện pháp khắc phục nhưng vẫn buộc phải giảm chỗ làm việc;",
+                        "origin_point": "c) Do thiên tai, hỏa hoạn, dịch bệnh nguy hiểm, địch họa hoặc di dời, thu hẹp sản xuất, kinh doanh theo yêu cầu của cơ quan nhà nước có thẩm quyền mà người sử dụng lao động đã tìm mọi biện pháp khắc phục nhưng vẫn buộc phải giảm chỗ làm việc;"
+                      },
+                      {
+                        "point_id": "ch3_muc3_d36_k1_d",
+                        "point_label": "d)",
+                        "point_content": "Người lao động không có mặt tại nơi làm việc sau thời hạn quy định tại Điều 31 của Bộ luật này;",
+                        "origin_point": "d) Người lao động không có mặt tại nơi làm việc sau thời hạn quy định tại Điều 31 của Bộ luật này;"
+                      },
+                      {
+                        "point_id": "ch3_muc3_d36_k1_đ",
+                        "point_label": "đ)",
+                        "point_content": "Người lao động đủ tuổi nghỉ hưu theo quy định tại Điều 169 của Bộ luật này, trừ trường hợp có thỏa thuận khác;",
+                        "origin_point": "đ) Người lao động đủ tuổi nghỉ hưu theo quy định tại Điều 169 của Bộ luật này, trừ trường hợp có thỏa thuận khác;"
+                      },
+                      {
+                        "point_id": "ch3_muc3_d36_k1_e",
+                        "point_label": "e)",
+                        "point_content": "Người lao động tự ý bỏ việc mà không có lý do chính đáng từ 05 ngày làm việc liên tục trở lên;",
+                        "origin_point": "e) Người lao động tự ý bỏ việc mà không có lý do chính đáng từ 05 ngày làm việc liên tục trở lên;"
+                      },
+                      {
+                        "point_id": "ch3_muc3_d36_k1_g",
+                        "point_label": "g)",
+                        "point_content": "Người lao động cung cấp không trung thực thông tin theo quy định tại khoản 2 Điều 16 của Bộ luật này khi giao kết hợp đồng lao động làm ảnh hưởng đến việc tuyển dụng người lao động.",
+                        "origin_point": "g) Người lao động cung cấp không trung thực thông tin theo quy định tại khoản 2 Điều 16 của Bộ luật này khi giao kết hợp đồng lao động làm ảnh hưởng đến việc tuyển dụng người lao động."
+                      }
+                    ]
                   },
                   {
                     "clause_id": "ch3_muc3_d36_k2",
@@ -2375,7 +2418,7 @@
         "chapter_num": 4,
         "chapter_roman": "IV",
         "chapter_title": "GIÁO DỤC NGHỀ NGHIỆP VÀ PHÁT TRIỂN KỸ NĂNG NGHỀ",
-        "orgin_chapter": "Chương IV GIÁO DỤC NGHỀ NGHIỆP VÀ PHÁT TRIỂN KỸ NĂNG NGHỀ",
+        "origin_chapter": "Chương IV GIÁO DỤC NGHỀ NGHIỆP VÀ PHÁT TRIỂN KỸ NĂNG NGHỀ",
         "articles": [
           {
             "article_id": "ch4_d59",
@@ -2557,7 +2600,7 @@
         "chapter_num": 5,
         "chapter_roman": "V",
         "chapter_title": "ĐỐI THOẠI TẠI NƠI LÀM VIỆC, THƯƠNG LƯỢNG TẬP THỂ, THỎA ƯỚC LAO ĐỘNG TẬP THỂ",
-        "orgin_chapter": "Chương V ĐỐI THOẠI TẠI NƠI LÀM VIỆC, THƯƠNG LƯỢNG TẬP THỂ, THỎA ƯỚC LAO ĐỘNG TẬP THỂ",
+        "origin_chapter": "Chương V ĐỐI THOẠI TẠI NƠI LÀM VIỆC, THƯƠNG LƯỢNG TẬP THỂ, THỎA ƯỚC LAO ĐỘNG TẬP THỂ",
         "sections": [
           {
             "section_id": "ch5_muc1",
@@ -3388,7 +3431,7 @@
         "chapter_num": 6,
         "chapter_roman": "VI",
         "chapter_title": "TIỀN LƯƠNG",
-        "orgin_chapter": "Chương VI TIỀN LƯƠNG",
+        "origin_chapter": "Chương VI TIỀN LƯƠNG",
         "articles": [
           {
             "article_id": "ch6_d90",
@@ -3842,7 +3885,7 @@
         "chapter_num": 7,
         "chapter_roman": "VII",
         "chapter_title": "THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI",
-        "orgin_chapter": "Chương VII THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI",
+        "origin_chapter": "Chương VII THỜI GIỜ LÀM VIỆC, THỜI GIỜ NGHỈ NGƠI",
         "sections": [
           {
             "section_id": "ch7_muc1",
@@ -4288,7 +4331,7 @@
         "chapter_num": 8,
         "chapter_roman": "VIII",
         "chapter_title": "KỶ LUẬT LAO ĐỘNG, TRÁCH NHIỆM VẬT CHẤT",
-        "orgin_chapter": "Chương VIII KỶ LUẬT LAO ĐỘNG, TRÁCH NHIỆM VẬT CHẤT",
+        "origin_chapter": "Chương VIII KỶ LUẬT LAO ĐỘNG, TRÁCH NHIỆM VẬT CHẤT",
         "sections": [
           {
             "section_id": "ch8_muc1",
@@ -4843,7 +4886,7 @@
         "chapter_num": 9,
         "chapter_roman": "IX",
         "chapter_title": "AN TOÀN, VỆ SINH LAO ĐỘNG",
-        "orgin_chapter": "Chương IX AN TOÀN, VỆ SINH LAO ĐỘNG",
+        "origin_chapter": "Chương IX AN TOÀN, VỆ SINH LAO ĐỘNG",
         "articles": [
           {
             "article_id": "ch9_d132",
@@ -4903,7 +4946,7 @@
         "chapter_num": 10,
         "chapter_roman": "X",
         "chapter_title": "NHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI LAO ĐỘNG NỮ VÀ BẢO ĐẢM BÌNH ĐẲNG GIỚI",
-        "orgin_chapter": "Chương X NHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI LAO ĐỘNG NỮ VÀ BẢO ĐẢM BÌNH ĐẲNG GIỚI",
+        "origin_chapter": "Chương X NHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI LAO ĐỘNG NỮ VÀ BẢO ĐẢM BÌNH ĐẲNG GIỚI",
         "articles": [
           {
             "article_id": "ch10_d135",
@@ -5148,7 +5191,7 @@
         "chapter_num": 11,
         "chapter_roman": "XI",
         "chapter_title": "NHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI LAO ĐỘNG CHƯA THÀNH NIÊN VÀ MỘT SỐ LAO ĐỘNG KHÁC",
-        "orgin_chapter": "Chương XI NHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI LAO ĐỘNG CHƯA THÀNH NIÊN VÀ MỘT SỐ LAO ĐỘNG KHÁC",
+        "origin_chapter": "Chương XI NHỮNG QUY ĐỊNH RIÊNG ĐỐI VỚI LAO ĐỘNG CHƯA THÀNH NIÊN VÀ MỘT SỐ LAO ĐỘNG KHÁC",
         "sections": [
           {
             "section_id": "ch11_muc1",
@@ -6055,7 +6098,7 @@
         "chapter_num": 12,
         "chapter_roman": "XII",
         "chapter_title": "BẢO HIỂM XÃ HỘI, BẢO HIỂM Y TẾ, BẢO HIỂM THẤT NGHIỆP",
-        "orgin_chapter": "Chương XII BẢO HIỂM XÃ HỘI, BẢO HIỂM Y TẾ, BẢO HIỂM THẤT NGHIỆP",
+        "origin_chapter": "Chương XII BẢO HIỂM XÃ HỘI, BẢO HIỂM Y TẾ, BẢO HIỂM THẤT NGHIỆP",
         "articles": [
           {
             "article_id": "ch12_d168",
@@ -6136,7 +6179,7 @@
         "chapter_num": 13,
         "chapter_roman": "XIII",
         "chapter_title": "TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG TẠI CƠ SỞ",
-        "orgin_chapter": "Chương XIII TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG TẠI CƠ SỞ",
+        "origin_chapter": "Chương XIII TỔ CHỨC ĐẠI DIỆN NGƯỜI LAO ĐỘNG TẠI CƠ SỞ",
         "articles": [
           {
             "article_id": "ch13_d170",
@@ -6258,7 +6301,56 @@
                 "clause_num": "1",
                 "clause_content": "Điều lệ tổ chức của người lao động tại doanh nghiệp phải có các nội dung chủ yếu sau đây: a) Tên, địa chỉ tổ chức; biểu tượng (nếu có); b) Tôn chỉ, mục đích và phạm vi hoạt động là bảo vệ quyền, lợi ích hợp pháp, chính đáng của thành viên tổ chức mình trong quan hệ lao động tại doanh nghiệp; cùng với người sử dụng lao động giải quyết các vấn đề liên quan đến quyền, nghĩa vụ và lợi ích của người lao động và người sử dụng lao động; xây dựng quan hệ lao động tiến bộ, hài hòa và ổn định; c) Điều kiện, thủ tục gia nhập và ra khỏi tổ chức của người lao động tại doanh nghiệp. Trong một tổ chức của người lao động tại doanh nghiệp không đồng thời có thành viên là người lao động thông thường và thành viên là người lao động trực tiếp tham gia vào quá trình ra quyết định liên quan đến điều kiện lao động, tuyển dụng lao động, kỷ luật lao động, chấm dứt hợp đồng lao động hoặc chuyển người lao động làm công việc khác; d) Cơ cấu tổ chức, nhiệm kỳ, người đại diện của tổ chức; đ) Nguyên tắc tổ chức, hoạt động; e) Thể thức thông qua quyết định của tổ chức. Những nội dung phải do thành viên quyết định theo đa số bao gồm thông qua, sửa đổi, bổ sung điều lệ của tổ chức; bầu cử, miễn nhiệm người đứng đầu và thành viên ban lãnh đạo của tổ chức; chia, tách, hợp nhất, sáp nhập, đổi tên, giải thể, liên kết tổ chức; gia nhập Công đoàn Việt Nam; g) Phí thành viên, nguồn tài sản, tài chính và việc quản lý, sử dụng tài sản, tài chính của tổ chức. Việc thu, chi tài chính của tổ chức của người lao động tại doanh nghiệp phải được theo dõi, lưu trữ và định kỳ hằng năm công khai cho thành viên của tổ chức; h) Kiến nghị và giải quyết kiến nghị của thành viên trong nội bộ tổ chức.",
                 "origin_clause": "1. Điều lệ tổ chức của người lao động tại doanh nghiệp phải có các nội dung chủ yếu sau đây: a) Tên, địa chỉ tổ chức; biểu tượng (nếu có); b) Tôn chỉ, mục đích và phạm vi hoạt động là bảo vệ quyền, lợi ích hợp pháp, chính đáng của thành viên tổ chức mình trong quan hệ lao động tại doanh nghiệp; cùng với người sử dụng lao động giải quyết các vấn đề liên quan đến quyền, nghĩa vụ và lợi ích của người lao động và người sử dụng lao động; xây dựng quan hệ lao động tiến bộ, hài hòa và ổn định; c) Điều kiện, thủ tục gia nhập và ra khỏi tổ chức của người lao động tại doanh nghiệp.",
-                "points": null
+                "points": [
+                  {
+                    "point_id": "ch13_d174_k1_a",
+                    "point_label": "a)",
+                    "point_content": "Tên, địa chỉ tổ chức; biểu tượng (nếu có);",
+                    "origin_point": "a) Tên, địa chỉ tổ chức; biểu tượng (nếu có);"
+                  },
+                  {
+                    "point_id": "ch13_d174_k1_b",
+                    "point_label": "b)",
+                    "point_content": "Tôn chỉ, mục đích và phạm vi hoạt động là bảo vệ quyền, lợi ích hợp pháp, chính đáng của thành viên tổ chức mình trong quan hệ lao động tại doanh nghiệp; cùng với người sử dụng lao động giải quyết các vấn đề liên quan đến quyền, nghĩa vụ và lợi ích của người lao động và người sử dụng lao động; xây dựng quan hệ lao động tiến bộ, hài hòa và ổn định;",
+                    "origin_point": "b) Tôn chỉ, mục đích và phạm vi hoạt động là bảo vệ quyền, lợi ích hợp pháp, chính đáng của thành viên tổ chức mình trong quan hệ lao động tại doanh nghiệp; cùng với người sử dụng lao động giải quyết các vấn đề liên quan đến quyền, nghĩa vụ và lợi ích của người lao động và người sử dụng lao động; xây dựng quan hệ lao động tiến bộ, hài hòa và ổn định;"
+                  },
+                  {
+                    "point_id": "ch13_d174_k1_c",
+                    "point_label": "c)",
+                    "point_content": "Điều kiện, thủ tục gia nhập và ra khỏi tổ chức của người lao động tại doanh nghiệp. Trong một tổ chức của người lao động tại doanh nghiệp không đồng thời có thành viên là người lao động thông thường và thành viên là người lao động trực tiếp tham gia vào quá trình ra quyết định liên quan đến điều kiện lao động, tuyển dụng lao động, kỷ luật lao động, chấm dứt hợp đồng lao động hoặc chuyển người lao động làm công việc khác;",
+                    "origin_point": "c) Điều kiện, thủ tục gia nhập và ra khỏi tổ chức của người lao động tại doanh nghiệp. Trong một tổ chức của người lao động tại doanh nghiệp không đồng thời có thành viên là người lao động thông thường và thành viên là người lao động trực tiếp tham gia vào quá trình ra quyết định liên quan đến điều kiện lao động, tuyển dụng lao động, kỷ luật lao động, chấm dứt hợp đồng lao động hoặc chuyển người lao động làm công việc khác;"
+                  },
+                  {
+                    "point_id": "ch13_d174_k1_d",
+                    "point_label": "d)",
+                    "point_content": "Cơ cấu tổ chức, nhiệm kỳ, người đại diện của tổ chức;",
+                    "origin_point": "d) Cơ cấu tổ chức, nhiệm kỳ, người đại diện của tổ chức;"
+                  },
+                  {
+                    "point_id": "ch13_d174_k1_đ",
+                    "point_label": "đ)",
+                    "point_content": "Nguyên tắc tổ chức, hoạt động;",
+                    "origin_point": "đ) Nguyên tắc tổ chức, hoạt động;"
+                  },
+                  {
+                    "point_id": "ch13_d174_k1_e",
+                    "point_label": "e)",
+                    "point_content": "Thể thức thông qua quyết định của tổ chức. Những nội dung phải do thành viên quyết định theo đa số bao gồm thông qua, sửa đổi, bổ sung điều lệ của tổ chức; bầu cử, miễn nhiệm người đứng đầu và thành viên ban lãnh đạo của tổ chức; chia, tách, hợp nhất, sáp nhập, đổi tên, giải thể, liên kết tổ chức; gia nhập Công đoàn Việt Nam;",
+                    "origin_point": "e) Thể thức thông qua quyết định của tổ chức. Những nội dung phải do thành viên quyết định theo đa số bao gồm thông qua, sửa đổi, bổ sung điều lệ của tổ chức; bầu cử, miễn nhiệm người đứng đầu và thành viên ban lãnh đạo của tổ chức; chia, tách, hợp nhất, sáp nhập, đổi tên, giải thể, liên kết tổ chức; gia nhập Công đoàn Việt Nam;"
+                  },
+                  {
+                    "point_id": "ch13_d174_k1_g",
+                    "point_label": "g)",
+                    "point_content": "Phí thành viên, nguồn tài sản, tài chính và việc quản lý, sử dụng tài sản, tài chính của tổ chức. Việc thu, chi tài chính của tổ chức của người lao động tại doanh nghiệp phải được theo dõi, lưu trữ và định kỳ hằng năm công khai cho thành viên của tổ chức;",
+                    "origin_point": "g) Phí thành viên, nguồn tài sản, tài chính và việc quản lý, sử dụng tài sản, tài chính của tổ chức. Việc thu, chi tài chính của tổ chức của người lao động tại doanh nghiệp phải được theo dõi, lưu trữ và định kỳ hằng năm công khai cho thành viên của tổ chức;"
+                  },
+                  {
+                    "point_id": "ch13_d174_k1_h",
+                    "point_label": "h)",
+                    "point_content": "Kiến nghị và giải quyết kiến nghị của thành viên trong nội bộ tổ chức.",
+                    "origin_point": "h) Kiến nghị và giải quyết kiến nghị của thành viên trong nội bộ tổ chức."
+                  }
+                ]
               },
               {
                 "clause_id": "ch13_d174_k2",
@@ -6484,7 +6576,7 @@
         "chapter_num": 14,
         "chapter_roman": "XIV",
         "chapter_title": "GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG",
-        "orgin_chapter": "Chương XIV GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG",
+        "origin_chapter": "Chương XIV GIẢI QUYẾT TRANH CHẤP LAO ĐỘNG",
         "sections": [
           {
             "section_id": "ch14_muc1",
@@ -7818,7 +7910,7 @@
         "chapter_num": 15,
         "chapter_roman": "XV",
         "chapter_title": "QUẢN LÝ NHÀ NƯỚC VỀ LAO ĐỘNG",
-        "orgin_chapter": "Chương XV QUẢN LÝ NHÀ NƯỚC VỀ LAO ĐỘNG",
+        "origin_chapter": "Chương XV QUẢN LÝ NHÀ NƯỚC VỀ LAO ĐỘNG",
         "articles": [
           {
             "article_id": "ch15_d212",
@@ -7913,7 +8005,7 @@
         "chapter_num": 16,
         "chapter_roman": "XVI",
         "chapter_title": "THANH TRA LAO ĐỘNG, XỬ LÝ VI PHẠM PHÁP LUẬT VỀ LAO ĐỘNG",
-        "orgin_chapter": "Chương XVI THANH TRA LAO ĐỘNG, XỬ LÝ VI PHẠM PHÁP LUẬT VỀ LAO ĐỘNG",
+        "origin_chapter": "Chương XVI THANH TRA LAO ĐỘNG, XỬ LÝ VI PHẠM PHÁP LUẬT VỀ LAO ĐỘNG",
         "articles": [
           {
             "article_id": "ch16_d214",
@@ -8023,7 +8115,7 @@
         "chapter_num": 17,
         "chapter_roman": "XVII",
         "chapter_title": "ĐIỀU KHOẢN THI HÀNH",
-        "orgin_chapter": "Chương XVII ĐIỀU KHOẢN THI HÀNH",
+        "origin_chapter": "Chương XVII ĐIỀU KHOẢN THI HÀNH",
         "articles": [
           {
             "article_id": "ch17_d218",
@@ -8041,180 +8133,48 @@
               {
                 "clause_id": "ch17_d219_k1",
                 "clause_num": "1",
-                "clause_content": "Sửa đổi, bổ sung một số điều của Luật Bảo hiểm xã hội số 58/2014/QH13 đã được sửa đổi, bổ sung theo Luật số 84/2015/QH13 và Luật số 35/2018/QH14: a) Sửa đổi, bổ sung Điều 54 như sau: “Điều 54. Điều kiện hưởng lương hưu",
+                "clause_content": "Sửa đổi, bổ sung một số điều của Luật Bảo hiểm xã hội số 58/2014/QH13 đã được sửa đổi, bổ sung theo Luật số 84/2015/QH13 và Luật số 35/2018/QH14: a) Sửa đổi, bổ sung Điều 54 như sau: “Điều 54. Điều kiện hưởng lương hưu 1. Người lao động quy định tại các điểm a, b, c, d, g, h và i khoản 1 Điều 2 của Luật này, trừ trường hợp quy định tại khoản 3 Điều này, khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên thì được hưởng lương hưu nếu thuộc một trong các trường hợp sau đây: a) Đủ tuổi theo quy định tại khoản 2 Điều 169 của Bộ luật Lao động; b) Đủ tuổi theo quy định tại khoản 3 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành hoặc có đủ 15 năm làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021; c) Người lao động có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu của người lao động quy định tại khoản 2 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm công việc khai thác than trong hầm lò; d) Người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ được giao. 2. Người lao động quy định tại điểm đ và điểm e khoản 1 Điều 2 của Luật này nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên được hưởng lương hưu khi thuộc một trong các trường hợp sau đây: a) Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động, trừ trường hợp Luật Sĩ quan Quân đội nhân dân Việt Nam, Luật Công an nhân dân, Luật Cơ yếu, Luật Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng có quy định khác; b) Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 3 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành hoặc có đủ 15 năm làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021; c) Người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ được giao. 3. Lao động nữ là cán bộ, công chức cấp xã hoặc là người hoạt động không chuyên trách ở xã, phường, thị trấn tham gia bảo hiểm xã hội khi nghỉ việc mà có từ đủ 15 năm đến dưới 20 năm đóng bảo hiểm xã hội và đủ tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động thì được hưởng lương hưu. 4. Điều kiện về tuổi hưởng lương hưu đối với một số trường hợp đặc biệt theo quy định của Chính phủ.”; b) Sửa đổi, bổ sung Điều 55 như sau: “Điều 55. Điều kiện hưởng lương hưu khi suy giảm khả năng lao động 1. Người lao động quy định tại các điểm a, b, c, d, g, h và i khoản 1 Điều 2 của Luật này khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên được hưởng lương hưu với mức thấp hơn so với người đủ điều kiện hưởng lương hưu quy định tại các điểm a, b và c khoản 1 Điều 54 của Luật này nếu thuộc một trong các trường hợp sau đây: a) Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động khi bị suy giảm khả năng lao động từ 61% đến dưới 81%; b) Có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động khi bị suy giảm khả năng lao động từ 81% trở lên; c) Có đủ 15 năm trở lên làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành và bị suy giảm khả năng lao động từ 61% trở lên. 2. Người lao động quy định tại điểm đ và điểm e khoản 1 Điều 2 của Luật này khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên, bị suy giảm khả năng lao động từ 61% trở lên được hưởng lương hưu với mức thấp hơn so với người đủ điều kiện hưởng lương hưu quy định tại điểm a và điểm b khoản 2 Điều 54 của Luật này khi thuộc một trong các trường hợp sau đây: a) Có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động; b) Có đủ 15 năm trở lên làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành.”; c) Sửa đổi, bổ sung khoản 1 Điều 73 như sau: “1. Người lao động hưởng lương hưu khi có đủ các điều kiện sau đây: a) Đủ tuổi nghỉ hưu theo quy định tại khoản 2 Điều 169 của Bộ luật Lao động; b) Đủ 20 năm đóng bảo hiểm xã hội trở lên.”.",
                 "origin_clause": "1. Sửa đổi, bổ sung một số điều của Luật Bảo hiểm xã hội số 58/2014/QH13 đã được sửa đổi, bổ sung theo Luật số 84/2015/QH13 và Luật số 35/2018/QH14: a) Sửa đổi, bổ sung Điều 54 như sau: “Điều 54. Điều kiện hưởng lương hưu",
                 "points": [
                   {
                     "point_id": "ch17_d219_k1_a",
                     "point_label": "a)",
-                    "point_content": "Sửa đổi, bổ sung Điều 54 như sau: “Điều 54. Điều kiện hưởng lương hưu",
-                    "origin_point": "a) Sửa đổi, bổ sung Điều 54 như sau: “Điều 54. Điều kiện hưởng lương hưu"
-                  }
-                ]
-              },
-              {
-                "clause_id": "ch17_d219_k1",
-                "clause_num": "1",
-                "clause_content": "Người lao động quy định tại các điểm a, b, c, d, g, h và i khoản 1 Điều 2 của Luật này, trừ trường hợp quy định tại khoản 3 Điều này, khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên thì được hưởng lương hưu nếu thuộc một trong các trường hợp sau đây: a) Đủ tuổi theo quy định tại khoản 2 Điều 169 của Bộ luật Lao động; b) Đủ tuổi theo quy định tại khoản 3 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành hoặc có đủ 15 năm làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021; c) Người lao động có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu của người lao động quy định tại khoản 2 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm công việc khai thác than trong hầm lò; d) Người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ được giao.",
-                "origin_clause": "1. Người lao động quy định tại các điểm a, b, c, d, g, h và i khoản 1 Điều 2 của Luật này, trừ trường hợp quy định tại khoản 3 Điều này, khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên thì được hưởng lương hưu nếu thuộc một trong các trường hợp sau đây: a) Đủ tuổi theo quy định tại khoản 2 Điều 169 của Bộ luật Lao động; b) Đủ tuổi theo quy định tại khoản 3 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành hoặc có đủ 15 năm làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021; c) Người lao động có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu của người lao động quy định tại khoản 2 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm công việc khai thác than trong hầm lò; d) Người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ được giao.",
-                "points": [
-                  {
-                    "point_id": "ch17_d219_k1_a",
-                    "point_label": "a)",
-                    "point_content": "Đủ tuổi theo quy định tại khoản 2 Điều 169 của Bộ luật Lao động;",
-                    "origin_point": "a) Đủ tuổi theo quy định tại khoản 2 Điều 169 của Bộ luật Lao động;"
+                    "point_content": "Sửa đổi, bổ sung Điều 54 như sau: “Điều 54. Điều kiện hưởng lương hưu 1. Người lao động quy định tại các điểm a, b, c, d, g, h và i khoản 1 Điều 2 của Luật này, trừ trường hợp quy định tại khoản 3 Điều này, khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên thì được hưởng lương hưu nếu thuộc một trong các trường hợp sau đây: a) Đủ tuổi theo quy định tại khoản 2 Điều 169 của Bộ luật Lao động; b) Đủ tuổi theo quy định tại khoản 3 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành hoặc có đủ 15 năm làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021; c) Người lao động có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu của người lao động quy định tại khoản 2 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm công việc khai thác than trong hầm lò; d) Người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ được giao. 2. Người lao động quy định tại điểm đ và điểm e khoản 1 Điều 2 của Luật này nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên được hưởng lương hưu khi thuộc một trong các trường hợp sau đây: a) Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động, trừ trường hợp Luật Sĩ quan Quân đội nhân dân Việt Nam, Luật Công an nhân dân, Luật Cơ yếu, Luật Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng có quy định khác; b) Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 3 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành hoặc có đủ 15 năm làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021; c) Người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ được giao. 3. Lao động nữ là cán bộ, công chức cấp xã hoặc là người hoạt động không chuyên trách ở xã, phường, thị trấn tham gia bảo hiểm xã hội khi nghỉ việc mà có từ đủ 15 năm đến dưới 20 năm đóng bảo hiểm xã hội và đủ tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động thì được hưởng lương hưu. 4. Điều kiện về tuổi hưởng lương hưu đối với một số trường hợp đặc biệt theo quy định của Chính phủ.”;",
+                    "origin_point": "a) Sửa đổi, bổ sung Điều 54 như sau: “Điều 54. Điều kiện hưởng lương hưu 1. Người lao động quy định tại các điểm a, b, c, d, g, h và i khoản 1 Điều 2 của Luật này, trừ trường hợp quy định tại khoản 3 Điều này, khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên thì được hưởng lương hưu nếu thuộc một trong các trường hợp sau đây: a) Đủ tuổi theo quy định tại khoản 2 Điều 169 của Bộ luật Lao động; b) Đủ tuổi theo quy định tại khoản 3 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành hoặc có đủ 15 năm làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021; c) Người lao động có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu của người lao động quy định tại khoản 2 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm công việc khai thác than trong hầm lò; d) Người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ được giao. 2. Người lao động quy định tại điểm đ và điểm e khoản 1 Điều 2 của Luật này nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên được hưởng lương hưu khi thuộc một trong các trường hợp sau đây: a) Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động, trừ trường hợp Luật Sĩ quan Quân đội nhân dân Việt Nam, Luật Công an nhân dân, Luật Cơ yếu, Luật Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng có quy định khác; b) Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 3 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành hoặc có đủ 15 năm làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021; c) Người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ được giao. 3. Lao động nữ là cán bộ, công chức cấp xã hoặc là người hoạt động không chuyên trách ở xã, phường, thị trấn tham gia bảo hiểm xã hội khi nghỉ việc mà có từ đủ 15 năm đến dưới 20 năm đóng bảo hiểm xã hội và đủ tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động thì được hưởng lương hưu. 4. Điều kiện về tuổi hưởng lương hưu đối với một số trường hợp đặc biệt theo quy định của Chính phủ.”;"
                   },
                   {
                     "point_id": "ch17_d219_k1_b",
                     "point_label": "b)",
-                    "point_content": "Đủ tuổi theo quy định tại khoản 3 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành hoặc có đủ 15 năm làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021;",
-                    "origin_point": "b) Đủ tuổi theo quy định tại khoản 3 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành hoặc có đủ 15 năm làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021;"
+                    "point_content": "Sửa đổi, bổ sung Điều 55 như sau: “Điều 55. Điều kiện hưởng lương hưu khi suy giảm khả năng lao động 1. Người lao động quy định tại các điểm a, b, c, d, g, h và i khoản 1 Điều 2 của Luật này khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên được hưởng lương hưu với mức thấp hơn so với người đủ điều kiện hưởng lương hưu quy định tại các điểm a, b và c khoản 1 Điều 54 của Luật này nếu thuộc một trong các trường hợp sau đây: a) Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động khi bị suy giảm khả năng lao động từ 61% đến dưới 81%; b) Có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động khi bị suy giảm khả năng lao động từ 81% trở lên; c) Có đủ 15 năm trở lên làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành và bị suy giảm khả năng lao động từ 61% trở lên. 2. Người lao động quy định tại điểm đ và điểm e khoản 1 Điều 2 của Luật này khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên, bị suy giảm khả năng lao động từ 61% trở lên được hưởng lương hưu với mức thấp hơn so với người đủ điều kiện hưởng lương hưu quy định tại điểm a và điểm b khoản 2 Điều 54 của Luật này khi thuộc một trong các trường hợp sau đây: a) Có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động; b) Có đủ 15 năm trở lên làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành.”;",
+                    "origin_point": "b) Sửa đổi, bổ sung Điều 55 như sau: “Điều 55. Điều kiện hưởng lương hưu khi suy giảm khả năng lao động 1. Người lao động quy định tại các điểm a, b, c, d, g, h và i khoản 1 Điều 2 của Luật này khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên được hưởng lương hưu với mức thấp hơn so với người đủ điều kiện hưởng lương hưu quy định tại các điểm a, b và c khoản 1 Điều 54 của Luật này nếu thuộc một trong các trường hợp sau đây: a) Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động khi bị suy giảm khả năng lao động từ 61% đến dưới 81%; b) Có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động khi bị suy giảm khả năng lao động từ 81% trở lên; c) Có đủ 15 năm trở lên làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành và bị suy giảm khả năng lao động từ 61% trở lên. 2. Người lao động quy định tại điểm đ và điểm e khoản 1 Điều 2 của Luật này khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên, bị suy giảm khả năng lao động từ 61% trở lên được hưởng lương hưu với mức thấp hơn so với người đủ điều kiện hưởng lương hưu quy định tại điểm a và điểm b khoản 2 Điều 54 của Luật này khi thuộc một trong các trường hợp sau đây: a) Có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động; b) Có đủ 15 năm trở lên làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành.”;"
                   },
                   {
                     "point_id": "ch17_d219_k1_c",
                     "point_label": "c)",
-                    "point_content": "Người lao động có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu của người lao động quy định tại khoản 2 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm công việc khai thác than trong hầm lò;",
-                    "origin_point": "c) Người lao động có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu của người lao động quy định tại khoản 2 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm công việc khai thác than trong hầm lò;"
-                  },
-                  {
-                    "point_id": "ch17_d219_k1_d",
-                    "point_label": "d)",
-                    "point_content": "Người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ được giao.",
-                    "origin_point": "d) Người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ được giao."
+                    "point_content": "Sửa đổi, bổ sung khoản 1 Điều 73 như sau: “1. Người lao động hưởng lương hưu khi có đủ các điều kiện sau đây: a) Đủ tuổi nghỉ hưu theo quy định tại khoản 2 Điều 169 của Bộ luật Lao động; b) Đủ 20 năm đóng bảo hiểm xã hội trở lên.”.",
+                    "origin_point": "c) Sửa đổi, bổ sung khoản 1 Điều 73 như sau: “1. Người lao động hưởng lương hưu khi có đủ các điều kiện sau đây: a) Đủ tuổi nghỉ hưu theo quy định tại khoản 2 Điều 169 của Bộ luật Lao động; b) Đủ 20 năm đóng bảo hiểm xã hội trở lên.”."
                   }
                 ]
               },
               {
                 "clause_id": "ch17_d219_k2",
                 "clause_num": "2",
-                "clause_content": "Người lao động quy định tại điểm đ và điểm e khoản 1 Điều 2 của Luật này nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên được hưởng lương hưu khi thuộc một trong các trường hợp sau đây: a) Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động, trừ trường hợp Luật Sĩ quan Quân đội nhân dân Việt Nam, Luật Công an nhân dân, Luật Cơ yếu, Luật Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng có quy định khác; b) Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 3 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành hoặc có đủ 15 năm làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021; c) Người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ được giao.",
-                "origin_clause": "2. Người lao động quy định tại điểm đ và điểm e khoản 1 Điều 2 của Luật này nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên được hưởng lương hưu khi thuộc một trong các trường hợp sau đây: a) Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động, trừ trường hợp Luật Sĩ quan Quân đội nhân dân Việt Nam, Luật Công an nhân dân, Luật Cơ yếu, Luật Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng có quy định khác; b) Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 3 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành hoặc có đủ 15 năm làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021; c) Người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ được giao.",
-                "points": [
-                  {
-                    "point_id": "ch17_d219_k2_a",
-                    "point_label": "a)",
-                    "point_content": "Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động, trừ trường hợp Luật Sĩ quan Quân đội nhân dân Việt Nam, Luật Công an nhân dân, Luật Cơ yếu, Luật Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng có quy định khác;",
-                    "origin_point": "a) Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động, trừ trường hợp Luật Sĩ quan Quân đội nhân dân Việt Nam, Luật Công an nhân dân, Luật Cơ yếu, Luật Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng có quy định khác;"
-                  },
-                  {
-                    "point_id": "ch17_d219_k2_b",
-                    "point_label": "b)",
-                    "point_content": "Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 3 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành hoặc có đủ 15 năm làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021;",
-                    "origin_point": "b) Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 3 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành hoặc có đủ 15 năm làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021;"
-                  },
-                  {
-                    "point_id": "ch17_d219_k2_c",
-                    "point_label": "c)",
-                    "point_content": "Người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ được giao.",
-                    "origin_point": "c) Người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ được giao."
-                  }
-                ]
-              },
-              {
-                "clause_id": "ch17_d219_k3",
-                "clause_num": "3",
-                "clause_content": "Lao động nữ là cán bộ, công chức cấp xã hoặc là người hoạt động không chuyên trách ở xã, phường, thị trấn tham gia bảo hiểm xã hội khi nghỉ việc mà có từ đủ 15 năm đến dưới 20 năm đóng bảo hiểm xã hội và đủ tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động thì được hưởng lương hưu.",
-                "origin_clause": "3. Lao động nữ là cán bộ, công chức cấp xã hoặc là người hoạt động không chuyên trách ở xã, phường, thị trấn tham gia bảo hiểm xã hội khi nghỉ việc mà có từ đủ 15 năm đến dưới 20 năm đóng bảo hiểm xã hội và đủ tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động thì được hưởng lương hưu.",
-                "points": null
-              },
-              {
-                "clause_id": "ch17_d219_k4",
-                "clause_num": "4",
-                "clause_content": "Điều kiện về tuổi hưởng lương hưu đối với một số trường hợp đặc biệt theo quy định của Chính phủ.”; b) Sửa đổi, bổ sung Điều 55 như sau: “Điều 55. Điều kiện hưởng lương hưu khi suy giảm khả năng lao động",
-                "origin_clause": "4. Điều kiện về tuổi hưởng lương hưu đối với một số trường hợp đặc biệt theo quy định của Chính phủ.”; b) Sửa đổi, bổ sung Điều 55 như sau: “Điều 55. Điều kiện hưởng lương hưu khi suy giảm khả năng lao động",
-                "points": [
-                  {
-                    "point_id": "ch17_d219_k4_b",
-                    "point_label": "b)",
-                    "point_content": "Sửa đổi, bổ sung Điều 55 như sau: “Điều 55. Điều kiện hưởng lương hưu khi suy giảm khả năng lao động",
-                    "origin_point": "b) Sửa đổi, bổ sung Điều 55 như sau: “Điều 55. Điều kiện hưởng lương hưu khi suy giảm khả năng lao động"
-                  }
-                ]
-              },
-              {
-                "clause_id": "ch17_d219_k1",
-                "clause_num": "1",
-                "clause_content": "Người lao động quy định tại các điểm a, b, c, d, g, h và i khoản 1 Điều 2 của Luật này khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên được hưởng lương hưu với mức thấp hơn so với người đủ điều kiện hưởng lương hưu quy định tại các điểm a, b và c khoản 1 Điều 54 của Luật này nếu thuộc một trong các trường hợp sau đây: a) Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động khi bị suy giảm khả năng lao động từ 61% đến dưới 81%; b) Có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động khi bị suy giảm khả năng lao động từ 81% trở lên; c) Có đủ 15 năm trở lên làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành và bị suy giảm khả năng lao động từ 61% trở lên.",
-                "origin_clause": "1. Người lao động quy định tại các điểm a, b, c, d, g, h và i khoản 1 Điều 2 của Luật này khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên được hưởng lương hưu với mức thấp hơn so với người đủ điều kiện hưởng lương hưu quy định tại các điểm a, b và c khoản 1 Điều 54 của Luật này nếu thuộc một trong các trường hợp sau đây: a) Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động khi bị suy giảm khả năng lao động từ 61% đến dưới 81%; b) Có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động khi bị suy giảm khả năng lao động từ 81% trở lên; c) Có đủ 15 năm trở lên làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành và bị suy giảm khả năng lao động từ 61% trở lên.",
-                "points": [
-                  {
-                    "point_id": "ch17_d219_k1_a",
-                    "point_label": "a)",
-                    "point_content": "Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động khi bị suy giảm khả năng lao động từ 61% đến dưới 81%;",
-                    "origin_point": "a) Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động khi bị suy giảm khả năng lao động từ 61% đến dưới 81%;"
-                  },
-                  {
-                    "point_id": "ch17_d219_k1_b",
-                    "point_label": "b)",
-                    "point_content": "Có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động khi bị suy giảm khả năng lao động từ 81% trở lên;",
-                    "origin_point": "b) Có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động khi bị suy giảm khả năng lao động từ 81% trở lên;"
-                  },
-                  {
-                    "point_id": "ch17_d219_k1_c",
-                    "point_label": "c)",
-                    "point_content": "Có đủ 15 năm trở lên làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành và bị suy giảm khả năng lao động từ 61% trở lên.",
-                    "origin_point": "c) Có đủ 15 năm trở lên làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành và bị suy giảm khả năng lao động từ 61% trở lên."
-                  }
-                ]
-              },
-              {
-                "clause_id": "ch17_d219_k2",
-                "clause_num": "2",
-                "clause_content": "Người lao động quy định tại điểm đ và điểm e khoản 1 Điều 2 của Luật này khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên, bị suy giảm khả năng lao động từ 61% trở lên được hưởng lương hưu với mức thấp hơn so với người đủ điều kiện hưởng lương hưu quy định tại điểm a và điểm b khoản 2 Điều 54 của Luật này khi thuộc một trong các trường hợp sau đây: a) Có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động; b) Có đủ 15 năm trở lên làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành.”; c) Sửa đổi, bổ sung khoản 1 Điều 73 như sau: “1. Người lao động hưởng lương hưu khi có đủ các điều kiện sau đây: a) Đủ tuổi nghỉ hưu theo quy định tại khoản 2 Điều 169 của Bộ luật Lao động; b) Đủ 20 năm đóng bảo hiểm xã hội trở lên.”.",
-                "origin_clause": "2. Người lao động quy định tại điểm đ và điểm e khoản 1 Điều 2 của Luật này khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên, bị suy giảm khả năng lao động từ 61% trở lên được hưởng lương hưu với mức thấp hơn so với người đủ điều kiện hưởng lương hưu quy định tại điểm a và điểm b khoản 2 Điều 54 của Luật này khi thuộc một trong các trường hợp sau đây: a) Có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động; b) Có đủ 15 năm trở lên làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành.”; c) Sửa đổi, bổ sung khoản 1 Điều 73 như sau: “1. Người lao động hưởng lương hưu khi có đủ các điều kiện sau đây: a) Đủ tuổi nghỉ hưu theo quy định tại khoản 2 Điều 169 của Bộ luật Lao động; b) Đủ 20 năm đóng bảo hiểm xã hội trở lên.”.",
-                "points": [
-                  {
-                    "point_id": "ch17_d219_k2_a",
-                    "point_label": "a)",
-                    "point_content": "Có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động;",
-                    "origin_point": "a) Có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động;"
-                  },
-                  {
-                    "point_id": "ch17_d219_k2_b",
-                    "point_label": "b)",
-                    "point_content": "Có đủ 15 năm trở lên làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành.”;",
-                    "origin_point": "b) Có đủ 15 năm trở lên làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành.”;"
-                  },
-                  {
-                    "point_id": "ch17_d219_k2_c",
-                    "point_label": "c)",
-                    "point_content": "Sửa đổi, bổ sung khoản 1 Điều 73 như sau: “1. Người lao động hưởng lương hưu khi có đủ các điều kiện sau đây:",
-                    "origin_point": "c) Sửa đổi, bổ sung khoản 1 Điều 73 như sau: “1. Người lao động hưởng lương hưu khi có đủ các điều kiện sau đây:"
-                  },
-                  {
-                    "point_id": "ch17_d219_k2_a",
-                    "point_label": "a)",
-                    "point_content": "Đủ tuổi nghỉ hưu theo quy định tại khoản 2 Điều 169 của Bộ luật Lao động;",
-                    "origin_point": "a) Đủ tuổi nghỉ hưu theo quy định tại khoản 2 Điều 169 của Bộ luật Lao động;"
-                  },
-                  {
-                    "point_id": "ch17_d219_k2_b",
-                    "point_label": "b)",
-                    "point_content": "Đủ 20 năm đóng bảo hiểm xã hội trở lên.”.",
-                    "origin_point": "b) Đủ 20 năm đóng bảo hiểm xã hội trở lên.”."
-                  }
-                ]
-              },
-              {
-                "clause_id": "ch17_d219_k2",
-                "clause_num": "2",
-                "clause_content": "Sửa đổi, bổ sung Điều 32 của Bộ luật Tố tụng dân sự số 92/2015/QH13 như sau: a) Sửa đổi, bổ sung tên điều, khoản 1; bổ sung các khoản 1a, 1b và 1c vào sau khoản 1 như sau: “Điều 32. Những tranh chấp về lao động và tranh chấp liên quan đến lao động thuộc thẩm quyền giải quyết của Tòa án",
+                "clause_content": "Sửa đổi, bổ sung Điều 32 của Bộ luật Tố tụng dân sự số 92/2015/QH13 như sau: a) Sửa đổi, bổ sung tên điều, khoản 1; bổ sung các khoản 1a, 1b và 1c vào sau khoản 1 như sau: “Điều 32. Những tranh chấp về lao động và tranh chấp liên quan đến lao động thuộc thẩm quyền giải quyết của Tòa án 1. Tranh chấp lao động cá nhân giữa người lao động với người sử dụng lao động phải thông qua thủ tục hòa giải của hòa giải viên lao động mà hòa giải thành nhưng các bên không thực hiện hoặc thực hiện không đúng, hòa giải không thành hoặc hết thời hạn hòa giải theo quy định của pháp luật về lao động mà hòa giải viên lao động không tiến hành hòa giải, trừ các tranh chấp lao động sau đây không bắt buộc phải qua thủ tục hòa giải: a) Về xử lý kỷ luật lao động theo hình thức sa thải hoặc về trường hợp bị đơn phương chấm dứt hợp đồng lao động; b) Về bồi thường thiệt hại, trợ cấp khi chấm dứt hợp đồng lao động; c) Giữa người giúp việc gia đình với người sử dụng lao động; d) Về bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội, về bảo hiểm y tế theo quy định của pháp luật về bảo hiểm y tế, về bảo hiểm thất nghiệp theo quy định của pháp luật về việc làm, về bảo hiểm tai nạn lao động, bệnh nghề nghiệp theo quy định của pháp luật về an toàn, vệ sinh lao động; đ) Về bồi thường thiệt hại giữa người lao động với doanh nghiệp, tổ chức đưa người lao động đi làm việc ở nước ngoài theo hợp đồng; e) Giữa người lao động thuê lại với người sử dụng lao động thuê lại. 1a. Tranh chấp lao động cá nhân mà hai bên thỏa thuận lựa chọn Hội đồng trọng tài lao động giải quyết nhưng hết thời hạn theo quy định của pháp luật về lao động mà Ban trọng tài lao động không được thành lập, Ban trọng tài lao động không ra quyết định giải quyết tranh chấp hoặc một trong các bên không thi hành quyết định của Ban trọng tài lao động thì có quyền yêu cầu Tòa án giải quyết. 1b. Tranh chấp lao động tập thể về quyền theo quy định của pháp luật về lao động đã qua thủ tục hòa giải của hòa giải viên lao động mà hòa giải không thành, hết thời hạn hòa giải theo quy định của pháp luật về lao động mà hòa giải viên lao động không tiến hành hòa giải hoặc một trong các bên không thực hiện biên bản hòa giải thành thì có quyền yêu cầu Tòa án giải quyết. 1c. Tranh chấp lao động tập thể về quyền mà hai bên thỏa thuận lựa chọn Hội đồng trọng tài lao động giải quyết nhưng hết thời hạn theo quy định của pháp luật về lao động mà Ban trọng tài lao động không được thành lập, Ban trọng tài lao động không ra quyết định giải quyết tranh chấp hoặc một trong các bên không thi hành quyết định của Ban trọng tài lao động thì có quyền yêu cầu Tòa án giải quyết.”; b) Bãi bỏ khoản 2 Điều 32.",
                 "origin_clause": "2. Sửa đổi, bổ sung Điều 32 của Bộ luật Tố tụng dân sự số 92/2015/QH13 như sau: a) Sửa đổi, bổ sung tên điều, khoản 1; bổ sung các khoản 1a, 1b và 1c vào sau khoản 1 như sau: “Điều 32. Những tranh chấp về lao động và tranh chấp liên quan đến lao động thuộc thẩm quyền giải quyết của Tòa án",
                 "points": [
                   {
                     "point_id": "ch17_d219_k2_a",
                     "point_label": "a)",
-                    "point_content": "Sửa đổi, bổ sung tên điều, khoản 1; bổ sung các khoản 1a, 1b và 1c vào sau khoản 1 như sau: “Điều 32. Những tranh chấp về lao động và tranh chấp liên quan đến lao động thuộc thẩm quyền giải quyết của Tòa án",
-                    "origin_point": "a) Sửa đổi, bổ sung tên điều, khoản 1; bổ sung các khoản 1a, 1b và 1c vào sau khoản 1 như sau: “Điều 32. Những tranh chấp về lao động và tranh chấp liên quan đến lao động thuộc thẩm quyền giải quyết của Tòa án"
+                    "point_content": "Sửa đổi, bổ sung tên điều, khoản 1; bổ sung các khoản 1a, 1b và 1c vào sau khoản 1 như sau: “Điều 32. Những tranh chấp về lao động và tranh chấp liên quan đến lao động thuộc thẩm quyền giải quyết của Tòa án 1. Tranh chấp lao động cá nhân giữa người lao động với người sử dụng lao động phải thông qua thủ tục hòa giải của hòa giải viên lao động mà hòa giải thành nhưng các bên không thực hiện hoặc thực hiện không đúng, hòa giải không thành hoặc hết thời hạn hòa giải theo quy định của pháp luật về lao động mà hòa giải viên lao động không tiến hành hòa giải, trừ các tranh chấp lao động sau đây không bắt buộc phải qua thủ tục hòa giải: a) Về xử lý kỷ luật lao động theo hình thức sa thải hoặc về trường hợp bị đơn phương chấm dứt hợp đồng lao động; b) Về bồi thường thiệt hại, trợ cấp khi chấm dứt hợp đồng lao động; c) Giữa người giúp việc gia đình với người sử dụng lao động; d) Về bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội, về bảo hiểm y tế theo quy định của pháp luật về bảo hiểm y tế, về bảo hiểm thất nghiệp theo quy định của pháp luật về việc làm, về bảo hiểm tai nạn lao động, bệnh nghề nghiệp theo quy định của pháp luật về an toàn, vệ sinh lao động; đ) Về bồi thường thiệt hại giữa người lao động với doanh nghiệp, tổ chức đưa người lao động đi làm việc ở nước ngoài theo hợp đồng; e) Giữa người lao động thuê lại với người sử dụng lao động thuê lại. 1a. Tranh chấp lao động cá nhân mà hai bên thỏa thuận lựa chọn Hội đồng trọng tài lao động giải quyết nhưng hết thời hạn theo quy định của pháp luật về lao động mà Ban trọng tài lao động không được thành lập, Ban trọng tài lao động không ra quyết định giải quyết tranh chấp hoặc một trong các bên không thi hành quyết định của Ban trọng tài lao động thì có quyền yêu cầu Tòa án giải quyết. 1b. Tranh chấp lao động tập thể về quyền theo quy định của pháp luật về lao động đã qua thủ tục hòa giải của hòa giải viên lao động mà hòa giải không thành, hết thời hạn hòa giải theo quy định của pháp luật về lao động mà hòa giải viên lao động không tiến hành hòa giải hoặc một trong các bên không thực hiện biên bản hòa giải thành thì có quyền yêu cầu Tòa án giải quyết. 1c. Tranh chấp lao động tập thể về quyền mà hai bên thỏa thuận lựa chọn Hội đồng trọng tài lao động giải quyết nhưng hết thời hạn theo quy định của pháp luật về lao động mà Ban trọng tài lao động không được thành lập, Ban trọng tài lao động không ra quyết định giải quyết tranh chấp hoặc một trong các bên không thi hành quyết định của Ban trọng tài lao động thì có quyền yêu cầu Tòa án giải quyết.”;",
+                    "origin_point": "a) Sửa đổi, bổ sung tên điều, khoản 1; bổ sung các khoản 1a, 1b và 1c vào sau khoản 1 như sau: “Điều 32. Những tranh chấp về lao động và tranh chấp liên quan đến lao động thuộc thẩm quyền giải quyết của Tòa án 1. Tranh chấp lao động cá nhân giữa người lao động với người sử dụng lao động phải thông qua thủ tục hòa giải của hòa giải viên lao động mà hòa giải thành nhưng các bên không thực hiện hoặc thực hiện không đúng, hòa giải không thành hoặc hết thời hạn hòa giải theo quy định của pháp luật về lao động mà hòa giải viên lao động không tiến hành hòa giải, trừ các tranh chấp lao động sau đây không bắt buộc phải qua thủ tục hòa giải: a) Về xử lý kỷ luật lao động theo hình thức sa thải hoặc về trường hợp bị đơn phương chấm dứt hợp đồng lao động; b) Về bồi thường thiệt hại, trợ cấp khi chấm dứt hợp đồng lao động; c) Giữa người giúp việc gia đình với người sử dụng lao động; d) Về bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội, về bảo hiểm y tế theo quy định của pháp luật về bảo hiểm y tế, về bảo hiểm thất nghiệp theo quy định của pháp luật về việc làm, về bảo hiểm tai nạn lao động, bệnh nghề nghiệp theo quy định của pháp luật về an toàn, vệ sinh lao động; đ) Về bồi thường thiệt hại giữa người lao động với doanh nghiệp, tổ chức đưa người lao động đi làm việc ở nước ngoài theo hợp đồng; e) Giữa người lao động thuê lại với người sử dụng lao động thuê lại. 1a. Tranh chấp lao động cá nhân mà hai bên thỏa thuận lựa chọn Hội đồng trọng tài lao động giải quyết nhưng hết thời hạn theo quy định của pháp luật về lao động mà Ban trọng tài lao động không được thành lập, Ban trọng tài lao động không ra quyết định giải quyết tranh chấp hoặc một trong các bên không thi hành quyết định của Ban trọng tài lao động thì có quyền yêu cầu Tòa án giải quyết. 1b. Tranh chấp lao động tập thể về quyền theo quy định của pháp luật về lao động đã qua thủ tục hòa giải của hòa giải viên lao động mà hòa giải không thành, hết thời hạn hòa giải theo quy định của pháp luật về lao động mà hòa giải viên lao động không tiến hành hòa giải hoặc một trong các bên không thực hiện biên bản hòa giải thành thì có quyền yêu cầu Tòa án giải quyết. 1c. Tranh chấp lao động tập thể về quyền mà hai bên thỏa thuận lựa chọn Hội đồng trọng tài lao động giải quyết nhưng hết thời hạn theo quy định của pháp luật về lao động mà Ban trọng tài lao động không được thành lập, Ban trọng tài lao động không ra quyết định giải quyết tranh chấp hoặc một trong các bên không thi hành quyết định của Ban trọng tài lao động thì có quyền yêu cầu Tòa án giải quyết.”;"
+                  },
+                  {
+                    "point_id": "ch17_d219_k2_b",
+                    "point_label": "b)",
+                    "point_content": "Bãi bỏ khoản 2 Điều 32.",
+                    "origin_point": "b) Bãi bỏ khoản 2 Điều 32."
                   }
                 ]
-              },
-              {
-                "clause_id": "ch17_d219_k1",
-                "clause_num": "1",
-                "clause_content": "Tranh chấp lao động cá nhân giữa người lao động với người sử dụng lao động phải thông qua thủ tục hòa giải của hòa giải viên lao động mà hòa giải thành nhưng các bên không thực hiện hoặc thực hiện không đúng, hòa giải không thành hoặc hết thời hạn hòa giải theo quy định của pháp luật về lao động mà hòa giải viên lao động không tiến hành hòa giải, trừ các tranh chấp lao động sau đây không bắt buộc phải qua thủ tục hòa giải: a) Về xử lý kỷ luật lao động theo hình thức sa thải hoặc về trường hợp bị đơn phương chấm dứt hợp đồng lao động; b) Về bồi thường thiệt hại, trợ cấp khi chấm dứt hợp đồng lao động; c) Giữa người giúp việc gia đình với người sử dụng lao động; d) Về bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội, về bảo hiểm y tế theo quy định của pháp luật về bảo hiểm y tế, về bảo hiểm thất nghiệp theo quy định của pháp luật về việc làm, về bảo hiểm tai nạn lao động, bệnh nghề nghiệp theo quy định của pháp luật về an toàn, vệ sinh lao động; đ) Về bồi thường thiệt hại giữa người lao động với doanh nghiệp, tổ chức đưa người lao động đi làm việc ở nước ngoài theo hợp đồng; e) Giữa người lao động thuê lại với người sử dụng lao động thuê lại. 1a. Tranh chấp lao động cá nhân mà hai bên thỏa thuận lựa chọn Hội đồng trọng tài lao động giải quyết nhưng hết thời hạn theo quy định của pháp luật về lao động mà Ban trọng tài lao động không được thành lập, Ban trọng tài lao động không ra quyết định giải quyết tranh chấp hoặc một trong các bên không thi hành quyết định của Ban trọng tài lao động thì có quyền yêu cầu Tòa án giải quyết. 1b. Tranh chấp lao động tập thể về quyền theo quy định của pháp luật về lao động đã qua thủ tục hòa giải của hòa giải viên lao động mà hòa giải không thành, hết thời hạn hòa giải theo quy định của pháp luật về lao động mà hòa giải viên lao động không tiến hành hòa giải hoặc một trong các bên không thực hiện biên bản hòa giải thành thì có quyền yêu cầu Tòa án giải quyết. 1c. Tranh chấp lao động tập thể về quyền mà hai bên thỏa thuận lựa chọn Hội đồng trọng tài lao động giải quyết nhưng hết thời hạn theo quy định của pháp luật về lao động mà Ban trọng tài lao động không được thành lập, Ban trọng tài lao động không ra quyết định giải quyết tranh chấp hoặc một trong các bên không thi hành quyết định của Ban trọng tài lao động thì có quyền yêu cầu Tòa án giải quyết.”; b) Bãi bỏ khoản 2 Điều 32.",
-                "origin_clause": "1. Tranh chấp lao động cá nhân giữa người lao động với người sử dụng lao động phải thông qua thủ tục hòa giải của hòa giải viên lao động mà hòa giải thành nhưng các bên không thực hiện hoặc thực hiện không đúng, hòa giải không thành hoặc hết thời hạn hòa giải theo quy định của pháp luật về lao động mà hòa giải viên lao động không tiến hành hòa giải, trừ các tranh chấp lao động sau đây không bắt buộc phải qua thủ tục hòa giải: a) Về xử lý kỷ luật lao động theo hình thức sa thải hoặc về trường hợp bị đơn phương chấm dứt hợp đồng lao động; b) Về bồi thường thiệt hại, trợ cấp khi chấm dứt hợp đồng lao động; c) Giữa người giúp việc gia đình với người sử dụng lao động; d) Về bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội, về bảo hiểm y tế theo quy định của pháp luật về bảo hiểm y tế, về bảo hiểm thất nghiệp theo quy định của pháp luật về việc làm, về bảo hiểm tai nạn lao động, bệnh nghề nghiệp theo quy định của pháp luật về an toàn, vệ sinh lao động; đ) Về bồi thường thiệt hại giữa người lao động với doanh nghiệp, tổ chức đưa người lao động đi làm việc ở nước ngoài theo hợp đồng; e) Giữa người lao động thuê lại với người sử dụng lao động thuê lại.",
-                "points": null
               }
             ]
           },

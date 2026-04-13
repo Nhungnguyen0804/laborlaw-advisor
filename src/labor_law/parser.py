@@ -6,7 +6,7 @@ import pdfplumber
 import time
 import json
 from pathlib import Path
-from src.labor_law.extractor import extract_sections
+from src.labor_law.extractor import extract_blocks
 from src.utils.paths import TEST_DIR,LABORLAW_PDF,LABORLAW_STRUCTURE_JSON
 
 # preprocessing 
@@ -141,7 +141,7 @@ def parse_chapters(processed_lines):
     # CHƯƠNG
     chapter_pattern = re.compile(r"Chương\s+([IVXLCDM]+)")
     # Trích xuất chương
-    chapter_blocks  = extract_sections(processed_lines, chapter_pattern, "Chương") # list 
+    chapter_blocks  = extract_blocks(processed_lines, chapter_pattern, "Chương ") # list 
 
     chapter_no_section = []
 
@@ -170,7 +170,7 @@ def parse_chapters(processed_lines):
             'chapter_num': chapter_num,
             'chapter_roman': chapter_roman,
             'chapter_title': chapter_title,
-            'orgin_chapter': origin_chapter_title,
+            'origin_chapter': origin_chapter_title,
         }
         
         # parse mục trước, nếu k có mới parse điều 
@@ -190,13 +190,12 @@ def parse_chapters(processed_lines):
         structure["chapters"].append(chapter_obj)
     return structure
 
-
 #Mục 
 def parse_sections(chapter_lines,chapter_id,chapter_no_section):
  
     # Thử tìm mục
     section_pattern = re.compile(r"Mục\s+(\d+)")
-    section_blocks = extract_sections(chapter_lines,section_pattern, "Mục ")
+    section_blocks = extract_blocks(chapter_lines,section_pattern, "Mục ")
     
     # with open(TEST_DIR /"test_muc.txt", "a", encoding="utf-8") as f:
     #     for item in section_blocks:
@@ -218,8 +217,6 @@ def parse_sections(chapter_lines,chapter_id,chapter_no_section):
         section_num = section_number[0]
         # print(section_num)
 
-     
-  
         section_title = section_pattern.sub("", origin_section_title).strip()
         section_id = f'{chapter_id}_muc{section_num}'
 
@@ -240,12 +237,11 @@ def parse_sections(chapter_lines,chapter_id,chapter_no_section):
     
     return sections
 
-
 def parse_articles(lines,parent_id):
 
     articles = []
     article_pattern = re.compile(r"Điều\s+(\d+)")
-    article_blocks  = extract_sections(lines, article_pattern,'Điều ')
+    article_blocks  = extract_blocks(lines, article_pattern,'Điều ')
     
     for sentences in article_blocks :
         origin_article = sentences[0]
@@ -275,9 +271,9 @@ def parse_articles(lines,parent_id):
    
     return articles
      
-
 def parse_clauses(lines,article_id):
     len_lines = len(lines)
+
     if len_lines == 1:
         print(f'điều {article_id} ko có khoản !')
         return None # 1 câu là điều r
@@ -287,14 +283,14 @@ def parse_clauses(lines,article_id):
         clauses =[]
         clause_pattern = re.compile(r"^(\d+)\.\s+(.*)")
         point_pattern = re.compile(r"^([a-zđ]\))\s+(.*)") # lọc extra line 
-        clause_blocks = extract_sections(clauses_lines,clause_pattern , "")
+        clause_blocks = extract_blocks(clauses_lines,clause_pattern, None )
     
         # with open(TEST_DIR /"test_khoan.txt", "a", encoding="utf-8") as f:
         #     f.write(f"{article_id} ---> {len(clause_blocks)}\n")
         #     for block in clause_blocks:
         #         for item in block:
         #             f.write(f"{item}\n")
-           
+        
         for sentences in clause_blocks:
             if not sentences:
                 continue
@@ -326,46 +322,60 @@ def parse_clauses(lines,article_id):
 
             clauses.append(clause_obj)
         return clauses
-        
 
 def parse_points(lines, clause_id):
-    """Parse các điểm a), b), c)... trong một khoản"""
-    point_pattern = re.compile(r"^([a-zđ]\))\s+(.*)")
-    if len(lines) <= 1: # content chứa a b c chung 1 dòng
-        candidates = re.split(r'(?<!\w)(?=[a-zđ]\)\s)', lines[0]) # lấy dòng first, chia thành list, [a) ... , b) ... , c) ... ]
-    else:
-        candidates = lines[1:] # khoản nhiều dòng thì bỏ dòng đầu là title 
-
-    # lọc dòng là point 
-    sub_lines = []
-
-    for l in candidates:
-        l_clean = l.strip()
-        if point_pattern.match(l_clean): # check match với a) b) c) 
-            sub_lines.append(l_clean)
-
-    if not sub_lines:
-        return None
-
+    # Bỏ qua các a), b) nằm trong dấu nháy kép
+    text = ' '.join(lines)
     points = []
-    for line  in sub_lines:
-        match = point_pattern.match(line)
-        if not match:
+    
+    quote_depth = 0
+    current = ""
+ 
+
+    for index, char in enumerate(text):
+        if char in ('"', '\u201c'):   # mở quote
+            quote_depth += 1
+        elif char in ('"', '\u201d'): # đóng quote
+            quote_depth = max(0, quote_depth - 1)
+        
+        # Chỉ split điểm khi ko nằm trong quote + gặp pattern a) b) 
+        match = None
+        if quote_depth == 0:
+            match = re.match(r'[a-zđ]\)\s', text[index:])
+        
+        if match:
+            # nếu đang có đoạn cũ thì lưu lại 
+            if current:
+                points.append(current.strip())
+            # reset current
+            current =''
+
+        current += char 
+
+
+    # thêm đoạn cuối
+    if current:
+        points.append(current.strip())
+    # parse thành dict 
+    res = []
+    for point in points:
+        m = re.match(r'^([a-zđ]\))\s+(.*)', point,re.DOTALL)
+        if not m: 
             continue
 
-        point_label = match.group(1)           # "a)"
-        point_content = match.group(2).strip() # nội dung
+        point_label = m.group(1) # "a)"
+        point_content = m.group(2).strip() # nội dung
         point_id = f'{clause_id}_{point_label[0]}'  # "ch1_d5_k1_a"
 
-        points.append({
+        res.append({
             'point_id': point_id,
             'point_label': point_label,
             'point_content': point_content,
-            'origin_point': line,
+            'origin_point': point,
         })
 
 
-    return points if points else None
+    return res if res else None
   
 
 
@@ -428,7 +438,6 @@ def thongke(json_path):
     total_articles = 0
     total_clauses  = 0
     total_points   = 0
-    chapter_stats  = []
 
     for chapter in structure['structure']['chapters']:
         total_chapters += 1
@@ -461,14 +470,7 @@ def thongke(json_path):
         total_clauses  += ch_clauses
         total_points   += ch_points
 
-        chapter_stats.append({
-            'so': chapter.get('chapter_num'),
-            'ten': chapter.get('chapter_title', '')[:40],
-            'muc': ch_sections,
-            'dieu': ch_articles,
-            'khoan': ch_clauses,
-            'diem': ch_points,
-        })
+
     print("Chuong:", total_chapters)
     print("Muc:", total_sections)
     print("Dieu:", total_articles)
