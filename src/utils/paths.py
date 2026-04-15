@@ -5,10 +5,13 @@ DATA_DIR = ROOT_DIR / "data"
 RAW_DIR = DATA_DIR / "raw"
 LABORLAW_PDF = RAW_DIR / "laborlaw.pdf"
 
+# =====================================================================
 
 PROCESSED_DIR = DATA_DIR / "processed"
 LABORLAW_STRUCTURE_JSON = PROCESSED_DIR / 'laborlaw_structure.json'
 LABORLAW_CHUNKS_JSON = PROCESSED_DIR / 'laborlaw_chunks.json'
+LABORLAW_ENTITIES_JSON = PROCESSED_DIR / 'laborlaw_entities.json'
+# =====================================================================
 SRC_DIR = ROOT_DIR / "src"
 LABOR_LAW_DIR = RAW_DIR / "labor_law"
 
