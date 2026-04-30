@@ -11,15 +11,16 @@ PROCESSED_DIR = DATA_DIR / "processed"
 LABORLAW_STRUCTURE_JSON = PROCESSED_DIR / 'laborlaw_structure.json'
 LABORLAW_CHUNKS_JSON = PROCESSED_DIR / 'laborlaw_chunks.json'
 LABORLAW_ENTITIES_JSON = PROCESSED_DIR / 'laborlaw_entities.json'
+LABORLAW_ENTITIES_V1_JSON = PROCESSED_DIR / 'laborlaw_entities_v1.json'
+EMB_JSON = PROCESSED_DIR / 'laborlaw_embeddings.json'
+
+EMPTY_NER_GROUND_TRUTH_CSV = PROCESSED_DIR /'empty_ner_ground_truth.csv'
+NER_GROUND_TRUTH_CSV = PROCESSED_DIR /'ner_ground_truth.csv'
 # =====================================================================
 SRC_DIR = ROOT_DIR / "src"
 LABOR_LAW_DIR = RAW_DIR / "labor_law"
 
 TEST_DIR = ROOT_DIR / "test"
 TEST_DIR1 = ROOT_DIR / "test1"
-# print('ROOT_DIR: ',ROOT_DIR)
-# print('DATA_DIR: ',DATA_DIR)
-# print('--RAW_DIR: ',RAW_DIR)
-# print('--PROCESSED_DIR: ',PROCESSED_DIR)
-# print('SRC_DIR: ',SRC_DIR)
-# print('--LABOR_LAW_DIR: ',LABOR_LAW_DIR)
+
+

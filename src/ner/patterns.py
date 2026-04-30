@@ -1,0 +1,392 @@
+PATTERNS = { 
+    "CONDITION": [
+        r'khi\s+(.*?)\s+(?:thì|,)', #end ở thì
+        r'trường hợp\s+(.*?)\s+thì',  
+        r'trong trường hợp\s+(.*?)\s+thì',
+        r'trừ trường hợp\s+(.*?)\s+thì',
+        r'nếu\s+(.*?)\s+thì',
+        r'đối với\s+(.*?)\s+thì',
+
+        r'trường hợp\s+[^.\n;]+',  
+        r'trong trường hợp\s+[^.\n;]+',
+        r'trừ trường hợp\s+[^.\n;]+',   
+        r'sau\s+khi\s+[^.\n;]+',
+        r'trước\s+khi\s+[^.\n;]+',     
+        r'trước\s+(ngày|tháng|năm|giờ|phút|tuần)\s+[^.\n;]+',
+        r'kể từ\s+(ngày|tháng|năm|giờ|phút|tuần)\s+[^.\n;]+',
+
+        r'trong thời hạn\s+[^.\n;]+',  
+
+        r'khi\s+[^.\n;]+',        
+        r'đối\s+với\s+[^.\n;]+',  
+        r'nếu\s+[^.\n;]+', 
+        r'trừ các\s+[^.\n;]+', 
+        r'chỉ những\s+[^.\n;]+',
+        r'(?:(?<=^)|(?<=[\.,]\s))([^.\n]*?thì)',
+    ],
+
+        "LEGAL_ROLE": [
+        r"toàn\s+bộ\s+thành\s+viên\s+ban\s+lãnh\s+đạo\s+của\s+(?:các\s+)?tổ\s+chức\s+đại\s+diện\s+người\s+lao\s+động\s+tại\s+(?:các\s+)?doanh\s+nghiệp\s+tham\s+gia\s+thương\s+lượng",
+        r"toàn\s+bộ\s+người\s+sử\s+dụng\s+lao\s+động\s+và\s+người\s+lao\s+động\s+của\s+(?:các\s+)?doanh\s+nghiệp\s+tham\s+gia\s+thỏa\s+ước\s+lao\s+động\s+tập\s+thể",
+        r"toàn\s+bộ\s+người\s+lao\s+động\s+tại\s+(?:các\s+)?doanh\s+nghiệp\s+tham\s+gia\s+thương\s+lượng",
+        r"toàn\s+bộ\s+(?:thành\s+viên\s+ban\s+lãnh\s+đạo\s+của\s+)?(?:các\s+)?tổ\s+chức\s+đại\s+diện\s+người\s+lao\s+động\s+tại\s+(?:các\s+)?doanh\s+nghiệp(?:\s+tham\s+gia\s+thương\s+lượng)?",
+        r"toàn\s+bộ\s+người\s+lao\s+động\s+(?:trong|tại|của)\s+(?:các\s+)?doanh\s+nghiệp(?:\s+tham\s+gia\s+thương\s+lượng)?",
+        r"toàn\s+bộ\s+người\s+lao\s+động\s+trong\s+doanh\s+nghiệp",
+        r"toàn\s+bộ\s+người\s+lao\s+động\s+của\s+doanh\s+nghiệp",
+        r"toàn\s+bộ\s+người\s+sử\s+dụng\s+lao\s+động",
+
+        r"người\s+lao\s+động\s+là\s+người\s+nước\s+ngoài\s+làm\s+việc\s+tại\s+việt\s+nam",
+        r"người\s+lao\s+động\s+nước\s+ngoài\s+làm\s+việc\s+tại\s+việt\s+nam",
+
+        
+        r"người\s+sử\s+dụng\s+lao\s+động,\s+người\s+lao\s+động,\s+bao\s+gồm\s+cả\s+người\s+lao\s+động\s+vào\s+làm\s+việc\s+sau\s+ngày\s+thỏa\s+ước\s+lao\s+động\s+tập\s+thể\s+có\s+hiệu\s+lực",
+        r"người\s+lao\s+động\s+vào\s+làm\s+việc\s+sau\s+ngày\s+thỏa\s+ước\s+lao\s+động\s+tập\s+thể\s+có\s+hiệu\s+lực",
+        r"người\s+lao\s+động\s+của\s+các\s+doanh\s+nghiệp\s+tham\s+gia\s+thỏa\s+ước\s+lao\s+động\s+tập\s+thể",
+        r"người\s+lao\s+động\s+tại\s+một\s+đơn\s+vị\s+sử\s+dụng\s+lao\s+động",
+        r"người\s+lao\s+động\s+làm\s+việc\s+không\s+trọn\s+thời\s+gian",
+        r"người\s+lao\s+động\s+làm\s+việc\s+trọn\s+thời\s+gian",
+        r"người\s+lao\s+động\s+là\s+người\s+nước\s+ngoài",
+        r"người\s+lao\s+động\s+là\s+người\s+khuyết\s+tật",
+        r"người\s+lao\s+động\s+của\s+doanh\s+nghiệp",
+        r"người\s+lao\s+động\s+nước\s+ngoài",
+        r"người\s+lao\s+động\s+thuê\s+lại",
+        r"người\s+lao\s+động\s+cao\s+tuổi",
+        r"người\s+lao\s+động\s+nhập\s+ngũ",
+        r"người\s+lao\s+động\s+của\s+mình",
+    
+        r"lao\s+động\s+nữ\s+sinh\s+đôi\s+trở\s+lên",
+        r"lao\s+động\s+nữ\s+mang\s+thai",   
+        r"lao\s+động\s+chưa\s+thành\s+niên", 
+        r"lao\s+động\s+(?:nữ|nam|trẻ\s+em)",
+    
+        r"(?:nhiều\s+)?tổ\s+chức\s+đại\s+diện\s+(?:của\s+)?người\s+lao\s+động\s+(?:tại|ở)\s+(?:doanh\s+nghiệp|cơ\s+sở)",
+        r"các\s+tổ\s+chức\s+đại\s+diện\s+người\s+lao\s+động\s+tại\s+(?:các\s+)?doanh\s+nghiệp\s+tham\s+gia\s+thương\s+lượng",
+        r"thành\s+viên\s+ban\s+lãnh\s+đạo\s+của\s+tổ\s+chức\s+đại\s+diện\s+người\s+lao\s+động\s+tại\s+cơ\s+sở",
+        r"tổ\s+chức\s+đại\s+diện\s+người\s+(?:sử\s+dụng\s+)?lao\s+động",
+        r"tổ\s+chức\s+đại\s+diện\s+người\s+lao\s+động\s+tại\s+cơ\s+sở",
+        r"tổ\s+chức\s+đại\s+diện\s+cấp\s+trên\s+của\s+mình",
+
+        r"người\s+sử\s+dụng\s+lao\s+động\s+không\s+phải\s+là\s+cá\s+nhân",
+        r"người\s+sử\s+dụng\s+lao\s+động\s+không\s+phải\s+là\s+([^\n.,;]+)",
+        r"người\s+sử\s+dụng\s+lao\s+động\s+thuê\s+lại",
+        r"đơn\s+vị\s+sử\s+dụng\s+lao\s+động",
+        r"một\s+đơn\s+vị\s+sử\s+dụng\s+lao\s+động",
+
+        r"doanh\s+nghiệp\s+chưa\s+tham\s+gia\s+thỏa\s+ước\s+lao\s+động\s+tập\s+thể\s+ngành\s+hoặc\s+thỏa\s+ước\s+lao\s+động\s+tập\s+thể\s+có\s+nhiều\s+doanh\s+nghiệp",
+        r"doanh\s+nghiệp,\s+tổ\s+chức\s+đưa\s+người\s+lao\s+động\s+đi\s+làm\s+việc\s+ở\s+nước\s+ngoài",
+        r"doanh\s+nghiệp\s+cho\s+thuê\s+lại\s+lao\s+động",
+        r"doanh\s+nghiệp\s+tham\s+gia\s+thương\s+lượng",
+        
+        r"cơ\s+quan,\s+tổ\s+chức,\s+cá\s+nhân\s+có\s+thẩm\s+quyền\s+giải\s+quyết\s+tranh\s+chấp\s+lao\s+động",
+        r"cơ\s+quan\s+chuyên\s+môn\s+về\s+lao\s+động\s+thuộc\s+ủy\s+ban\s+nhân\s+dân\s+cấp\s+tỉnh",
+        r"cơ\s+quan,\s+tổ\s+chức,\s+cá\s+nhân\s+có\s+liên\s+quan",
+        r"cơ\s+quan\s+(?:nhà\s+nước|quản\s+lý|thanh\s+tra)",
+        r"cơ\s+quan\s+nhà\s+nước\s+có\s+thẩm\s+quyền",
+        r"cơ\s+quan\s+có\s+thẩm\s+quyền",
+        
+        r"cơ\s+sở\s+khám\s+bệnh\s*[,،]?\s*chữa\s+bệnh\s+có\s+thẩm\s+quyền",
+
+        r"cá\s+nhân\s+có\s+thẩm\s+quyền\s+giải\s+quyết\s+tranh\s+chấp\s+lao\s+động",
+        r"cá\s+nhân\s+có\s+thẩm\s+quyền", 
+        r"cá\s+nhân\s+có\s+liên\s+quan",
+        
+        r"người\s+có\s+hành\s+vi\s+trù\s+dập,\s+trả\s+thù\s+người\s+tham\s+gia\s+đình\s+công",
+        r"người\s+có\s+hành\s+vi\s+cản\s+trở\s+thực\s+hiện\s+quyền\s+đình\s+công",
+
+        r"người\s+lãnh\s+đạo\s+cuộc\s+đình\s+công",
+        r"người\s+lợi\s+dụng\s+đình\s+công",
+
+        r"đại\s+diện\s+thương\s+lượng\s+tập\s+thể\s+của\s+mỗi\s+bên",
+        r"đại\s+diện\s+thương\s+lượng",
+
+        r"hội\s+đồng\s+trọng\s+tài\s+lao\s+động",
+        r"ban\s+trọng\s+tài\s+lao\s+động",
+        r"hòa\s+giải\s+viên\s+lao\s+động",
+
+        r"hai\s+bên\s+tranh\s+chấp",
+        r"các\s+bên\s+tranh\s+chấp",
+        r"bên\s+tranh\s+chấp",
+
+
+        r"tổ\s+chức\s+đưa\s+người\s+lao\s+động\s+đi\s+làm\s+việc\s+ở\s+nước\s+ngoài\s+theo\s+hợp\s+đồng",
+        r"tổ\s+chức\s+đưa\s+người\s+lao\s+động\s+đi\s+làm\s+việc\s+ở\s+nước\s+ngoài",
+
+        r"hệ\s+thống\s+tổ\s+chức\s+công\s+đoàn\s+việt\s+nam",
+        r"tổ\s+chức\s+công\s+đoàn\s+việt\s+nam",
+
+        r"bộ\s+trưởng\s+bộ\s+lao\s+động\s+-\s+thương\s+binh\s+và\s+xã\s+hội",
+        r"bộ\s+lao\s+động\s+-\s+thương\s+binh\s+và\s+xã\s+hội",
+
+        r"thành\s+viên\s+góp\s+vốn\s+của\s+công\s+ty\s+trách\s+nhiệm\s+hữu\s+hạn",
+        
+        r"người(?:\s+\w+)*\s+từ\s+đủ\s+\d+\s+tuổi\s+đến\s+chưa\s+đủ\s+\d+\s+tuổi",
+        r"người(?:\s+\w+)*\s+từ\s+đủ\s+\d+\s+tuổi\s+trở\s+lên",
+        r"người(?:\s+\w+)*\s+chưa\s+đủ\s+\d+\s+tuổi",
+
+        
+        r"bên\s+(?:thuê|cho\s+thuê)\s+lao\s+động",
+        r"người\s+(?:học|tập)\s+nghề",
+        r"người\s+quản\s+lý\s+doanh\s+nghiệp",
+        r"(?:chủ|chủ\s+sử\s+dụng)\s+lao\s+động",
+        r"công\s+đoàn\s+cơ\s+sở",
+        r"tòa\s+án\s+nhân\s+dân",
+        r"người\s+đại\s+diện",
+        r"người\s+làm\s+chứng",
+        r"người\s+có\s+liên\s+quan",
+        r"người\s+mẹ",
+        r"hợp\s+tác\s+xã",
+        r"hộ\s+gia\s+đình",
+        r"chủ\s+sở\s+hữu",
+        r"tòa\s+án",
+        r"chính\s+phủ",
+
+        r"người\s+sử\s+dụng\s+lao\s+động",
+        r"người\s+lao\s+động",
+        r"(?:doanh\s+nghiệp|công\s+ty)",
+        r"nhiều\s+doanh\s+nghiệp",
+        r"mỗi\s+bên\s+thương\s+lượng\s+tập\s+thể",
+        r"các\s+bên\s+đàm\s+phán",
+       
+    ],
+
+
+        "ACTION": [
+    r'trả\s+cho\s+(.+?)\s+khoản tiền\s+.+?(?=\s+để\b)',
+    r'làm việc\s+.+?(?=\s+quy định tại\b)',
+    
+    r'ngừng đình công[^.\n;]*',
+    r'tạm hoãn[^.,\n;]*',
+    r'tạm đình chỉ[^.,\n;]*',
+    r'hoãn[^.,\n;]*',
+    r'đình chỉ[^.,\n;]*',
+
+    r'thương lượng[^.\n;]*',
+    r'kiểm tra[^.\n;]+',
+    r'điều tra\s+[^.\n;]+', 
+    r'tuân theo\s+[^.\n;]+', 
+    r'tiếp tục lao động\s+[^.\n;]+',
+    r'quan tâm\s+[^.\n;]+',
+    r'đơn phương chấm dứt\s+[^.\n;]+',
+    r'nâng cao trách nhiệm\s+[^.\n;]+', 
+    r'thực hiện\s+[^.\n;]+', 
+    r'thuê mướn[^.\n;]+', 
+    r'chấp hành\s+[^.\n;]+',
+    r'lợi dụng\s+[^.\n;]+',  
+    # r'sử dụng\s+[^.\n;]+', # người sử dụng lao động thì sao
+    r'xâm phạm\s+[^.\n;]+', 
+    r'thanh toán\s+[^.\n;]+',
+    r'thỏa thuận\s+[^.\n;]+',  
+    r'yêu cầu\s+[^.\n;]+', 
+    r'tự ý\s+[^.\n;]+', 
+    r'cản trở\s+[^.\n;]+', 
+    r'thông báo[^.\n;]+', 
+    r'cung cấp\s+[^.\n;]+', 
+    r'bảo đảm\s+[^.\n;]+', 
+    r'lấy ý kiến\s+[^.\n;]+', 
+    r'gây mất trật tự[^.\n;]+', 
+    r'trù dập[^.\n;]+', 
+    r'giải quyết tranh chấp\s+[^.\n;]+', 
+    r"giải quyết thông qua\s+[^.\n;]+",
+
+    r'lập biên bản\s+[^.\n;]+', 
+    r'ra quyết định\s+[^.\n;]+', 
+    r'yêu cầu tòa án\s+[^.\n;]+', 
+    r'lãnh đạo cuộc đình công\s+[^.\n;]+', 
+    r'phân biệt đối xử\s+[^.\n;]+', 
+    r'bảo vệ\s+[^.\n;]+', 
+    r'làm việc vào[^.\n;]+', 
+    r'làm việc ở[^.\n;]+', 
+    r'làm việc ban đêm[^.\n;]+', 
+    r'làm việc ban ngày[^.\n;]+',
+    r'làm thêm giờ[^.\n;]+',  
+    r'làm nghề[^.\n;]+',  
+    r'bố trí cho[^.\n;]+', 
+    
+    r'giao việc[^.\n;]+',  
+    r'tạm đình chỉ[^.\n;]+', 
+    r'tiếp tục lao động[^.\n;]+', 
+    
+    # r'làm việc\s+[^.\n;]+', 
+    r'dùng\s+[^.\n;]+',
+
+
+     
+    ],
+    "LEGAL_CONCEPT": [
+        r"hợp đồng lao động(?:\s+(?:(?:xác định|không xác định)\s+thời\s+hạn|vô hiệu))?",
+        r"chấm dứt hợp đồng lao động",
+        r"thỏa ước lao động tập thể(?:\s+(?:ngành|doanh nghiệp|có nhiều doanh nghiệp))?",
+        r"thỏa ước lao động tập thể",
+        r"(?:(tiền|mức|bảng|thang)\s+)?lương(?:\s+(?:tối thiểu|cơ bản|thử việc|hưu))?",
+        r"(nội quy|tai nạn|cưỡng bức|năng suất|định mức|an toàn, vệ sinh|quan hệ cung, cầu) lao động",
+        r"(luật|vi phạm|thanh tra) an toàn, vệ sinh lao động",
+        r"bảo hiểm(?:\s+(?:xã hội|y tế|thất nghiệp))",
+        r'hòa giải tranh chấp lao động',
+        r"(?:giải quyết tranh chấp|tranh chấp)",
+        r"(?: (?:thôi|mất)\s+việc | việc\s+làm )",
+        r"thời\s+giờ\s+làm\s+việc",
+        r"nghỉ\s+(?:phép\s+năm|thai\s+sản|ốm\s+đau|lễ)",
+        r'trợ cấp\s+.+?(?=\s+(theo|trừ trường hợp|trường hợp)\b)',
+        r'trợ cấp(?:\s+thôi việc)',
+        r"quyền\s+(?:lợi|và\s+nghĩa\s+vụ)",
+        r"điều\s+kiện\s+làm\s+việc",
+        r"quan\s+hệ\s+lao\s+động",
+        r"năng\s+lực\s+hành\s+vi\s+dân\s+sự\s+đầy\s+đủ",
+        r"trách\s+nhiệm\s+xã\s+hội",
+        r"hoạt\s+động\s+trái\s+pháp\s+luật",
+        r"khoản tiền bồi thường\s+([^\n.;]+)",
+        r"vấn đề khác liên quan\s+(.+?)(?=\s+mà|[.;\n]|$)",
+        r"dịch vụ việc làm",
+        r"thất nghiệp",
+        r"nghĩa vụ",
+        r"bồi thường",
+        r"mua bán người",
+        r"thương lượng tập thể",
+        r'vi phạm pháp luật',
+        r'hành vi trái pháp luật',
+        r'bóc lột',
+
+
+    ],
+
+     "LEGAL_REF": [
+        r"(?:các\s+)?điểm\s+([^\n.;]+)",
+        r"(?:các\s+)?khoản\s+([^\n.;]+)",
+        r"(?:các\s+)?chương\s+([^\n.;]+)",
+        r"(?:các\s+)?điều\s+([^\n.;]+)",
+        r"(?:các\s+)?mục\s+([^\n.;]+)",
+        r"(?:các\s+)?bộ luật\s+([^\n.;]+)",
+        r"(?:các\s+)?(?:luật|nghị định|thông tư|quyết định)\s+([^\n.;]+)",
+        r"(?:quy\s+định|hướng\s+dẫn|theo)\s+tại\s+(?:điều|khoản|điểm)\s+[\w\s,]+",
+        r"căn\s+cứ\s+(?:điều|khoản|điểm)\s+[\w\s,]+",
+    ],
+
+    "OBLIGATION": [
+    r"có\s+(?:trách\s+nhiệm|nghĩa\s+vụ)[^.\n;:]+",
+    r"thì\s+phải\s+[^.\n;]+",
+    r"phải\s+[^.\n;]+",
+    r"thì\s+[^.\n;]+",
+    r"không\sphải\s+[^.\n;]+",    
+    r"bắt\s+buộc\s+phải[^.\n;:]+",
+    r"cần\s+(?:phải|có)[^.\n;:]+",
+
+    r"phải\s+được[^.\n;:]+",
+    r"có\s+trách\s+nhiệm[^.\n;:]+",
+
+    r"bắt\s+buộc\s+[^.\n;:]+",  # bắt buộc ... :
+    r"có\s+nghĩa\s+vụ\s+phải[^.\n;:]+",   
+],
+
+"PENALTY": [
+    r"bị\s+(?:xử\s+phạt|sa\s+thải|kỷ\s+luật)\s+(?:.+?(?=\s+nếu|mà)|[^.\n;]+)",
+    r"phải bồi thường\s+(?:.+?(?=\s+nếu)|[^.\n;]+)",
+    r"bị xử lý\s+(?:.+?(?=\s+nếu)|[^.\n;]+)",
+    r"phải hoàn trả\s+(?:.+?(?=\s+nếu)|[^.\n;]+)",
+    r"bị kết án phạt tù\s+(?:.+?(?=\s+nếu)|[^.,\n;]+)",
+    r"bị cấm làm công việc\s+(?:.+?(?=\s+nếu)|[^.\n;]+)",
+    r"bị tạm đình chỉ\s+(?:.+?(?=\s+nếu)|[^.,\n;]+)",
+    r"bị trục xuất\s+(?:.+?(?=\s+nếu)|[^.\n;]+)",
+    r"bị buộc xuất cảnh\s+(?:.+?(?=\s+nếu)|[^.\n;]+)",
+    r"bị xử lý kỷ luật lao động(?:.+?(?=\s+nếu)|[^.,\n;]+)",
+    # r"phải trả tiền lương\s+(?:.+?(?=\s+nếu)|[^.\n;]+)",
+    r"bị truy cứu trách nhiệm hình sự(?:.+?(?=\s+nếu)|[^.,\n;]+)",
+    r"bị thu hồi đăng ký(?:.+?(?=\s+nếu)|[^.\n;]+)",
+    r"tử hình\s+(?:.+?(?=\s+nếu)|[^.\n;]+)",
+    r'bị xử lý kỷ luật lao động',
+    r'bị truy cứu trách nhiệm hình sự',
+    r'bị xử phạt+([^.\n;]+)',
+    r'truy cứu trách nhiệm hình sự',
+    r'bị khiển trách+([^.\n;]+)',
+    
+    
+],
+       "PROCEDURE": [
+           r"theo trình tự\s+[^.\n;]+",
+           r"theo quy trình\s+[^.\n;]+",
+           r"theo thủ tục\s+[^.\n;]+",
+           r"thủ tục\s+[^.\n;]+",
+           r"quy trình\s+[^.\n;]+",
+           r"trình tự[^.\n;]+",
+           
+          
+       ],
+
+
+       "PROCEDURE": [
+           r"theo trình tự\s+[^.\n;]+",
+           r"theo quy trình\s+[^.\n;]+",
+           r"theo thủ tục\s+[^.\n;]+",
+           r"thủ tục\s+[^.\n;]+",
+           r"quy trình\s+[^.\n;]+",
+           r"trình tự[^.\n;]+",
+           
+          
+       ],
+    "PROHIBITION": [
+    r"thì\s+không\s+được\s+[^.\n;]+",
+    r"không\s+được\s+(?:quá|vượt\s+quá)\s+[^.\n;:]+", 
+    r"không\s+(?:được\s+)?phép[^.\n;:]*",
+    r"không\s+được[^.\n;:]*",
+    r"không\s+(?:quá|vượt\s+quá)\s+[^.\n;:]+", 
+    r"cấm\s+(?:không\s+)?[^.\n;:]*",
+    r"nghiêm\s+cấm[^.\n;:]*",
+
+],
+       "PURPOSE": [
+            r"nhằm mục đích\s+[^.\n;]+",
+            r"nhằm\s+[^.\n;]+",
+            r"để\s+[^.\n;]+",
+       ],
+
+      "RIGHT": [
+        r"thì\s+được\s+[^.\n;]+",
+        r"thì\s+có\s+thể\s+[^.\n;]+",
+        r"thì\s+có\s+quyền\s+[^.\n;]+",
+        r"có\s+quyền[^.\n;]+",
+        r"quyền\s+(?:được|hưởng|về|yêu\s+cầu)[^.\n;]+",
+        r"được\s+(?:phép|quyền)[^.\n;]+",
+        r"được\s+trả(?:\s+thêm)?[^.\n;]+",
+        r"được\s+trợ\s+cấp[^.\n;]+",
+        r"được\s+cung\s+cấp[^.\n;]+",
+        r"được\s+nghỉ[^.\n;]+",
+        r"được\s+hưởng[^.\n;]+",
+        r"được\s+yêu\s+cầu[^.\n;]+",
+        r"được\s+tham\s+gia[^.\n;]+",
+        r"được\s+bồi\s+thường[^.\n;]+",
+        r"được\s+bảo\s+vệ[^.\n;]+",
+        r"được\s+đảm\s+bảo[^.\n;]+",
+        r"được\s+học[^.\n;]+",
+        r"được\s+làm[^.\n;]+",
+        r"được\s+gia\s+hạn[^.\n;]+",
+        r"được\s+tính[^.\n;]+",
+        r"được\s+(?:người\s+sử\s+dụng\s+lao\s+động\s+)[^.\n;]+",
+        
+        r"không\s+bị[^.\n;]+",
+    ],
+
+
+        "TIME_PERIOD": [
+        r"trong\s+thời\s+hạn\s+0*(\d+)\s+(ngày|tháng|năm|giờ|phút|tuần)\s+làm\s+việc",
+        r"trong\s+thời\s+hạn\s+0*(\d+)\s+(ngày|tháng|năm|giờ|phút|tuần)",
+
+        r"từ\s+0*(\d+)\s+(ngày|tháng|năm|giờ|phút|tuần)\s+làm\s+việc\s+liên\s+tục\s+trở\s+lên",
+        r"từ\s+0*(\d+)\s+(ngày|tháng|năm|giờ|phút|tuần)\s+trở\s+lên",
+        r"từ\s+0*(\d+)\s+(ngày|tháng|năm|giờ|phút|tuần)\s+đến\s+0*(\d+)\s+(ngày|tháng|năm|giờ|phút|tuần)",
+
+        r"ít\s+nhất\s+bằng\s+0*(\d+)\s+(ngày|tháng|năm|giờ|phút|tuần)",
+        r"nhiều\s+nhất\s+bằng\s+0*(\d+)\s+(ngày|tháng|năm|giờ|phút|tuần)",
+        r"tối\s+đa\s+không\s+quá\s+0*(\d+)\s+(ngày|tháng|năm|giờ|phút|tuần)",
+        r"tối\s+thiểu\s+không\s+quá\s+0*(\d+)\s+(ngày|tháng|năm|giờ|phút|tuần)",
+
+        r"không\s+được\s+quá\s+(\d+)\s+(ngày|tháng|năm|giờ|phút|tuần)",
+        r"không\s+quá\s+(\d+)\s+(ngày|tháng|năm|giờ|phút|tuần)",
+
+        r"0*(\d+)\s+(ngày|tháng|năm|giờ|phút|tuần)",
+
+        r"hàng\s+năm",
+        r"hằng\s+năm",
+
+    ],
+ }
+
+

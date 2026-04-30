@@ -4,4 +4,8 @@ constants.py
 data/raw/downloaded_pdf
 data/raw/downloaded_pdf.zip
 
+.env
 # src/chunking/legal_chunker.py
+src/ner/eval.py
+src/ner/regex_ner 26-4.py
+src/ner/regex_ner copy.py
