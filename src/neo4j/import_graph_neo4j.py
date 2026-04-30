@@ -9,6 +9,7 @@ NEO4J_URI = os.getenv("NEO4J_URI")
 NEO4J_USER = os.getenv("NEO4J_USER")
 NEO4J_PASS = os.getenv("NEO4J_PASS")
 NODE_CSV = 'src/neo4j/data_dir/nodes.csv'
+EDGE_CSV = 'src/neo4j/data_dir/edges.csv'
 def get_neo4j_driver(uri, user, password):
     # tu thu vien neo4j
     # lấy object kết nối Neo4j
@@ -122,8 +123,8 @@ def verify(driver):
 
 def import_neo4j():
     driver = get_neo4j_driver(NEO4J_URI, NEO4J_USER, NEO4J_PASS)
-    node_path = 'src/neo4j/data_dir/nodes.csv'
-    edge_path = 'src/neo4j/data_dir/edges.csv'
+    node_path = NODE_CSV
+    edge_path = EDGE_CSV
     try:
         create_constraints(driver)
         import_nodes(driver, node_path)
