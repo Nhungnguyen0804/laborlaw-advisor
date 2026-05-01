@@ -12,7 +12,7 @@ def rrf(rankings, k=60):
     
     return dict(scores)
 
-def rrf_fusion(bm25_results, semantic_results):
+def rrf_fusion(bm25_results, semantic_results,topk):
     if not bm25_results and not semantic_results:
         print("kết quả bm25 và semantic đang rỗng")
         return []
@@ -61,28 +61,77 @@ def rrf_fusion(bm25_results, semantic_results):
 
     # lấy top 10 rff 
     len_res = len(final_results)
-    return final_results[:10] # lấy top 10 first 
+    return final_results[:topk] # lấy top 10 first 
 
 
+def run_rrf():
+    print('run rrf!')
+    from src.retrieval.bm25 import bm25_search
+    from src.retrieval.semantic import semantic_search
 
-from src.retrieval.bm25 import bm25_search
-from src.retrieval.semantic import semantic_search
-
-bm25_topk = 50
-semantic_topk = 50
-
-
-question = "người lao động được nghỉ phép bao nhiêu ngày"
-bm25_results = bm25_search(question)
-semantic_results = semantic_search(question)
-rrf_results = rrf_fusion(bm25_results, semantic_results)
+    bm25_topk = 50
+    semantic_topk = 50
 
 
-output_path = 'src/retrieval/rrf.txt'
+    question = "người lao động được nghỉ phép bao nhiêu ngày"
+    bm25_results = bm25_search(question,bm25_topk)
+    semantic_results = semantic_search(question,semantic_topk)
+    rrf_results = rrf_fusion(bm25_results, semantic_results)
 
-with open(output_path, 'w', encoding='utf-8') as f:
-    f.write(question + '\n')
-    
+
+    output_path = 'src/retrieval/rrf.txt'
+
+    with open(output_path, 'w', encoding='utf-8') as f:
+        f.write(question + '\n')
+        
+        for doc in rrf_results:
+            line = f"chunk_id: {doc['chunk_id']}'\n'-->rrf_score: {doc['rrf_score']}\n -->content {doc['content']}\n"
+            f.write(line)
+
+# run_rrf()
+
+def rrf_with_ner():
+    # rrf --> top k --> ner ---> ent 
+    from src.retrieval.bm25 import bm25_search
+    from src.retrieval.semantic import semantic_search
+    from src.ner.ner_re import process_chunk
+    from src.utils.file_utils import save_json
+
+    bm25_topk = 50
+    semantic_topk = 50
+    rrf_topk = 10
+
+    question = "người lao động được nghỉ phép bao nhiêu ngày"
+    bm25_results = bm25_search(question,bm25_topk)
+    semantic_results = semantic_search(question,semantic_topk)
+    rrf_results = rrf_fusion(bm25_results, semantic_results,rrf_topk) 
+
+    # NER trên từng chunk
+    ner_results = []
     for doc in rrf_results:
-        line = f"chunk_id: {doc['chunk_id']}'\n'-->rrf_score: {doc['rrf_score']}\n -->content {doc['content']}\n"
-        f.write(line)
+        # dict theo format process_chunk()
+        chunk = {
+            'chunk_id': doc['chunk_id'],
+            'chunk_type': doc.get('chunk_type', 'unknown'),
+            'content': doc['content']
+        }
+        
+        # Xử lý NER + RE
+        ner_result = process_chunk(chunk)
+        ner_result['rrf_score'] = doc['rrf_score']  
+        ner_results.append(ner_result)
+
+
+    #save results
+    output = {
+        'question': question,
+        'total_results': len(ner_results),
+        'results': ner_results
+    }
+
+    save_json(output, 'src/retrieval/rrf_ner.json')
+
+    return ner_results
+
+
+rrf_with_ner()
