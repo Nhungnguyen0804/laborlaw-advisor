@@ -45,7 +45,7 @@ def import_chunks_with_embeddings(driver, json_path, batch_size=100):
         chunks = json.load(f)
     
     total = len(chunks)
-    print(f"Importing {total} chunks với embeddings...")
+    print(f"Importing {total} chunks với embeddings")
     
     query = """
     UNWIND $batch AS row
