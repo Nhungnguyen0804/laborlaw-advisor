@@ -1,8 +1,9 @@
-from neo4j import GraphDatabase
+
 import json
 from tqdm import tqdm
 import os
 from dotenv import load_dotenv
+from src.neo4j.connection import get_driver
 from src.utils.paths import EMB_JSON
 load_dotenv()
 NEO4J_URI = os.getenv("NEO4J_URI")
@@ -10,9 +11,6 @@ NEO4J_USER = os.getenv("NEO4J_USER")
 NEO4J_PASS = os.getenv("NEO4J_PASS")
 
 EMBEDDING_JSON = EMB_JSON
-
-def get_neo4j_driver(uri, user, password):
-    return GraphDatabase.driver(uri, auth=(user, password))
 
 def create_vector_index(driver):
     # Tạo vector index cho Chunk nodes
@@ -111,10 +109,10 @@ def verify_embeddings(driver):
 
 def import_embeddings():
 
-    driver = get_neo4j_driver(NEO4J_URI, NEO4J_USER, NEO4J_PASS)
+    driver = get_driver(NEO4J_URI, NEO4J_USER, NEO4J_PASS)
     
     try:
-  
+        
         create_vector_index(driver)
         import_chunks_with_embeddings(driver, EMBEDDING_JSON)
         link_chunks_to_entities(driver)

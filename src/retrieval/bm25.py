@@ -50,9 +50,11 @@ def bm25_search(question, top_k=10):
 
 
 # run 
+
 # question = "người lao động được nghỉ phép bao nhiêu ngày"
+# print(question)
 # results = bm25_search(question)
 
-# print(results)
-# print(type(results))
+# for res in results:
+#     print(res)
 

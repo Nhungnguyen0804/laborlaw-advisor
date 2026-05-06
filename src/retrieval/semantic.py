@@ -59,7 +59,8 @@ def semantic_search(question, top_k=10):
 
 # run
 # question = "người lao động được nghỉ phép bao nhiêu ngày"
-
+# print(question)
 # results = semantic_search(question)
 
-# print(results)
+# for r in results:
+#     print(r)

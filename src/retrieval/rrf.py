@@ -29,21 +29,31 @@ def rrf_fusion(bm25_results, semantic_results,topk):
         chunk_id = doc["chunk_id"]
         if chunk_id not in doc_map:
             doc_map[chunk_id] = doc.copy()
+            # Xóa score và rank của bm25 ban đầu
+            doc_map[chunk_id].pop("score", None)
+            doc_map[chunk_id].pop("rank", None)
             if "score" in doc:
                 doc_map[chunk_id]["bm25_score"] = doc["score"]
+           
         else:
             if "score" in doc:
                 doc_map[chunk_id]["bm25_score"] = doc["score"]
+              
     
     for doc in semantic_results:
         chunk_id = doc["chunk_id"]
         if chunk_id not in doc_map:
             doc_map[chunk_id] = doc.copy()
+            # Xóa score và rank của sematic ban dau
+            doc_map[chunk_id].pop("score", None)
+            doc_map[chunk_id].pop("rank", None)
             if "score" in doc:
                 doc_map[chunk_id]["semantic_score"] = doc["score"]
+          
         else:
             if "score" in doc:
                 doc_map[chunk_id]["semantic_score"] = doc["score"]
+              
     
     rankings = [bm25_results, semantic_results]
     
@@ -131,6 +141,10 @@ def rrf_with_ner():
 
     save_json(output, 'src/retrieval/rrf_ner.json')
 
+    print(question)
+
+    for r in rrf_results:
+        print(r)
     return ner_results
 
 

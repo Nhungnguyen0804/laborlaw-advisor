@@ -1,6 +1,8 @@
 from neo4j import GraphDatabase
 import pandas as pd
 from tqdm import tqdm
+from src.neo4j.connection import get_driver
+
 import os
 from dotenv import load_dotenv
 
@@ -10,10 +12,8 @@ NEO4J_USER = os.getenv("NEO4J_USER")
 NEO4J_PASS = os.getenv("NEO4J_PASS")
 NODE_CSV = 'src/neo4j/data_dir/nodes.csv'
 EDGE_CSV = 'src/neo4j/data_dir/edges.csv'
-def get_neo4j_driver(uri, user, password):
-    # tu thu vien neo4j
-    # lấy object kết nối Neo4j
-    return GraphDatabase.driver(uri, auth=(user, password))
+
+
 
 
 def clear_database(driver):
@@ -122,10 +122,11 @@ def verify(driver):
             print(f"  :{rel_type['relationshipType']} = {count}")
 
 def import_neo4j():
-    driver = get_neo4j_driver(NEO4J_URI, NEO4J_USER, NEO4J_PASS)
+    driver = get_driver(NEO4J_URI, NEO4J_USER, NEO4J_PASS)
     node_path = NODE_CSV
     edge_path = EDGE_CSV
     try:
+        clear_database(driver)
         create_constraints(driver)
         import_nodes(driver, node_path)
         import_edges(driver, edge_path)

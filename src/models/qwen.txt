@@ -1,0 +1,48 @@
+Loading model...
+Model ready!
+
+question: người lao động được nghỉ phép bao nhiêu ngày
+ ---> llm answer: Theo Điều 113 của pháp luật về lao động, người lao động làm việc đủ 12 tháng cho một người sử dụng lao động sẽ được nghỉ hằng năm, với số ngày nghỉ cụ thể như sau:
+- Đối với người làm công việc trong điều kiện bình thường: 12 ngày làm việc
+- Đối với người lao động chưa thành niên, lao động bị khuyết tật, hoặc làm nghề, công việc nặng nhọc, độc hại, nguy hiểm: 14 ngày làm việc
+- Đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm: 16 ngày làm việc
+Vì vậy, tổng cộng người lao động được nghỉ hằng năm là từ 12 đến 16 ngày tùy thuộc vào vị trí và công việc cụ thể.
+Trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hằng tuần, người sử dụng lao động cần phải bảo đảm cho người lao động được nghỉ ít nhất 4 ngày mỗi tháng.
+source used:
+Điều 113: Nghỉ hằng năm
+Điều 111: Nghỉ hằng tuần
+Điều 111: Nghỉ hằng tuần
+Điều 111: Nghỉ hằng tuần
+Điều 111: Nghỉ hằng tuần
+
+question: nghỉ phép hằng năm tăng thêm như thế nào
+ ---> llm answer: Thời gian nghỉ phép hàng năm được tăng thêm dựa trên thời gian làm việc:
+- Người lao động có quyền nghỉ phép hàng năm tăng lên 1 ngày khi đã làm việc 5 năm.
+Ví dụ cụ thể:
+- Đối với người lao động làm việc 5 năm trở lên, họ sẽ được thưởng thêm 1 ngày nghỉ phép hàng năm so với quy định ban đầu.
+- Trong trường hợp người lao động làm việc dưới 5 năm nhưng đã thực hiện đủ 12 tháng làm việc liên tục, họ cũng sẽ được hưởng 12 ngày nghỉ phép hàng năm.
+Điều này đảm bảo rằng thời gian nghỉ phép hàng năm của người lao động luôn đáp ứng nhu cầu và yêu cầu của pháp luật Việt Nam.
+source used:
+Điều 114: Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc Cứ đủ 05 năm làm việc cho một người sử dụng lao động thì số ngày nghỉ hằng năm của người lao động theo quy định tại khoản 1  của Bộ luật này được tăng thêm tương ứng 01 ngày.
+Điều 114: Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc Cứ đủ 05 năm làm việc cho một người sử dụng lao động thì số ngày nghỉ hằng năm của người lao động theo quy định tại khoản 1  của Bộ luật này được tăng thêm tương ứng 01 ngày.
+Điều 113: Nghỉ hằng năm
+Điều 113: Nghỉ hằng năm
+Điều 114: Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc Cứ đủ 05 năm làm việc cho một người sử dụng lao động thì số ngày nghỉ hằng năm của người lao động theo quy định tại khoản 1  của Bộ luật này được tăng thêm tương ứng 01 ngày.
+
+
+question: thời gian làm việc tối đa trong 1 tuần là bao nhiêu
+ ---> llm answer: Thời gian làm việc tối đa trong 1 tuần là 48 giờ.
+Trong đó:
+- Theo Điều 105, thời giờ làm việc bình thường không quá 10 giờ trong 01 ngày và không quá 48 giờ trong 01 tuần.
+- Theo Điều 113, người lao động được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau: 
+  - 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường;
+  - 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm;
+  - 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm.
+Vì vậy, tổng cộng thời gian làm việc tối đa trong 1 tuần là 48 giờ.
+source used:
+Điều 105: Thời giờ làm việc bình thường
+Điều 105: Thời giờ làm việc bình thường
+Điều 113: Nghỉ hằng năm
+Điều 105: Thời giờ làm việc bình thường
+Điều 111: Nghỉ hằng tuần
+
