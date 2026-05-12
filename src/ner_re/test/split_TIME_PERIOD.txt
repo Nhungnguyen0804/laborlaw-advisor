@@ -1,0 +1,115 @@
+01 giờ
+01 ngày
+01 năm
+01 năm kể từ ngày
+01 tháng
+01 tuần
+02 ngày
+02 tháng
+03 ngày
+03 năm
+03 năm kể từ ngày
+03 tháng
+04 giờ
+04 ngày
+04 tháng
+05 ngày
+05 năm
+06 giờ
+06 ngày
+06 tháng
+06 tháng kể từ ngày
+07 ngày
+08 giờ
+09 tháng kể từ ngày
+10 giờ
+10 ngày kể từ ngày
+10 tháng
+11 năm
+12 giờ
+12 ngày
+12 tháng
+14 ngày
+15 ngày
+15 ngày kể từ ngày
+15 năm
+16 ngày
+180 ngày
+20 giờ
+20 ngày
+20 năm
+20 tháng
+200 giờ
+24 giờ
+30 ngày
+30 ngày kể từ ngày
+30 phút
+30 tháng
+300 giờ
+36 tháng
+36 tháng kể từ thời điểm
+365 ngày
+40 giờ
+45 ngày
+45 phút
+48 giờ
+60 ngày
+60 ngày kể từ ngày
+60 phút
+90 ngày
+90 ngày kể từ ngày
+hằng năm
+không quá 01 tháng
+không quá 02 tháng
+không quá 03 tháng
+không quá 06 ngày
+không quá 06 tháng
+không quá 08 giờ
+không quá 10 giờ
+không quá 10 tháng
+không quá 12 giờ
+không quá 15 ngày
+không quá 180 ngày
+không quá 200 giờ
+không quá 30 ngày
+không quá 300 giờ
+không quá 36 tháng kể từ thời điểm
+không quá 40 giờ
+không quá 48 giờ
+không quá 60 ngày
+không quá 60 ngày kể từ ngày
+không được quá 04 giờ
+không được quá 08 giờ
+không được quá 15 ngày
+không được quá 30 ngày
+không được quá 30 ngày kể từ ngày
+không được quá 60 ngày
+không được quá 90 ngày
+không được quá 90 ngày kể từ ngày
+sau 03 năm kể từ ngày
+sau 03 tháng
+sau 06 tháng
+sau 30 ngày kể từ ngày
+trong thời hạn 01 ngày
+trong thời hạn 01 ngày làm việc kể từ ngày
+trong thời hạn 05 ngày
+trong thời hạn 05 ngày làm việc
+trong thời hạn 05 ngày làm việc kể từ ngày
+trong thời hạn 07 ngày
+trong thời hạn 07 ngày làm việc kể từ ngày
+trong thời hạn 10 ngày kể từ ngày
+trong thời hạn 14 ngày
+trong thời hạn 14 ngày làm việc kể từ ngày
+trong thời hạn 15 ngày kể từ ngày
+trong thời hạn 30 ngày
+trong thời hạn 30 ngày kể từ ngày
+trong thời hạn 30 ngày làm việc
+trong thời hạn 365 ngày
+tối đa không quá 01 tháng
+từ 01 năm đến 03 năm
+từ 01 tuần trở lên
+từ 05 ngày làm việc liên tục trở lên
+từ 06 giờ trở lên
+từ 12 tháng đến 36 tháng
+từ 15 ngày trở lên
+ít nhất bằng 02 tháng

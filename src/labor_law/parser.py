@@ -311,12 +311,19 @@ def parse_clauses(lines,article_id):
             if non_point_lines:
                 full_content = clause_content + ' ' + ' '.join(non_point_lines)
             full_content = full_content.strip()
-          
+            # clause_title ..........................................
+            clause_title = None
+            colon_index = full_content.find(':')
+            if colon_index != -1:
+                clause_title = full_content[:colon_index+ 1].strip()  # phần trước ':', +1 giữ : 
+            # .............................
+
+
             clause_obj = {
                 'clause_id': clause_id,
                 'clause_num': clause_num,
+                'clause_title': clause_title,   
                 'clause_content': full_content,
-                'origin_clause': origin_clause,
                 'points': parse_points(sentences, clause_id)  
             }
 
