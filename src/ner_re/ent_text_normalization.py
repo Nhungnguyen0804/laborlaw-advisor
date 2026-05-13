@@ -24,7 +24,6 @@ def normalize_entity(ent):
 
     if ent_type == "LEGAL_ROLE":
         return normalize_role(ent)
-
     elif ent_type == "TIME_PERIOD":
         return normalize_time(ent)
     elif ent_type == 'LEGAL_CONCEPT':
@@ -53,20 +52,12 @@ def update_span(ent, new_text):
 
     old_text = ent["text"].lower()
     new_text =new_text.lower()
-    newtext_startpos = old_text.find(new_text)
 
+    # Tìm vị trí của new_text trong old_text
+    newtext_startpos = old_text.find(new_text)
     if newtext_startpos == -1:
         return ent
     
-    if not old_text.startswith(old_text):
-        # Nếu new_text không nằm ở đầu, tìm vị trí xuất hiện
-        newtext_startpos = old_text.find(new_text)
-        if newtext_startpos == -1:
-            return ent
-    else:
-        newtext_startpos = 0
-
-
     start = ent["span"][0] + newtext_startpos
     end = start + len(new_text)
 
@@ -85,6 +76,11 @@ def normalize_role(ent):
     text = text.split('chỉ được')[0].strip();
     text = text.split('không được')[0].strip();
 
+    remove_last_word = [';']
+    text = text.lstrip()
+    for keyword in remove_last_word:
+        if text.endswith(keyword):
+            text = text[:-len(keyword)].rstrip()
     return update_span(ent, text)
 
 
@@ -133,6 +129,12 @@ def normalize_time(ent):
         if index != -1 and index < cut_pos:
             cut_pos = index # vi tri cut_word start
     result = text[:start_time_pos + cut_pos].strip()
+
+    remove_last_word = [';']
+    text = text.lstrip()
+    for keyword in remove_last_word:
+        if text.endswith(keyword):
+            text = text[:-len(keyword)].rstrip()
     return update_span(ent, result)
 
 
@@ -146,6 +148,11 @@ def normalize_concept(ent):
     text = text.split('nếu')[0].strip();
     text = text.split('nhưng')[0].strip();
 
+    remove_last_word = [';']
+    text = text.lstrip()
+    for keyword in remove_last_word:
+        if text.endswith(keyword):
+            text = text[:-len(keyword)].rstrip()
     return update_span(ent, text)
 
 
@@ -165,6 +172,12 @@ def normalize_procedure(ent):
     text = text.split('trước khi')[0].strip();
     text = text.split('trong trường hợp')[0].strip();
     text = text.split('nếu')[0].strip();
+
+    remove_last_word = [';']
+    text = text.lstrip()
+    for keyword in remove_last_word:
+        if text.endswith(keyword):
+            text = text[:-len(keyword)].rstrip()
     return update_span(ent, text)
 
 
@@ -173,6 +186,8 @@ def normalize_procedure(ent):
 def normalize_ref(ent):
     text = ent["text"]
     text = text.lower()
+
+
     remove_text = [
         'căn cứ điều kiện',
         "các chương trình",'các khoản tiền', 'các khoản chi', 'các khoản bảo hiểm','các điều kiện',
@@ -184,8 +199,6 @@ def normalize_ref(ent):
         'điểm bắt đầu', 'điểm chấm dứt','điểm của nguyên liệu','điểm hoạt động', 'điểm kinh doanh',
         'điểm làm việc','điểm nghỉ hưu','điểm trả lương','điểm và các điều kiện','điểm và cách thức','điểm về cơ thể','điểm đăng ký','điểm có',
         
-
-
     ]
 
     for prefix in remove_text:
@@ -198,9 +211,7 @@ def normalize_ref(ent):
         ', trừ trường hợp', ', người sử dụng lao động', ', người lao động', ', ban trọng tài',', các bên',
         ', lao động',', nếu',', cơ quan',', khi',', hòa giải viên', ', hai bên', ', hội đồng',', tử hình',
         ', cứ mỗi năm',
-        
-
-
+    
         'làm ảnh hưởng đến', 'căn cứ vào','hết hiệu lực','và có đủ','hoặc tổ chức','hoặc yêu cầu',
         'nghỉ việc có đủ',
         'và các quyền lợi khác','và trợ cấp', 'và cách thức',
@@ -210,12 +221,18 @@ def normalize_ref(ent):
         'chỉ được','còn được','được quốc hội',
         'đối với','bình đẳng về',
 
-        'nếu','khi','thì','để','mà','đã','nhưng','từ','tại',
+        'nếu','khi','thì','để','mà','đã','nhưng','từ', 
 
     ]
 
     for keyword in cut_text_after:
         text = text.split(keyword)[0].strip()
+
+    remove_last_word = [';']
+    text = text.lstrip()
+    for keyword in remove_last_word:
+        if text.endswith(keyword):
+            text = text[:-len(keyword)].rstrip()
 
     return update_span(ent, text)
 
@@ -224,21 +241,25 @@ def normalize_condition(ent):
     text = ent["text"]
     text = text.lower()
 
-    remove_last_word = ['thì']
-    text = text.lstrip()
-    for keyword in remove_last_word:
-        if text.endswith(keyword):
-            text = text[:-len(keyword)].rstrip()
-
     cut_text_after = ['; trường hợp','; trong thời gian', 'quy định tại','theo quy định', ]
     for keyword in cut_text_after:
         text = text.split(keyword)[0].strip()
+    remove_first_word = [',','trừ trường hợp']
+    remove_last_word = ['thì',';']
+    text = text.lstrip()
+    for keyword in remove_first_word:
+        if text.startswith(keyword):
+            text = text[len(keyword):].lstrip() 
+    for keyword in remove_last_word:
+        if text.endswith(keyword):
+            text = text[:-len(keyword)].rstrip()
     return update_span(ent, text)
 
 
 def normalize_prohibition(ent):
     text = ent["text"]
     text = text.lower()
+
 
     remove_text = ['bộ trưởng']
 
@@ -248,44 +269,63 @@ def normalize_prohibition(ent):
     cut_text_after = ['theo quy định',', trừ trường hợp', 'quy định tại','theo danh mục', 'nếu',]
     for keyword in cut_text_after:
         text = text.split(keyword)[0].strip()
+    
+    remove_last_word = [';']
+    text = text.lstrip()
+    for keyword in remove_last_word:
+        if text.endswith(keyword):
+            text = text[:-len(keyword)].rstrip()
+    
     return update_span(ent, text)
 
 def normalize_right(ent):
     text = ent["text"]
     text = text.lower()
 
+
     cut_text_after = [', trừ trường hợp','trong trường hợp', 'theo danh mục',
                       'theo trình tự','theo quy định','quy định tại', 'nếu']
     for keyword in cut_text_after:
         text = text.split(keyword)[0].strip()
+    
+    remove_last_word = [';']
+    text = text.lstrip()
+    for keyword in remove_last_word:
+        if text.endswith(keyword):
+            text = text[:-len(keyword)].rstrip()
+
     return update_span(ent, text)
 
 def normalize_obligation(ent):
     text = ent["text"]
     text = text.lower()
-    remove_last_word = ['thì','hoặc']
-    text = text.lstrip()
-    for keyword in remove_last_word:
-        if text.endswith(keyword):
-            text = text[:-len(keyword)].rstrip()
+
     cut_text_after = [', trừ trường hợp','trong trường hợp', 'theo danh mục',
                       'theo trình tự','theo quy định','quy định tại', 'nếu', 'khi','thì']
     for keyword in cut_text_after:
         text = text.split(keyword)[0].strip()
+
+    remove_last_word = ['thì','hoặc',';']
+    text = text.lstrip()
+    for keyword in remove_last_word:
+        if text.endswith(keyword):
+            text = text[:-len(keyword)].rstrip()
     return update_span(ent, text)
 
 def normalize_penalty(ent):
     text = ent["text"]
     text = text.lower()
-    remove_last_word = ['hoặc']
-    text = text.lstrip()
-    for keyword in remove_last_word:
-        if text.endswith(keyword):
-            text = text[:-len(keyword)].rstrip()
+
     cut_text_after = [', trừ trường hợp','trong trường hợp', 'theo danh mục', 'theo bản án',
                       'theo trình tự','theo quy định','quy định tại', 'nếu','thì']
     for keyword in cut_text_after:
         text = text.split(keyword)[0].strip()
+
+    remove_last_word = ['hoặc',';']
+    text = text.lstrip()
+    for keyword in remove_last_word:
+        if text.endswith(keyword):
+            text = text[:-len(keyword)].rstrip()
     return update_span(ent, text)
 
 def normalize_action(ent):
@@ -296,4 +336,14 @@ def normalize_action(ent):
                       'theo trình tự','theo quy định','quy định tại', 'nếu','thì']
     for keyword in cut_text_after:
         text = text.split(keyword)[0].strip()
+
+    remove_last_word = [';']
+    text = text.lstrip()
+    for keyword in remove_last_word:
+        if text.endswith(keyword):
+            text = text[:-len(keyword)].rstrip()
     return update_span(ent, text)
+
+
+
+

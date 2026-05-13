@@ -25,7 +25,7 @@ def build_structural_edges(structural_nodes):
                     "id": f"e_{edge_counter}",
                     "source": current_law,
                     "target": node_id,
-                    "relation": "HAS_CHAPTER"
+                    "type": "HAS_CHAPTER"
                 })
 
                 edge_counter += 1

@@ -33,13 +33,13 @@ LEGAL_ROLE= [
     r"người\s+lao\s+động\s+chưa\s+thành\s+niên", 
     r"người\s+lao\s+động\s+(?:nữ|nam|trẻ\s+em)",
     
-    r"(?:nhiều\s+)?tổ\s+chức\s+đại\s+diện\s+(?:của\s+)?người\s+lao\s+động\s+(?:tại|ở)\s+(?:doanh\s+nghiệp|cơ\s+sở)",
-    r"các\s+tổ\s+chức\s+đại\s+diện\s+người\s+lao\s+động\s+tại\s+(?:các\s+)?doanh\s+nghiệp\s+tham\s+gia\s+thương\s+lượng",
-    r"thành\s+viên\s+ban\s+lãnh\s+đạo\s+của\s+tổ\s+chức\s+đại\s+diện\s+người\s+lao\s+động\s+tại\s+cơ\s+sở",
-    r"tổ\s+chức\s+đại\s+diện\s+người\s+(?:sử\s+dụng\s+)?lao\s+động",
-    r"tổ\s+chức\s+đại\s+diện\s+người\s+lao\s+động\s+tại\s+cơ\s+sở",
-    r"tổ\s+chức\s+đại\s+diện\s+cấp\s+trên\s+của\s+mình",
-
+    r"(?:(nhiều|các)\s+)?tổ\s+chức\s+đại\s+diện\s+(?:của\s+)?người\s+lao\s+động\s+(?:tại|ở)\s+(?:doanh\s+nghiệp|cơ\s+sở)",
+    r"(?:(nhiều|các)\s+)?tổ\s+chức\s+đại\s+diện\s+(?:của\s+)?người\s+lao\s+động\s+tại\s+(?:các\s+)?doanh\s+nghiệp\s+tham\s+gia\s+thương\s+lượng",
+    r"(?:(nhiều|các)\s+)?thành\s+viên\s+ban\s+lãnh\s+đạo\s+của\s+tổ\s+chức\s+đại\s+diện\s+người\s+lao\s+động\s+tại\s+cơ\s+sở",
+    r"(?:(nhiều|các)\s+)?tổ\s+chức\s+đại\s+diện\s+(?:của\s+)?người\s+(?:sử\s+dụng\s+)?lao\s+động",
+    r"(?:(nhiều|các)\s+)?tổ\s+chức\s+đại\s+diện\s+(?:của\s+)?người\s+lao\s+động\s+tại\s+cơ\s+sở",
+    r"(?:(nhiều|các)\s+)?tổ\s+chức\s+đại\s+diện\s+(?:của\s+)?cấp\s+trên\s+của\s+mình",
+    r"(?:những\s+)?người lao động trong nhóm",
     r"người\s+sử\s+dụng\s+lao\s+động\s+không\s+phải\s+là\s+cá\s+nhân",
     r"người\s+sử\s+dụng\s+lao\s+động\s+không\s+phải\s+là\s+([^\n.,;]+)",
     r"người\s+sử\s+dụng\s+lao\s+động\s+thuê\s+lại",
@@ -80,6 +80,7 @@ LEGAL_ROLE= [
     r"hai\s+bên\s+tranh\s+chấp",
     r"các\s+bên\s+tranh\s+chấp",
     r"bên\s+tranh\s+chấp",
+    r'bên thuê lại lao động',
 
 
     r"tổ\s+chức\s+đưa\s+người\s+lao\s+động\s+đi\s+làm\s+việc\s+ở\s+nước\s+ngoài\s+theo\s+hợp\s+đồng",
@@ -97,6 +98,8 @@ LEGAL_ROLE= [
     r"người(?:\s+\w+)*\s+từ\s+đủ\s+\d+\s+tuổi\s+trở\s+lên",
     r"người(?:\s+\w+)*\s+chưa\s+đủ\s+\d+\s+tuổi",
 
+    r'người làm việc không có quan hệ lao động',
+    r'người làm việc',
         
     r"bên\s+(?:thuê|cho\s+thuê)\s+lao\s+động",
     r"người\s+(?:học|tập)\s+nghề",
@@ -108,6 +111,8 @@ LEGAL_ROLE= [
     r"người\s+làm\s+chứng",
     r"người\s+có\s+liên\s+quan",
     r"người\s+mẹ",
+
+    r'liên minh hợp tác xã việt nam',
     r"hợp\s+tác\s+xã",
     r"hộ\s+gia\s+đình",
     r"chủ\s+sở\s+hữu",
@@ -120,6 +125,36 @@ LEGAL_ROLE= [
     r"nhiều\s+doanh\s+nghiệp",
     r"mỗi\s+bên\s+thương\s+lượng\s+tập\s+thể",
     r"các\s+bên\s+đàm\s+phán", 
+    r'cơ quan, tổ chức, đơn vị, doanh nghiệp',
+    r'doanh nghiệp thành viên của thỏa ước lao động tập thể ngành',
+    r'tổ chức phi chính phủ nước ngoài tại việt nam',
+    r'tổng liên đoàn lao động việt nam',
+    r'đại diện mỗi bên tranh chấp',
+    r'lao động nữ hoặc đại diện của họ',
+    r'người lao động việt nam',
+    r'trọng tài viên lao động',
+    r'01 trọng tài viên lao động',
+    r'01 trọng tài viên',
+    r'trọng tài viên',
+    r'đối tác phía việt nam',
+    r'công đoàn cấp tỉnh',
+    r'tổ chức nghề nghiệp',
+    r'tổ chức đại diện',
+    r'lao động cá nhân',
+    r'lao động nam',
+    r'lao động nữ',
+    r'cá nhân khác',
+    r'tổ chức khác',
+    r'tổ chức',
+    r'xã hội',
+    r'tổ hợp tác',
+    r'cá nhân',
+    r'quốc tế',
+    r'các bên',
+    r'hai bên',
+    r'bên nhận',
+    r'bên gửi',
+    
 ]
 
 TIME_PERIOD = [
@@ -144,11 +179,24 @@ TIME_PERIOD = [
     r"không\s+được\s+quá\s+(\d+)\s+(ngày|tháng|năm|giờ|phút|tuần)+(?:\s+kể\s+từ[^.,]*)?",
     r"không\s+quá\s+(\d+)\s+(ngày|tháng|năm|giờ|phút|tuần)+(?:\s+kể\s+từ[^.,]*)?",
 
+    r'01 ngày liền kề trước hoặc sau',
     r"0*(\d+)\s+(ngày|tháng|năm|giờ|phút|tuần)+(?:\s+kể\s+từ[^.,]*)?",
 
     r"hàng\s+năm+(?:\s+kể\s+từ[^.,]*)?",
     r"hằng\s+năm+(?:\s+kể\s+từ[^.,]*)?",
-    
+
+    r'ngày 01 tháng 5 dương lịch',
+    r'ngày 02 tháng 9 dương lịch',
+    r'ngày 10 tháng 3 âm lịch',
+    r'ngày 30 tháng 4 dương lịch',
+    r'trong một ngày',
+    r'hằng tháng',
+    r'theo tháng',
+    r'dương lịch',
+    r'âm lịch',
+
+    r'sau thời hạn',
+
 ]
    
 PROHIBITION=   [
@@ -208,21 +256,54 @@ CONDITION =[
 
         r'trong thời hạn\s+[^.\n;]+',  
 
-        r'khi\s+[^.\n;]+',        
+        # r'khi\s+[^.\n;]+',        
         r'đối\s+với\s+[^.\n;]+',  
-        r'nếu\s+[^.\n;]+', 
-        r'mà\s+[^.\n;]+', 
-        r'nhưng\s+[^.\n;]+', 
+        # r'nếu\s+[^.\n;]+', 
+        # r'mà\s+[^.\n;]+', 
+        # r'nhưng\s+[^.\n;]+', 
         r'trừ các\s+[^.\n;]+', 
         r'chỉ những\s+[^.\n;]+',
-        r'(?:(?<=^)|(?<=[\.,]\s))([^.\n]*?thì)',
+        # r'(?:(?<=^)|(?<=[\.,]\s))([^.\n]*?thì)', 
+        r'(?:^|[\.,]\s)(nếu|khi|trường hợp)\s+[^.\n]*?thì',
+        r'có ảnh hưởng xấu tới chức năng sinh sản và nuôi con',
+        r'có giá trị góp vốn',
+        r'có trình độ chuyên môn, kỹ thuật cao',
+        r'có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu',
+        r'cổ phần có giá trị góp vốn',
+        r'đã thỏa thuận',
+        r'đủ 15 năm làm',
+        r'đủ 20 năm đóng bảo hiểm xã hội trở lên',
+        r'từ đủ 15 năm đến dưới 20 năm đóng bảo hiểm xã hội',
+        r'từ 61% trở lên',
+        r'đủ 15 năm trở lên',
+        r'đủ tuổi nghỉ hưu',
+        r'đủ tuổi',
+        r'ít nhất bằng 300%',
+        r'nuôi con dưới 12 tháng tuổi',
+        r'sử dụng từ 10 người lao động trở lên',
+
+        r'theo giờ, ngày, tuần',
+        r'theo thỏa thuận',
+        r'theo sản phẩm',
+        r'theo khoán',
+        r'theo khối lượng',
+        r'hết hạn',
+        r'từ ngày thứ 03 trở đi',
+        r'khi vợ sinh con',
+        r'nhận nuôi con nuôi dưới 06 tháng tuổi',
+        r'mang thai hộ',
+        r'mang thai',
+        r'nhờ mang thai hộ',
+        
     ]
+
 ACTION =[
-    
     r'trả\s+cho\s+.+?\s+khoản tiền\s+.+?(?=\s+để\b)',
-    r'làm việc\s+.+?(?=\s+quy định tại\b)',
+    r'trở lại làm việc\s+.+?(?=\s+quy định tại\b)',
+    # r'làm việc\s+.+?(?=\s+quy định tại\b)',
     
     r'ngừng đình công[^.\n;]*',
+    r'ngừng việc',
     r'tạm hoãn[^.,\n;]*',
     r'tạm đình chỉ[^.,\n;]*',
     r'hoãn[^.,\n;]*',
@@ -273,48 +354,152 @@ ACTION =[
     r'giao việc[^.\n;]+',  
     r'tạm đình chỉ[^.\n;]+', 
     r'tiếp tục lao động[^.\n;]+', 
-    
     # r'làm việc\s+[^.\n;]+', 
     r'dùng\s+[^.\n;]+',
-
+    r'cải thiện đời sống vật chất và tinh thần',
+    r'được thực hiện theo hợp đồng đã giao kết',
+    r'xây dựng phương án sử dụng lao động',
+    r'duy trì quan hệ lao động',
+    r'đào tạo, bồi dưỡng kỹ năng',
+    r'tiến hành đối thoại',
+    r'hỗ trợ xây dựng',
+    r'ủy quyền hợp pháp',
+    r'công khai biên bản',
+    r'công bố rộng rãi',
+    r'chưa đến kỳ',
+    r'đối thoại',
+    r'trao đổi',
+    r'xây dựng',
+    r'giao kết',
+    r'đề nghị',
+    r'tiết lộ',
+    r'trả lại',
+    r'giải quyết',
+    r'nghỉ việc',
+    r'lựa chọn',
+    r'chọn',
+    r'trả',
 ]
 LEGAL_CONCEPT=[
+        r'quyền, nghĩa vụ và lợi ích',
         r"hợp đồng lao động(?:\s+(?:(?:xác định|không xác định)\s+thời\s+hạn|vô hiệu))?",
-        r"chấm dứt hợp đồng lao động",
+
         r"thỏa ước lao động tập thể(?:\s+(?:ngành|doanh nghiệp|có nhiều doanh nghiệp))?",
-        r"thỏa ước lao động tập thể",
+        
         r'điều ước quốc tế\s+([^\n.;]+)',
-        r"(?:(tiền|mức|bảng|thang)\s+)?lương(?:\s+(?:tối thiểu|cơ bản|thử việc|hưu))?",
+
+        
         r"(nội quy|tai nạn|cưỡng bức|năng suất|định mức|an toàn, vệ sinh|quan hệ cung, cầu) lao động",
         r"(luật|vi phạm|thanh tra) an toàn, vệ sinh lao động",
         r"bảo hiểm(?:\s+(?:xã hội|y tế|thất nghiệp))",
         r'hòa giải tranh chấp lao động',
         r"(?:giải quyết tranh chấp|tranh chấp)",
         r"(?: (?:thôi|mất)\s+việc | việc\s+làm )",
+        r'thời giờ làm việc bình thường',
         r"thời\s+giờ\s+làm\s+việc",
         r"nghỉ\s+(?:phép\s+năm|thai\s+sản|ốm\s+đau|lễ)",
         r'trợ cấp\s+.+?(?=\s+(theo|trừ trường hợp|trường hợp)\b)',
         r'trợ cấp(?:\s+thôi việc)',
         r"quyền\s+(?:lợi|và\s+nghĩa\s+vụ)",
         r"điều\s+kiện\s+làm\s+việc",
+
+        r'quan hệ lao động cá nhân',
+        r'quan hệ lao động tập thể',
+
         r"quan\s+hệ\s+lao\s+động",
+        r'trách nhiệm hữu hạn một thành viên do nhà nước nắm giữ 100% vốn',
         r"năng\s+lực\s+hành\s+vi\s+dân\s+sự\s+đầy\s+đủ",
         r"trách\s+nhiệm\s+xã\s+hội",
         r"hoạt\s+động\s+trái\s+pháp\s+luật",
+        r'tiền đóng bảo hiểm xã hội',
         r"khoản tiền bồi thường\s+([^\n.;]+)",
         r"vấn đề khác liên quan\s+(.+?)(?=\s+mà|[.;\n]|$)",
+        r'(?:nhiều\s+)?hợp đồng lao động',
+        r"chấm dứt hợp đồng lao động",
+        r"thỏa ước lao động tập thể",
         r"dịch vụ việc làm",
+        r'chính sách tiền lương',
+        r'hình thức trả lương',
+        r'thời hạn trả lương',
+        r'phụ cấp trả lương',
+        r'phụ cấp lương',
+        r'mức lương thấp nhất',
+        r'mức lương tối thiểu',
+        r"(?:(tiền|mức|bảng|thang)\s+)?lương(?:\s+(?:tối thiểu|cơ bản|thử việc|hưu))?",
+
+        r'phụ cấp',
+        
         r"thất nghiệp",
+        
         r"nghĩa vụ",
         r"bồi thường",
         r"mua bán người",
+        r'nơi làm việc',
         r"thương lượng tập thể",
         r'vi phạm pháp luật',
         r'hành vi trái pháp luật',
+        r'có tư cách pháp nhân',
+        r'thi kỹ năng nghề',
+        r'bệnh nghề nghiệp',
         r'bóc lột',
+        r'tình hình sản xuất, kinh doanh',
+        r'nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm',
+        r'đặc biệt nặng nhọc, độc hại, nguy hiểm',
+        r'nặng nhọc, độc hại, nguy hiểm',
+        r'công việc khác so với hợp đồng lao động',
+        r'kế hoạch phát triển kinh tế - xã hội',
+        r'quản lý, điều hành, chuyên gia và lao động kỹ thuật',
+        r'khung trình độ kỹ năng nghề quốc gia, khung trình độ quốc gia việt nam',
+        r'các cơ chế, thiết chế hỗ trợ phát triển',
+        r'công việc khai thác than trong hầm lò',
+        r'chất lượng thực hiện công việc', 
+        r'tiền đồng việt nam',
+        r'số ngày nghỉ',
+        r'số tháng làm việc',
+        r'ngày chiến thắng',
+        r'ngày quốc tế lao động',
+        r'quốc khánh',
+        r'ngày giỗ tổ hùng vương',
+
+        r'hoạt động của hội đồng',
+        r'nuôi con dưới 12 tháng tuổi',
+
+        r'thời giờ nghỉ ngơi',
+        r'các chế độ khác',
+        
+
+        r'chế độ khác',
+        r'mức lao động',
+        r'bí mật kinh doanh',
+        r'bí mật công nghệ',
+        r'công việc nhẹ',
+        r'công việc nặng',
+
+        r'ngành, nghề, công việc',
+        r'công việc',
+        r'chức danh',
+        r'kế hoạch',
+        r'ý kiến',
+        r'trợ cấp',
+        r'nâng lương',
+        r'tài sản khác',
+        r'thưởng',
+        r'bữa ăn',
+        r'thiệt hại',
+        r'biện pháp',
+        r'nhiệm kỳ',
+        r'thu nhập',
+
+        
+        
+
+        
+
 
 ]
 LEGAL_REF=[
+    r"((?:quy\s+định|hướng\s+dẫn|theo)\s+tại\s+(?:điều|khoản|điểm)\s+[^\n.;]+)",
+    r'quy định tại(?:điều|khoản|điểm)\s+[^\n.;]+',
     r"theo quy định\s+([^\n.;]+)",
     r"theo luật\s+([^\n.;]+)",
     r"theo bản án([^\n.;]+)",
@@ -326,10 +511,9 @@ LEGAL_REF=[
     r"(?:các\s+)?mục\s+([^\n.;]+)",
     r"(?:các\s+)?bộ luật\s+([^\n.;]+)",
     r"(?:các\s+)?(?:nghị định|thông tư)\s+([^\n.;]+)",
-    r"(?:quy\s+định|hướng\s+dẫn|theo)\s+tại\s+(?:điều|khoản|điểm)\s+[\w\s,]+",
+    
     r"căn\s+cứ\s+(?:điều|khoản|điểm)\s+[\w\s,]+",
     r'luật bảo hiểm+([^\n.;]+)',
-
 ]
 OBLIGATION=[
     r"có\s+(?:trách\s+nhiệm|nghĩa\s+vụ)[^.\n;:]+",
@@ -351,9 +535,12 @@ PROCEDURE=[
     r"theo trình tự\s+[^.\n;]+",
     r"theo quy trình\s+[^.\n;]+",
     r"theo thủ tục\s+[^.\n;]+",
+    r"hoàn thành thủ tục\s+[^.\n;]+",
     r"thủ tục\s+[^.\n;]+",
     r"quy trình\s+[^.\n;]+",
     r"trình tự[^.\n;]+",
+
+    r'đăng ký',
         
 ]
 PENALTY =[
@@ -376,6 +563,7 @@ PENALTY =[
     r'bị xử phạt+([^.\n;]+)',
     r'truy cứu trách nhiệm hình sự',
     r'bị khiển trách+([^.\n;]+)',
+    r'bồi thường thiệt hại',
 
 ]
 

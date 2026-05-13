@@ -1,5 +1,6 @@
 01 giờ
 01 ngày
+01 ngày liền kề trước hoặc sau
 01 năm
 01 năm kể từ ngày
 01 tháng
@@ -58,40 +59,27 @@
 60 phút
 90 ngày
 90 ngày kể từ ngày
-Hằng năm
-Không quá 06 ngày
-Không quá 180 ngày
-Không quá 30 ngày
-Không quá 60 ngày
-Sau 30 ngày kể từ ngày báo cho cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh biết
-Trong thời hạn 05 ngày
-Trong thời hạn 05 ngày làm việc
-Trong thời hạn 05 ngày làm việc kể từ ngày hòa giải viên lao động nhận được yêu cầu từ bên yêu cầu giải quyết tranh chấp hoặc từ cơ quan quy định tại khoản 3 Điều 181 của Bộ luật này
-Trong thời hạn 07 ngày
-Trong thời hạn 07 ngày làm việc kể từ ngày nhận được hồ sơ đăng ký nội quy lao động
-Trong thời hạn 07 ngày làm việc kể từ ngày nhận được yêu cầu giải quyết tranh chấp theo quy định tại khoản 1 Điều này
-Trong thời hạn 07 ngày làm việc kể từ ngày nhận được yêu cầu và nội dung thương lượng
-Trong thời hạn 10 ngày kể từ ngày ban hành nội quy lao động
-Trong thời hạn 14 ngày
-Trong thời hạn 14 ngày làm việc kể từ ngày chấm dứt hợp đồng lao động
-Trong thời hạn 30 ngày kể từ ngày Ban trọng tài lao động được thành lập
-Trong thời hạn 30 ngày kể từ ngày hợp đồng lao động hết hạn
-Trong thời hạn 30 ngày kể từ ngày được thành lập
+dương lịch
 hằng năm
+hằng tháng
 không quá 01 tháng
 không quá 02 tháng
 không quá 03 tháng
+không quá 06 ngày
 không quá 06 tháng
 không quá 08 giờ
 không quá 10 giờ
 không quá 10 tháng
 không quá 12 giờ
 không quá 15 ngày
+không quá 180 ngày
 không quá 200 giờ
+không quá 30 ngày
 không quá 300 giờ
 không quá 36 tháng kể từ thời điểm
 không quá 40 giờ
 không quá 48 giờ
+không quá 60 ngày
 không quá 60 ngày kể từ ngày
 không được quá 04 giờ
 không được quá 08 giờ
@@ -101,12 +89,27 @@ không được quá 30 ngày kể từ ngày
 không được quá 60 ngày
 không được quá 90 ngày
 không được quá 90 ngày kể từ ngày
+ngày 01 tháng 5 dương lịch
+ngày 02 tháng 9 dương lịch
+ngày 10 tháng 3 âm lịch
+ngày 30 tháng 4 dương lịch
 sau 03 năm kể từ ngày
 sau 03 tháng
 sau 06 tháng
+sau 30 ngày kể từ ngày
+sau thời hạn
+theo tháng
+trong một ngày
 trong thời hạn 01 ngày
 trong thời hạn 01 ngày làm việc kể từ ngày
+trong thời hạn 05 ngày
+trong thời hạn 05 ngày làm việc
+trong thời hạn 05 ngày làm việc kể từ ngày
+trong thời hạn 07 ngày
+trong thời hạn 07 ngày làm việc kể từ ngày
 trong thời hạn 10 ngày kể từ ngày
+trong thời hạn 14 ngày
+trong thời hạn 14 ngày làm việc kể từ ngày
 trong thời hạn 15 ngày kể từ ngày
 trong thời hạn 30 ngày
 trong thời hạn 30 ngày kể từ ngày
@@ -119,4 +122,5 @@ từ 05 ngày làm việc liên tục trở lên
 từ 06 giờ trở lên
 từ 12 tháng đến 36 tháng
 từ 15 ngày trở lên
+âm lịch
 ít nhất bằng 02 tháng

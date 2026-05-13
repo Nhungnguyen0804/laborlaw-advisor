@@ -6,8 +6,49 @@ from src.ner_re.patterns import PATTERNS
 from src.ner_re.extract_entity import process_article
 from src.ner_re.split_enum_entity import split_enum_entities
 from src.ner_re.ent_text_normalization import normalize_entities
-from src.ner_re.rel_extraction import run_re, add_sentences_to_nodes
+from src.ner_re.rel_extraction import run_re
 import re
+
+
+def split_structural_text_into_sentences(text):
+    # split dieu khoan diem thanh cau 
+    # Replace delimiters
+    text = text.replace('\n', '<SPLIT>')
+    text = text.replace(';', '<SPLIT>')
+    text = text.replace('.', '<SPLIT>')
+
+    # Split và clean
+    sentences = [s.strip() for s in text.split('<SPLIT>') if s.strip()]
+    
+    return sentences
+
+
+def add_sentences_to_nodes(structural_nodes):
+    """
+    Thêm field 'sentences' cho mỗi node
+    """
+
+    nodes = structural_nodes.get("nodes", [])
+
+    for node in nodes:
+
+        props = node.get("properties", {})
+
+        # lấy text từ nhiều field có thể có
+        text = (
+            props.get("clause_content", "")
+            or props.get("article_title", "")
+            or props.get("chapter_title", "")
+            or props.get("law_name", "")
+        )
+
+        if text.strip():
+            node["sentences"] = split_structural_text_into_sentences(text)
+        else:
+            node["sentences"] = []
+
+    return structural_nodes
+
 
 COMPILED = {}
 for entity_type, pattern_list in PATTERNS.items():
@@ -48,6 +89,11 @@ from src.ner_re.extract_properties import process_extract_properties
 property_entities = process_extract_properties(splited_entities)
 save_json(property_entities,'src/ner_re/property_entities.json')
 
+from src.ner_re.test.extract_ent_text import test_ent_text
+from src.ner_re.test.extract_split import test_split
+test_ent_text()
+test_split()
+
 counter = 1
 
 def make_entity_id():
@@ -67,15 +113,16 @@ property_entities = add_entity_ids(property_entities)
 save_json(property_entities,'src/ner_re/property_entities.json')
 
 
-edges = run_re(property_entities,structural_nodes)
-save_json(edges,'src/ner_re/edges.json')
+all_semantic_edges = run_re(property_entities,structural_nodes)
+save_json(all_semantic_edges,'src/ner_re/all_semantic_edges.json')
 
+def extract_entities(data):
+    all_entities = []
+    for doc in data:
+        for ent in doc.get('entities', []):
+            all_entities.append(ent)
+    return all_entities 
 
-def get_clause_text(node_id, structural_nodes):
-    node = structural_nodes.get(node_id)
-
-    if not node:
-        return ""
-
-    return node.get("text", "")
-
+all_semantic_nodes = extract_entities(property_entities)
+print(f'TẤT CẢ SEMANTIC NODES LÀ {len(all_semantic_nodes)} NODE')
+save_json(all_semantic_nodes,'src/ner_re/all_semantic_nodes.json')

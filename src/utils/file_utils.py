@@ -16,3 +16,18 @@ def save_json(data, output_path, indent=2):
         json.dump(data, f, ensure_ascii=False, indent=indent)
     
     print(f"Lưu tại {output_path}")
+
+
+def save_txt(lines, output_path, mode="w"):
+    output_path = Path(output_path)
+
+    # tạo folder nếu chưa có
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+
+    with open(output_path, mode, encoding="utf-8") as f:
+        if isinstance(lines, list):
+            f.writelines(lines)
+        else:
+            f.write(lines)
+
+    print(f"Lưu tại {output_path}")

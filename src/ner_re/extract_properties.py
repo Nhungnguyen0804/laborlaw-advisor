@@ -21,6 +21,7 @@ ATTRIBUTES = [
     "chấm dứt hoạt động",
     "mang thai",
     "người nước ngoài",
+    'làm việc tại việt nam',
     "nước ngoài",
     "khuyết tật",
     "cao tuổi",

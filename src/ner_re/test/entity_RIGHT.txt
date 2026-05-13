@@ -1,3 +1,6 @@
+chính phủ quy định thời gian tối thiểu mà người sử dụng lao động dành cho toàn bộ thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở để thực hiện nhiệm vụ của tổ chức đại diện trên cơ sở số lượng thành viên của tổ chức.
+chấp nhận toàn bộ hoặc một phần yêu cầu và thông báo bằng văn bản cho tổ chức đại diện người lao động đang tổ chức và lãnh đạo đình công
+có giấy phép lao động do cơ quan nhà nước có thẩm quyền của việt nam cấp
 có quyền hủy bỏ hợp đồng thử việc hoặc hợp đồng lao động đã giao kết mà không cần báo trước và không phải bồi thường
 có quyền lựa chọn một trong các phương thức sau để giải quyết tranh chấp: a) yêu cầu hội đồng trọng tài lao động giải quyết
 có quyền mời tổ chức đại diện cấp trên của mình cử người tham gia là đại diện thương lượng và bên kia không được từ chối
@@ -39,12 +42,26 @@ có quyền đơn phương chấm dứt hợp đồng lao động hoặc tạm h
 có quyền đơn phương chấm dứt hợp đồng lao động không cần báo trước
 có quyền đơn phương chấm dứt hợp đồng lao động nhưng phải báo trước cho người sử dụng lao động như sau: a) ít nhất 45 ngày
 có quyền được biết lý do khấu trừ tiền lương của mình
+có trình độ chuyên môn, kỹ thuật, tay nghề, kinh nghiệm làm việc; có đủ sức khỏe
+công nhận và tôn trọng các quyền của tổ chức đại diện người lao động tại cơ sở đã được thành lập hợp pháp.
+do thiên tai, hỏa hoạn, dịch bệnh nguy hiểm, địch họa hoặc di dời, thu hẹp sản xuất, kinh doanh theo yêu cầu của cơ quan nhà nước có thẩm quyền mà người sử dụng lao động đã tìm mọi biện pháp khắc phục nhưng vẫn buộc phải giảm chỗ làm việc
+hòa giải không thành hoặc hết thời hạn hòa giải
 không bị cắt giảm tiền lương và quyền, lợi ích cho đến hết thời gian nuôi con dưới 12 tháng tuổi
 không bị phân biệt đối xử, bảo đảm an toàn, vệ sinh lao động
 không bị phân biệt đối xử, cưỡng bức lao động, quấy rối tình dục tại nơi làm việc
 không bị tính lãi
 không bị xem là phân biệt đối xử
 không bị xử lý kỷ luật lao động thì được người sử dụng lao động trả đủ tiền lương cho thời gian bị tạm đình chỉ công việc
+không phải là người đang trong thời gian chấp hành hình phạt hoặc chưa được xóa án tích hoặc đang trong thời gian bị truy cứu trách nhiệm hình sự
+người lao động bị ốm đau, tai nạn đã điều trị 12 tháng liên tục đối với người làm việc theo hợp đồng lao động không xác định thời hạn hoặc đã điều trị 06 tháng liên tục đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng hoặc quá nửa thời hạn hợp đồng lao động đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng mà khả năng lao động chưa hồi phục. khi sức khỏe của người lao động bình phục thì người sử dụng lao động xem xét để tiếp tục giao kết hợp đồng lao động với người lao động
+người lao động cung cấp không trung thực thông tin
+người lao động không có mặt tại nơi làm việc sau thời hạn
+người lao động nước ngoài làm việc tại việt nam là người có quốc tịch nước ngoài và phải đáp ứng các điều kiện sau đây: a) đủ 18 tuổi trở lên và có năng lực hành vi dân sự đầy đủ; b) có trình độ chuyên môn, kỹ thuật, tay nghề, kinh nghiệm làm việc; có đủ sức khỏe
+người lao động thường xuyên không hoàn thành công việc theo hợp đồng lao động được xác định theo tiêu chí đánh giá mức độ hoàn thành công việc trong quy chế của người sử dụng lao động. quy chế đánh giá mức độ hoàn thành công việc do người sử dụng lao động ban hành nhưng phải tham khảo ý kiến tổ chức đại diện người lao động tại cơ sở đối với nơi có tổ chức đại diện người lao động tại cơ sở
+người lao động tự ý bỏ việc mà không có lý do chính đáng từ 05 ngày làm việc liên tục trở lên
+người lao động đủ tuổi nghỉ hưu
+người sử dụng lao động phải chứng minh được lỗi của người lao động
+phải có sự tham gia của tổ chức đại diện người lao động tại cơ sở mà người lao động đang bị xử lý kỷ luật là thành viên
 quyền về thời gian tạm nghỉ thì hai bên thỏa thuận về thời gian tạm hoãn thực hiện hợp đồng lao động
 quyền về việc tiếp tục làm việc sẽ ảnh hưởng xấu tới thai nhi
 quyền về việc tiếp tục làm việc sẽ ảnh hưởng xấu tới thai nhi thì có quyền đơn phương chấm dứt hợp đồng lao động hoặc tạm hoãn thực hiện hợp đồng lao động
@@ -63,6 +80,8 @@ quyền yêu cầu thương lượng tập thể đồng ý
 quyền yêu cầu tòa án giải quyết
 quyền được biết lý do khấu trừ tiền lương của mình
 quyền được thực hiện
+rút quyết định đình công
+rút yêu cầu hoặc thay đổi nội dung yêu cầu
 thì có quyền yêu cầu thi hành đúng thỏa ước lao động tập thể và các bên có trách nhiệm cùng xem xét giải quyết
 thì có quyền yêu cầu tòa án giải quyết
 thì có quyền đơn phương chấm dứt hợp đồng lao động hoặc tạm hoãn thực hiện hợp đồng lao động
@@ -86,6 +105,21 @@ thì được trả lương sau giờ, ngày, tuần làm việc hoặc được
 thì được trả lương theo mức do hai bên thỏa thuận nhưng không được thấp hơn mức lương tối thiểu
 thì được trả thêm ít nhất bằng 30% tiền lương tính theo đơn giá tiền lương hoặc tiền lương thực trả theo công việc của ngày làm việc bình thường
 thì được ưu tiên giao kết hợp đồng lao động mới
+tiếp cận người lao động tại nơi làm việc trong quá trình thực hiện các nhiệm vụ của tổ chức đại diện người lao động tại cơ sở. việc thực hiện quyền này phải bảo đảm không ảnh hưởng đến hoạt động bình thường của người sử dụng lao động
+tiếp cận người sử dụng lao động để thực hiện các nhiệm vụ đại diện của tổ chức đại diện người lao động tại cơ sở
+tiếp tục thỏa thuận để giải quyết nội dung tranh chấp lao động tập thể hoặc cùng đề nghị hòa giải viên lao động, hội đồng trọng tài lao động tiến hành hòa giải, giải quyết tranh chấp lao động.
+trực tiếp hoặc thông qua đại diện để tham gia vào quá trình giải quyết
+tổ chức đại diện người lao động tại cơ sở và người sử dụng lao động thỏa thuận về thời gian tăng thêm so với thời gian tối thiểu
+việc xử lý kỷ luật lao động phải được ghi thành biên bản.
+yêu cầu hội đồng trọng tài lao động giải quyết
+yêu cầu thay đổi người tiến hành giải quyết tranh chấp lao động
+yêu cầu tòa án giải quyết.
+yêu cầu tòa án tuyên bố cuộc đình công là bất hợp pháp.
+yêu cầu tòa án tuyên bố cuộc đình công là hợp pháp.
+ít nhất 03 ngày làm việc
+ít nhất 30 ngày
+ít nhất 45 ngày
+đóng cửa tạm thời nơi làm việc trong thời gian đình công do không đủ điều kiện để duy trì hoạt động bình thường hoặc để bảo vệ tài sản
 được cung cấp bởi doanh nghiệp không có giấy phép hoạt động cho thuê lại lao động
 được cung cấp thông tin, bảo đảm các điều kiện cần thiết cho hoạt động của tổ chức đại diện người lao động tại cơ sở
 được hưởng chế độ thai sản
@@ -171,3 +205,5 @@ thì được ưu tiên giao kết hợp đồng lao động mới
 được yêu cầu từ bên yêu cầu giải quyết tranh chấp hoặc từ cơ quan
 được yêu cầu và nội dung thương lượng, các bên thỏa thuận về địa điểm, thời gian bắt đầu thương lượng
 được yêu cầu, bên người sử dụng lao động có trách nhiệm cung cấp thông tin về tình hình hoạt động sản xuất, kinh doanh và nội dung khác liên quan trực tiếp đến nội dung thương lượng trong phạm vi doanh nghiệp nhằm tạo điều kiện thuận lợi cho thương lượng tập thể, trừ thông tin về bí mật kinh doanh, bí mật công nghệ của người sử dụng lao động
+đối với một số ngành, nghề, công việc đặc thù thì thời hạn báo trước được thực hiện
+đủ 18 tuổi trở lên và có năng lực hành vi dân sự đầy đủ

@@ -1,5 +1,6 @@
 01 giờ
 01 ngày
+01 ngày liền kề trước hoặc sau
 01 năm
 01 năm kể từ ngày
 01 tháng
@@ -58,7 +59,9 @@
 60 phút
 90 ngày
 90 ngày kể từ ngày
+dương lịch
 hằng năm
+hằng tháng
 không quá 01 tháng
 không quá 02 tháng
 không quá 03 tháng
@@ -86,10 +89,17 @@ không được quá 30 ngày kể từ ngày
 không được quá 60 ngày
 không được quá 90 ngày
 không được quá 90 ngày kể từ ngày
+ngày 01 tháng 5 dương lịch
+ngày 02 tháng 9 dương lịch
+ngày 10 tháng 3 âm lịch
+ngày 30 tháng 4 dương lịch
 sau 03 năm kể từ ngày
 sau 03 tháng
 sau 06 tháng
 sau 30 ngày kể từ ngày
+sau thời hạn
+theo tháng
+trong một ngày
 trong thời hạn 01 ngày
 trong thời hạn 01 ngày làm việc kể từ ngày
 trong thời hạn 05 ngày
@@ -112,4 +122,5 @@ từ 05 ngày làm việc liên tục trở lên
 từ 06 giờ trở lên
 từ 12 tháng đến 36 tháng
 từ 15 ngày trở lên
+âm lịch
 ít nhất bằng 02 tháng

@@ -1,0 +1,112 @@
+tổ chức, connect, cá nhân khác
+cá nhân khác, involves, quan hệ lao động
+tổ chức, involves, quan hệ lao động
+------------------------------
+liên minh hợp tác xã việt nam, connect, các tổ chức đại diện của người sử dụng lao động
+các tổ chức đại diện của người sử dụng lao động, defines, bảo vệ quyền và lợi ích hợp pháp của người sử dụng lao động, tham gia xây dựng quan hệ lao động tiến bộ, hài hòa và ổn định
+liên minh hợp tác xã việt nam, defines, bảo vệ quyền và lợi ích hợp pháp của người sử dụng lao động, tham gia xây dựng quan hệ lao động tiến bộ, hài hòa và ổn định
+------------------------------
+tổ hợp tác, connect, tổ chức khác
+tổ chức khác, not, có tư cách pháp nhân
+tổ hợp tác, not, có tư cách pháp nhân
+------------------------------
+bảo hiểm y tế, connect, bảo hiểm thất nghiệp
+bảo hiểm thất nghiệp, related_to, thực hiện
+bảo hiểm y tế, related_to, thực hiện
+------------------------------
+người sử dụng lao động, connect, người lao động
+người lao động, enables, thỏa thuận nội dung thử việc ghi trong hợp đồng lao động hoặc thỏa thuận về thử việc bằng việc giao kết hợp đồng thử việc
+người sử dụng lao động, enables, thỏa thuận nội dung thử việc ghi trong hợp đồng lao động hoặc thỏa thuận về thử việc bằng việc giao kết hợp đồng thử việc
+------------------------------
+điểm a khoản 1, connect, người sử dụng lao động
+người sử dụng lao động, applies_to, người lao động
+điểm a khoản 1, applies_to, người lao động
+------------------------------
+người lao động, connect, các bên
+các bên, related_to, thực hiện phương án sử dụng lao động
+người lao động, related_to, thực hiện phương án sử dụng lao động
+------------------------------
+thỏa ước lao động tập thể, connect, hợp đồng lao động
+hợp đồng lao động, enables, thanh toán
+thỏa ước lao động tập thể, enables, thanh toán
+------------------------------
+người học nghề, connect, người tập nghề
+người tập nghề, applies_to, nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm
+người học nghề, applies_to, nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm
+------------------------------
+người lao động, connect, tổ chức đại diện người lao động
+tổ chức đại diện người lao động, involves, quan tâm của các bên tại nơi làm việc nhằm tăng cường sự hiểu biết, hợp tác, cùng nỗ lực hướng tới giải pháp các bên cùng có lợi
+người lao động, involves, quan tâm của các bên tại nơi làm việc nhằm tăng cường sự hiểu biết, hợp tác, cùng nỗ lực hướng tới giải pháp các bên cùng có lợi
+------------------------------
+thỏa ước lao động tập thể ngành, connect, thỏa ước lao động tập thể có nhiều doanh nghiệp
+thỏa ước lao động tập thể có nhiều doanh nghiệp, has_condition, đối với toàn bộ người sử dụng lao động và người lao động của các doanh nghiệp tham gia thỏa ước lao động tập thể
+thỏa ước lao động tập thể ngành, has_condition, đối với toàn bộ người sử dụng lao động và người lao động của các doanh nghiệp tham gia thỏa ước lao động tập thể
+------------------------------
+thỏa ước lao động tập thể ngành, connect, thỏa ước lao động tập thể có nhiều doanh nghiệp
+thỏa ước lao động tập thể có nhiều doanh nghiệp, lack, thỏa ước lao động tập thể doanh nghiệp
+thỏa ước lao động tập thể ngành, lack, thỏa ước lao động tập thể doanh nghiệp
+------------------------------
+thỏa ước lao động tập thể ngành, connect, thỏa ước lao động tập thể có nhiều doanh nghiệp
+thỏa ước lao động tập thể có nhiều doanh nghiệp, has_condition, người sử dụng lao động
+thỏa ước lao động tập thể ngành, has_condition, người sử dụng lao động
+------------------------------
+người sử dụng lao động, connect, tổ chức đại diện người lao động tại doanh nghiệp
+tổ chức đại diện người lao động tại doanh nghiệp, defines, trường hợp
+người sử dụng lao động, defines, trường hợp
+------------------------------
+doanh nghiệp thành viên của thỏa ước lao động tập thể ngành, connect, thỏa ước lao động tập thể có nhiều doanh nghiệp
+thỏa ước lao động tập thể có nhiều doanh nghiệp, related_to, thỏa ước lao động tập thể
+doanh nghiệp thành viên của thỏa ước lao động tập thể ngành, related_to, thỏa ước lao động tập thể
+------------------------------
+người sử dụng lao động, connect, tổ chức đại diện người lao động tại doanh nghiệp
+tổ chức đại diện người lao động tại doanh nghiệp, defines, trường hợp có khó khăn đặc biệt trong hoạt động sản xuất, kinh doanh
+người sử dụng lao động, defines, trường hợp có khó khăn đặc biệt trong hoạt động sản xuất, kinh doanh
+------------------------------
+lương, connect, ít nhất bằng 300%
+ít nhất bằng 300%, has_exception, tiền lương
+lương, has_exception, tiền lương
+------------------------------
+hằng năm, connect, người lao động
+người lao động, enables, tiền lương
+hằng năm, enables, tiền lương
+------------------------------
+lương, connect, người lao động
+người lao động, enables, tiền lương
+lương, enables, tiền lương
+------------------------------
+mang thai hộ, connect, người lao động
+người lao động, defines, người mẹ
+mang thai hộ, defines, người mẹ
+------------------------------
+người lao động cao tuổi, connect, hai bên
+hai bên, enables, thỏa thuận giao kết nhiều lần hợp đồng lao động xác định thời hạn
+người lao động cao tuổi, enables, thỏa thuận giao kết nhiều lần hợp đồng lao động xác định thời hạn
+------------------------------
+tổ chức, connect, cá nhân
+cá nhân, has_purpose, người lao động việt nam
+tổ chức, has_purpose, người lao động việt nam
+------------------------------
+người lao động nước ngoài làm việc tại việt nam, connect, hai bên
+hai bên, enables, thỏa thuận giao kết nhiều lần hợp đồng lao động xác định thời hạn
+người lao động nước ngoài làm việc tại việt nam, enables, thỏa thuận giao kết nhiều lần hợp đồng lao động xác định thời hạn
+------------------------------
+tổ chức, connect, cá nhân
+cá nhân, requires, người lao động nước ngoài
+tổ chức, requires, người lao động nước ngoài
+------------------------------
+phải bồi thường theo thỏa thuận, connect, theo quy định của pháp luật
+theo quy định của pháp luật, defines, người sử dụng lao động
+phải bồi thường theo thỏa thuận, defines, người sử dụng lao động
+------------------------------
+người sử dụng lao động, connect, người lao động
+người lao động, involves, đối với người lao động
+người sử dụng lao động, involves, đối với người lao động
+------------------------------
+công đoàn cấp tỉnh, connect, tổ chức đại diện của người sử dụng lao động
+tổ chức đại diện của người sử dụng lao động, requires, tổ chức
+công đoàn cấp tỉnh, requires, tổ chức
+------------------------------
+điều 189 của bộ luật này, connect, hội đồng trọng tài lao động
+hội đồng trọng tài lao động, defines, ban trọng tài lao động
+điều 189 của bộ luật này, defines, ban trọng tài lao động
+------------------------------

@@ -5,7 +5,7 @@ import re
 TYPE_MAP = {
     # ARTICLE
     "PROHIBITION_ARTICLE": ("PROHIBITION", "by_article_title"),
-    "RIGHTS_ARTICLE": ("RIGHTS", "by_article_title"),
+    "RIGHT_ARTICLE": ("RIGHT", "by_article_title"),
     "OBLIGATION_ARTICLE": ("OBLIGATION", "by_article_title"),
     "PROCEDURE_ARTICLE": ("PROCEDURE", "by_article_title"),
     "PENALTY_ARTICLE": ("PENALTY", "by_article_title"),
@@ -13,7 +13,7 @@ TYPE_MAP = {
 
     # CLAUSE
     "PROHIBITION_CLAUSE": ("PROHIBITION", "by_clause_title"),
-    "RIGHTS_CLAUSE": ("RIGHTS", "by_clause_title"),
+    "RIGHT_CLAUSE": ("RIGHT", "by_clause_title"),
     "OBLIGATION_CLAUSE": ("OBLIGATION", "by_clause_title"),
     "CONDITION_CLAUSE": ("CONDITION", "by_clause_title"),
     "PROCEDURE_CLAUSE": ("PROCEDURE", "by_clause_title"),
@@ -22,7 +22,7 @@ TYPE_MAP = {
 
     # POINT
     "PROHIBITION_POINT": ("PROHIBITION", "by_point_title"),
-    "RIGHTS_POINT": ("RIGHTS", "by_point_title"),
+    "RIGHT_POINT": ("RIGHT", "by_point_title"),
     "OBLIGATION_POINT": ("OBLIGATION", "by_point_title"),
     "CONDITION_POINT": ("CONDITION", "by_point_title"),
     "PROCEDURE_POINT": ("PROCEDURE", "by_point_title"),
@@ -102,13 +102,13 @@ def extract_clause(clause, article_type, patterns):
     }
 
 
-def extract_point(point, article_type,clause_type, patterns):
+def extract_point(point,clause_type, patterns):
     content = point["point_content"]
 
     entities = extract_entities(
         text=content,
         patterns=patterns,
-        effective_type=article_type
+        effective_type=clause_type
     )
 
     return {
@@ -135,7 +135,7 @@ def process_article(article,patterns):
         points = clause.get("points") or []
         clause_type = clause_result["clause_type"]
         for point in points:
-            point_result = extract_point(point,article_type,clause_type,patterns)
+            point_result = extract_point(point,clause_type,patterns)
 
             results.append(point_result)
 

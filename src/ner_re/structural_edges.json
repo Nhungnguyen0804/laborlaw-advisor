@@ -4,7 +4,7 @@
       "id": "e_1",
       "source": "45_2019_QH14",
       "target": "ch1",
-      "relation": "HAS_CHAPTER"
+      "type": "HAS_CHAPTER"
     },
     {
       "id": "e_2",
@@ -388,7 +388,7 @@
       "id": "e_65",
       "source": "45_2019_QH14",
       "target": "ch2",
-      "relation": "HAS_CHAPTER"
+      "type": "HAS_CHAPTER"
     },
     {
       "id": "e_66",
@@ -472,7 +472,7 @@
       "id": "e_79",
       "source": "45_2019_QH14",
       "target": "ch3",
-      "relation": "HAS_CHAPTER"
+      "type": "HAS_CHAPTER"
     },
     {
       "id": "e_80",
@@ -2086,7 +2086,7 @@
       "id": "e_348",
       "source": "45_2019_QH14",
       "target": "ch4",
-      "relation": "HAS_CHAPTER"
+      "type": "HAS_CHAPTER"
     },
     {
       "id": "e_349",
@@ -2242,7 +2242,7 @@
       "id": "e_374",
       "source": "45_2019_QH14",
       "target": "ch5",
-      "relation": "HAS_CHAPTER"
+      "type": "HAS_CHAPTER"
     },
     {
       "id": "e_375",
@@ -2944,7 +2944,7 @@
       "id": "e_491",
       "source": "45_2019_QH14",
       "target": "ch6",
-      "relation": "HAS_CHAPTER"
+      "type": "HAS_CHAPTER"
     },
     {
       "id": "e_492",
@@ -3322,7 +3322,7 @@
       "id": "e_554",
       "source": "45_2019_QH14",
       "target": "ch7",
-      "relation": "HAS_CHAPTER"
+      "type": "HAS_CHAPTER"
     },
     {
       "id": "e_555",
@@ -3706,7 +3706,7 @@
       "id": "e_618",
       "source": "45_2019_QH14",
       "target": "ch8",
-      "relation": "HAS_CHAPTER"
+      "type": "HAS_CHAPTER"
     },
     {
       "id": "e_619",
@@ -4180,7 +4180,7 @@
       "id": "e_697",
       "source": "45_2019_QH14",
       "target": "ch9",
-      "relation": "HAS_CHAPTER"
+      "type": "HAS_CHAPTER"
     },
     {
       "id": "e_698",
@@ -4228,7 +4228,7 @@
       "id": "e_705",
       "source": "45_2019_QH14",
       "target": "ch10",
-      "relation": "HAS_CHAPTER"
+      "type": "HAS_CHAPTER"
     },
     {
       "id": "e_706",
@@ -4432,7 +4432,7 @@
       "id": "e_739",
       "source": "45_2019_QH14",
       "target": "ch11",
-      "relation": "HAS_CHAPTER"
+      "type": "HAS_CHAPTER"
     },
     {
       "id": "e_740",
@@ -5200,7 +5200,7 @@
       "id": "e_867",
       "source": "45_2019_QH14",
       "target": "ch12",
-      "relation": "HAS_CHAPTER"
+      "type": "HAS_CHAPTER"
     },
     {
       "id": "e_868",
@@ -5266,7 +5266,7 @@
       "id": "e_878",
       "source": "45_2019_QH14",
       "target": "ch13",
-      "relation": "HAS_CHAPTER"
+      "type": "HAS_CHAPTER"
     },
     {
       "id": "e_879",
@@ -5608,7 +5608,7 @@
       "id": "e_935",
       "source": "45_2019_QH14",
       "target": "ch14",
-      "relation": "HAS_CHAPTER"
+      "type": "HAS_CHAPTER"
     },
     {
       "id": "e_936",
@@ -6748,7 +6748,7 @@
       "id": "e_1125",
       "source": "45_2019_QH14",
       "target": "ch15",
-      "relation": "HAS_CHAPTER"
+      "type": "HAS_CHAPTER"
     },
     {
       "id": "e_1126",
@@ -6826,7 +6826,7 @@
       "id": "e_1138",
       "source": "45_2019_QH14",
       "target": "ch16",
-      "relation": "HAS_CHAPTER"
+      "type": "HAS_CHAPTER"
     },
     {
       "id": "e_1139",
@@ -6916,7 +6916,7 @@
       "id": "e_1153",
       "source": "45_2019_QH14",
       "target": "ch17",
-      "relation": "HAS_CHAPTER"
+      "type": "HAS_CHAPTER"
     },
     {
       "id": "e_1154",

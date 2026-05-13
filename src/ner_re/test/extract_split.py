@@ -43,15 +43,17 @@ def extract_split(
 
     print(f"Saved {len(entity_texts)} entities to: {output_file}")
 
-input = 'src/ner_re/splited_entities.json'
-extract_split(input_file=input,entity_type="LEGAL_ROLE")
-extract_split(input_file=input,entity_type="TIME_PERIOD")
-extract_split(input_file=input,entity_type="LEGAL_CONCEPT")
-extract_split(input_file=input,entity_type="PROCEDURE")
-extract_split(input_file=input,entity_type="LEGAL_REF")
-extract_split(input_file=input,entity_type="PROHIBITION")
-extract_split(input_file=input,entity_type="RIGHT")
-extract_split(input_file=input,entity_type="OBLIGATION")
-extract_split(input_file=input,entity_type="PENALTY")
-extract_split(input_file=input,entity_type="ACTION")
+def test_split():
+    input = 'src/ner_re/splited_entities.json'
+    extract_split(input_file=input,entity_type="LEGAL_ROLE")
+    extract_split(input_file=input,entity_type="TIME_PERIOD")
+    extract_split(input_file=input,entity_type="LEGAL_CONCEPT")
+    extract_split(input_file=input,entity_type="PROCEDURE")
+    extract_split(input_file=input,entity_type="LEGAL_REF")
+    extract_split(input_file=input,entity_type="PROHIBITION")
+    extract_split(input_file=input,entity_type="RIGHT")
+    extract_split(input_file=input,entity_type="OBLIGATION")
+    extract_split(input_file=input,entity_type="PENALTY")
+    extract_split(input_file=input,entity_type="ACTION")
+    extract_split(input_file=input,entity_type="CONDITION")
 

@@ -43,15 +43,16 @@ def export_entity_texts(
 
     print(f"Saved {len(entity_texts)} entities to: {output_file}")
 
-input = 'src/ner_re/normalized_entities.json'
-export_entity_texts(input_file=input,entity_type="LEGAL_ROLE")
-export_entity_texts(input_file=input,entity_type="TIME_PERIOD")
-export_entity_texts(input_file=input,entity_type="LEGAL_CONCEPT")
-export_entity_texts(input_file=input,entity_type="PROCEDURE")
-export_entity_texts(input_file=input,entity_type="LEGAL_REF")
-export_entity_texts(input_file=input,entity_type="PROHIBITION")
-export_entity_texts(input_file=input,entity_type="RIGHT")
-export_entity_texts(input_file=input,entity_type="OBLIGATION")
-export_entity_texts(input_file=input,entity_type="PENALTY")
-export_entity_texts(input_file=input,entity_type="ACTION")
+def test_ent_text():
+    input = 'src/ner_re/normalized_entities.json'
+    export_entity_texts(input_file=input,entity_type="LEGAL_ROLE")
+    export_entity_texts(input_file=input,entity_type="TIME_PERIOD")
+    export_entity_texts(input_file=input,entity_type="LEGAL_CONCEPT")
+    export_entity_texts(input_file=input,entity_type="PROCEDURE")
+    export_entity_texts(input_file=input,entity_type="LEGAL_REF")
+    export_entity_texts(input_file=input,entity_type="PROHIBITION")
+    export_entity_texts(input_file=input,entity_type="RIGHT")
+    export_entity_texts(input_file=input,entity_type="OBLIGATION")
+    export_entity_texts(input_file=input,entity_type="PENALTY")
+    export_entity_texts(input_file=input,entity_type="ACTION")
 

@@ -57,6 +57,7 @@ bảo đảm điều kiện làm việc, an toàn, vệ sinh lao động phù h�
 bảo đảm điều kiện về thời gian đóng bảo hiểm xã hội
 bảo đảm đưa người lao động có trình độ phù hợp với những yêu cầu của bên thuê lại lao động và nội dung của hợp đồng lao động đã ký với người lao động
 bố trí cho người lao động các đợt nghỉ giải lao và ghi vào nội quy lao động
+chưa đến kỳ
 chấp hành hình phạt hoặc chưa được xóa án tích do phạm các tội xâm phạm an ninh quốc gia, các tội xâm phạm quyền tự do của con người, quyền tự do, dân chủ của công dân, các tội xâm phạm sở hữu
 chấp hành hình phạt hoặc chưa được xóa án tích hoặc đang trong thời gian bị truy cứu trách nhiệm hình sự
 chấp hành kỷ luật lao động, nội quy lao động
@@ -65,6 +66,7 @@ chấp hành quy định, nội quy, quy trình, yêu cầu về an toàn, vệ 
 chấp hành quyết định áp dụng biện pháp đưa vào trường giáo dưỡng, cơ sở cai nghiện bắt buộc hoặc cơ sở giáo dục bắt buộc
 chấp hành thỏa thuận đã đạt được, quyết định của ban trọng tài lao động, bản án, quyết định của tòa án đã có hiệu lực pháp luật
 chấp hành được một nửa thời hạn
+chọn
 cung cấp bản sao các tài liệu liên quan đến quá trình làm việc của người lao động
 cung cấp bởi doanh nghiệp không có giấy phép hoạt động cho thuê lại lao động
 cung cấp cho doanh nghiệp cho thuê lại lao động chứng cứ về hành vi vi phạm kỷ luật lao động của người lao động thuê lại để xem xét xử lý kỷ luật lao động
@@ -80,17 +82,23 @@ cung cấp điện, viễn thông, lọc dầu
 cung cấp đầy đủ thông tin về công việc đó
 cung cấp đầy đủ thông tin về tính chất nguy hiểm, nguy cơ, yêu cầu của công việc để người lao động lựa chọn và phải bảo đảm điều kiện an toàn, vệ sinh lao động cho người lao động
 cung cấp đầy đủ, kịp thời tài liệu, chứng cứ để chứng minh cho yêu cầu của mình
+công bố rộng rãi
+công khai biên bản
+cải thiện đời sống vật chất và tinh thần
 cản trở hoặc can thiệp vào quá trình tổ chức đại diện người lao động lấy ý kiến biểu quyết về dự thảo thỏa ước
 cản trở hoặc can thiệp vào quá trình tổ chức đại diện người lao động thảo luận, lấy ý kiến người lao động
 cản trở hoặc can thiệp vào quá trình tổ chức đại diện người lao động tiến hành lấy ý kiến về đình công
 cản trở người lao động không tham gia đình công đi làm việc
 cản trở thực hiện quyền đình công, kích động, lôi kéo, ép buộc người lao động đình công
 cản trở việc thực hiện quyền đình công hoặc kích động, lôi kéo, ép buộc người lao động đình công
+duy trì quan hệ lao động
 dùng bạo lực
 dùng vũ lực đối với lao động là người giúp việc gia đình
 dùng vũ lực, đe dọa dùng vũ lực hoặc các thủ đoạn khác để ép buộc người lao động phải làm việc trái ý muốn của họ
+giao kết
 giao việc cho người giúp việc gia đình không theo hợp đồng lao động
 giao việc làm tại nhà
+giải quyết
 giải quyết thông qua thủ tục hòa giải của hòa giải viên lao động trước khi yêu cầu hội đồng trọng tài lao động giải quyết hoặc tiến hành thủ tục đình công
 giải quyết thông qua thủ tục hòa giải của hòa giải viên lao động trước khi yêu cầu hội đồng trọng tài lao động hoặc tòa án giải quyết
 giải quyết thông qua thủ tục hòa giải của hòa giải viên lao động trước khi yêu cầu hội đồng trọng tài lao động hoặc tòa án giải quyết, trừ các tranh chấp lao động sau đây không bắt buộc phải qua thủ tục hòa giải: a) về xử lý kỷ luật lao động theo hình thức sa thải hoặc về trường hợp bị đơn phương chấm dứt hợp đồng lao động
@@ -128,6 +136,7 @@ hoãn hoặc ngừng đình công
 hoãn hoặc ngừng đình công của cơ quan có thẩm quyền
 hoãn thực hiện hợp đồng lao động
 hoãn thực hiện hợp đồng lao động bao gồm: a) người lao động thực hiện nghĩa vụ quân sự
+hỗ trợ xây dựng
 kiểm tra sức khỏe định kỳ và xuất trình khi cơ quan nhà nước có thẩm quyền yêu cầu
 kiểm tra sức khỏe định kỳ ít nhất một lần trong 06 tháng
 kiểm tra, thanh tra, xử lý vi phạm pháp luật và giải quyết khiếu nại, tố cáo về lao động
@@ -150,35 +159,12 @@ làm thêm giờ, làm việc vào ban đêm
 làm thêm giờ, làm việc vào ban đêm trong một số nghề, công việc
 làm thêm giờ, nghỉ giữa ca
 làm thêm giờ, tiền lương làm việc vào ban đêm, nội dung và số tiền bị khấu trừ (
-làm việc
 làm việc ban đêm
 làm việc ban đêm, làm thêm giờ và đi công tác xa
-làm việc bình thường trong 01 ngày; trường hợp áp dụng quy định thời giờ làm việc bình thường theo tuần
-làm việc cho người sử dụng lao động theo thỏa thuận, được trả lương và chịu sự quản lý, điều hành, giám sát của người sử dụng lao động. độ tuổi lao động tối thiểu của người lao động là đủ 15 tuổi
-làm việc có hưởng lương. trường hợp người lao động là thành viên của tổ chức đại diện người lao động tham gia các phiên họp thương lượng tập thể
-làm việc cộng dồn trong 01 năm mà phải ngừng việc
-làm việc của trọng tài viên lao động được quy định như sau: a) trọng tài viên lao động là người hiểu biết pháp luật, có kinh nghiệm trong lĩnh vực quan hệ lao động, có uy tín và công tâm; b) khi đề cử trọng tài viên lao động theo
-làm việc hoặc không được bảo đảm điều kiện làm việc theo thỏa thuận
-làm việc kể từ ngày hòa giải viên lao động nhận được yêu cầu từ bên yêu cầu giải quyết tranh chấp hoặc từ cơ quan
-làm việc kể từ ngày nhận được yêu cầu giải quyết tranh chấp theo
-làm việc liên tục trở lên; g) người lao động cung cấp không trung thực thông tin theo
-làm việc sau thời hạn
-làm việc theo
-làm việc theo hợp đồng lao động không xác định thời hạn hoặc đã điều trị 06 tháng liên tục đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng hoặc quá nửa thời hạn hợp đồng lao động đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng mà khả năng lao động chưa hồi phục. khi sức khỏe của người lao động bình phục
-làm việc theo hợp đồng lao động đã giao kết; phải trả tiền lương, đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp trong những ngày người lao động không được làm việc và phải trả thêm cho người lao động một khoản tiền ít nhất bằng 02 tháng tiền lương theo hợp đồng lao động. sau khi được nhận lại làm việc, người lao động hoàn trả cho người sử dụng lao động các khoản tiền trợ cấp thôi việc, trợ cấp mất việc làm
-làm việc theo nguyên tắc tập thể và quyết định theo đa số
-làm việc theo thời giờ làm việc
-làm việc thường xuyên cho mình từ đủ 12 tháng trở lên mà bị mất việc làm theo
-làm việc thường xuyên cho mình từ đủ 12 tháng trở lên, mỗi năm làm việc được trợ cấp một nửa tháng tiền lương
-làm việc trong quá trình thực hiện các nhiệm vụ của tổ chức đại diện người lao động tại cơ sở. việc thực hiện quyền này phải bảo đảm không ảnh hưởng đến hoạt động bình thường của người sử dụng lao động; b) tiếp cận người sử dụng lao động để thực hiện các nhiệm vụ đại diện của tổ chức đại diện người lao động tại cơ sở; c) được sử dụng thời gian làm việc theo
-làm việc tại việt nam là người có quốc tịch nước ngoài và phải đáp ứng các điều kiện sau đây: a) đủ 18 tuổi trở lên và có năng lực hành vi dân sự đầy đủ; b) có trình độ chuyên môn, kỹ thuật, tay nghề, kinh nghiệm làm việc; có đủ sức khỏe
-làm việc tại việt nam ngoài các ngày nghỉ theo
-làm việc tại việt nam theo
 làm việc vào ban đêm
 làm việc vào ban đêm trong một số nghề, công việc
 làm việc vào ban đêm, làm thêm giờ
 làm việc vào ban đêm, nội dung và số tiền bị khấu trừ (
-làm việc đối với hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng và đối với trường hợp
 làm việc ở các nơi sau đây: a) dưới nước, dưới lòng đất, trong hang động, trong đường hầm
 làm việc ở nơi khác vì lý do chuẩn bị đình công hoặc tham gia đình công
 làm việc ở nơi làm việc
@@ -188,8 +174,6 @@ làm việc ở nước ngoài theo hợp đồng
 làm việc ở nước ngoài theo hợp đồng để thực hiện hành vi trái pháp luật
 làm việc ở vùng cao, vùng sâu, vùng xa, biên giới, hải đảo
 làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021
-làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021; c) người bị nhiễm hiv do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ được giao. 3. lao động nữ là cán bộ, công chức cấp xã hoặc là người hoạt động không chuyên trách ở xã, phường, thị trấn tham gia bảo hiểm xã hội khi nghỉ việc mà có từ đủ 15 năm đến dưới 20 năm đóng bảo hiểm xã hội và đủ tuổi nghỉ hưu
-làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021; c) người lao động có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu của người lao động
 làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn có thể nghỉ hưu ở tuổi thấp hơn nhưng không quá 05 tuổi so với
 lãnh đạo cuộc đình công
 lấy ý kiến bao gồm toàn bộ người lao động tại các doanh nghiệp tham gia thương lượng hoặc toàn bộ thành viên ban lãnh đạo của các tổ chức đại diện người lao động tại các doanh nghiệp tham gia thương lượng
@@ -217,6 +201,9 @@ lợi dụng danh nghĩa dạy nghề, tập nghề để trục lợi, bóc l�
 lợi dụng dịch vụ việc làm, hoạt động đưa người lao động đi làm việc ở nước ngoài theo hợp đồng để thực hiện hành vi trái pháp luật
 lợi dụng đình công gây mất trật tự, an toàn công cộng, làm tổn hại máy, thiết bị, tài sản của người sử dụng lao động
 lợi dụng đình công để thực hiện hành vi vi phạm pháp luật
+lựa chọn
+nghỉ việc
+ngừng việc
 ngừng đình công
 ngừng đình công của cơ quan có thẩm quyền
 ngừng đình công và giải quyết quyền lợi của người lao động
@@ -483,11 +470,17 @@ thực hiện đầy đủ các nội dung đã giao kết
 thực hiện đầy đủ thỏa thuận đã giao kết trong hợp đồng lao động
 thực hiện đầy đủ thỏa ước lao động tập thể đang có hiệu lực
 thực hiện đối thoại, trao đổi với người lao động và tổ chức đại diện người lao động
+tiến hành đối thoại
 tiếp tục lao động sau độ tuổi
+tiết lộ
+trao đổi
 trù dập, trả thù người lao động tham gia đình công, người lãnh đạo đình công
 trù dập, trả thù người tham gia đình công, người lãnh đạo cuộc đình công
+trả
 trả cho người giúp việc gia đình khoản tiền bảo hiểm xã hội, bảo hiểm y tế
 trả cho người sử dụng lao động các khoản tiền trợ cấp thôi việc, trợ cấp mất việc làm
+trả lại
+trở lại làm việc theo hợp đồng lao động đã giao kết; phải trả tiền lương, đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp trong những ngày người lao động không được làm việc và phải trả thêm cho người lao động một khoản tiền ít nhất bằng 02 tháng tiền lương theo hợp đồng lao động. sau khi được nhận lại làm việc, người lao động hoàn trả cho người sử dụng lao động các khoản tiền trợ cấp thôi việc, trợ cấp mất việc làm
 tuân
 tuân theo pháp luật lao động việt nam và được pháp luật việt nam bảo vệ
 tuân theo pháp luật việt nam và được pháp luật bảo vệ
@@ -509,6 +502,8 @@ xâm phạm an ninh quốc gia, các tội xâm phạm quyền tự do của con
 xâm phạm quyền sở hữu trí tuệ của người sử dụng lao động, có hành vi gây thiệt hại nghiêm trọng hoặc đe dọa gây thiệt hại đặc biệt nghiêm trọng về tài sản, lợi ích của người sử dụng lao động hoặc quấy rối tình dục tại nơi làm việc được quy định trong nội quy lao động
 xâm phạm sức khỏe, danh dự, tính mạng, uy tín, nhân phẩm của người lao động
 xâm phạm trật tự, an toàn công cộng
+xây dựng
+xây dựng phương án sử dụng lao động
 yêu cầu
 yêu cầu chứng minh được vì sự kiện bất khả kháng, trở ngại khách quan hoặc lý do khác
 yêu cầu cụ thể đối với người lao động thuê lại
@@ -577,6 +572,7 @@ yêu cầu đặc thù của công việc và các hành vi duy trì, bảo vệ
 yêu cầu ủy ban nhân dân cấp tỉnh nơi đặt trụ sở chính của các doanh nghiệp tham gia thương lượng hoặc nơi do các bên lựa chọn
 điều tra tai nạn lao động và vi phạm an toàn, vệ sinh lao động
 điều tra xác minh và kết luận đối với hành vi vi phạm được
+đào tạo, bồi dưỡng kỹ năng
 đình chỉ công việc
 đình chỉ công việc của người lao động chỉ được thực hiện sau khi tham khảo ý kiến của tổ chức đại diện người lao động tại cơ sở mà người lao động đang bị xem xét tạm đình chỉ công việc là thành viên
 đình chỉ công việc của người lao động khi vụ việc vi phạm có những tình tiết phức tạp
@@ -589,3 +585,7 @@ yêu cầu ủy ban nhân dân cấp tỉnh nơi đặt trụ sở chính của 
 đơn phương chấm dứt hợp đồng lao động đối với người lao động vì lý do kết hôn, mang thai, nghỉ thai sản, nuôi con dưới 12 tháng tuổi
 đơn phương chấm dứt hợp đồng lao động, chuyển làm công việc khác, kỷ luật sa thải đối với người lao động là thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở
 đơn phương chấm dứt hợp đồng lao động, không tiếp tục giao kết hoặc gia hạn hợp đồng lao động, chuyển người lao động làm công việc khác
+được thực hiện theo hợp đồng đã giao kết
+đề nghị
+đối thoại
+ủy quyền hợp pháp

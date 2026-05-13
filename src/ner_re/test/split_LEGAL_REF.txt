@@ -1,8 +1,3 @@
-an toàn
-bảo hiểm thất nghiệp
-bảo hiểm y tế
-bảo vệ quyền
-bệnh nghề nghiệp theo quy định của pháp luật về an toàn
 bộ luật hình sự
 bộ luật lao động
 bộ luật lao động số 10/2012/qh13
@@ -10,34 +5,24 @@ bộ luật này
 bộ luật tố tụng dân sự số 92/2015/qh13
 bộ luật tố tụng hình sự
 chương xi của bộ luật này
-các khoản bổ sung khác
-cư trú của người nước ngoài
-của hợp đồng lao động
-khoản 1
-khoản 1 của bộ luật này
 khoản 1 điều 112 của bộ luật này
-khoản 1 điều 125 của bộ luật này
 khoản 1 điều 128 của bộ luật này
 khoản 1 điều 138 của bộ luật này
+khoản 1 điều 145 của bộ luật này
 khoản 1 điều 149 của bộ luật này
 khoản 1 điều 15 của bộ luật này
 khoản 1 điều 16 của bộ luật này
+khoản 1 điều 162 của bộ luật này
 khoản 1 điều 174 của bộ luật này
 khoản 1 điều 2 của luật này
 khoản 1 điều 21 của bộ luật này
 khoản 1 điều 34 của bộ luật này
 khoản 1 điều 36 của bộ luật này
-khoản 1 điều 42 của bộ luật này
 khoản 1 điều 70 của bộ luật này
 khoản 1 điều 73
 khoản 1 điều 84 của bộ luật này
-khoản 1 điều này
 khoản 11 điều 34 của bộ luật này
-khoản 1a
-khoản 2
-khoản 2 của bộ luật này
 khoản 2 điều 125 của bộ luật này
-khoản 2 điều 149 của bộ luật này
 khoản 2 điều 151 của bộ luật này
 khoản 2 điều 16 của bộ luật này
 khoản 2 điều 169 của bộ luật lao động
@@ -53,8 +38,6 @@ khoản 2 điều 63 của bộ luật này
 khoản 2 điều 68 của bộ luật này
 khoản 2 điều 70 của bộ luật này
 khoản 2 điều 99 của bộ luật này
-khoản 2 điều này
-khoản 3
 khoản 3 điều 101 của bộ luật này
 khoản 3 điều 102 của bộ luật này
 khoản 3 điều 143 của bộ luật này
@@ -62,72 +45,52 @@ khoản 3 điều 145 của bộ luật này
 khoản 3 điều 169 của bộ luật lao động
 khoản 3 điều 181 của bộ luật này
 khoản 3 điều 68 của bộ luật này
-khoản 3 điều này
-khoản 4 của bộ luật này
 khoản 4 điều 122 của bộ luật này
 khoản 4 điều 177 của bộ luật này
 khoản 4 điều 34 của bộ luật này
 khoản 4 điều 97 của bộ luật này
-khoản 4 điều này
 khoản 5 điều 328 của bộ luật tố tụng hình sự
 khoản 7 điều 188 của bộ luật này
 khoản 7 điều 34 của bộ luật này
-khoản của hợp đồng lao động
-khoản này
-kinh doanh
 luật bảo hiểm xã hội
 luật bảo hiểm xã hội số 58/2014/qh13
-luật quản lý
-lợi ích hợp pháp của
-một số điều của luật bảo hiểm xã hội số 58/2014/qh13
 mục 1 chương xi của bộ luật này
-người được ủy quyền theo quy định của pháp luật
-người đại diện theo pháp luật của người đó
-nội quy lao động
-nội quy lao động của
-pháp luật nước sở
-pháp luật việt nam
-phải giao kết hợp đồng lao động bằng văn bản với người chưa đủ 15 tuổi
-quy định
-quyết định của tòa án
-quá cảnh
-sử dụng vốn nhà nước đầu tư vào sản xuất
-theo bản án
+phải giao kết hợp đồng lao động bằng văn bản với người chưa đủ 15 tuổi và người đại diện theo pháp luật của người đó
+theo bản án, quyết định của tòa án
 theo quy định
 theo quy định của bộ luật hình sự
 theo quy định của bộ luật này
 theo quy định của bộ trưởng bộ y tế
 theo quy định của chính phủ
-theo quy định của luật an toàn
+theo quy định của luật an toàn, vệ sinh lao động
 theo quy định của luật bảo hiểm xã hội
 theo quy định của luật công đoàn
-theo quy định của luật doanh nghiệp
+theo quy định của luật doanh nghiệp, luật quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp
 theo quy định của luật giáo dục nghề nghiệp
 theo quy định của luật luật sư
 theo quy định của luật nghĩa vụ quân sự
 theo quy định của luật thanh tra
 theo quy định của pháp luật
-theo quy định của pháp luật có vai trò đại diện
-theo quy định của pháp luật nước ngoài
-theo quy định của pháp luật việt nam
-theo quy định của pháp luật về an toàn
-theo quy định của pháp luật về bảo hiểm thất nghiệp
+theo quy định của pháp luật có vai trò đại diện, bảo vệ quyền và lợi ích hợp pháp của
+theo quy định của pháp luật hoặc người được ủy quyền theo quy định của pháp luật
+theo quy định của pháp luật hoặc nội quy lao động của
+theo quy định của pháp luật nước ngoài hoặc pháp luật việt nam
+theo quy định của pháp luật việt nam, pháp luật nước sở tại
+theo quy định của pháp luật về an toàn, vệ sinh lao động
+theo quy định của pháp luật về bảo hiểm thất nghiệp và thời gian làm việc
 theo quy định của pháp luật về bảo hiểm xã hội
 theo quy định của pháp luật về bảo hiểm xã hội được hưởng lương hưu
+theo quy định của pháp luật về bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp
+theo quy định của pháp luật về bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp
+theo quy định của pháp luật về bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và an toàn, vệ sinh lao động
+theo quy định của pháp luật về bảo hiểm xã hội, về bảo hiểm y tế theo quy định của pháp luật về bảo hiểm y tế, về bảo hiểm thất nghiệp theo quy định của pháp luật về việc làm, về bảo hiểm tai nạn lao động, bệnh nghề nghiệp theo quy định của pháp luật về an toàn, vệ sinh lao động
 theo quy định của pháp luật về giao dịch điện tử có giá trị như hợp đồng lao động bằng văn bản
 theo quy định của pháp luật về lao động
-theo quy định của pháp luật về nhập cảnh
+theo quy định của pháp luật về nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại việt nam
 theo quy định của pháp luật về thuế
 theo quy định của pháp luật về tố tụng hình sự
-theo quy định của điều ước quốc tế
-theo quy định sau đây:
-thỏa ước lao động tập thể
-thời gian làm việc
-về bảo hiểm tai nạn lao động
-về bảo hiểm thất nghiệp theo quy định của pháp luật về việc làm
-về bảo hiểm y tế theo quy định của pháp luật về bảo hiểm y tế
-vệ sinh lao động
-xuất cảnh
+theo quy định của pháp luật, thỏa ước lao động tập thể hoặc nội quy lao động
+theo quy định sau đây
 điều 101 của bộ luật này
 điều 102 của bộ luật này
 điều 105 của bộ luật này
@@ -139,6 +102,7 @@ xuất cảnh
 điều 143 của bộ luật này
 điều 145 của bộ luật này
 điều 147 của bộ luật này
+điều 149 của bộ luật này
 điều 15 của bộ luật này
 điều 154 của bộ luật này
 điều 156 của bộ luật này
@@ -150,6 +114,7 @@ xuất cảnh
 điều 176 của bộ luật này
 điều 177 của bộ luật này
 điều 179 của bộ luật này
+điều 18 của bộ luật này
 điều 181 của bộ luật này
 điều 188 của bộ luật này
 điều 189 của bộ luật này
@@ -164,6 +129,7 @@ xuất cảnh
 điều 209 của bộ luật này
 điều 21 của bộ luật này
 điều 210 của bộ luật này
+điều 29 của bộ luật này
 điều 31 của bộ luật này
 điều 32
 điều 32 của bộ luật tố tụng dân sự số 92/2015/qh13
@@ -174,6 +140,7 @@ xuất cảnh
 điều 42 của bộ luật này
 điều 43 của bộ luật này
 điều 44 của bộ luật này
+điều 46 của bộ luật này
 điều 47 của bộ luật này
 điều 54
 điều 55
@@ -189,35 +156,28 @@ xuất cảnh
 điều 84 của bộ luật này
 điều 97 của bộ luật này
 điều 99 của bộ luật này
-điều lệ
-điều lệ của tổ chức
-điều lệ tổ chức của người lao động
-điều này
+điểm a
 điểm a khoản 1
-điểm a khoản 1 điều 128 của bộ luật này
 điểm a khoản 1 điều 145 của bộ luật này
-điểm a khoản 1 điều 162 của bộ luật này
-điểm a khoản 1 điều 18 của bộ luật này
 điểm a khoản 1 điều 2 của luật này
 điểm a khoản 1 điều 21 của bộ luật này
 điểm a khoản 1 điều 36 của bộ luật này
-điểm a khoản 1 điều 42 của bộ luật này
 điểm a khoản 2 điều 18 của bộ luật này
-điểm a khoản này
 điểm b khoản 1
 điểm b khoản 1 điều 174 của bộ luật này
 điểm b khoản 1 điều 36 của bộ luật này
-điểm b khoản 1 điều này
 điểm b khoản 2 điều 179 của bộ luật này
 điểm b khoản 2 điều 202 của bộ luật này
 điểm c khoản 2 điều 179 của bộ luật này
 điểm c khoản 2 điều 63 của bộ luật này
-điểm c khoản 4 điều này
+điểm c khoản 4
 điểm d khoản 1
 điểm e khoản 1
 điểm e khoản 1 điều 2 của luật này
 điểm e khoản 1 điều 36 của bộ luật này
-điểm h khoản 1
+điểm h khoản 2
+điểm n
+điểm n khoản 2
 điểm đ khoản 1
 điểm đ khoản 1 điều 2 của luật này
 điểm đ khoản 2
