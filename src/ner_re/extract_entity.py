@@ -30,6 +30,37 @@ TYPE_MAP = {
     "DEFINITION_POINT": ("LEGAL_CONCEPT", "by_point_title"),
 }
 
+def extract_entities_from_question(text, COMPILED):
+    
+    
+
+    if not text:
+        return []
+
+    entities = []
+    seen = set()
+    # Trích xuất entities từ patterns
+    for entity_type, regex_list in COMPILED.items():
+
+        for regex in regex_list:
+            matches = regex.finditer(text)
+
+            for match in matches:
+                start = match.start()
+                end = match.end()
+
+                if (start, end) in seen:
+                    continue
+
+                seen.add((start, end))
+
+                entities.append({
+                    "type": entity_type,
+                    "text": match.group(),
+                    "span": [start, end],
+                    "source": "pattern"
+                })
+    return entities
 
 def extract_entities(text, patterns, effective_type):
     if not text:

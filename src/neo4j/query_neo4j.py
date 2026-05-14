@@ -1,8 +1,48 @@
+def get_chunk_context_from_graph(driver,chunk_id):
+    """
+    Lấy:
+    - content chunk
+    - article/clause cha
+    - entities liên quan
+    """
 
+    query = """
+    MATCH (c:CHUNK {chunk_id: $chunk_id})
+    // parent clause
+    OPTIONAL MATCH (cl:CLAUSE)-[:has_chunk]->(c)
+    // parent article (nếu có node ARTICLE riêng)
+    OPTIONAL MATCH (a:ARTICLE)-[:has_chunk]->(c)
+    // entities của clause
+    OPTIONAL MATCH (cl)-[:mentions]->(e1)
+    // entities của article
+    OPTIONAL MATCH (a)-[:mentions]->(e2)
 
+    WITH c, a, cl,
+        collect(DISTINCT e1) AS clause_entities,
+        collect(DISTINCT e2) AS article_entities
 
+    RETURN
+        c.content AS chunk_content,
+        coalesce(a.article_id, c.article_id) AS article_id,
+        coalesce(a.article_title, c.article_title) AS article_title,
+        coalesce(cl.clause_id, c.clause_id) AS clause_id,
+        [e IN clause_entities WHERE e IS NOT NULL | {
+            node_id: e.node_id,
+            label: e.label,
+            type: e.node_type
+        }] + 
+        [e IN article_entities WHERE e IS NOT NULL | {
+            node_id: e.node_id,
+            label: e.label,
+            type: e.node_type
+        }] AS entities
+    """
+    
 
-
+    with driver.session() as session:
+        result = session.run(query, chunk_id=chunk_id)
+        return result.single()
+    
 def build_neighbors_query():
     #cypher query để lấy neighbors của 1 node
     return """

@@ -1,5 +1,17 @@
 from neo4j import GraphDatabase
 neo4j_driver = None
+import os
+def init_driver():
+    NEO4J_URI = os.getenv("NEO4J_URI")
+    NEO4J_USER = os.getenv("NEO4J_USER")
+    NEO4J_PASS = os.getenv("NEO4J_PASS")
+
+    return get_driver(
+        NEO4J_URI,
+        NEO4J_USER,
+        NEO4J_PASS
+    )
+
 
 def create_neo4j_driver(uri, user, password):
     # tu thu vien neo4j

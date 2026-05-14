@@ -1,0 +1,20 @@
+[
+  {
+    "type": "LEGAL_ROLE",
+    "text": "người lao động",
+    "span": [
+      0,
+      14
+    ],
+    "source": "pattern"
+  },
+  {
+    "type": "RIGHT",
+    "text": "được nghỉ phép bao nhiêu ngày",
+    "span": [
+      15,
+      44
+    ],
+    "source": "pattern"
+  }
+]
