@@ -9,3 +9,4 @@ data/raw/downloaded_pdf.zip
 src/ner/eval.py
 src/ner/regex_ner 26-4.py
 src/ner/regex_ner copy.py
+/frontend

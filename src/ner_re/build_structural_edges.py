@@ -25,7 +25,7 @@ def build_structural_edges(structural_nodes):
                     "id": f"e_{edge_counter}",
                     "source": current_law,
                     "target": node_id,
-                    "type": "HAS_CHAPTER"
+                    "type": "has_chapter"
                 })
 
                 edge_counter += 1
@@ -39,7 +39,7 @@ def build_structural_edges(structural_nodes):
                     "id": f"e_{edge_counter}",
                     "source": current_chapter,
                     "target": node_id,
-                    "relation": "HAS_SECTION"
+                    "type": "has_section"
                 })
 
                 edge_counter += 1
@@ -52,7 +52,7 @@ def build_structural_edges(structural_nodes):
                     "id": f"e_{edge_counter}",
                     "source": current_section,
                     "target": node_id,
-                    "relation": "HAS_ARTICLE"
+                    "type": "has_article"
                 })
 
                 edge_counter += 1
@@ -62,7 +62,7 @@ def build_structural_edges(structural_nodes):
                     "id": f"e_{edge_counter}",
                     "source": current_chapter,
                     "target": node_id,
-                    "relation": "HAS_ARTICLE"
+                    "type": "has_article"
                 })
 
                 edge_counter += 1
@@ -75,7 +75,7 @@ def build_structural_edges(structural_nodes):
                     "id": f"e_{edge_counter}",
                     "source": current_article,
                     "target": node_id,
-                    "relation": "HAS_CLAUSE"
+                    "type": "has_clause"
                 })
 
                 edge_counter += 1
@@ -88,7 +88,7 @@ def build_structural_edges(structural_nodes):
                     "id": f"e_{edge_counter}",
                     "source": current_clause,
                     "target": node_id,
-                    "relation": "HAS_POINT"
+                    "type": "has_point"
                 })
 
                 edge_counter += 1

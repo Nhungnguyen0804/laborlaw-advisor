@@ -1,138 +1,139 @@
-from neo4j import GraphDatabase
 import pandas as pd
 from tqdm import tqdm
-from src.neo4j.connection import get_driver
-
-import os
-from dotenv import load_dotenv
-
-load_dotenv()
-NEO4J_URI = os.getenv("NEO4J_URI")
-NEO4J_USER = os.getenv("NEO4J_USER")
-NEO4J_PASS = os.getenv("NEO4J_PASS")
-NODE_CSV = 'src/neo4j/data_dir/nodes.csv'
-EDGE_CSV = 'src/neo4j/data_dir/edges.csv'
-
-
-
 
 def clear_database(driver):
-    with driver.session(database="test") as session:
+    with driver.session() as session:
         session.run("MATCH (n) DETACH DELETE n")
-    print("clear database!")
+        print("Đã xóa toàn bộ nodes và edges")
+            
+        #Xóa toàn bộ index (trừ index mặc định của Neo4j)
+    with driver.session() as session:
+        index_list = session.run("SHOW INDEXES").data()
+    with driver.session() as session:
+        for idx in index_list:
+            name = idx.get("name")
+            idx_type = idx.get("type", "")
+            # Bỏ qua lookup index mặc định của Neo4j
+            if name and idx_type != "LOOKUP":
+                try:
+                    session.run(f"DROP INDEX `{name}` IF EXISTS")
+                    print(f"Dropped index: {name}")
+                except Exception as e:
+                    print(f"Skip index {name}: {e}")
+    
+    print("===> Clear database xong")
+
 
 # tạo các ràng buộc cho csdl 
-# node id unique
-# index ent type
-# tạo constraint cho từng loại entity
-def create_constraints(driver):
-    with driver.session(database="test") as session:
-        # Lấy danh sách tất cả entity_type từ CSV
-        df = pd.read_csv(NODE_CSV)
-        entity_types = df['entity_type'].unique()
-
-        for etype in entity_types:
+# node id unique => tạo ràng buộc node_id phải unique
+def create_unique_node_id(driver,NODE_CSV_PATH):
+    nodes_df = pd.read_csv(NODE_CSV_PATH)
+    node_types = nodes_df["node_type"].unique()
+    with driver.session() as session:
+        for node_type in node_types:
             try:
-                # Tạo constraint cho từng label
-                session.run(f"""
-                    CREATE CONSTRAINT {etype.lower()}_id IF NOT EXISTS
-                    FOR (n:{etype}) REQUIRE n.node_id IS UNIQUE
-                """)
-                print(f"Constraint cho :{etype}")
+                # Tạo unique constraint cho node_id
+                query =f"""
+                    CREATE INDEX {node_type.lower()}_node_id_idx IF NOT EXISTS
+                    FOR (node:{node_type})
+                    ON (node.node_id)
+                """
+                session.run(query)
+                print(f"Đã tạo ràng buộc unique cho :{node_type}")
             except Exception as e:
-                print(f"Skip {etype}: {e}")
+                print(f"Skip {node_type} vì lỗi: {e}")
 
 
-def import_nodes(driver, csv_path, batch_size=1000):
-    df = pd.read_csv(csv_path)
-    total = len(df)
-    print(f"nodes: {total}")
+def import_nodes(driver, NODES_CSV_PATH, batch_size=1000):
+    nodes_df = pd.read_csv(NODES_CSV_PATH)
+    total_rows = len(nodes_df)
+    print(f"Tổng số node: {total_rows}")
     # dùng apoc.create.node để tạo dynamic label
     query = """
     UNWIND $batch AS row
+    WITH apoc.map.clean(row, [], ["", "null",null,"NaN","nan"]) AS clean  //(map, keys_to_remove, values_to_remove)
     CALL apoc.merge.node(
-        [row.entity_type],  // label động từ entity_type
-        {node_id: row.node_id},  // merge key
-        {
-            text: row.text,
-            entity_type: row.entity_type,
-            first_chunk: row.first_chunk,
-            first_sentence: row.first_sentence,
-            node_frequency: toInteger(row.node_frequency)
-        },
+        [clean.node_type],  // label động từ entity_type
+        {node_id: clean.node_id},  // merge key
+        clean, //tự import toan bo cot csv
         {}  // onMatch properties (để trống)
     ) YIELD node
     RETURN count(node)
     """
 
-    with driver.session(database="test") as session:
-        for i in tqdm(range(0, total, batch_size)):
-            batch = df.iloc[i:i+batch_size].to_dict('records')
-            session.run(query, batch=batch)
+    with driver.session() as session:
+        for start_index in tqdm(range(0, total_rows, batch_size)):
+            end_index = start_index + batch_size
+            batch_dataframe = nodes_df.iloc[start_index:end_index]
+            batch_data = batch_dataframe.to_dict("records")
+            session.run(query, batch=batch_data)
 
-def import_edges(driver, csv_path, batch_size=1000):
-    df = pd.read_csv(csv_path)
-    total = len(df)
-    print(f"edges: {total}")
+def import_edges(driver, EDGES_CSV_PATH, batch_size=1000):
+    edges_df = pd.read_csv(EDGES_CSV_PATH)
+    total_rows = len(edges_df)
+    print(f"Tổng số cạnh: {total_rows}")
     
-    # Dynamic relationship type
+    # dùng apoc.create.node để tạo dynamic
+    # ["", "null"]
     query = """
     UNWIND $batch AS row
-    MATCH (s {node_id: row.source_id})
-    MATCH (t {node_id: row.target_id})
+    WITH apoc.map.clean(row, [], ["", "null",null,"NaN","nan"]) AS clean
+    MATCH (source_node {node_id: clean.source_id})
+    MATCH (target_node {node_id: clean.target_id})
     CALL apoc.merge.relationship(
-        s,
-        row.relation_type,  // relationship type động
-        {edge_id: row.edge_id},
-        {
-            confidence: toFloat(row.confidence),
-            chunk_id: row.chunk_id,
-            sentence_id: row.sentence_id
-        },
-        t,
+        source_node,
+        clean.relation_type,
+        {edge_id: clean.edge_id},
+        clean,
+        target_node,
         {}
     ) YIELD rel
     RETURN count(rel)
     """
     
-    with driver.session(database="test") as session:
-        for i in tqdm(range(0, total, batch_size)):
-            batch = df.iloc[i:i+batch_size].to_dict('records')
-            session.run(query, batch=batch)
+    with driver.session() as session:
+        for start_index in tqdm(range(0, total_rows, batch_size)):
+            end_index = start_index + batch_size
+            batch_dataframe = edges_df.iloc[start_index:end_index]
+            batch_data = batch_dataframe.to_dict("records")
+            session.run(query, batch=batch_data)
 
 # check data trong graph database sau khi import
-def verify(driver):
-    with driver.session(database="test") as session:
+def check_after_imported(driver):
+    with driver.session() as session:
         # Đếm nodes theo từng label
-        labels = session.run("CALL db.labels()").data()
-        
-        for label in labels:
-            count = session.run(
-                f"MATCH (n:`{label['label']}`) RETURN count(n) AS c"
-            ).single()["c"]
-            print(f"  :{label['label']} = {count}")
-        
+        labels_result = session.run("CALL db.labels()")
+        for row in labels_result:
+            label_name = row["label"]
+            query = f"""
+                MATCH (node:`{label_name}`)
+                RETURN count(node) AS total
+            """
+            result = session.run(query)
+            total = result.single()["total"]
+            print(f"{label_name}: {total}")
+    
         # Đếm relationships theo type
-        rel_types = session.run("CALL db.relationshipTypes()").data()
-        
-        for rel_type in rel_types:
-            count = session.run(
-                f"MATCH ()-[r:`{rel_type['relationshipType']}`]->() RETURN count(r) AS c"
-            ).single()["c"]
-            print(f"  :{rel_type['relationshipType']} = {count}")
+        relationship_result = session.run( "CALL db.relationshipTypes()")
+        for row in relationship_result:
+            relationship_type = row["relationshipType"]
+            query = f"""
+                MATCH ()-[relationship:`{relationship_type}`]->()
+                RETURN count(relationship) AS total
+            """
+            result = session.run(query)
+            total = result.single()["total"]
+            print(f"{relationship_type}: {total}")
+    
+def import_neo4j(driver,NODES_CSV_PATH, EDGES_CSV_PATH):   
+    clear_database(driver)
+    create_unique_node_id(driver,NODES_CSV_PATH)
+    import_nodes(driver, NODES_CSV_PATH)
+    # tạo ràng buộc unique cho các node id 
+    
+    import_edges(driver, EDGES_CSV_PATH)
+    check_after_imported(driver)
+    print('=>DONE IMPORT GRAPH TO NEO4J!')
 
-def import_neo4j():
-    driver = get_driver(NEO4J_URI, NEO4J_USER, NEO4J_PASS)
-    node_path = NODE_CSV
-    edge_path = EDGE_CSV
-    try:
-        clear_database(driver)
-        create_constraints(driver)
-        import_nodes(driver, node_path)
-        import_edges(driver, edge_path)
-        verify(driver)
-    finally:
-        driver.close()
 
 
-import_neo4j()

@@ -1,0 +1,26 @@
+services:
+  neo4j:
+    image: neo4j:5.15.0
+    container_name: neo4j_graphrag
+    restart: always
+    ports:
+      - "7474:7474" # web neo4j: http://localhost:7474
+      - "7687:7687" # để connect csdl
+    environment:
+      - NEO4J_AUTH=${NEO4J_USER}/${NEO4J_PASS} # từ .env
+      - NEO4J_PLUGINS=["apoc"]
+      - NEO4J_apoc_export_file_enabled=true
+      - NEO4J_apoc_import_file_enabled=true
+      - NEO4J_dbms_memory_heap_max__size=2G
+      - NEO4J_dbms_memory_pagecache_size=1G
+    volumes:
+      - neo4j_data:/data
+      - neo4j_logs:/logs
+      - neo4j_import:/var/lib/neo4j/import # Để import csv
+      - neo4j_plugins:/plugins
+
+volumes:
+  neo4j_data:
+  neo4j_logs:
+  neo4j_import:
+  neo4j_plugins:

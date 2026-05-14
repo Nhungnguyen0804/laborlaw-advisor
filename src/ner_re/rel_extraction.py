@@ -20,9 +20,9 @@ def build_mention_edges(property_entities):
 
         for ent in item["entities"]:
             edges.append({
-                "source": ent["id"],
-                "target": node_id,
-                "type": "MENTIONS"
+                "source": node_id, # dieu khoan diem 
+                "target": ent["id"], # de cap den ent
+                "type": "mentions"
             })
 
     return edges
@@ -345,10 +345,15 @@ def export_indirect_edges(data, output_path):
             ent3_id = edge.get('target_entity')
 
             rel = edge.get('edge_type')
-
-            ent1 = entities.get(ent1_id, {}).get('text', ent1_id)
-            ent2 = entities.get(ent2_id, {}).get('text', ent2_id)
-            ent3 = entities.get(ent3_id, {}).get('text', ent3_id)
+            ent1_obj = entities.get(ent1_id, {})
+            ent2_obj = entities.get(ent2_id, {})
+            ent3_obj = entities.get(ent3_id, {})
+            if ent1_obj.get('type') != ent2_obj.get('type'):
+                continue
+            
+            ent1 = ent1_obj.get('text', ent1_id)
+            ent2 = ent2_obj.get('text', ent2_id)
+            ent3 = ent3_obj.get('text', ent3_id)
 
             lines.append(f'{ent1}, connect, {ent2}\n')
             lines.append(f'{ent2}, {rel}, {ent3}\n')

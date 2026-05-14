@@ -61,8 +61,8 @@ structural_nodes = add_sentences_to_nodes(structural_nodes)
 structural_edges = build_structural_edges(structural_nodes)
 # print(type(structural_nodes)) # dict
 # print(structural_nodes)
-save_json(structural_nodes, 'src/ner_re/structural_nodes.json')
-save_json(structural_edges, 'src/ner_re/structural_edges.json')
+save_json(structural_nodes, 'data/graph/structural_nodes.json')
+save_json(structural_edges, 'data/graph/structural_edges.json')
 
 raw_entities = []
 for chapter in law_data['structure']['chapters']:
@@ -114,7 +114,7 @@ save_json(property_entities,'src/ner_re/property_entities.json')
 
 
 all_semantic_edges = run_re(property_entities,structural_nodes)
-save_json(all_semantic_edges,'src/ner_re/all_semantic_edges.json')
+save_json(all_semantic_edges,'data/graph/all_semantic_edges.json')
 
 def extract_entities(data):
     all_entities = []
@@ -125,4 +125,4 @@ def extract_entities(data):
 
 all_semantic_nodes = extract_entities(property_entities)
 print(f'TẤT CẢ SEMANTIC NODES LÀ {len(all_semantic_nodes)} NODE')
-save_json(all_semantic_nodes,'src/ner_re/all_semantic_nodes.json')
+save_json(all_semantic_nodes,'data/graph/all_semantic_nodes.json')

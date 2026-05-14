@@ -8,7 +8,7 @@ NEO4J_URI = os.getenv("NEO4J_URI")
 NEO4J_USER = os.getenv("NEO4J_USER")
 NEO4J_PASS = os.getenv("NEO4J_PASS")
 def test_connection():
-    """Test kết nối đến Neo4j"""
+    # test kết nối đến Neo4j
     try:
         driver = GraphDatabase.driver(NEO4J_URI, auth=(NEO4J_USER, NEO4J_PASS))
         driver.verify_connectivity()
@@ -34,13 +34,11 @@ def test_connection():
         
         driver.close()
         
-        return True
+     
         
     except Exception as e:
         print(f"\nKẾT NỐI THẤT BẠI!")
         print(e)
-        return False
+       
 
-if __name__ == "__main__":
-    success = test_connection()
-    sys.exit(0 if success else 1)
+

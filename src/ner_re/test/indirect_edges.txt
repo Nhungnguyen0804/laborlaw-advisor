@@ -18,10 +18,6 @@ người sử dụng lao động, connect, người lao động
 người lao động, enables, thỏa thuận nội dung thử việc ghi trong hợp đồng lao động hoặc thỏa thuận về thử việc bằng việc giao kết hợp đồng thử việc
 người sử dụng lao động, enables, thỏa thuận nội dung thử việc ghi trong hợp đồng lao động hoặc thỏa thuận về thử việc bằng việc giao kết hợp đồng thử việc
 ------------------------------
-điểm a khoản 1, connect, người sử dụng lao động
-người sử dụng lao động, applies_to, người lao động
-điểm a khoản 1, applies_to, người lao động
-------------------------------
 người lao động, connect, các bên
 các bên, related_to, thực hiện phương án sử dụng lao động
 người lao động, related_to, thực hiện phương án sử dụng lao động
@@ -54,29 +50,9 @@ người sử dụng lao động, connect, tổ chức đại diện người la
 tổ chức đại diện người lao động tại doanh nghiệp, defines, trường hợp
 người sử dụng lao động, defines, trường hợp
 ------------------------------
-doanh nghiệp thành viên của thỏa ước lao động tập thể ngành, connect, thỏa ước lao động tập thể có nhiều doanh nghiệp
-thỏa ước lao động tập thể có nhiều doanh nghiệp, related_to, thỏa ước lao động tập thể
-doanh nghiệp thành viên của thỏa ước lao động tập thể ngành, related_to, thỏa ước lao động tập thể
-------------------------------
 người sử dụng lao động, connect, tổ chức đại diện người lao động tại doanh nghiệp
 tổ chức đại diện người lao động tại doanh nghiệp, defines, trường hợp có khó khăn đặc biệt trong hoạt động sản xuất, kinh doanh
 người sử dụng lao động, defines, trường hợp có khó khăn đặc biệt trong hoạt động sản xuất, kinh doanh
-------------------------------
-lương, connect, ít nhất bằng 300%
-ít nhất bằng 300%, has_exception, tiền lương
-lương, has_exception, tiền lương
-------------------------------
-hằng năm, connect, người lao động
-người lao động, enables, tiền lương
-hằng năm, enables, tiền lương
-------------------------------
-lương, connect, người lao động
-người lao động, enables, tiền lương
-lương, enables, tiền lương
-------------------------------
-mang thai hộ, connect, người lao động
-người lao động, defines, người mẹ
-mang thai hộ, defines, người mẹ
 ------------------------------
 người lao động cao tuổi, connect, hai bên
 hai bên, enables, thỏa thuận giao kết nhiều lần hợp đồng lao động xác định thời hạn
@@ -94,10 +70,6 @@ tổ chức, connect, cá nhân
 cá nhân, requires, người lao động nước ngoài
 tổ chức, requires, người lao động nước ngoài
 ------------------------------
-phải bồi thường theo thỏa thuận, connect, theo quy định của pháp luật
-theo quy định của pháp luật, defines, người sử dụng lao động
-phải bồi thường theo thỏa thuận, defines, người sử dụng lao động
-------------------------------
 người sử dụng lao động, connect, người lao động
 người lao động, involves, đối với người lao động
 người sử dụng lao động, involves, đối với người lao động
@@ -105,8 +77,4 @@ người sử dụng lao động, involves, đối với người lao động
 công đoàn cấp tỉnh, connect, tổ chức đại diện của người sử dụng lao động
 tổ chức đại diện của người sử dụng lao động, requires, tổ chức
 công đoàn cấp tỉnh, requires, tổ chức
-------------------------------
-điều 189 của bộ luật này, connect, hội đồng trọng tài lao động
-hội đồng trọng tài lao động, defines, ban trọng tài lao động
-điều 189 của bộ luật này, defines, ban trọng tài lao động
 ------------------------------

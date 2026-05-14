@@ -1,146 +1,148 @@
 import json
-import pandas as pd
 import os
+import pandas as pd
+from src.utils.file_utils import load_json
 
-INPUT_JSON = "src/ner/ner_re.json"
-OUTPUT_DIR = "src/neo4j/data_dir"
-
-
-# gán id (text,type): "n_00001"
-node_map = {}
-count_node = 0
-
-def get_node_id(text, entity_type):
-    global count_node
-    key = (text.strip(), entity_type)
-    if key not in node_map:
-        count_node += 1
-        node_map[key] = f"n_{count_node:05d}"
-    return node_map[key]
-
-edge_map = {}
-count_edge = 0
-
-def get_edge_id(subject_id, pred, object_id):
-    global count_edge
-    key = (subject_id, pred, object_id)
-    if key not in edge_map:
-        count_edge += 1
-        edge_map[key] = f"e_{count_edge:05d}"
-    return edge_map[key]
+STRUCTURAL_NODES_PATH = "data/graph/structural_nodes.json"
+STRUCTURAL_EDGES_PATH = "data/graph/structural_edges.json"
+SEMANTIC_NODES_PATH   = "data/graph/all_semantic_nodes.json"
+SEMANTIC_EDGES_PATH   = "data/graph/all_semantic_edges.json"
 
 
-def create_node(text, entity_type, chunk_id, sentence_id):
-    node_id = get_node_id(text, entity_type)
+OUTPUT_DIR = "data/graph/import_neo4j"
 
-    return {
-        "node_id": node_id,
-        "text": text.strip(),
-        "entity_type": entity_type,
-        "first_chunk": chunk_id,
-        "first_sentence": sentence_id,
-        "node_frequency": 1,
-    }
+def get_structural_label(node):
+    properties = node.get("properties", {})
+    sentences = node.get("sentences", [])
 
+    priority_fields = ["point_content","clause_content", "article_title","section_title","chapter_title"]
 
-def get_node(text, entity_type, chunk_id, sentence_id, nodes):
-    node_id = get_node_id(text, entity_type)
+    for field in priority_fields:
+        value = properties.get(field)
+        if value:
+            return value
+    # k co title /content 
+    if sentences:
+        s = sentences[0]
+        return s
+    return node.get("type", "")
+  
+def process_structural_nodes(data):
 
-    # chưa có node thì tạo mới
-    if node_id not in nodes:
-        nodes[node_id] = create_node(
-            text=text,
-            entity_type=entity_type,
-            chunk_id=chunk_id,
-            sentence_id=sentence_id,
-        )
-    else:
-        nodes[node_id]["node_frequency"] += 1
+    nodes = data["nodes"]
 
-    return node_id
+    rows = []
 
-def process_relation(rel, chunk_id, sentence_id, nodes, edges):
-    subject_id = get_node(
-        rel.get("subject", ""),
-        rel.get("subject_type", "UNKNOWN"),
-        chunk_id,
-        sentence_id,
-        nodes,
-    )
-    
-    object_id = get_node(
-        rel.get("object", ""),
-        rel.get("object_type", "UNKNOWN"),
-        chunk_id,
-        sentence_id,
-        nodes,
-    )
-    
-    relation_type = rel.get("relation_type", "")
-    edge_id = get_edge_id(subject_id, relation_type, object_id)
-    
-    # check tồn tại của edge
-    edge_exists = False
+    for node in nodes:
 
-    for e in edges:
-        if e["edge_id"] == edge_id:
-            edge_exists = True
-            break
-    
-    if not edge_exists:
-        edges.append({
-            "edge_id": edge_id,
-            "source_id": subject_id,
-            "target_id": object_id,
-            "relation_type": relation_type,
-            "confidence": rel.get("confidence", 0.5), # ko có thì mặc định 0.5
-            "chunk_id": chunk_id,
-            "sentence_id": sentence_id,
-        })
+        properties = node.get("properties", {})
+        sentences = node.get("sentences", [])
 
+        row = {
+            "node_id": node.get("id"),
+            "node_type": node.get("type"),
+            "graph_type": "structural",
+            "sentences": json.dumps(sentences,ensure_ascii=False), # lưu dạng json string 
+        }
+        row["label"] = get_structural_label(node)
 
-def export_csv(nodes, edges):
+        for key, value in properties.items():
+            if isinstance(value, list): # value la list => luu dạng json string 
+                row[key] = json.dumps(value, ensure_ascii=False)
+            else:
+                row[key] = value
+        rows.append(row)
+    dataframe = pd.DataFrame(rows)
+    return dataframe
+
+def process_structural_edges(data):
+    edges = data["edges"]
+    rows = []
+    for edge in edges:
+        row = {
+            "edge_id": edge.get("id"),
+            "source_id": edge.get("source"),
+            "target_id": edge.get("target"),
+            "relation_type": edge.get("type"),
+            "graph_type": "structural",
+        }
+        rows.append(row)
+    dataframe = pd.DataFrame(rows)
+    return dataframe
+
+def process_semantic_nodes(data):
+    rows = []
+    for node in data:
+        properties = node.get("properties", {})
+        span = node.get("span", [])
+        text = node.get("text", "")
+        row = {
+            "node_id": node.get("id"),
+            "node_type": node.get("type"),
+            "text": node.get("text"),
+            "label": text if text else node.get("type", ""), 
+            "source": node.get("source"),
+            "graph_type": "semantic",
+            "span_start": None,
+            "span_end": None,
+        }
+        # span start
+        if len(span) > 0:
+            row["span_start"] = span[0]
+        # span end
+        if len(span) > 1:
+            row["span_end"] = span[1]
+
+        
+        for key, value in properties.items():
+            # list -> json string
+            if isinstance(value, list):
+                row[key] = json.dumps(value,ensure_ascii=False)
+            else:
+                row[key] = value
+        rows.append(row)
+    dataframe = pd.DataFrame(rows)
+    return dataframe
+
+def process_semantic_edges(data):
+    rows = []
+    for edge in data:
+        row = {
+            "edge_id": edge.get("id"),
+            "source_id": edge.get("source"),
+            "target_id": edge.get("target"),
+            "relation_type": edge.get("type"),
+            "graph_type": "semantic",
+        }
+        rows.append(row)
+    dataframe = pd.DataFrame(rows)
+    return dataframe
+
+def export_csv(dataframe, filename):
     os.makedirs(OUTPUT_DIR, exist_ok=True)
-    
-    nodes_df = pd.DataFrame(list(nodes.values()))
-    edges_df = pd.DataFrame(edges)
-    
-    nodes_df.to_csv(os.path.join(OUTPUT_DIR, "nodes.csv"), index=False)
-    edges_df.to_csv(os.path.join(OUTPUT_DIR, "edges.csv"), index=False)
-    
-    print(f"Đã tạo {len(nodes)} nodes")
-    print(f"Đã tạo {len(edges)} edges")
-    print(f"Lưu tại: {OUTPUT_DIR}")
+    output_path = os.path.join(OUTPUT_DIR,filename)
+    dataframe.to_csv(output_path,index=False,encoding="utf-8-sig")
+    print(f"Saved: {output_path}")
 
 def convert_json_to_csv():
-    with open(INPUT_JSON, "r", encoding="utf-8") as f:
-        data = json.load(f)
-    
-    chunks = data.get("results", data) if "results" in data else data
-    
-    nodes = {}
-    edges = []
-    
-    for chunk_idx, chunk in enumerate(chunks):
-        chunk_id = chunk.get("chunk_id", f"chunk_{chunk_idx:05d}")
-        
-        for sentence in chunk.get("sentences", []):
-            sentence_id = sentence.get("sentence_id", "s0")
-            
-            for rel in sentence.get("relations", []):
-                process_relation(
-                    rel,
-                    chunk_id,
-                    sentence_id,
-                    nodes,
-                    edges,
-                )
-    
-    export_csv(nodes, edges)
+    structural_nodes_json = load_json(STRUCTURAL_NODES_PATH)
+    structural_edges_json = load_json(STRUCTURAL_EDGES_PATH)
+    semantic_nodes_json = load_json(SEMANTIC_NODES_PATH)
+    semantic_edges_json = load_json(SEMANTIC_EDGES_PATH)
 
+    structural_nodes_df = process_structural_nodes(structural_nodes_json)
+    structural_edges_df = process_structural_edges(structural_edges_json)
+    semantic_nodes_df = process_semantic_nodes(semantic_nodes_json)
+    semantic_edges_df = process_semantic_edges(semantic_edges_json)
 
+    export_csv(structural_nodes_df,'structural_nodes.csv')
+    export_csv(structural_edges_df,'structural_edges.csv')
+    export_csv(semantic_nodes_df,'semantic_nodes.csv')
+    export_csv(semantic_edges_df,'semantic_edges.csv')
 
-def main():
-    convert_json_to_csv()
+    #merge
+    nodes_df = pd.concat([structural_nodes_df,semantic_nodes_df],ignore_index=True) # bỏ idx cu tao lai index moi 
+    edges_df = pd.concat([structural_edges_df,semantic_edges_df],ignore_index=True)
+    export_csv(nodes_df,'nodes.csv')
+    export_csv(edges_df,'edges.csv')
 
-main()
