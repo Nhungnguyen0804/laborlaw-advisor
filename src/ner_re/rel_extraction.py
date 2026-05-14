@@ -125,14 +125,12 @@ def extract_action_text(sentence_text, entities):
     extracted_actions = []
 
     # Sắp xếp entity theo vị trí xuất hiện trong câu
-    entities_sorted_by_position = sorted(
-        entities,
-        key=get_entity_begin_position
-    )
+    entities_sorted_by_position = sorted(entities,key=get_entity_begin_position)
     
     remove_action_texts = [ 
         # ', hai bên',
-        'và nguồn tài chính','khác trong cùng đơn vị','trước và sau',
+        'và nguồn tài chính','khác trong cùng đơn vị',
+        'trước và sau',
         'và một số','và hoạt động','mới thì ngoài','trong số danh sách',
         # ? 
 
@@ -151,13 +149,10 @@ def extract_action_text(sentence_text, entities):
 
         # Entity hiện tại
         current_entity = entities_sorted_by_position[index]
-
         # Entity kế tiếp
         next_entity = entities_sorted_by_position[index + 1]
-
         # Vị trí kết thúc của entity hiện tại
         current_entity_end = current_entity["span_in_sentence"]["end"]
-
         # Vị trí bắt đầu của entity kế tiếp
         next_entity_begin = next_entity["span_in_sentence"]["begin"]
 
@@ -166,12 +161,25 @@ def extract_action_text(sentence_text, entities):
         raw_text = sentence_text[current_entity_end:next_entity_begin]
         text_between_entities = raw_text.strip()
         # số whitespace bên trái
-        # Không có text -> bỏ
-        if not text_between_entities:
+        # Không có text -> None => liền kề để sau này sẽ dùng cặp (ent,ent)=rel
+        is_filtered = False 
+        if not text_between_entities or (text_between_entities.lower() in remove_action_texts):
+            is_filtered = True
+
+        if is_filtered:
+            # vẫn tạo rel nhưng act text None 
+            action_data = {
+                "source_entity": current_entity["id"],
+                "target_entity": next_entity["id"],
+                "action_text": None,   # không có text giữa 2 entity
+                "raw_sentence": sentence_text,
+                "span": None,
+                "is_connect": True,
+                "edge_type": None ,
+            }
+            extracted_actions.append(action_data)
             continue
-  
-        if text_between_entities.lower() in remove_action_texts:
-            continue
+        # Có text hợp lệ
         left_strip_count = len(raw_text) - len(raw_text.lstrip())
         # phải 
         right_strip_count = len(raw_text) - len(raw_text.rstrip())
@@ -179,23 +187,21 @@ def extract_action_text(sentence_text, entities):
         clean_begin = current_entity_end + left_strip_count
         clean_end = next_entity_begin - right_strip_count
 
-        # Bỏ qua nếu không có text
-        if text_between_entities:
-
-            # Tạo object kết quả
-            action_data = {
-                "source_entity": current_entity["id"],
-                "target_entity": next_entity["id"],
-                "action_text": text_between_entities,
-                "raw_sentence": sentence_text,
-                "span": {
-                    "begin": clean_begin,
-                    "end": clean_end
-                }
+    
+        # Tạo object kết quả
+        action_data = {
+            "source_entity": current_entity["id"],
+            "target_entity": next_entity["id"],
+            "action_text": text_between_entities,
+            "raw_sentence": sentence_text,
+            "span": {
+                "begin": clean_begin,
+                "end": clean_end
             }
+        }
 
-            # Thêm vào danh sách kết quả
-            extracted_actions.append(action_data)
+        # Thêm vào danh sách kết quả
+        extracted_actions.append(action_data)
 
     return extracted_actions
 
@@ -204,10 +210,13 @@ def map_entities_to_sentences(structural_nodes, property_entities):
     sentence_data = []
     # Group entities theo node_id
     entities_by_node = {}
+    all_entities = []
     for item in property_entities:
         node_id = item["node_id"]
         # entities_by_node[node_id] = item["entities"]
-        entities_by_node[node_id] = remove_overlap_entities(item["entities"])
+        cleaned = remove_overlap_entities(item["entities"])
+        entities_by_node[node_id] = remove_overlap_entities(cleaned)
+        all_entities.extend(cleaned) 
     
     # Lấy list nodes
     nodes = structural_nodes.get("nodes", [])
@@ -280,7 +289,7 @@ def map_entities_to_sentences(structural_nodes, property_entities):
                 "action_texts": actions
             })
     
-    return sentence_data
+    return sentence_data, all_entities
 
 # GIÁN TIEPPPPPPPP
 # tạo cạnh gián tiếp 
@@ -413,7 +422,7 @@ def run_re(property_entities, structural_nodes):
                 "node_id": node_id
             })
     mention_edges = build_mention_edges(property_entities)
-    map_ent_to_sentences = map_entities_to_sentences(structural_nodes, property_entities)
+    map_ent_to_sentences, all_entities = map_entities_to_sentences(structural_nodes, property_entities)
     from src.utils.file_utils import save_json
     save_json(map_ent_to_sentences, 'src/ner_re/map_ent_to_sentences.json')
 
@@ -422,7 +431,8 @@ def run_re(property_entities, structural_nodes):
         action_texts = sentence_item["action_texts"]
         for action in action_texts:
             line = action["action_text"]
-            all_lines.append(line + "\n")
+            if line is not None:
+                all_lines.append(line + "\n")
             
     from src.utils.file_utils import save_txt 
     save_txt(all_lines, "src/ner_re/test/action_text.txt")
@@ -440,8 +450,15 @@ def run_re(property_entities, structural_nodes):
     
     for sentence in map_ent_to_sentences:
         for action in sentence["action_texts"]:
+            if action.get("is_connect") is True:
+                structural_count += 1
+                continue # giu edge_type = none de fill sau 
             text = action["action_text"]
-
+            if text is None: 
+                action["is_connect"] = True
+                action["edge_type"] = None
+                structural_count += 1
+                continue
             is_connect = is_connect_token(text)
 
             action["is_connect"] = is_connect
@@ -487,7 +504,7 @@ def run_re(property_entities, structural_nodes):
     # ent1 ent2  (ko có text nào ở giữa) => map (ent,ent): rel từ map 
 
     from src.ner_re.rel_mapping import fill_missing_relationship_types
-    map_filled_rel_types = fill_missing_relationship_types(map_ent_to_sentences)
+    map_filled_rel_types = fill_missing_relationship_types(map_ent_to_sentences,all_entities)
     save_json(map_filled_rel_types, 'src/ner_re/map_filled_rel_types.json')
 
     map_indirect_edges = create_indirect_edges(map_filled_rel_types)

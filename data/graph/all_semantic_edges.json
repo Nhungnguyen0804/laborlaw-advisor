@@ -56604,3759 +56604,8949 @@
     "id": "edge_smt_9434"
   },
   {
+    "source": "ent_15",
+    "target": "ent_16",
+    "type": "related_to",
+    "id": "edge_smt_9435"
+  },
+  {
+    "source": "ent_16",
+    "target": "ent_22",
+    "type": "has_condition",
+    "id": "edge_smt_9436"
+  },
+  {
     "source": "ent_22",
     "target": "ent_20",
     "type": "enables",
-    "id": "edge_smt_9435"
+    "id": "edge_smt_9437"
   },
   {
     "source": "ent_19",
     "target": "ent_21",
     "type": "defines",
-    "id": "edge_smt_9436"
+    "id": "edge_smt_9438"
   },
   {
     "source": "ent_21",
     "target": "ent_26",
     "type": "regulates",
-    "id": "edge_smt_9437"
+    "id": "edge_smt_9439"
   },
   {
     "source": "ent_30",
     "target": "ent_33",
     "type": "defines",
-    "id": "edge_smt_9438"
+    "id": "edge_smt_9440"
   },
   {
     "source": "ent_33",
     "target": "ent_34",
     "type": "related_to",
-    "id": "edge_smt_9439"
+    "id": "edge_smt_9441"
   },
   {
     "source": "ent_34",
     "target": "ent_28",
     "type": "related_to",
-    "id": "edge_smt_9440"
+    "id": "edge_smt_9442"
   },
   {
     "source": "ent_28",
     "target": "ent_29",
     "type": "related_to",
-    "id": "edge_smt_9441"
+    "id": "edge_smt_9443"
   },
   {
     "source": "ent_29",
     "target": "ent_35",
     "type": "related_to",
-    "id": "edge_smt_9442"
+    "id": "edge_smt_9444"
+  },
+  {
+    "source": "ent_35",
+    "target": "ent_40",
+    "type": "involves",
+    "id": "edge_smt_9445"
   },
   {
     "source": "ent_44",
     "target": "ent_60",
     "type": "defines",
-    "id": "edge_smt_9443"
+    "id": "edge_smt_9446"
   },
   {
     "source": "ent_60",
     "target": "ent_43",
     "type": "defines",
-    "id": "edge_smt_9444"
+    "id": "edge_smt_9447"
   },
   {
     "source": "ent_43",
     "target": "ent_64",
     "type": "has_purpose",
-    "id": "edge_smt_9445"
+    "id": "edge_smt_9448"
+  },
+  {
+    "source": "ent_64",
+    "target": "ent_67",
+    "type": "cites",
+    "id": "edge_smt_9449"
   },
   {
     "source": "ent_45",
     "target": "ent_50",
     "type": "defines",
-    "id": "edge_smt_9446"
+    "id": "edge_smt_9450"
   },
   {
     "source": "ent_50",
     "target": "ent_62",
     "type": "related_to",
-    "id": "edge_smt_9447"
+    "id": "edge_smt_9451"
+  },
+  {
+    "source": "ent_62",
+    "target": "ent_55",
+    "type": "related_to",
+    "id": "edge_smt_9452"
+  },
+  {
+    "source": "ent_55",
+    "target": "ent_56",
+    "type": "related_to",
+    "id": "edge_smt_9453"
   },
   {
     "source": "ent_68",
     "target": "ent_73",
     "type": "defines",
-    "id": "edge_smt_9448"
+    "id": "edge_smt_9454"
   },
   {
     "source": "ent_73",
     "target": "ent_74",
     "type": "defines",
-    "id": "edge_smt_9449"
+    "id": "edge_smt_9455"
   },
   {
     "source": "ent_90",
     "target": "ent_83",
     "type": "defines",
-    "id": "edge_smt_9450"
+    "id": "edge_smt_9456"
   },
   {
     "source": "ent_83",
     "target": "ent_86",
     "type": "results_in",
-    "id": "edge_smt_9451"
+    "id": "edge_smt_9457"
   },
   {
     "source": "ent_91",
     "target": "ent_88",
     "type": "defines",
-    "id": "edge_smt_9452"
+    "id": "edge_smt_9458"
   },
   {
     "source": "ent_88",
     "target": "ent_89",
     "type": "related_to",
-    "id": "edge_smt_9453"
+    "id": "edge_smt_9459"
   },
   {
     "source": "ent_95",
     "target": "ent_97",
     "type": "defines",
-    "id": "edge_smt_9454"
+    "id": "edge_smt_9460"
   },
   {
     "source": "ent_97",
     "target": "ent_98",
     "type": "defines",
-    "id": "edge_smt_9455"
+    "id": "edge_smt_9461"
   },
   {
     "source": "ent_103",
     "target": "ent_102",
     "type": "defines",
-    "id": "edge_smt_9456"
+    "id": "edge_smt_9462"
   },
   {
     "source": "ent_125",
     "target": "ent_122",
     "type": "defines",
-    "id": "edge_smt_9457"
+    "id": "edge_smt_9463"
   },
   {
     "source": "ent_127",
     "target": "ent_120",
     "type": "defines",
-    "id": "edge_smt_9458"
+    "id": "edge_smt_9464"
   },
   {
     "source": "ent_120",
     "target": "ent_124",
     "type": "defines",
-    "id": "edge_smt_9459"
+    "id": "edge_smt_9465"
+  },
+  {
+    "source": "ent_146",
+    "target": "ent_144",
+    "type": "defines",
+    "id": "edge_smt_9466"
+  },
+  {
+    "source": "ent_154",
+    "target": "ent_148",
+    "type": "involves",
+    "id": "edge_smt_9467"
   },
   {
     "source": "ent_156",
     "target": "ent_155",
     "type": "related_to",
-    "id": "edge_smt_9460"
+    "id": "edge_smt_9468"
+  },
+  {
+    "source": "ent_155",
+    "target": "ent_158",
+    "type": "involves",
+    "id": "edge_smt_9469"
   },
   {
     "source": "ent_158",
     "target": "ent_157",
     "type": "related_to",
-    "id": "edge_smt_9461"
+    "id": "edge_smt_9470"
   },
   {
     "source": "ent_165",
     "target": "ent_167",
     "type": "has_purpose",
-    "id": "edge_smt_9462"
+    "id": "edge_smt_9471"
   },
   {
     "source": "ent_322",
     "target": "ent_323",
     "type": "related_to",
-    "id": "edge_smt_9463"
+    "id": "edge_smt_9472"
+  },
+  {
+    "source": "ent_323",
+    "target": "ent_302",
+    "type": "involves",
+    "id": "edge_smt_9473"
   },
   {
     "source": "ent_302",
     "target": "ent_327",
     "type": "related_to",
-    "id": "edge_smt_9464"
+    "id": "edge_smt_9474"
   },
   {
     "source": "ent_327",
     "target": "ent_321",
     "type": "involves",
-    "id": "edge_smt_9465"
+    "id": "edge_smt_9475"
+  },
+  {
+    "source": "ent_321",
+    "target": "ent_307",
+    "type": "involves",
+    "id": "edge_smt_9476"
+  },
+  {
+    "source": "ent_323",
+    "target": "ent_327",
+    "type": "related_to",
+    "id": "edge_smt_9477"
   },
   {
     "source": "ent_448",
     "target": "ent_447",
     "type": "related_to",
-    "id": "edge_smt_9466"
+    "id": "edge_smt_9478"
   },
   {
     "source": "ent_447",
     "target": "ent_445",
     "type": "related_to",
-    "id": "edge_smt_9467"
+    "id": "edge_smt_9479"
   },
   {
     "source": "ent_453",
     "target": "ent_449",
     "type": "related_to",
-    "id": "edge_smt_9468"
+    "id": "edge_smt_9480"
   },
   {
     "source": "ent_449",
     "target": "ent_455",
     "type": "related_to",
-    "id": "edge_smt_9469"
+    "id": "edge_smt_9481"
   },
   {
     "source": "ent_455",
     "target": "ent_450",
     "type": "related_to",
-    "id": "edge_smt_9470"
+    "id": "edge_smt_9482"
+  },
+  {
+    "source": "ent_450",
+    "target": "ent_461",
+    "type": "involves",
+    "id": "edge_smt_9483"
+  },
+  {
+    "source": "ent_461",
+    "target": "ent_462",
+    "type": "involves",
+    "id": "edge_smt_9484"
   },
   {
     "source": "ent_462",
     "target": "ent_452",
     "type": "involves",
-    "id": "edge_smt_9471"
+    "id": "edge_smt_9485"
+  },
+  {
+    "source": "ent_461",
+    "target": "ent_452",
+    "type": "involves",
+    "id": "edge_smt_9486"
+  },
+  {
+    "source": "ent_464",
+    "target": "ent_467",
+    "type": "involves",
+    "id": "edge_smt_9487"
+  },
+  {
+    "source": "ent_467",
+    "target": "ent_469",
+    "type": "involves",
+    "id": "edge_smt_9488"
   },
   {
     "source": "ent_471",
     "target": "ent_470",
     "type": "related_to",
-    "id": "edge_smt_9472"
+    "id": "edge_smt_9489"
   },
   {
     "source": "ent_470",
     "target": "ent_477",
     "type": "defines",
-    "id": "edge_smt_9473"
+    "id": "edge_smt_9490"
   },
   {
     "source": "ent_471",
     "target": "ent_477",
     "type": "defines",
-    "id": "edge_smt_9474"
+    "id": "edge_smt_9491"
   },
   {
     "source": "ent_512",
     "target": "ent_513",
     "type": "related_to",
-    "id": "edge_smt_9475"
+    "id": "edge_smt_9492"
+  },
+  {
+    "source": "ent_513",
+    "target": "ent_516",
+    "type": "requires",
+    "id": "edge_smt_9493"
   },
   {
     "source": "ent_521",
     "target": "ent_522",
     "type": "related_to",
-    "id": "edge_smt_9476"
+    "id": "edge_smt_9494"
+  },
+  {
+    "source": "ent_522",
+    "target": "ent_525",
+    "type": "involves",
+    "id": "edge_smt_9495"
   },
   {
     "source": "ent_525",
     "target": "ent_524",
     "type": "has_purpose",
-    "id": "edge_smt_9477"
+    "id": "edge_smt_9496"
+  },
+  {
+    "source": "ent_522",
+    "target": "ent_524",
+    "type": "has_purpose",
+    "id": "edge_smt_9497"
+  },
+  {
+    "source": "ent_526",
+    "target": "ent_530",
+    "type": "enables",
+    "id": "edge_smt_9498"
+  },
+  {
+    "source": "ent_532",
+    "target": "ent_535",
+    "type": "requires",
+    "id": "edge_smt_9499"
+  },
+  {
+    "source": "ent_584",
+    "target": "ent_588",
+    "type": "requires",
+    "id": "edge_smt_9500"
   },
   {
     "source": "ent_588",
     "target": "ent_581",
     "type": "has_exception",
-    "id": "edge_smt_9478"
+    "id": "edge_smt_9501"
+  },
+  {
+    "source": "ent_584",
+    "target": "ent_581",
+    "type": "has_exception",
+    "id": "edge_smt_9502"
   },
   {
     "source": "ent_585",
     "target": "ent_583",
     "type": "related_to",
-    "id": "edge_smt_9479"
+    "id": "edge_smt_9503"
   },
   {
     "source": "ent_583",
     "target": "ent_587",
     "type": "related_to",
-    "id": "edge_smt_9480"
+    "id": "edge_smt_9504"
   },
   {
     "source": "ent_590",
     "target": "ent_593",
     "type": "enables",
-    "id": "edge_smt_9481"
+    "id": "edge_smt_9505"
+  },
+  {
+    "source": "ent_593",
+    "target": "ent_594",
+    "type": "involves",
+    "id": "edge_smt_9506"
   },
   {
     "source": "ent_594",
     "target": "ent_592",
     "type": "regulates",
-    "id": "edge_smt_9482"
+    "id": "edge_smt_9507"
+  },
+  {
+    "source": "ent_592",
+    "target": "ent_595",
+    "type": "cites",
+    "id": "edge_smt_9508"
+  },
+  {
+    "source": "ent_593",
+    "target": "ent_592",
+    "type": "regulates",
+    "id": "edge_smt_9509"
+  },
+  {
+    "source": "ent_609",
+    "target": "ent_610",
+    "type": "involves",
+    "id": "edge_smt_9510"
+  },
+  {
+    "source": "ent_610",
+    "target": "ent_608",
+    "type": "prohibits",
+    "id": "edge_smt_9511"
+  },
+  {
+    "source": "ent_612",
+    "target": "ent_636",
+    "type": "requires",
+    "id": "edge_smt_9512"
+  },
+  {
+    "source": "ent_639",
+    "target": "ent_644",
+    "type": "requires",
+    "id": "edge_smt_9513"
+  },
+  {
+    "source": "ent_661",
+    "target": "ent_663",
+    "type": "involves",
+    "id": "edge_smt_9514"
+  },
+  {
+    "source": "ent_663",
+    "target": "ent_664",
+    "type": "involves",
+    "id": "edge_smt_9515"
   },
   {
     "source": "ent_664",
     "target": "ent_662",
     "type": "has_exception",
-    "id": "edge_smt_9483"
+    "id": "edge_smt_9516"
+  },
+  {
+    "source": "ent_663",
+    "target": "ent_662",
+    "type": "has_exception",
+    "id": "edge_smt_9517"
   },
   {
     "source": "ent_681",
     "target": "ent_685",
     "type": "requires",
-    "id": "edge_smt_9484"
+    "id": "edge_smt_9518"
+  },
+  {
+    "source": "ent_698",
+    "target": "ent_699",
+    "type": "involves",
+    "id": "edge_smt_9519"
+  },
+  {
+    "source": "ent_699",
+    "target": "ent_689",
+    "type": "involves",
+    "id": "edge_smt_9520"
   },
   {
     "source": "ent_689",
     "target": "ent_696",
     "type": "defines",
-    "id": "edge_smt_9485"
+    "id": "edge_smt_9521"
+  },
+  {
+    "source": "ent_696",
+    "target": "ent_702",
+    "type": "cites",
+    "id": "edge_smt_9522"
+  },
+  {
+    "source": "ent_699",
+    "target": "ent_696",
+    "type": "defines",
+    "id": "edge_smt_9523"
+  },
+  {
+    "source": "ent_692",
+    "target": "ent_700",
+    "type": "involves",
+    "id": "edge_smt_9524"
+  },
+  {
+    "source": "ent_700",
+    "target": "ent_703",
+    "type": "cites",
+    "id": "edge_smt_9525"
+  },
+  {
+    "source": "ent_687",
+    "target": "ent_688",
+    "type": "related_to",
+    "id": "edge_smt_9526"
   },
   {
     "source": "ent_688",
     "target": "ent_694",
     "type": "related_to",
-    "id": "edge_smt_9486"
+    "id": "edge_smt_9527"
   },
   {
     "source": "ent_694",
     "target": "ent_691",
     "type": "related_to",
-    "id": "edge_smt_9487"
+    "id": "edge_smt_9528"
   },
   {
     "source": "ent_691",
     "target": "ent_701",
     "type": "not",
-    "id": "edge_smt_9488"
+    "id": "edge_smt_9529"
   },
   {
     "source": "ent_701",
     "target": "ent_704",
     "type": "requires",
-    "id": "edge_smt_9489"
+    "id": "edge_smt_9530"
   },
   {
     "source": "ent_694",
     "target": "ent_701",
     "type": "not",
-    "id": "edge_smt_9490"
+    "id": "edge_smt_9531"
+  },
+  {
+    "source": "ent_733",
+    "target": "ent_735",
+    "type": "involves",
+    "id": "edge_smt_9532"
+  },
+  {
+    "source": "ent_735",
+    "target": "ent_725",
+    "type": "involves",
+    "id": "edge_smt_9533"
   },
   {
     "source": "ent_725",
     "target": "ent_730",
     "type": "defines",
-    "id": "edge_smt_9491"
+    "id": "edge_smt_9534"
+  },
+  {
+    "source": "ent_735",
+    "target": "ent_730",
+    "type": "defines",
+    "id": "edge_smt_9535"
   },
   {
     "source": "ent_720",
     "target": "ent_723",
     "type": "has_condition",
-    "id": "edge_smt_9492"
+    "id": "edge_smt_9536"
   },
   {
     "source": "ent_722",
     "target": "ent_724",
     "type": "related_to",
-    "id": "edge_smt_9493"
+    "id": "edge_smt_9537"
   },
   {
     "source": "ent_728",
     "target": "ent_719",
     "type": "related_to",
-    "id": "edge_smt_9494"
+    "id": "edge_smt_9538"
+  },
+  {
+    "source": "ent_719",
+    "target": "ent_732",
+    "type": "involves",
+    "id": "edge_smt_9539"
+  },
+  {
+    "source": "ent_732",
+    "target": "ent_734",
+    "type": "related_to",
+    "id": "edge_smt_9540"
+  },
+  {
+    "source": "ent_734",
+    "target": "ent_736",
+    "type": "involves",
+    "id": "edge_smt_9541"
+  },
+  {
+    "source": "ent_751",
+    "target": "ent_753",
+    "type": "involves",
+    "id": "edge_smt_9542"
+  },
+  {
+    "source": "ent_753",
+    "target": "ent_750",
+    "type": "prohibits",
+    "id": "edge_smt_9543"
   },
   {
     "source": "ent_756",
     "target": "ent_759",
     "type": "enables",
-    "id": "edge_smt_9495"
+    "id": "edge_smt_9544"
+  },
+  {
+    "source": "ent_759",
+    "target": "ent_762",
+    "type": "involves",
+    "id": "edge_smt_9545"
+  },
+  {
+    "source": "ent_762",
+    "target": "ent_755",
+    "type": "involves",
+    "id": "edge_smt_9546"
+  },
+  {
+    "source": "ent_755",
+    "target": "ent_763",
+    "type": "requires",
+    "id": "edge_smt_9547"
   },
   {
     "source": "ent_765",
     "target": "ent_769",
     "type": "involves",
-    "id": "edge_smt_9496"
+    "id": "edge_smt_9548"
+  },
+  {
+    "source": "ent_769",
+    "target": "ent_778",
+    "type": "involves",
+    "id": "edge_smt_9549"
+  },
+  {
+    "source": "ent_778",
+    "target": "ent_764",
+    "type": "involves",
+    "id": "edge_smt_9550"
   },
   {
     "source": "ent_764",
     "target": "ent_772",
     "type": "involves",
-    "id": "edge_smt_9497"
+    "id": "edge_smt_9551"
   },
   {
     "source": "ent_772",
     "target": "ent_773",
     "type": "related_to",
-    "id": "edge_smt_9498"
+    "id": "edge_smt_9552"
   },
   {
     "source": "ent_773",
     "target": "ent_774",
     "type": "related_to",
-    "id": "edge_smt_9499"
+    "id": "edge_smt_9553"
   },
   {
     "source": "ent_774",
     "target": "ent_768",
     "type": "related_to",
-    "id": "edge_smt_9500"
+    "id": "edge_smt_9554"
+  },
+  {
+    "source": "ent_768",
+    "target": "ent_781",
+    "type": "cites",
+    "id": "edge_smt_9555"
+  },
+  {
+    "source": "ent_778",
+    "target": "ent_772",
+    "type": "involves",
+    "id": "edge_smt_9556"
   },
   {
     "source": "ent_773",
     "target": "ent_768",
     "type": "related_to",
-    "id": "edge_smt_9501"
+    "id": "edge_smt_9557"
+  },
+  {
+    "source": "ent_787",
+    "target": "ent_792",
+    "type": "requires",
+    "id": "edge_smt_9558"
   },
   {
     "source": "ent_789",
     "target": "ent_785",
     "type": "defines",
-    "id": "edge_smt_9502"
+    "id": "edge_smt_9559"
   },
   {
     "source": "ent_785",
     "target": "ent_782",
     "type": "has_condition",
-    "id": "edge_smt_9503"
+    "id": "edge_smt_9560"
+  },
+  {
+    "source": "ent_815",
+    "target": "ent_849",
+    "type": "cites",
+    "id": "edge_smt_9561"
+  },
+  {
+    "source": "ent_849",
+    "target": "ent_824",
+    "type": "defines",
+    "id": "edge_smt_9562"
+  },
+  {
+    "source": "ent_824",
+    "target": "ent_808",
+    "type": "applies_to",
+    "id": "edge_smt_9563"
   },
   {
     "source": "ent_808",
     "target": "ent_827",
     "type": "defines",
-    "id": "edge_smt_9504"
+    "id": "edge_smt_9564"
+  },
+  {
+    "source": "ent_824",
+    "target": "ent_827",
+    "type": "defines",
+    "id": "edge_smt_9565"
+  },
+  {
+    "source": "ent_837",
+    "target": "ent_833",
+    "type": "related_to",
+    "id": "edge_smt_9566"
+  },
+  {
+    "source": "ent_833",
+    "target": "ent_812",
+    "type": "involves",
+    "id": "edge_smt_9567"
+  },
+  {
+    "source": "ent_812",
+    "target": "ent_830",
+    "type": "involves",
+    "id": "edge_smt_9568"
+  },
+  {
+    "source": "ent_821",
+    "target": "ent_850",
+    "type": "cites",
+    "id": "edge_smt_9569"
   },
   {
     "source": "ent_850",
     "target": "ent_840",
     "type": "results_in",
-    "id": "edge_smt_9505"
+    "id": "edge_smt_9570"
+  },
+  {
+    "source": "ent_821",
+    "target": "ent_840",
+    "type": "results_in",
+    "id": "edge_smt_9571"
+  },
+  {
+    "source": "ent_819",
+    "target": "ent_851",
+    "type": "cites",
+    "id": "edge_smt_9572"
+  },
+  {
+    "source": "ent_928",
+    "target": "ent_952",
+    "type": "requires",
+    "id": "edge_smt_9573"
+  },
+  {
+    "source": "ent_925",
+    "target": "ent_930",
+    "type": "involves",
+    "id": "edge_smt_9574"
+  },
+  {
+    "source": "ent_930",
+    "target": "ent_921",
+    "type": "involves",
+    "id": "edge_smt_9575"
+  },
+  {
+    "source": "ent_939",
+    "target": "ent_948",
+    "type": "related_to",
+    "id": "edge_smt_9576"
   },
   {
     "source": "ent_948",
     "target": "ent_950",
     "type": "related_to",
-    "id": "edge_smt_9506"
+    "id": "edge_smt_9577"
   },
   {
     "source": "ent_950",
     "target": "ent_936",
     "type": "related_to",
-    "id": "edge_smt_9507"
+    "id": "edge_smt_9578"
   },
   {
     "source": "ent_936",
     "target": "ent_937",
     "type": "related_to",
-    "id": "edge_smt_9508"
+    "id": "edge_smt_9579"
   },
   {
     "source": "ent_937",
     "target": "ent_938",
     "type": "related_to",
-    "id": "edge_smt_9509"
+    "id": "edge_smt_9580"
   },
   {
     "source": "ent_935",
     "target": "ent_946",
     "type": "related_to",
-    "id": "edge_smt_9510"
+    "id": "edge_smt_9581"
   },
   {
     "source": "ent_932",
     "target": "ent_933",
     "type": "related_to",
-    "id": "edge_smt_9511"
+    "id": "edge_smt_9582"
   },
   {
     "source": "ent_933",
     "target": "ent_934",
     "type": "related_to",
-    "id": "edge_smt_9512"
+    "id": "edge_smt_9583"
+  },
+  {
+    "source": "ent_1000",
+    "target": "ent_1011",
+    "type": "cites",
+    "id": "edge_smt_9584"
+  },
+  {
+    "source": "ent_1011",
+    "target": "ent_996",
+    "type": "regulates",
+    "id": "edge_smt_9585"
+  },
+  {
+    "source": "ent_996",
+    "target": "ent_999",
+    "type": "enables",
+    "id": "edge_smt_9586"
+  },
+  {
+    "source": "ent_999",
+    "target": "ent_1002",
+    "type": "has_condition",
+    "id": "edge_smt_9587"
   },
   {
     "source": "ent_1023",
     "target": "ent_1027",
     "type": "regulates",
-    "id": "edge_smt_9513"
+    "id": "edge_smt_9588"
+  },
+  {
+    "source": "ent_1027",
+    "target": "ent_1026",
+    "type": "has_condition",
+    "id": "edge_smt_9589"
   },
   {
     "source": "ent_1031",
     "target": "ent_1032",
     "type": "defines",
-    "id": "edge_smt_9514"
+    "id": "edge_smt_9590"
   },
   {
     "source": "ent_1032",
     "target": "ent_1033",
     "type": "has_condition",
-    "id": "edge_smt_9515"
+    "id": "edge_smt_9591"
   },
   {
     "source": "ent_1042",
     "target": "ent_1043",
     "type": "regulates",
-    "id": "edge_smt_9516"
+    "id": "edge_smt_9592"
+  },
+  {
+    "source": "ent_1043",
+    "target": "ent_1034",
+    "type": "prohibits",
+    "id": "edge_smt_9593"
   },
   {
     "source": "ent_1052",
     "target": "ent_1053",
     "type": "related_to",
-    "id": "edge_smt_9517"
+    "id": "edge_smt_9594"
   },
   {
     "source": "ent_1053",
     "target": "ent_1054",
     "type": "enables",
-    "id": "edge_smt_9518"
+    "id": "edge_smt_9595"
   },
   {
     "source": "ent_1052",
     "target": "ent_1054",
     "type": "enables",
-    "id": "edge_smt_9519"
+    "id": "edge_smt_9596"
+  },
+  {
+    "source": "ent_1072",
+    "target": "ent_1075",
+    "type": "cites",
+    "id": "edge_smt_9597"
+  },
+  {
+    "source": "ent_1093",
+    "target": "ent_1122",
+    "type": "requires",
+    "id": "edge_smt_9598"
+  },
+  {
+    "source": "ent_1144",
+    "target": "ent_1135",
+    "type": "applies_to",
+    "id": "edge_smt_9599"
+  },
+  {
+    "source": "ent_1135",
+    "target": "ent_1143",
+    "type": "enables",
+    "id": "edge_smt_9600"
   },
   {
     "source": "ent_1136",
     "target": "ent_1153",
     "type": "regulates",
-    "id": "edge_smt_9520"
+    "id": "edge_smt_9601"
+  },
+  {
+    "source": "ent_1153",
+    "target": "ent_1147",
+    "type": "has_condition",
+    "id": "edge_smt_9602"
   },
   {
     "source": "ent_1164",
     "target": "ent_1169",
     "type": "defines",
-    "id": "edge_smt_9521"
+    "id": "edge_smt_9603"
   },
   {
     "source": "ent_1169",
     "target": "ent_1163",
     "type": "regulates",
-    "id": "edge_smt_9522"
+    "id": "edge_smt_9604"
+  },
+  {
+    "source": "ent_1163",
+    "target": "ent_1172",
+    "type": "requires",
+    "id": "edge_smt_9605"
   },
   {
     "source": "ent_1176",
     "target": "ent_1190",
     "type": "defines",
-    "id": "edge_smt_9523"
+    "id": "edge_smt_9606"
+  },
+  {
+    "source": "ent_1190",
+    "target": "ent_1178",
+    "type": "enables",
+    "id": "edge_smt_9607"
+  },
+  {
+    "source": "ent_1188",
+    "target": "ent_1196",
+    "type": "related_to",
+    "id": "edge_smt_9608"
   },
   {
     "source": "ent_1196",
     "target": "ent_1198",
     "type": "requires",
-    "id": "edge_smt_9524"
+    "id": "edge_smt_9609"
+  },
+  {
+    "source": "ent_1188",
+    "target": "ent_1198",
+    "type": "requires",
+    "id": "edge_smt_9610"
   },
   {
     "source": "ent_1202",
     "target": "ent_1208",
     "type": "defines",
-    "id": "edge_smt_9525"
+    "id": "edge_smt_9611"
+  },
+  {
+    "source": "ent_1208",
+    "target": "ent_1199",
+    "type": "applies_to",
+    "id": "edge_smt_9612"
   },
   {
     "source": "ent_1199",
     "target": "ent_1200",
     "type": "defines",
-    "id": "edge_smt_9526"
+    "id": "edge_smt_9613"
+  },
+  {
+    "source": "ent_1200",
+    "target": "ent_1214",
+    "type": "applies_to",
+    "id": "edge_smt_9614"
+  },
+  {
+    "source": "ent_1214",
+    "target": "ent_1201",
+    "type": "applies_to",
+    "id": "edge_smt_9615"
   },
   {
     "source": "ent_1201",
     "target": "ent_1205",
     "type": "requires",
-    "id": "edge_smt_9527"
+    "id": "edge_smt_9616"
+  },
+  {
+    "source": "ent_1205",
+    "target": "ent_1207",
+    "type": "involves",
+    "id": "edge_smt_9617"
+  },
+  {
+    "source": "ent_1207",
+    "target": "ent_1204",
+    "type": "involves",
+    "id": "edge_smt_9618"
+  },
+  {
+    "source": "ent_1204",
+    "target": "ent_1211",
+    "type": "cites",
+    "id": "edge_smt_9619"
+  },
+  {
+    "source": "ent_1208",
+    "target": "ent_1200",
+    "type": "defines",
+    "id": "edge_smt_9620"
+  },
+  {
+    "source": "ent_1214",
+    "target": "ent_1205",
+    "type": "requires",
+    "id": "edge_smt_9621"
   },
   {
     "source": "ent_1218",
     "target": "ent_1252",
     "type": "results_in",
-    "id": "edge_smt_9528"
+    "id": "edge_smt_9622"
+  },
+  {
+    "source": "ent_1219",
+    "target": "ent_1256",
+    "type": "requires",
+    "id": "edge_smt_9623"
+  },
+  {
+    "source": "ent_1229",
+    "target": "ent_1236",
+    "type": "has_condition",
+    "id": "edge_smt_9624"
+  },
+  {
+    "source": "ent_1236",
+    "target": "ent_1253",
+    "type": "cites",
+    "id": "edge_smt_9625"
   },
   {
     "source": "ent_1220",
     "target": "ent_1215",
     "type": "defines",
-    "id": "edge_smt_9529"
+    "id": "edge_smt_9626"
+  },
+  {
+    "source": "ent_1215",
+    "target": "ent_1224",
+    "type": "related_to",
+    "id": "edge_smt_9627"
+  },
+  {
+    "source": "ent_1224",
+    "target": "ent_1247",
+    "type": "involves",
+    "id": "edge_smt_9628"
   },
   {
     "source": "ent_1221",
     "target": "ent_1243",
     "type": "requires",
-    "id": "edge_smt_9530"
+    "id": "edge_smt_9629"
   },
   {
     "source": "ent_1222",
     "target": "ent_1244",
     "type": "requires",
-    "id": "edge_smt_9531"
+    "id": "edge_smt_9630"
   },
   {
     "source": "ent_1308",
     "target": "ent_1304",
     "type": "has_exception",
-    "id": "edge_smt_9532"
+    "id": "edge_smt_9631"
   },
   {
     "source": "ent_1315",
     "target": "ent_1317",
     "type": "defines",
-    "id": "edge_smt_9533"
+    "id": "edge_smt_9632"
   },
   {
     "source": "ent_1317",
     "target": "ent_1314",
     "type": "defines",
-    "id": "edge_smt_9534"
+    "id": "edge_smt_9633"
   },
   {
     "source": "ent_1314",
     "target": "ent_1318",
     "type": "regulates",
-    "id": "edge_smt_9535"
+    "id": "edge_smt_9634"
   },
   {
     "source": "ent_1318",
     "target": "ent_1319",
     "type": "related_to",
-    "id": "edge_smt_9536"
+    "id": "edge_smt_9635"
+  },
+  {
+    "source": "ent_1321",
+    "target": "ent_1322",
+    "type": "involves",
+    "id": "edge_smt_9636"
+  },
+  {
+    "source": "ent_1343",
+    "target": "ent_1341",
+    "type": "has_condition",
+    "id": "edge_smt_9637"
+  },
+  {
+    "source": "ent_1341",
+    "target": "ent_1347",
+    "type": "enables",
+    "id": "edge_smt_9638"
+  },
+  {
+    "source": "ent_1365",
+    "target": "ent_1366",
+    "type": "involves",
+    "id": "edge_smt_9639"
   },
   {
     "source": "ent_1366",
     "target": "ent_1364",
     "type": "has_exception",
-    "id": "edge_smt_9537"
+    "id": "edge_smt_9640"
+  },
+  {
+    "source": "ent_1364",
+    "target": "ent_1367",
+    "type": "cites",
+    "id": "edge_smt_9641"
+  },
+  {
+    "source": "ent_1365",
+    "target": "ent_1364",
+    "type": "has_exception",
+    "id": "edge_smt_9642"
+  },
+  {
+    "source": "ent_1372",
+    "target": "ent_1371",
+    "type": "related_to",
+    "id": "edge_smt_9643"
+  },
+  {
+    "source": "ent_1373",
+    "target": "ent_1374",
+    "type": "involves",
+    "id": "edge_smt_9644"
+  },
+  {
+    "source": "ent_1378",
+    "target": "ent_1393",
+    "type": "results_in",
+    "id": "edge_smt_9645"
+  },
+  {
+    "source": "ent_1393",
+    "target": "ent_1388",
+    "type": "cites",
+    "id": "edge_smt_9646"
   },
   {
     "source": "ent_1388",
     "target": "ent_1380",
     "type": "results_in",
-    "id": "edge_smt_9538"
+    "id": "edge_smt_9647"
+  },
+  {
+    "source": "ent_1393",
+    "target": "ent_1380",
+    "type": "results_in",
+    "id": "edge_smt_9648"
+  },
+  {
+    "source": "ent_1396",
+    "target": "ent_1403",
+    "type": "results_in",
+    "id": "edge_smt_9649"
+  },
+  {
+    "source": "ent_1403",
+    "target": "ent_1402",
+    "type": "cites",
+    "id": "edge_smt_9650"
   },
   {
     "source": "ent_1402",
     "target": "ent_1399",
     "type": "regulates",
-    "id": "edge_smt_9539"
+    "id": "edge_smt_9651"
+  },
+  {
+    "source": "ent_1403",
+    "target": "ent_1399",
+    "type": "regulates",
+    "id": "edge_smt_9652"
   },
   {
     "source": "ent_1411",
     "target": "ent_1413",
     "type": "defines",
-    "id": "edge_smt_9540"
+    "id": "edge_smt_9653"
+  },
+  {
+    "source": "ent_1412",
+    "target": "ent_1420",
+    "type": "requires",
+    "id": "edge_smt_9654"
+  },
+  {
+    "source": "ent_1422",
+    "target": "ent_1423",
+    "type": "results_in",
+    "id": "edge_smt_9655"
+  },
+  {
+    "source": "ent_1424",
+    "target": "ent_1425",
+    "type": "involves",
+    "id": "edge_smt_9656"
+  },
+  {
+    "source": "ent_1425",
+    "target": "ent_1429",
+    "type": "cites",
+    "id": "edge_smt_9657"
+  },
+  {
+    "source": "ent_1432",
+    "target": "ent_1433",
+    "type": "involves",
+    "id": "edge_smt_9658"
+  },
+  {
+    "source": "ent_1433",
+    "target": "ent_1437",
+    "type": "cites",
+    "id": "edge_smt_9659"
+  },
+  {
+    "source": "ent_1440",
+    "target": "ent_1441",
+    "type": "related_to",
+    "id": "edge_smt_9660"
+  },
+  {
+    "source": "ent_1441",
+    "target": "ent_1442",
+    "type": "involves",
+    "id": "edge_smt_9661"
+  },
+  {
+    "source": "ent_1442",
+    "target": "ent_1445",
+    "type": "cites",
+    "id": "edge_smt_9662"
+  },
+  {
+    "source": "ent_1453",
+    "target": "ent_1454",
+    "type": "cites",
+    "id": "edge_smt_9663"
+  },
+  {
+    "source": "ent_1471",
+    "target": "ent_1472",
+    "type": "enables",
+    "id": "edge_smt_9664"
+  },
+  {
+    "source": "ent_1472",
+    "target": "ent_1474",
+    "type": "has_condition",
+    "id": "edge_smt_9665"
+  },
+  {
+    "source": "ent_1482",
+    "target": "ent_1493",
+    "type": "cites",
+    "id": "edge_smt_9666"
+  },
+  {
+    "source": "ent_1522",
+    "target": "ent_1527",
+    "type": "enables",
+    "id": "edge_smt_9667"
+  },
+  {
+    "source": "ent_1527",
+    "target": "ent_1533",
+    "type": "has_condition",
+    "id": "edge_smt_9668"
+  },
+  {
+    "source": "ent_1533",
+    "target": "ent_1557",
+    "type": "cites",
+    "id": "edge_smt_9669"
   },
   {
     "source": "ent_1526",
     "target": "ent_1531",
     "type": "has_exception",
-    "id": "edge_smt_9541"
+    "id": "edge_smt_9670"
+  },
+  {
+    "source": "ent_1531",
+    "target": "ent_1558",
+    "type": "cites",
+    "id": "edge_smt_9671"
+  },
+  {
+    "source": "ent_1523",
+    "target": "ent_1539",
+    "type": "has_condition",
+    "id": "edge_smt_9672"
+  },
+  {
+    "source": "ent_1539",
+    "target": "ent_1577",
+    "type": "enables",
+    "id": "edge_smt_9673"
+  },
+  {
+    "source": "ent_1577",
+    "target": "ent_1562",
+    "type": "cites",
+    "id": "edge_smt_9674"
+  },
+  {
+    "source": "ent_1536",
+    "target": "ent_1563",
+    "type": "cites",
+    "id": "edge_smt_9675"
   },
   {
     "source": "ent_1563",
     "target": "ent_1532",
     "type": "has_exception",
-    "id": "edge_smt_9542"
+    "id": "edge_smt_9676"
+  },
+  {
+    "source": "ent_1536",
+    "target": "ent_1532",
+    "type": "has_exception",
+    "id": "edge_smt_9677"
+  },
+  {
+    "source": "ent_1521",
+    "target": "ent_1543",
+    "type": "involves",
+    "id": "edge_smt_9678"
+  },
+  {
+    "source": "ent_1543",
+    "target": "ent_1564",
+    "type": "cites",
+    "id": "edge_smt_9679"
   },
   {
     "source": "ent_1564",
     "target": "ent_1541",
     "type": "defines",
-    "id": "edge_smt_9543"
+    "id": "edge_smt_9680"
+  },
+  {
+    "source": "ent_1543",
+    "target": "ent_1541",
+    "type": "defines",
+    "id": "edge_smt_9681"
+  },
+  {
+    "source": "ent_1652",
+    "target": "ent_1672",
+    "type": "enables",
+    "id": "edge_smt_9682"
+  },
+  {
+    "source": "ent_1672",
+    "target": "ent_1677",
+    "type": "has_condition",
+    "id": "edge_smt_9683"
   },
   {
     "source": "ent_1655",
     "target": "ent_1698",
     "type": "has_purpose",
-    "id": "edge_smt_9544"
+    "id": "edge_smt_9684"
+  },
+  {
+    "source": "ent_1698",
+    "target": "ent_1706",
+    "type": "involves",
+    "id": "edge_smt_9685"
+  },
+  {
+    "source": "ent_1706",
+    "target": "ent_1662",
+    "type": "involves",
+    "id": "edge_smt_9686"
   },
   {
     "source": "ent_1663",
     "target": "ent_1712",
     "type": "not",
-    "id": "edge_smt_9545"
+    "id": "edge_smt_9687"
+  },
+  {
+    "source": "ent_1712",
+    "target": "ent_1642",
+    "type": "applies_to",
+    "id": "edge_smt_9688"
+  },
+  {
+    "source": "ent_1642",
+    "target": "ent_1718",
+    "type": "cites",
+    "id": "edge_smt_9689"
+  },
+  {
+    "source": "ent_1664",
+    "target": "ent_1691",
+    "type": "has_condition",
+    "id": "edge_smt_9690"
+  },
+  {
+    "source": "ent_1691",
+    "target": "ent_1721",
+    "type": "cites",
+    "id": "edge_smt_9691"
   },
   {
     "source": "ent_1721",
     "target": "ent_1684",
     "type": "has_exception",
-    "id": "edge_smt_9546"
+    "id": "edge_smt_9692"
+  },
+  {
+    "source": "ent_1691",
+    "target": "ent_1684",
+    "type": "has_exception",
+    "id": "edge_smt_9693"
+  },
+  {
+    "source": "ent_1665",
+    "target": "ent_1696",
+    "type": "involves",
+    "id": "edge_smt_9694"
+  },
+  {
+    "source": "ent_1666",
+    "target": "ent_1697",
+    "type": "involves",
+    "id": "edge_smt_9695"
+  },
+  {
+    "source": "ent_1697",
+    "target": "ent_1722",
+    "type": "cites",
+    "id": "edge_smt_9696"
   },
   {
     "source": "ent_1722",
     "target": "ent_1699",
     "type": "has_condition",
-    "id": "edge_smt_9547"
+    "id": "edge_smt_9697"
+  },
+  {
+    "source": "ent_1699",
+    "target": "ent_1707",
+    "type": "involves",
+    "id": "edge_smt_9698"
   },
   {
     "source": "ent_1707",
     "target": "ent_1667",
     "type": "defines",
-    "id": "edge_smt_9548"
+    "id": "edge_smt_9699"
+  },
+  {
+    "source": "ent_1697",
+    "target": "ent_1699",
+    "type": "has_condition",
+    "id": "edge_smt_9700"
+  },
+  {
+    "source": "ent_1699",
+    "target": "ent_1667",
+    "type": "defines",
+    "id": "edge_smt_9701"
   },
   {
     "source": "ent_1834",
     "target": "ent_1861",
     "type": "regulates",
-    "id": "edge_smt_9549"
+    "id": "edge_smt_9702"
   },
   {
     "source": "ent_1861",
     "target": "ent_1832",
     "type": "regulates",
-    "id": "edge_smt_9550"
+    "id": "edge_smt_9703"
   },
   {
     "source": "ent_1832",
     "target": "ent_1833",
     "type": "applies_to",
-    "id": "edge_smt_9551"
+    "id": "edge_smt_9704"
+  },
+  {
+    "source": "ent_1833",
+    "target": "ent_1825",
+    "type": "applies_to",
+    "id": "edge_smt_9705"
+  },
+  {
+    "source": "ent_1825",
+    "target": "ent_1837",
+    "type": "applies_to",
+    "id": "edge_smt_9706"
   },
   {
     "source": "ent_1861",
     "target": "ent_1833",
     "type": "applies_to",
-    "id": "edge_smt_9552"
+    "id": "edge_smt_9707"
+  },
+  {
+    "source": "ent_1846",
+    "target": "ent_1860",
+    "type": "cites",
+    "id": "edge_smt_9708"
+  },
+  {
+    "source": "ent_1896",
+    "target": "ent_1900",
+    "type": "cites",
+    "id": "edge_smt_9709"
+  },
+  {
+    "source": "ent_1900",
+    "target": "ent_1894",
+    "type": "regulates",
+    "id": "edge_smt_9710"
+  },
+  {
+    "source": "ent_1894",
+    "target": "ent_1905",
+    "type": "requires",
+    "id": "edge_smt_9711"
   },
   {
     "source": "ent_1914",
     "target": "ent_1908",
     "type": "has_exception",
-    "id": "edge_smt_9553"
+    "id": "edge_smt_9712"
+  },
+  {
+    "source": "ent_1908",
+    "target": "ent_1910",
+    "type": "cites",
+    "id": "edge_smt_9713"
+  },
+  {
+    "source": "ent_1950",
+    "target": "ent_1947",
+    "type": "cites",
+    "id": "edge_smt_9714"
+  },
+  {
+    "source": "ent_1955",
+    "target": "ent_1976",
+    "type": "involves",
+    "id": "edge_smt_9715"
+  },
+  {
+    "source": "ent_2004",
+    "target": "ent_2010",
+    "type": "defines",
+    "id": "edge_smt_9716"
   },
   {
     "source": "ent_2014",
     "target": "ent_2011",
     "type": "regulates",
-    "id": "edge_smt_9554"
+    "id": "edge_smt_9717"
   },
   {
     "source": "ent_2011",
     "target": "ent_2016",
     "type": "requires",
-    "id": "edge_smt_9555"
+    "id": "edge_smt_9718"
+  },
+  {
+    "source": "ent_2016",
+    "target": "ent_2019",
+    "type": "involves",
+    "id": "edge_smt_9719"
+  },
+  {
+    "source": "ent_2019",
+    "target": "ent_2022",
+    "type": "cites",
+    "id": "edge_smt_9720"
   },
   {
     "source": "ent_2022",
     "target": "ent_2020",
     "type": "has_purpose",
-    "id": "edge_smt_9556"
+    "id": "edge_smt_9721"
+  },
+  {
+    "source": "ent_2019",
+    "target": "ent_2020",
+    "type": "has_purpose",
+    "id": "edge_smt_9722"
   },
   {
     "source": "ent_2034",
     "target": "ent_2040",
     "type": "regulates",
-    "id": "edge_smt_9557"
+    "id": "edge_smt_9723"
   },
   {
     "source": "ent_2040",
     "target": "ent_2046",
     "type": "regulates",
-    "id": "edge_smt_9558"
+    "id": "edge_smt_9724"
   },
   {
     "source": "ent_2046",
     "target": "ent_2032",
     "type": "regulates",
-    "id": "edge_smt_9559"
+    "id": "edge_smt_9725"
+  },
+  {
+    "source": "ent_2032",
+    "target": "ent_2035",
+    "type": "involves",
+    "id": "edge_smt_9726"
+  },
+  {
+    "source": "ent_2077",
+    "target": "ent_2082",
+    "type": "cites",
+    "id": "edge_smt_9727"
+  },
+  {
+    "source": "ent_2092",
+    "target": "ent_2097",
+    "type": "cites",
+    "id": "edge_smt_9728"
+  },
+  {
+    "source": "ent_2107",
+    "target": "ent_2115",
+    "type": "cites",
+    "id": "edge_smt_9729"
   },
   {
     "source": "ent_2140",
     "target": "ent_2134",
     "type": "regulates",
-    "id": "edge_smt_9560"
+    "id": "edge_smt_9730"
+  },
+  {
+    "source": "ent_2142",
+    "target": "ent_2161",
+    "type": "requires",
+    "id": "edge_smt_9731"
+  },
+  {
+    "source": "ent_2161",
+    "target": "ent_2158",
+    "type": "cites",
+    "id": "edge_smt_9732"
+  },
+  {
+    "source": "ent_2162",
+    "target": "ent_2163",
+    "type": "related_to",
+    "id": "edge_smt_9733"
+  },
+  {
+    "source": "ent_2163",
+    "target": "ent_2165",
+    "type": "requires",
+    "id": "edge_smt_9734"
+  },
+  {
+    "source": "ent_2176",
+    "target": "ent_2167",
+    "type": "related_to",
+    "id": "edge_smt_9735"
+  },
+  {
+    "source": "ent_2167",
+    "target": "ent_2173",
+    "type": "cites",
+    "id": "edge_smt_9736"
+  },
+  {
+    "source": "ent_2182",
+    "target": "ent_2195",
+    "type": "requires",
+    "id": "edge_smt_9737"
+  },
+  {
+    "source": "ent_2189",
+    "target": "ent_2177",
+    "type": "involves",
+    "id": "edge_smt_9738"
   },
   {
     "source": "ent_2177",
     "target": "ent_2183",
     "type": "related_to",
-    "id": "edge_smt_9561"
+    "id": "edge_smt_9739"
   },
   {
     "source": "ent_2183",
     "target": "ent_2184",
     "type": "related_to",
-    "id": "edge_smt_9562"
+    "id": "edge_smt_9740"
   },
   {
     "source": "ent_2184",
     "target": "ent_2185",
     "type": "related_to",
-    "id": "edge_smt_9563"
+    "id": "edge_smt_9741"
   },
   {
     "source": "ent_2183",
     "target": "ent_2185",
     "type": "related_to",
-    "id": "edge_smt_9564"
+    "id": "edge_smt_9742"
+  },
+  {
+    "source": "ent_2192",
+    "target": "ent_2187",
+    "type": "involves",
+    "id": "edge_smt_9743"
   },
   {
     "source": "ent_2234",
     "target": "ent_2223",
     "type": "involves",
-    "id": "edge_smt_9565"
+    "id": "edge_smt_9744"
+  },
+  {
+    "source": "ent_2223",
+    "target": "ent_2238",
+    "type": "requires",
+    "id": "edge_smt_9745"
   },
   {
     "source": "ent_2240",
     "target": "ent_2243",
     "type": "requires",
-    "id": "edge_smt_9566"
+    "id": "edge_smt_9746"
+  },
+  {
+    "source": "ent_2243",
+    "target": "ent_2247",
+    "type": "cites",
+    "id": "edge_smt_9747"
   },
   {
     "source": "ent_2247",
     "target": "ent_2242",
     "type": "has_exception",
-    "id": "edge_smt_9567"
+    "id": "edge_smt_9748"
   },
   {
     "source": "ent_2242",
     "target": "ent_2248",
     "type": "regulates",
-    "id": "edge_smt_9568"
+    "id": "edge_smt_9749"
+  },
+  {
+    "source": "ent_2243",
+    "target": "ent_2242",
+    "type": "has_exception",
+    "id": "edge_smt_9750"
+  },
+  {
+    "source": "ent_2276",
+    "target": "ent_2274",
+    "type": "defines",
+    "id": "edge_smt_9751"
   },
   {
     "source": "ent_2295",
     "target": "ent_2305",
     "type": "results_in",
-    "id": "edge_smt_9569"
+    "id": "edge_smt_9752"
+  },
+  {
+    "source": "ent_2305",
+    "target": "ent_2287",
+    "type": "regulates",
+    "id": "edge_smt_9753"
+  },
+  {
+    "source": "ent_2287",
+    "target": "ent_2310",
+    "type": "requires",
+    "id": "edge_smt_9754"
   },
   {
     "source": "ent_2310",
     "target": "ent_2292",
     "type": "has_exception",
-    "id": "edge_smt_9570"
+    "id": "edge_smt_9755"
   },
   {
     "source": "ent_2292",
     "target": "ent_2296",
     "type": "regulates",
-    "id": "edge_smt_9571"
+    "id": "edge_smt_9756"
   },
   {
     "source": "ent_2296",
     "target": "ent_2304",
     "type": "has_condition",
-    "id": "edge_smt_9572"
+    "id": "edge_smt_9757"
+  },
+  {
+    "source": "ent_2287",
+    "target": "ent_2292",
+    "type": "has_exception",
+    "id": "edge_smt_9758"
+  },
+  {
+    "source": "ent_2321",
+    "target": "ent_2329",
+    "type": "cites",
+    "id": "edge_smt_9759"
+  },
+  {
+    "source": "ent_2329",
+    "target": "ent_2315",
+    "type": "defines",
+    "id": "edge_smt_9760"
   },
   {
     "source": "ent_2337",
     "target": "ent_2335",
     "type": "has_purpose",
-    "id": "edge_smt_9573"
+    "id": "edge_smt_9761"
+  },
+  {
+    "source": "ent_2335",
+    "target": "ent_2333",
+    "type": "related_to",
+    "id": "edge_smt_9762"
+  },
+  {
+    "source": "ent_2333",
+    "target": "ent_2332",
+    "type": "has_condition",
+    "id": "edge_smt_9763"
+  },
+  {
+    "source": "ent_2345",
+    "target": "ent_2347",
+    "type": "involves",
+    "id": "edge_smt_9764"
+  },
+  {
+    "source": "ent_2347",
+    "target": "ent_2351",
+    "type": "involves",
+    "id": "edge_smt_9765"
+  },
+  {
+    "source": "ent_2351",
+    "target": "ent_2356",
+    "type": "cites",
+    "id": "edge_smt_9766"
   },
   {
     "source": "ent_2356",
     "target": "ent_2348",
     "type": "defines",
-    "id": "edge_smt_9574"
+    "id": "edge_smt_9767"
+  },
+  {
+    "source": "ent_2348",
+    "target": "ent_2343",
+    "type": "applies_to",
+    "id": "edge_smt_9768"
+  },
+  {
+    "source": "ent_2343",
+    "target": "ent_2352",
+    "type": "applies_to",
+    "id": "edge_smt_9769"
+  },
+  {
+    "source": "ent_2352",
+    "target": "ent_2341",
+    "type": "applies_to",
+    "id": "edge_smt_9770"
+  },
+  {
+    "source": "ent_2341",
+    "target": "ent_2353",
+    "type": "applies_to",
+    "id": "edge_smt_9771"
+  },
+  {
+    "source": "ent_2351",
+    "target": "ent_2348",
+    "type": "defines",
+    "id": "edge_smt_9772"
+  },
+  {
+    "source": "ent_2370",
+    "target": "ent_2377",
+    "type": "cites",
+    "id": "edge_smt_9773"
+  },
+  {
+    "source": "ent_2377",
+    "target": "ent_2364",
+    "type": "defines",
+    "id": "edge_smt_9774"
   },
   {
     "source": "ent_2385",
     "target": "ent_2384",
     "type": "has_purpose",
-    "id": "edge_smt_9575"
+    "id": "edge_smt_9775"
+  },
+  {
+    "source": "ent_2384",
+    "target": "ent_2381",
+    "type": "related_to",
+    "id": "edge_smt_9776"
+  },
+  {
+    "source": "ent_2381",
+    "target": "ent_2380",
+    "type": "has_condition",
+    "id": "edge_smt_9777"
   },
   {
     "source": "ent_2400",
     "target": "ent_2396",
     "type": "related_to",
-    "id": "edge_smt_9576"
+    "id": "edge_smt_9778"
   },
   {
     "source": "ent_2451",
     "target": "ent_2444",
     "type": "related_to",
-    "id": "edge_smt_9577"
+    "id": "edge_smt_9779"
   },
   {
     "source": "ent_2444",
     "target": "ent_2445",
     "type": "related_to",
-    "id": "edge_smt_9578"
+    "id": "edge_smt_9780"
   },
   {
     "source": "ent_2445",
     "target": "ent_2446",
     "type": "related_to",
-    "id": "edge_smt_9579"
+    "id": "edge_smt_9781"
   },
   {
     "source": "ent_2446",
     "target": "ent_2448",
     "type": "related_to",
-    "id": "edge_smt_9580"
+    "id": "edge_smt_9782"
+  },
+  {
+    "source": "ent_2448",
+    "target": "ent_2443",
+    "type": "related_to",
+    "id": "edge_smt_9783"
   },
   {
     "source": "ent_2443",
     "target": "ent_2442",
     "type": "related_to",
-    "id": "edge_smt_9581"
+    "id": "edge_smt_9784"
   },
   {
     "source": "ent_2442",
     "target": "ent_2441",
     "type": "enables",
-    "id": "edge_smt_9582"
+    "id": "edge_smt_9785"
+  },
+  {
+    "source": "ent_2441",
+    "target": "ent_2440",
+    "type": "has_condition",
+    "id": "edge_smt_9786"
   },
   {
     "source": "ent_2443",
     "target": "ent_2441",
     "type": "enables",
-    "id": "edge_smt_9583"
+    "id": "edge_smt_9787"
+  },
+  {
+    "source": "ent_2454",
+    "target": "ent_2468",
+    "type": "requires",
+    "id": "edge_smt_9788"
+  },
+  {
+    "source": "ent_2468",
+    "target": "ent_2469",
+    "type": "requires",
+    "id": "edge_smt_9789"
   },
   {
     "source": "ent_2469",
     "target": "ent_2455",
     "type": "has_condition",
-    "id": "edge_smt_9584"
+    "id": "edge_smt_9790"
   },
   {
     "source": "ent_2455",
     "target": "ent_2457",
     "type": "involves",
-    "id": "edge_smt_9585"
+    "id": "edge_smt_9791"
+  },
+  {
+    "source": "ent_2468",
+    "target": "ent_2455",
+    "type": "has_condition",
+    "id": "edge_smt_9792"
   },
   {
     "source": "ent_2461",
     "target": "ent_2459",
     "type": "has_condition",
-    "id": "edge_smt_9586"
+    "id": "edge_smt_9793"
+  },
+  {
+    "source": "ent_2456",
+    "target": "ent_2464",
+    "type": "involves",
+    "id": "edge_smt_9794"
+  },
+  {
+    "source": "ent_2502",
+    "target": "ent_2494",
+    "type": "involves",
+    "id": "edge_smt_9795"
+  },
+  {
+    "source": "ent_2494",
+    "target": "ent_2499",
+    "type": "involves",
+    "id": "edge_smt_9796"
   },
   {
     "source": "ent_2499",
     "target": "ent_2503",
     "type": "defines",
-    "id": "edge_smt_9587"
+    "id": "edge_smt_9797"
+  },
+  {
+    "source": "ent_2494",
+    "target": "ent_2503",
+    "type": "defines",
+    "id": "edge_smt_9798"
+  },
+  {
+    "source": "ent_2534",
+    "target": "ent_2539",
+    "type": "involves",
+    "id": "edge_smt_9799"
+  },
+  {
+    "source": "ent_2539",
+    "target": "ent_2532",
+    "type": "involves",
+    "id": "edge_smt_9800"
   },
   {
     "source": "ent_2532",
     "target": "ent_2538",
     "type": "related_to",
-    "id": "edge_smt_9588"
+    "id": "edge_smt_9801"
+  },
+  {
+    "source": "ent_2538",
+    "target": "ent_2542",
+    "type": "involves",
+    "id": "edge_smt_9802"
+  },
+  {
+    "source": "ent_2539",
+    "target": "ent_2538",
+    "type": "related_to",
+    "id": "edge_smt_9803"
+  },
+  {
+    "source": "ent_2536",
+    "target": "ent_2546",
+    "type": "cites",
+    "id": "edge_smt_9804"
   },
   {
     "source": "ent_2533",
     "target": "ent_2541",
     "type": "involves",
-    "id": "edge_smt_9589"
+    "id": "edge_smt_9805"
   },
   {
     "source": "ent_2541",
     "target": "ent_2544",
     "type": "results_in",
-    "id": "edge_smt_9590"
+    "id": "edge_smt_9806"
+  },
+  {
+    "source": "ent_2563",
+    "target": "ent_2567",
+    "type": "involves",
+    "id": "edge_smt_9807"
+  },
+  {
+    "source": "ent_2567",
+    "target": "ent_2561",
+    "type": "involves",
+    "id": "edge_smt_9808"
   },
   {
     "source": "ent_2561",
     "target": "ent_2566",
     "type": "related_to",
-    "id": "edge_smt_9591"
+    "id": "edge_smt_9809"
+  },
+  {
+    "source": "ent_2566",
+    "target": "ent_2570",
+    "type": "cites",
+    "id": "edge_smt_9810"
+  },
+  {
+    "source": "ent_2567",
+    "target": "ent_2566",
+    "type": "related_to",
+    "id": "edge_smt_9811"
+  },
+  {
+    "source": "ent_2576",
+    "target": "ent_2580",
+    "type": "involves",
+    "id": "edge_smt_9812"
+  },
+  {
+    "source": "ent_2580",
+    "target": "ent_2582",
+    "type": "involves",
+    "id": "edge_smt_9813"
+  },
+  {
+    "source": "ent_2582",
+    "target": "ent_2573",
+    "type": "involves",
+    "id": "edge_smt_9814"
   },
   {
     "source": "ent_2573",
     "target": "ent_2572",
     "type": "defines",
-    "id": "edge_smt_9592"
+    "id": "edge_smt_9815"
+  },
+  {
+    "source": "ent_2572",
+    "target": "ent_2577",
+    "type": "related_to",
+    "id": "edge_smt_9816"
   },
   {
     "source": "ent_2577",
     "target": "ent_2574",
     "type": "defines",
-    "id": "edge_smt_9593"
+    "id": "edge_smt_9817"
+  },
+  {
+    "source": "ent_2574",
+    "target": "ent_2579",
+    "type": "involves",
+    "id": "edge_smt_9818"
+  },
+  {
+    "source": "ent_2579",
+    "target": "ent_2575",
+    "type": "involves",
+    "id": "edge_smt_9819"
+  },
+  {
+    "source": "ent_2575",
+    "target": "ent_2581",
+    "type": "involves",
+    "id": "edge_smt_9820"
+  },
+  {
+    "source": "ent_2581",
+    "target": "ent_2583",
+    "type": "involves",
+    "id": "edge_smt_9821"
+  },
+  {
+    "source": "ent_2582",
+    "target": "ent_2572",
+    "type": "defines",
+    "id": "edge_smt_9822"
+  },
+  {
+    "source": "ent_2572",
+    "target": "ent_2574",
+    "type": "defines",
+    "id": "edge_smt_9823"
   },
   {
     "source": "ent_2592",
     "target": "ent_2596",
     "type": "involves",
-    "id": "edge_smt_9594"
+    "id": "edge_smt_9824"
   },
   {
     "source": "ent_2593",
     "target": "ent_2600",
     "type": "has_condition",
-    "id": "edge_smt_9595"
+    "id": "edge_smt_9825"
   },
   {
     "source": "ent_2600",
     "target": "ent_2599",
     "type": "results_in",
-    "id": "edge_smt_9596"
+    "id": "edge_smt_9826"
   },
   {
     "source": "ent_2599",
     "target": "ent_2602",
     "type": "related_to",
-    "id": "edge_smt_9597"
+    "id": "edge_smt_9827"
   },
   {
     "source": "ent_2602",
     "target": "ent_2603",
     "type": "requires",
-    "id": "edge_smt_9598"
+    "id": "edge_smt_9828"
   },
   {
     "source": "ent_2615",
     "target": "ent_2623",
     "type": "prohibits",
-    "id": "edge_smt_9599"
+    "id": "edge_smt_9829"
   },
   {
     "source": "ent_2618",
     "target": "ent_2631",
     "type": "applies_to",
-    "id": "edge_smt_9600"
+    "id": "edge_smt_9830"
+  },
+  {
+    "source": "ent_2654",
+    "target": "ent_2659",
+    "type": "prohibits",
+    "id": "edge_smt_9831"
+  },
+  {
+    "source": "ent_2663",
+    "target": "ent_2665",
+    "type": "requires",
+    "id": "edge_smt_9832"
   },
   {
     "source": "ent_2666",
     "target": "ent_2670",
     "type": "regulates",
-    "id": "edge_smt_9601"
+    "id": "edge_smt_9833"
   },
   {
     "source": "ent_2671",
     "target": "ent_2672",
     "type": "related_to",
-    "id": "edge_smt_9602"
+    "id": "edge_smt_9834"
+  },
+  {
+    "source": "ent_2672",
+    "target": "ent_2675",
+    "type": "requires",
+    "id": "edge_smt_9835"
+  },
+  {
+    "source": "ent_2781",
+    "target": "ent_2784",
+    "type": "cites",
+    "id": "edge_smt_9836"
+  },
+  {
+    "source": "ent_2799",
+    "target": "ent_2798",
+    "type": "has_condition",
+    "id": "edge_smt_9837"
+  },
+  {
+    "source": "ent_2809",
+    "target": "ent_2802",
+    "type": "involves",
+    "id": "edge_smt_9838"
   },
   {
     "source": "ent_2802",
     "target": "ent_2808",
     "type": "not",
-    "id": "edge_smt_9603"
+    "id": "edge_smt_9839"
+  },
+  {
+    "source": "ent_2809",
+    "target": "ent_2808",
+    "type": "not",
+    "id": "edge_smt_9840"
+  },
+  {
+    "source": "ent_2843",
+    "target": "ent_2841",
+    "type": "has_condition",
+    "id": "edge_smt_9841"
   },
   {
     "source": "ent_2853",
     "target": "ent_2854",
     "type": "enables",
-    "id": "edge_smt_9604"
+    "id": "edge_smt_9842"
   },
   {
     "source": "ent_2854",
     "target": "ent_2856",
     "type": "involves",
-    "id": "edge_smt_9605"
+    "id": "edge_smt_9843"
+  },
+  {
+    "source": "ent_2863",
+    "target": "ent_2868",
+    "type": "involves",
+    "id": "edge_smt_9844"
+  },
+  {
+    "source": "ent_2868",
+    "target": "ent_2861",
+    "type": "involves",
+    "id": "edge_smt_9845"
+  },
+  {
+    "source": "ent_2887",
+    "target": "ent_2892",
+    "type": "involves",
+    "id": "edge_smt_9846"
+  },
+  {
+    "source": "ent_2892",
+    "target": "ent_2893",
+    "type": "involves",
+    "id": "edge_smt_9847"
+  },
+  {
+    "source": "ent_2893",
+    "target": "ent_2886",
+    "type": "applies_to",
+    "id": "edge_smt_9848"
   },
   {
     "source": "ent_2886",
     "target": "ent_2888",
     "type": "applies_to",
-    "id": "edge_smt_9606"
+    "id": "edge_smt_9849"
+  },
+  {
+    "source": "ent_2893",
+    "target": "ent_2888",
+    "type": "applies_to",
+    "id": "edge_smt_9850"
+  },
+  {
+    "source": "ent_2889",
+    "target": "ent_2890",
+    "type": "has_condition",
+    "id": "edge_smt_9851"
   },
   {
     "source": "ent_2894",
     "target": "ent_2896",
-    "type": "related_to",
-    "id": "edge_smt_9607"
+    "type": "applies_to",
+    "id": "edge_smt_9852"
+  },
+  {
+    "source": "ent_2896",
+    "target": "ent_2897",
+    "type": "involves",
+    "id": "edge_smt_9853"
   },
   {
     "source": "ent_2898",
     "target": "ent_2899",
     "type": "defines",
-    "id": "edge_smt_9608"
+    "id": "edge_smt_9854"
   },
   {
     "source": "ent_2899",
     "target": "ent_2900",
     "type": "has_purpose",
-    "id": "edge_smt_9609"
+    "id": "edge_smt_9855"
   },
   {
     "source": "ent_2904",
     "target": "ent_2905",
     "type": "defines",
-    "id": "edge_smt_9610"
+    "id": "edge_smt_9856"
   },
   {
     "source": "ent_2905",
     "target": "ent_2909",
     "type": "regulates",
-    "id": "edge_smt_9611"
+    "id": "edge_smt_9857"
+  },
+  {
+    "source": "ent_2909",
+    "target": "ent_2906",
+    "type": "involves",
+    "id": "edge_smt_9858"
   },
   {
     "source": "ent_2910",
     "target": "ent_2915",
     "type": "defines",
-    "id": "edge_smt_9612"
+    "id": "edge_smt_9859"
+  },
+  {
+    "source": "ent_2914",
+    "target": "ent_2912",
+    "type": "cites",
+    "id": "edge_smt_9860"
   },
   {
     "source": "ent_2919",
     "target": "ent_2920",
     "type": "related_to",
-    "id": "edge_smt_9613"
+    "id": "edge_smt_9861"
+  },
+  {
+    "source": "ent_2920",
+    "target": "ent_2931",
+    "type": "requires",
+    "id": "edge_smt_9862"
   },
   {
     "source": "ent_2921",
     "target": "ent_2922",
     "type": "related_to",
-    "id": "edge_smt_9614"
+    "id": "edge_smt_9863"
   },
   {
     "source": "ent_2922",
     "target": "ent_2925",
     "type": "applies_to",
-    "id": "edge_smt_9615"
+    "id": "edge_smt_9864"
+  },
+  {
+    "source": "ent_2925",
+    "target": "ent_2917",
+    "type": "involves",
+    "id": "edge_smt_9865"
   },
   {
     "source": "ent_2917",
     "target": "ent_2932",
     "type": "regulates",
-    "id": "edge_smt_9616"
+    "id": "edge_smt_9866"
   },
   {
     "source": "ent_2921",
     "target": "ent_2925",
     "type": "applies_to",
-    "id": "edge_smt_9617"
+    "id": "edge_smt_9867"
+  },
+  {
+    "source": "ent_2925",
+    "target": "ent_2932",
+    "type": "regulates",
+    "id": "edge_smt_9868"
+  },
+  {
+    "source": "ent_2939",
+    "target": "ent_2937",
+    "type": "enables",
+    "id": "edge_smt_9869"
+  },
+  {
+    "source": "ent_2943",
+    "target": "ent_2947",
+    "type": "requires",
+    "id": "edge_smt_9870"
   },
   {
     "source": "ent_2947",
     "target": "ent_2945",
     "type": "has_condition",
-    "id": "edge_smt_9618"
+    "id": "edge_smt_9871"
+  },
+  {
+    "source": "ent_2943",
+    "target": "ent_2945",
+    "type": "has_condition",
+    "id": "edge_smt_9872"
+  },
+  {
+    "source": "ent_2951",
+    "target": "ent_2954",
+    "type": "requires",
+    "id": "edge_smt_9873"
+  },
+  {
+    "source": "ent_2954",
+    "target": "ent_2953",
+    "type": "has_condition",
+    "id": "edge_smt_9874"
   },
   {
     "source": "ent_2980",
     "target": "ent_2985",
     "type": "applies_to",
-    "id": "edge_smt_9619"
+    "id": "edge_smt_9875"
   },
   {
     "source": "ent_2985",
     "target": "ent_2984",
     "type": "related_to",
-    "id": "edge_smt_9620"
+    "id": "edge_smt_9876"
   },
   {
     "source": "ent_2984",
     "target": "ent_2982",
     "type": "related_to",
-    "id": "edge_smt_9621"
+    "id": "edge_smt_9877"
   },
   {
     "source": "ent_2982",
     "target": "ent_2983",
     "type": "related_to",
-    "id": "edge_smt_9622"
+    "id": "edge_smt_9878"
+  },
+  {
+    "source": "ent_2996",
+    "target": "ent_2998",
+    "type": "involves",
+    "id": "edge_smt_9879"
   },
   {
     "source": "ent_2998",
     "target": "ent_2997",
     "type": "defines",
-    "id": "edge_smt_9623"
+    "id": "edge_smt_9880"
+  },
+  {
+    "source": "ent_2997",
+    "target": "ent_3000",
+    "type": "involves",
+    "id": "edge_smt_9881"
   },
   {
     "source": "ent_3000",
     "target": "ent_2988",
     "type": "involves",
-    "id": "edge_smt_9624"
+    "id": "edge_smt_9882"
+  },
+  {
+    "source": "ent_2988",
+    "target": "ent_2989",
+    "type": "related_to",
+    "id": "edge_smt_9883"
   },
   {
     "source": "ent_2989",
     "target": "ent_2987",
     "type": "related_to",
-    "id": "edge_smt_9625"
+    "id": "edge_smt_9884"
   },
   {
     "source": "ent_2987",
     "target": "ent_2995",
     "type": "involves",
-    "id": "edge_smt_9626"
+    "id": "edge_smt_9885"
+  },
+  {
+    "source": "ent_2996",
+    "target": "ent_2997",
+    "type": "defines",
+    "id": "edge_smt_9886"
+  },
+  {
+    "source": "ent_2997",
+    "target": "ent_2988",
+    "type": "involves",
+    "id": "edge_smt_9887"
   },
   {
     "source": "ent_2989",
     "target": "ent_2995",
     "type": "involves",
-    "id": "edge_smt_9627"
+    "id": "edge_smt_9888"
+  },
+  {
+    "source": "ent_3002",
+    "target": "ent_3025",
+    "type": "requires",
+    "id": "edge_smt_9889"
+  },
+  {
+    "source": "ent_3025",
+    "target": "ent_3007",
+    "type": "has_condition",
+    "id": "edge_smt_9890"
   },
   {
     "source": "ent_3044",
     "target": "ent_3045",
     "type": "related_to",
-    "id": "edge_smt_9628"
+    "id": "edge_smt_9891"
   },
   {
     "source": "ent_3045",
     "target": "ent_3043",
     "type": "related_to",
-    "id": "edge_smt_9629"
+    "id": "edge_smt_9892"
+  },
+  {
+    "source": "ent_3043",
+    "target": "ent_3050",
+    "type": "involves",
+    "id": "edge_smt_9893"
   },
   {
     "source": "ent_3050",
     "target": "ent_3049",
     "type": "has_exception",
-    "id": "edge_smt_9630"
+    "id": "edge_smt_9894"
+  },
+  {
+    "source": "ent_3043",
+    "target": "ent_3049",
+    "type": "has_exception",
+    "id": "edge_smt_9895"
   },
   {
     "source": "ent_3052",
     "target": "ent_3053",
     "type": "regulates",
-    "id": "edge_smt_9631"
+    "id": "edge_smt_9896"
+  },
+  {
+    "source": "ent_3053",
+    "target": "ent_3055",
+    "type": "involves",
+    "id": "edge_smt_9897"
   },
   {
     "source": "ent_3055",
     "target": "ent_3054",
     "type": "related_to",
-    "id": "edge_smt_9632"
+    "id": "edge_smt_9898"
+  },
+  {
+    "source": "ent_3057",
+    "target": "ent_3064",
+    "type": "requires",
+    "id": "edge_smt_9899"
+  },
+  {
+    "source": "ent_3064",
+    "target": "ent_3059",
+    "type": "cites",
+    "id": "edge_smt_9900"
+  },
+  {
+    "source": "ent_3078",
+    "target": "ent_3088",
+    "type": "involves",
+    "id": "edge_smt_9901"
   },
   {
     "source": "ent_3088",
     "target": "ent_3086",
     "type": "has_purpose",
-    "id": "edge_smt_9633"
+    "id": "edge_smt_9902"
+  },
+  {
+    "source": "ent_3086",
+    "target": "ent_3095",
+    "type": "involves",
+    "id": "edge_smt_9903"
+  },
+  {
+    "source": "ent_3095",
+    "target": "ent_3067",
+    "type": "involves",
+    "id": "edge_smt_9904"
+  },
+  {
+    "source": "ent_3078",
+    "target": "ent_3086",
+    "type": "has_purpose",
+    "id": "edge_smt_9905"
   },
   {
     "source": "ent_3126",
     "target": "ent_3130",
     "type": "related_to",
-    "id": "edge_smt_9634"
+    "id": "edge_smt_9906"
   },
   {
     "source": "ent_3130",
     "target": "ent_3131",
     "type": "related_to",
-    "id": "edge_smt_9635"
+    "id": "edge_smt_9907"
   },
   {
     "source": "ent_3131",
     "target": "ent_3132",
     "type": "related_to",
-    "id": "edge_smt_9636"
+    "id": "edge_smt_9908"
   },
   {
     "source": "ent_3132",
     "target": "ent_3133",
     "type": "related_to",
-    "id": "edge_smt_9637"
+    "id": "edge_smt_9909"
   },
   {
     "source": "ent_3133",
     "target": "ent_3128",
     "type": "related_to",
-    "id": "edge_smt_9638"
+    "id": "edge_smt_9910"
   },
   {
     "source": "ent_3137",
     "target": "ent_3135",
     "type": "related_to",
-    "id": "edge_smt_9639"
+    "id": "edge_smt_9911"
   },
   {
     "source": "ent_3135",
     "target": "ent_3136",
     "type": "related_to",
-    "id": "edge_smt_9640"
+    "id": "edge_smt_9912"
   },
   {
     "source": "ent_3136",
     "target": "ent_3134",
     "type": "involves",
-    "id": "edge_smt_9641"
+    "id": "edge_smt_9913"
   },
   {
     "source": "ent_3148",
     "target": "ent_3147",
     "type": "related_to",
-    "id": "edge_smt_9642"
+    "id": "edge_smt_9914"
+  },
+  {
+    "source": "ent_3163",
+    "target": "ent_3171",
+    "type": "enables",
+    "id": "edge_smt_9915"
+  },
+  {
+    "source": "ent_3171",
+    "target": "ent_3176",
+    "type": "cites",
+    "id": "edge_smt_9916"
   },
   {
     "source": "ent_3199",
     "target": "ent_3191",
     "type": "regulates",
-    "id": "edge_smt_9643"
+    "id": "edge_smt_9917"
+  },
+  {
+    "source": "ent_3191",
+    "target": "ent_3195",
+    "type": "enables",
+    "id": "edge_smt_9918"
   },
   {
     "source": "ent_3178",
     "target": "ent_3202",
     "type": "enables",
-    "id": "edge_smt_9644"
+    "id": "edge_smt_9919"
   },
   {
     "source": "ent_3217",
     "target": "ent_3214",
     "type": "regulates",
-    "id": "edge_smt_9645"
+    "id": "edge_smt_9920"
+  },
+  {
+    "source": "ent_3214",
+    "target": "ent_3216",
+    "type": "enables",
+    "id": "edge_smt_9921"
   },
   {
     "source": "ent_3223",
     "target": "ent_3226",
     "type": "regulates",
-    "id": "edge_smt_9646"
+    "id": "edge_smt_9922"
+  },
+  {
+    "source": "ent_3265",
+    "target": "ent_3235",
+    "type": "regulates",
+    "id": "edge_smt_9923"
+  },
+  {
+    "source": "ent_3235",
+    "target": "ent_3246",
+    "type": "enables",
+    "id": "edge_smt_9924"
   },
   {
     "source": "ent_3266",
     "target": "ent_3241",
     "type": "involves",
-    "id": "edge_smt_9647"
+    "id": "edge_smt_9925"
+  },
+  {
+    "source": "ent_3241",
+    "target": "ent_3242",
+    "type": "related_to",
+    "id": "edge_smt_9926"
   },
   {
     "source": "ent_3288",
     "target": "ent_3285",
     "type": "regulates",
-    "id": "edge_smt_9648"
+    "id": "edge_smt_9927"
+  },
+  {
+    "source": "ent_3312",
+    "target": "ent_3327",
+    "type": "cites",
+    "id": "edge_smt_9928"
   },
   {
     "source": "ent_3327",
     "target": "ent_3298",
     "type": "involves",
-    "id": "edge_smt_9649"
+    "id": "edge_smt_9929"
+  },
+  {
+    "source": "ent_3298",
+    "target": "ent_3305",
+    "type": "related_to",
+    "id": "edge_smt_9930"
+  },
+  {
+    "source": "ent_3305",
+    "target": "ent_3309",
+    "type": "enables",
+    "id": "edge_smt_9931"
+  },
+  {
+    "source": "ent_3312",
+    "target": "ent_3298",
+    "type": "involves",
+    "id": "edge_smt_9932"
+  },
+  {
+    "source": "ent_3299",
+    "target": "ent_3331",
+    "type": "requires",
+    "id": "edge_smt_9933"
   },
   {
     "source": "ent_3354",
     "target": "ent_3343",
     "type": "has_exception",
-    "id": "edge_smt_9650"
+    "id": "edge_smt_9934"
+  },
+  {
+    "source": "ent_3377",
+    "target": "ent_3373",
+    "type": "has_condition",
+    "id": "edge_smt_9935"
+  },
+  {
+    "source": "ent_3373",
+    "target": "ent_3375",
+    "type": "related_to",
+    "id": "edge_smt_9936"
+  },
+  {
+    "source": "ent_3385",
+    "target": "ent_3407",
+    "type": "enables",
+    "id": "edge_smt_9937"
   },
   {
     "source": "ent_3386",
     "target": "ent_3412",
     "type": "regulates",
-    "id": "edge_smt_9651"
+    "id": "edge_smt_9938"
+  },
+  {
+    "source": "ent_3390",
+    "target": "ent_3406",
+    "type": "prohibits",
+    "id": "edge_smt_9939"
+  },
+  {
+    "source": "ent_3417",
+    "target": "ent_3429",
+    "type": "involves",
+    "id": "edge_smt_9940"
   },
   {
     "source": "ent_3429",
     "target": "ent_3428",
     "type": "related_to",
-    "id": "edge_smt_9652"
+    "id": "edge_smt_9941"
+  },
+  {
+    "source": "ent_3428",
+    "target": "ent_3427",
+    "type": "related_to",
+    "id": "edge_smt_9942"
+  },
+  {
+    "source": "ent_3441",
+    "target": "ent_3446",
+    "type": "cites",
+    "id": "edge_smt_9943"
+  },
+  {
+    "source": "ent_3447",
+    "target": "ent_3436",
+    "type": "regulates",
+    "id": "edge_smt_9944"
+  },
+  {
+    "source": "ent_3448",
+    "target": "ent_3437",
+    "type": "regulates",
+    "id": "edge_smt_9945"
   },
   {
     "source": "ent_3437",
     "target": "ent_3443",
     "type": "related_to",
-    "id": "edge_smt_9653"
+    "id": "edge_smt_9946"
+  },
+  {
+    "source": "ent_3448",
+    "target": "ent_3443",
+    "type": "related_to",
+    "id": "edge_smt_9947"
+  },
+  {
+    "source": "ent_3483",
+    "target": "ent_3490",
+    "type": "cites",
+    "id": "edge_smt_9948"
+  },
+  {
+    "source": "ent_3495",
+    "target": "ent_3501",
+    "type": "cites",
+    "id": "edge_smt_9949"
+  },
+  {
+    "source": "ent_3518",
+    "target": "ent_3515",
+    "type": "cites",
+    "id": "edge_smt_9950"
+  },
+  {
+    "source": "ent_3544",
+    "target": "ent_3548",
+    "type": "involves",
+    "id": "edge_smt_9951"
+  },
+  {
+    "source": "ent_3548",
+    "target": "ent_3547",
+    "type": "has_condition",
+    "id": "edge_smt_9952"
+  },
+  {
+    "source": "ent_3561",
+    "target": "ent_3567",
+    "type": "involves",
+    "id": "edge_smt_9953"
   },
   {
     "source": "ent_3605",
     "target": "ent_3609",
     "type": "regulates",
-    "id": "edge_smt_9654"
+    "id": "edge_smt_9954"
+  },
+  {
+    "source": "ent_3609",
+    "target": "ent_3608",
+    "type": "involves",
+    "id": "edge_smt_9955"
+  },
+  {
+    "source": "ent_3610",
+    "target": "ent_3613",
+    "type": "involves",
+    "id": "edge_smt_9956"
+  },
+  {
+    "source": "ent_3613",
+    "target": "ent_3612",
+    "type": "related_to",
+    "id": "edge_smt_9957"
   },
   {
     "source": "ent_3619",
     "target": "ent_3618",
     "type": "related_to",
-    "id": "edge_smt_9655"
+    "id": "edge_smt_9958"
+  },
+  {
+    "source": "ent_3641",
+    "target": "ent_3637",
+    "type": "cites",
+    "id": "edge_smt_9959"
   },
   {
     "source": "ent_3648",
     "target": "ent_3647",
     "type": "defines",
-    "id": "edge_smt_9656"
+    "id": "edge_smt_9960"
   },
   {
     "source": "ent_3649",
     "target": "ent_3650",
     "type": "defines",
-    "id": "edge_smt_9657"
+    "id": "edge_smt_9961"
   },
   {
     "source": "ent_3650",
     "target": "ent_3651",
     "type": "related_to",
-    "id": "edge_smt_9658"
+    "id": "edge_smt_9962"
   },
   {
     "source": "ent_3651",
     "target": "ent_3652",
     "type": "related_to",
-    "id": "edge_smt_9659"
+    "id": "edge_smt_9963"
+  },
+  {
+    "source": "ent_3652",
+    "target": "ent_3653",
+    "type": "related_to",
+    "id": "edge_smt_9964"
+  },
+  {
+    "source": "ent_3660",
+    "target": "ent_3659",
+    "type": "prohibits",
+    "id": "edge_smt_9965"
   },
   {
     "source": "ent_3676",
     "target": "ent_3662",
     "type": "requires",
-    "id": "edge_smt_9660"
+    "id": "edge_smt_9966"
   },
   {
     "source": "ent_3716",
     "target": "ent_3712",
     "type": "requires",
-    "id": "edge_smt_9661"
+    "id": "edge_smt_9967"
+  },
+  {
+    "source": "ent_3730",
+    "target": "ent_3739",
+    "type": "prohibits",
+    "id": "edge_smt_9968"
   },
   {
     "source": "ent_3759",
     "target": "ent_3751",
     "type": "involves",
-    "id": "edge_smt_9662"
+    "id": "edge_smt_9969"
+  },
+  {
+    "source": "ent_3751",
+    "target": "ent_3757",
+    "type": "involves",
+    "id": "edge_smt_9970"
+  },
+  {
+    "source": "ent_3775",
+    "target": "ent_3784",
+    "type": "requires",
+    "id": "edge_smt_9971"
+  },
+  {
+    "source": "ent_3784",
+    "target": "ent_3781",
+    "type": "cites",
+    "id": "edge_smt_9972"
+  },
+  {
+    "source": "ent_3803",
+    "target": "ent_3793",
+    "type": "involves",
+    "id": "edge_smt_9973"
+  },
+  {
+    "source": "ent_3793",
+    "target": "ent_3801",
+    "type": "involves",
+    "id": "edge_smt_9974"
+  },
+  {
+    "source": "ent_3805",
+    "target": "ent_3798",
+    "type": "has_condition",
+    "id": "edge_smt_9975"
   },
   {
     "source": "ent_3823",
     "target": "ent_3821",
     "type": "has_condition",
-    "id": "edge_smt_9663"
+    "id": "edge_smt_9976"
   },
   {
     "source": "ent_3824",
     "target": "ent_3825",
     "type": "related_to",
-    "id": "edge_smt_9664"
+    "id": "edge_smt_9977"
   },
   {
     "source": "ent_3825",
     "target": "ent_3822",
     "type": "has_condition",
-    "id": "edge_smt_9665"
+    "id": "edge_smt_9978"
   },
   {
     "source": "ent_3824",
     "target": "ent_3822",
     "type": "has_condition",
-    "id": "edge_smt_9666"
+    "id": "edge_smt_9979"
   },
   {
     "source": "ent_3839",
     "target": "ent_3830",
     "type": "has_condition",
-    "id": "edge_smt_9667"
+    "id": "edge_smt_9980"
+  },
+  {
+    "source": "ent_3833",
+    "target": "ent_3837",
+    "type": "involves",
+    "id": "edge_smt_9981"
+  },
+  {
+    "source": "ent_3834",
+    "target": "ent_3835",
+    "type": "enables",
+    "id": "edge_smt_9982"
   },
   {
     "source": "ent_3842",
     "target": "ent_3851",
     "type": "requires",
-    "id": "edge_smt_9668"
+    "id": "edge_smt_9983"
   },
   {
     "source": "ent_3852",
     "target": "ent_3865",
     "type": "violates",
-    "id": "edge_smt_9669"
+    "id": "edge_smt_9984"
+  },
+  {
+    "source": "ent_3865",
+    "target": "ent_3869",
+    "type": "requires",
+    "id": "edge_smt_9985"
+  },
+  {
+    "source": "ent_3876",
+    "target": "ent_3871",
+    "type": "enables",
+    "id": "edge_smt_9986"
   },
   {
     "source": "ent_3882",
     "target": "ent_3873",
     "type": "related_to",
-    "id": "edge_smt_9670"
+    "id": "edge_smt_9987"
+  },
+  {
+    "source": "ent_3873",
+    "target": "ent_3887",
+    "type": "cites",
+    "id": "edge_smt_9988"
+  },
+  {
+    "source": "ent_3890",
+    "target": "ent_3889",
+    "type": "related_to",
+    "id": "edge_smt_9989"
+  },
+  {
+    "source": "ent_3889",
+    "target": "ent_3897",
+    "type": "enables",
+    "id": "edge_smt_9990"
+  },
+  {
+    "source": "ent_3897",
+    "target": "ent_3909",
+    "type": "cites",
+    "id": "edge_smt_9991"
   },
   {
     "source": "ent_3909",
     "target": "ent_3903",
     "type": "cites",
-    "id": "edge_smt_9671"
+    "id": "edge_smt_9992"
   },
   {
     "source": "ent_3903",
     "target": "ent_3905",
     "type": "modifies",
-    "id": "edge_smt_9672"
+    "id": "edge_smt_9993"
   },
   {
     "source": "ent_3905",
     "target": "ent_3906",
     "type": "has_purpose",
-    "id": "edge_smt_9673"
+    "id": "edge_smt_9994"
+  },
+  {
+    "source": "ent_3897",
+    "target": "ent_3903",
+    "type": "cites",
+    "id": "edge_smt_9995"
+  },
+  {
+    "source": "ent_3916",
+    "target": "ent_3921",
+    "type": "cites",
+    "id": "edge_smt_9996"
   },
   {
     "source": "ent_3939",
     "target": "ent_3948",
     "type": "applies_to",
-    "id": "edge_smt_9674"
+    "id": "edge_smt_9997"
   },
   {
     "source": "ent_3948",
     "target": "ent_3949",
     "type": "related_to",
-    "id": "edge_smt_9675"
+    "id": "edge_smt_9998"
   },
   {
     "source": "ent_3949",
     "target": "ent_3950",
     "type": "lack",
-    "id": "edge_smt_9676"
+    "id": "edge_smt_9999"
+  },
+  {
+    "source": "ent_3950",
+    "target": "ent_3946",
+    "type": "enables",
+    "id": "edge_smt_10000"
   },
   {
     "source": "ent_3948",
     "target": "ent_3950",
     "type": "lack",
-    "id": "edge_smt_9677"
+    "id": "edge_smt_10001"
+  },
+  {
+    "source": "ent_3960",
+    "target": "ent_3967",
+    "type": "involves",
+    "id": "edge_smt_10002"
   },
   {
     "source": "ent_3982",
     "target": "ent_3981",
     "type": "requires",
-    "id": "edge_smt_9678"
+    "id": "edge_smt_10003"
   },
   {
     "source": "ent_3983",
     "target": "ent_3980",
     "type": "related_to",
-    "id": "edge_smt_9679"
+    "id": "edge_smt_10004"
+  },
+  {
+    "source": "ent_3992",
+    "target": "ent_3993",
+    "type": "related_to",
+    "id": "edge_smt_10005"
+  },
+  {
+    "source": "ent_3993",
+    "target": "ent_3985",
+    "type": "involves",
+    "id": "edge_smt_10006"
   },
   {
     "source": "ent_3985",
     "target": "ent_3989",
     "type": "related_to",
-    "id": "edge_smt_9680"
+    "id": "edge_smt_10007"
+  },
+  {
+    "source": "ent_3989",
+    "target": "ent_3994",
+    "type": "cites",
+    "id": "edge_smt_10008"
+  },
+  {
+    "source": "ent_3993",
+    "target": "ent_3989",
+    "type": "related_to",
+    "id": "edge_smt_10009"
+  },
+  {
+    "source": "ent_4008",
+    "target": "ent_3999",
+    "type": "applies_to",
+    "id": "edge_smt_10010"
   },
   {
     "source": "ent_3999",
     "target": "ent_3996",
     "type": "related_to",
-    "id": "edge_smt_9681"
+    "id": "edge_smt_10011"
+  },
+  {
+    "source": "ent_3996",
+    "target": "ent_4010",
+    "type": "involves",
+    "id": "edge_smt_10012"
+  },
+  {
+    "source": "ent_4010",
+    "target": "ent_3998",
+    "type": "involves",
+    "id": "edge_smt_10013"
   },
   {
     "source": "ent_3998",
     "target": "ent_4009",
     "type": "regulates",
-    "id": "edge_smt_9682"
+    "id": "edge_smt_10014"
+  },
+  {
+    "source": "ent_4010",
+    "target": "ent_4009",
+    "type": "regulates",
+    "id": "edge_smt_10015"
   },
   {
     "source": "ent_4023",
     "target": "ent_4030",
     "type": "enables",
-    "id": "edge_smt_9683"
+    "id": "edge_smt_10016"
   },
   {
     "source": "ent_4030",
     "target": "ent_4031",
     "type": "related_to",
-    "id": "edge_smt_9684"
+    "id": "edge_smt_10017"
   },
   {
     "source": "ent_4031",
     "target": "ent_4021",
     "type": "has_condition",
-    "id": "edge_smt_9685"
+    "id": "edge_smt_10018"
   },
   {
     "source": "ent_4021",
     "target": "ent_4019",
     "type": "related_to",
-    "id": "edge_smt_9686"
+    "id": "edge_smt_10019"
   },
   {
     "source": "ent_4019",
     "target": "ent_4029",
     "type": "defines",
-    "id": "edge_smt_9687"
+    "id": "edge_smt_10020"
+  },
+  {
+    "source": "ent_4029",
+    "target": "ent_4034",
+    "type": "cites",
+    "id": "edge_smt_10021"
   },
   {
     "source": "ent_4030",
     "target": "ent_4021",
     "type": "has_condition",
-    "id": "edge_smt_9688"
+    "id": "edge_smt_10022"
   },
   {
     "source": "ent_4021",
     "target": "ent_4029",
     "type": "defines",
-    "id": "edge_smt_9689"
+    "id": "edge_smt_10023"
   },
   {
     "source": "ent_4046",
     "target": "ent_4052",
     "type": "involves",
-    "id": "edge_smt_9690"
+    "id": "edge_smt_10024"
   },
   {
     "source": "ent_4052",
     "target": "ent_4053",
     "type": "related_to",
-    "id": "edge_smt_9691"
+    "id": "edge_smt_10025"
   },
   {
     "source": "ent_4053",
     "target": "ent_4040",
     "type": "has_condition",
-    "id": "edge_smt_9692"
+    "id": "edge_smt_10026"
   },
   {
     "source": "ent_4040",
     "target": "ent_4038",
     "type": "related_to",
-    "id": "edge_smt_9693"
+    "id": "edge_smt_10027"
   },
   {
     "source": "ent_4038",
     "target": "ent_4049",
     "type": "defines",
-    "id": "edge_smt_9694"
+    "id": "edge_smt_10028"
   },
   {
     "source": "ent_4046",
     "target": "ent_4053",
     "type": "related_to",
-    "id": "edge_smt_9695"
+    "id": "edge_smt_10029"
   },
   {
     "source": "ent_4040",
     "target": "ent_4049",
     "type": "defines",
-    "id": "edge_smt_9696"
+    "id": "edge_smt_10030"
   },
   {
     "source": "ent_4064",
     "target": "ent_4061",
     "type": "applies_to",
-    "id": "edge_smt_9697"
+    "id": "edge_smt_10031"
   },
   {
     "source": "ent_4083",
     "target": "ent_4076",
     "type": "defines",
-    "id": "edge_smt_9698"
+    "id": "edge_smt_10032"
+  },
+  {
+    "source": "ent_4076",
+    "target": "ent_4081",
+    "type": "involves",
+    "id": "edge_smt_10033"
+  },
+  {
+    "source": "ent_4081",
+    "target": "ent_4077",
+    "type": "involves",
+    "id": "edge_smt_10034"
+  },
+  {
+    "source": "ent_4077",
+    "target": "ent_4080",
+    "type": "involves",
+    "id": "edge_smt_10035"
+  },
+  {
+    "source": "ent_4092",
+    "target": "ent_4093",
+    "type": "related_to",
+    "id": "edge_smt_10036"
   },
   {
     "source": "ent_4093",
     "target": "ent_4094",
     "type": "related_to",
-    "id": "edge_smt_9699"
+    "id": "edge_smt_10037"
+  },
+  {
+    "source": "ent_4094",
+    "target": "ent_4090",
+    "type": "prohibits",
+    "id": "edge_smt_10038"
+  },
+  {
+    "source": "ent_4095",
+    "target": "ent_4102",
+    "type": "requires",
+    "id": "edge_smt_10039"
   },
   {
     "source": "ent_4110",
     "target": "ent_4109",
     "type": "defines",
-    "id": "edge_smt_9700"
+    "id": "edge_smt_10040"
+  },
+  {
+    "source": "ent_4109",
+    "target": "ent_4106",
+    "type": "enables",
+    "id": "edge_smt_10041"
   },
   {
     "source": "ent_4114",
     "target": "ent_4113",
     "type": "related_to",
-    "id": "edge_smt_9701"
+    "id": "edge_smt_10042"
   },
   {
     "source": "ent_4121",
     "target": "ent_4115",
     "type": "regulates",
-    "id": "edge_smt_9702"
+    "id": "edge_smt_10043"
   },
   {
     "source": "ent_4122",
     "target": "ent_4123",
     "type": "related_to",
-    "id": "edge_smt_9703"
+    "id": "edge_smt_10044"
   },
   {
     "source": "ent_4120",
     "target": "ent_4124",
     "type": "related_to",
-    "id": "edge_smt_9704"
+    "id": "edge_smt_10045"
+  },
+  {
+    "source": "ent_4117",
+    "target": "ent_4116",
+    "type": "involves",
+    "id": "edge_smt_10046"
   },
   {
     "source": "ent_4126",
     "target": "ent_4127",
     "type": "involves",
-    "id": "edge_smt_9705"
+    "id": "edge_smt_10047"
   },
   {
     "source": "ent_4133",
     "target": "ent_4128",
     "type": "defines",
-    "id": "edge_smt_9706"
+    "id": "edge_smt_10048"
+  },
+  {
+    "source": "ent_4128",
+    "target": "ent_4132",
+    "type": "involves",
+    "id": "edge_smt_10049"
   },
   {
     "source": "ent_4132",
     "target": "ent_4131",
     "type": "related_to",
-    "id": "edge_smt_9707"
+    "id": "edge_smt_10050"
+  },
+  {
+    "source": "ent_4131",
+    "target": "ent_4130",
+    "type": "has_condition",
+    "id": "edge_smt_10051"
   },
   {
     "source": "ent_4137",
     "target": "ent_4143",
     "type": "defines",
-    "id": "edge_smt_9708"
+    "id": "edge_smt_10052"
   },
   {
     "source": "ent_4143",
     "target": "ent_4136",
     "type": "defines",
-    "id": "edge_smt_9709"
+    "id": "edge_smt_10053"
   },
   {
     "source": "ent_4136",
     "target": "ent_4139",
     "type": "related_to",
-    "id": "edge_smt_9710"
+    "id": "edge_smt_10054"
+  },
+  {
+    "source": "ent_4139",
+    "target": "ent_4135",
+    "type": "related_to",
+    "id": "edge_smt_10055"
   },
   {
     "source": "ent_4144",
     "target": "ent_4145",
     "type": "regulates",
-    "id": "edge_smt_9711"
+    "id": "edge_smt_10056"
   },
   {
     "source": "ent_4145",
     "target": "ent_4147",
     "type": "involves",
-    "id": "edge_smt_9712"
+    "id": "edge_smt_10057"
+  },
+  {
+    "source": "ent_4147",
+    "target": "ent_4146",
+    "type": "related_to",
+    "id": "edge_smt_10058"
+  },
+  {
+    "source": "ent_4148",
+    "target": "ent_4162",
+    "type": "requires",
+    "id": "edge_smt_10059"
   },
   {
     "source": "ent_4169",
     "target": "ent_4166",
     "type": "defines",
-    "id": "edge_smt_9713"
+    "id": "edge_smt_10060"
+  },
+  {
+    "source": "ent_4177",
+    "target": "ent_4196",
+    "type": "requires",
+    "id": "edge_smt_10061"
   },
   {
     "source": "ent_4196",
     "target": "ent_4186",
     "type": "has_condition",
-    "id": "edge_smt_9714"
+    "id": "edge_smt_10062"
+  },
+  {
+    "source": "ent_4186",
+    "target": "ent_4188",
+    "type": "involves",
+    "id": "edge_smt_10063"
   },
   {
     "source": "ent_4188",
     "target": "ent_4189",
     "type": "related_to",
-    "id": "edge_smt_9715"
+    "id": "edge_smt_10064"
   },
   {
     "source": "ent_4189",
     "target": "ent_4187",
     "type": "related_to",
-    "id": "edge_smt_9716"
+    "id": "edge_smt_10065"
+  },
+  {
+    "source": "ent_4177",
+    "target": "ent_4186",
+    "type": "has_condition",
+    "id": "edge_smt_10066"
   },
   {
     "source": "ent_4190",
     "target": "ent_4191",
     "type": "related_to",
-    "id": "edge_smt_9717"
+    "id": "edge_smt_10067"
   },
   {
     "source": "ent_4191",
     "target": "ent_4194",
     "type": "related_to",
-    "id": "edge_smt_9718"
+    "id": "edge_smt_10068"
+  },
+  {
+    "source": "ent_4194",
+    "target": "ent_4197",
+    "type": "requires",
+    "id": "edge_smt_10069"
+  },
+  {
+    "source": "ent_4198",
+    "target": "ent_4212",
+    "type": "requires",
+    "id": "edge_smt_10070"
+  },
+  {
+    "source": "ent_4213",
+    "target": "ent_4218",
+    "type": "prohibits",
+    "id": "edge_smt_10071"
+  },
+  {
+    "source": "ent_4222",
+    "target": "ent_4226",
+    "type": "involves",
+    "id": "edge_smt_10072"
+  },
+  {
+    "source": "ent_4226",
+    "target": "ent_4228",
+    "type": "involves",
+    "id": "edge_smt_10073"
+  },
+  {
+    "source": "ent_4228",
+    "target": "ent_4223",
+    "type": "involves",
+    "id": "edge_smt_10074"
   },
   {
     "source": "ent_4223",
     "target": "ent_4229",
     "type": "cites",
-    "id": "edge_smt_9719"
+    "id": "edge_smt_10075"
+  },
+  {
+    "source": "ent_4229",
+    "target": "ent_4224",
+    "type": "has_condition",
+    "id": "edge_smt_10076"
   },
   {
     "source": "ent_4224",
     "target": "ent_4227",
-    "type": "related_to",
-    "id": "edge_smt_9720"
+    "type": "involves",
+    "id": "edge_smt_10077"
   },
   {
     "source": "ent_4227",
     "target": "ent_4230",
     "type": "related_to",
-    "id": "edge_smt_9721"
+    "id": "edge_smt_10078"
+  },
+  {
+    "source": "ent_4228",
+    "target": "ent_4229",
+    "type": "cites",
+    "id": "edge_smt_10079"
   },
   {
     "source": "ent_4241",
     "target": "ent_4240",
     "type": "involves",
-    "id": "edge_smt_9722"
+    "id": "edge_smt_10080"
   },
   {
     "source": "ent_4240",
     "target": "ent_4242",
     "type": "related_to",
-    "id": "edge_smt_9723"
+    "id": "edge_smt_10081"
+  },
+  {
+    "source": "ent_4242",
+    "target": "ent_4239",
+    "type": "involves",
+    "id": "edge_smt_10082"
+  },
+  {
+    "source": "ent_4239",
+    "target": "ent_4233",
+    "type": "involves",
+    "id": "edge_smt_10083"
   },
   {
     "source": "ent_4233",
     "target": "ent_4243",
     "type": "involves",
-    "id": "edge_smt_9724"
+    "id": "edge_smt_10084"
   },
   {
     "source": "ent_4243",
     "target": "ent_4237",
     "type": "has_condition",
-    "id": "edge_smt_9725"
+    "id": "edge_smt_10085"
+  },
+  {
+    "source": "ent_4239",
+    "target": "ent_4243",
+    "type": "involves",
+    "id": "edge_smt_10086"
+  },
+  {
+    "source": "ent_4249",
+    "target": "ent_4251",
+    "type": "involves",
+    "id": "edge_smt_10087"
   },
   {
     "source": "ent_4251",
     "target": "ent_4244",
     "type": "involves",
-    "id": "edge_smt_9726"
+    "id": "edge_smt_10088"
+  },
+  {
+    "source": "ent_4244",
+    "target": "ent_4256",
+    "type": "requires",
+    "id": "edge_smt_10089"
   },
   {
     "source": "ent_4257",
     "target": "ent_4258",
     "type": "related_to",
-    "id": "edge_smt_9727"
+    "id": "edge_smt_10090"
+  },
+  {
+    "source": "ent_4258",
+    "target": "ent_4259",
+    "type": "involves",
+    "id": "edge_smt_10091"
+  },
+  {
+    "source": "ent_4276",
+    "target": "ent_4268",
+    "type": "enables",
+    "id": "edge_smt_10092"
   },
   {
     "source": "ent_4283",
     "target": "ent_4293",
     "type": "involves",
-    "id": "edge_smt_9728"
+    "id": "edge_smt_10093"
+  },
+  {
+    "source": "ent_4293",
+    "target": "ent_4288",
+    "type": "has_condition",
+    "id": "edge_smt_10094"
+  },
+  {
+    "source": "ent_4288",
+    "target": "ent_4286",
+    "type": "enables",
+    "id": "edge_smt_10095"
   },
   {
     "source": "ent_4297",
     "target": "ent_4303",
     "type": "involves",
-    "id": "edge_smt_9729"
+    "id": "edge_smt_10096"
+  },
+  {
+    "source": "ent_4303",
+    "target": "ent_4296",
+    "type": "applies_to",
+    "id": "edge_smt_10097"
+  },
+  {
+    "source": "ent_4296",
+    "target": "ent_4299",
+    "type": "applies_to",
+    "id": "edge_smt_10098"
+  },
+  {
+    "source": "ent_4302",
+    "target": "ent_4304",
+    "type": "involves",
+    "id": "edge_smt_10099"
+  },
+  {
+    "source": "ent_4304",
+    "target": "ent_4298",
+    "type": "involves",
+    "id": "edge_smt_10100"
+  },
+  {
+    "source": "ent_4298",
+    "target": "ent_4300",
+    "type": "involves",
+    "id": "edge_smt_10101"
   },
   {
     "source": "ent_4307",
     "target": "ent_4317",
     "type": "involves",
-    "id": "edge_smt_9730"
+    "id": "edge_smt_10102"
+  },
+  {
+    "source": "ent_4317",
+    "target": "ent_4312",
+    "type": "has_condition",
+    "id": "edge_smt_10103"
   },
   {
     "source": "ent_4312",
     "target": "ent_4313",
     "type": "related_to",
-    "id": "edge_smt_9731"
+    "id": "edge_smt_10104"
+  },
+  {
+    "source": "ent_4313",
+    "target": "ent_4309",
+    "type": "enables",
+    "id": "edge_smt_10105"
+  },
+  {
+    "source": "ent_4310",
+    "target": "ent_4306",
+    "type": "applies_to",
+    "id": "edge_smt_10106"
   },
   {
     "source": "ent_4306",
     "target": "ent_4319",
     "type": "enables",
-    "id": "edge_smt_9732"
+    "id": "edge_smt_10107"
+  },
+  {
+    "source": "ent_4319",
+    "target": "ent_4314",
+    "type": "has_condition",
+    "id": "edge_smt_10108"
+  },
+  {
+    "source": "ent_4314",
+    "target": "ent_4321",
+    "type": "involves",
+    "id": "edge_smt_10109"
+  },
+  {
+    "source": "ent_4310",
+    "target": "ent_4319",
+    "type": "enables",
+    "id": "edge_smt_10110"
+  },
+  {
+    "source": "ent_4335",
+    "target": "ent_4328",
+    "type": "applies_to",
+    "id": "edge_smt_10111"
+  },
+  {
+    "source": "ent_4328",
+    "target": "ent_4347",
+    "type": "requires",
+    "id": "edge_smt_10112"
+  },
+  {
+    "source": "ent_4348",
+    "target": "ent_4354",
+    "type": "involves",
+    "id": "edge_smt_10113"
   },
   {
     "source": "ent_4358",
     "target": "ent_4362",
     "type": "enables",
-    "id": "edge_smt_9733"
+    "id": "edge_smt_10114"
   },
   {
     "source": "ent_4362",
     "target": "ent_4353",
     "type": "has_condition",
-    "id": "edge_smt_9734"
+    "id": "edge_smt_10115"
   },
   {
     "source": "ent_4353",
     "target": "ent_4363",
     "type": "has_exception",
-    "id": "edge_smt_9735"
+    "id": "edge_smt_10116"
   },
   {
     "source": "ent_4363",
     "target": "ent_4364",
     "type": "enables",
-    "id": "edge_smt_9736"
+    "id": "edge_smt_10117"
+  },
+  {
+    "source": "ent_4364",
+    "target": "ent_4352",
+    "type": "has_condition",
+    "id": "edge_smt_10118"
   },
   {
     "source": "ent_4362",
     "target": "ent_4363",
     "type": "has_exception",
-    "id": "edge_smt_9737"
+    "id": "edge_smt_10119"
+  },
+  {
+    "source": "ent_4375",
+    "target": "ent_4378",
+    "type": "involves",
+    "id": "edge_smt_10120"
+  },
+  {
+    "source": "ent_4378",
+    "target": "ent_4376",
+    "type": "enables",
+    "id": "edge_smt_10121"
+  },
+  {
+    "source": "ent_4385",
+    "target": "ent_4388",
+    "type": "involves",
+    "id": "edge_smt_10122"
+  },
+  {
+    "source": "ent_4388",
+    "target": "ent_4389",
+    "type": "related_to",
+    "id": "edge_smt_10123"
+  },
+  {
+    "source": "ent_4389",
+    "target": "ent_4393",
+    "type": "involves",
+    "id": "edge_smt_10124"
   },
   {
     "source": "ent_4393",
     "target": "ent_4386",
     "type": "regulates",
-    "id": "edge_smt_9738"
+    "id": "edge_smt_10125"
+  },
+  {
+    "source": "ent_4386",
+    "target": "ent_4387",
+    "type": "enables",
+    "id": "edge_smt_10126"
+  },
+  {
+    "source": "ent_4389",
+    "target": "ent_4386",
+    "type": "regulates",
+    "id": "edge_smt_10127"
+  },
+  {
+    "source": "ent_4402",
+    "target": "ent_4400",
+    "type": "applies_to",
+    "id": "edge_smt_10128"
+  },
+  {
+    "source": "ent_4400",
+    "target": "ent_4401",
+    "type": "enables",
+    "id": "edge_smt_10129"
+  },
+  {
+    "source": "ent_4414",
+    "target": "ent_4409",
+    "type": "enables",
+    "id": "edge_smt_10130"
+  },
+  {
+    "source": "ent_4407",
+    "target": "ent_4422",
+    "type": "requires",
+    "id": "edge_smt_10131"
+  },
+  {
+    "source": "ent_4422",
+    "target": "ent_4411",
+    "type": "related_to",
+    "id": "edge_smt_10132"
+  },
+  {
+    "source": "ent_4433",
+    "target": "ent_4429",
+    "type": "applies_to",
+    "id": "edge_smt_10133"
   },
   {
     "source": "ent_4429",
     "target": "ent_4449",
     "type": "related_to",
-    "id": "edge_smt_9739"
+    "id": "edge_smt_10134"
+  },
+  {
+    "source": "ent_4449",
+    "target": "ent_4436",
+    "type": "involves",
+    "id": "edge_smt_10135"
+  },
+  {
+    "source": "ent_4436",
+    "target": "ent_4434",
+    "type": "has_condition",
+    "id": "edge_smt_10136"
+  },
+  {
+    "source": "ent_4433",
+    "target": "ent_4449",
+    "type": "related_to",
+    "id": "edge_smt_10137"
   },
   {
     "source": "ent_4476",
     "target": "ent_4482",
     "type": "defines",
-    "id": "edge_smt_9740"
+    "id": "edge_smt_10138"
+  },
+  {
+    "source": "ent_4494",
+    "target": "ent_4508",
+    "type": "cites",
+    "id": "edge_smt_10139"
   },
   {
     "source": "ent_4510",
     "target": "ent_4514",
     "type": "enables",
-    "id": "edge_smt_9741"
+    "id": "edge_smt_10140"
   },
   {
     "source": "ent_4514",
     "target": "ent_4511",
     "type": "cites",
-    "id": "edge_smt_9742"
+    "id": "edge_smt_10141"
+  },
+  {
+    "source": "ent_4511",
+    "target": "ent_4513",
+    "type": "involves",
+    "id": "edge_smt_10142"
+  },
+  {
+    "source": "ent_4521",
+    "target": "ent_4539",
+    "type": "requires",
+    "id": "edge_smt_10143"
+  },
+  {
+    "source": "ent_4520",
+    "target": "ent_4538",
+    "type": "applies_to",
+    "id": "edge_smt_10144"
+  },
+  {
+    "source": "ent_4538",
+    "target": "ent_4526",
+    "type": "prohibits",
+    "id": "edge_smt_10145"
   },
   {
     "source": "ent_4541",
     "target": "ent_4542",
-    "type": "related_to",
-    "id": "edge_smt_9743"
+    "type": "applies_to",
+    "id": "edge_smt_10146"
   },
   {
     "source": "ent_4542",
     "target": "ent_4543",
     "type": "enables",
-    "id": "edge_smt_9744"
+    "id": "edge_smt_10147"
   },
   {
     "source": "ent_4541",
     "target": "ent_4543",
     "type": "enables",
-    "id": "edge_smt_9745"
+    "id": "edge_smt_10148"
   },
   {
     "source": "ent_4544",
     "target": "ent_4547",
     "type": "requires",
-    "id": "edge_smt_9746"
+    "id": "edge_smt_10149"
+  },
+  {
+    "source": "ent_4547",
+    "target": "ent_4546",
+    "type": "involves",
+    "id": "edge_smt_10150"
   },
   {
     "source": "ent_4546",
     "target": "ent_4554",
     "type": "has_purpose",
-    "id": "edge_smt_9747"
+    "id": "edge_smt_10151"
   },
   {
     "source": "ent_4554",
     "target": "ent_4545",
     "type": "defines",
-    "id": "edge_smt_9748"
+    "id": "edge_smt_10152"
+  },
+  {
+    "source": "ent_4545",
+    "target": "ent_4551",
+    "type": "applies_to",
+    "id": "edge_smt_10153"
+  },
+  {
+    "source": "ent_4547",
+    "target": "ent_4554",
+    "type": "has_purpose",
+    "id": "edge_smt_10154"
+  },
+  {
+    "source": "ent_4555",
+    "target": "ent_4556",
+    "type": "enables",
+    "id": "edge_smt_10155"
+  },
+  {
+    "source": "ent_4570",
+    "target": "ent_4559",
+    "type": "applies_to",
+    "id": "edge_smt_10156"
+  },
+  {
+    "source": "ent_4559",
+    "target": "ent_4564",
+    "type": "applies_to",
+    "id": "edge_smt_10157"
   },
   {
     "source": "ent_4578",
     "target": "ent_4574",
     "type": "defines",
-    "id": "edge_smt_9749"
+    "id": "edge_smt_10158"
+  },
+  {
+    "source": "ent_4574",
+    "target": "ent_4579",
+    "type": "involves",
+    "id": "edge_smt_10159"
+  },
+  {
+    "source": "ent_4579",
+    "target": "ent_4575",
+    "type": "involves",
+    "id": "edge_smt_10160"
   },
   {
     "source": "ent_4575",
     "target": "ent_4577",
     "type": "cites",
-    "id": "edge_smt_9750"
+    "id": "edge_smt_10161"
+  },
+  {
+    "source": "ent_4577",
+    "target": "ent_4576",
+    "type": "involves",
+    "id": "edge_smt_10162"
+  },
+  {
+    "source": "ent_4579",
+    "target": "ent_4577",
+    "type": "cites",
+    "id": "edge_smt_10163"
+  },
+  {
+    "source": "ent_4595",
+    "target": "ent_4584",
+    "type": "involves",
+    "id": "edge_smt_10164"
   },
   {
     "source": "ent_4584",
     "target": "ent_4593",
     "type": "regulates",
-    "id": "edge_smt_9751"
+    "id": "edge_smt_10165"
+  },
+  {
+    "source": "ent_4593",
+    "target": "ent_4591",
+    "type": "has_condition",
+    "id": "edge_smt_10166"
+  },
+  {
+    "source": "ent_4595",
+    "target": "ent_4593",
+    "type": "regulates",
+    "id": "edge_smt_10167"
+  },
+  {
+    "source": "ent_4603",
+    "target": "ent_4602",
+    "type": "prohibits",
+    "id": "edge_smt_10168"
+  },
+  {
+    "source": "ent_4612",
+    "target": "ent_4617",
+    "type": "enables",
+    "id": "edge_smt_10169"
+  },
+  {
+    "source": "ent_4613",
+    "target": "ent_4621",
+    "type": "involves",
+    "id": "edge_smt_10170"
+  },
+  {
+    "source": "ent_4627",
+    "target": "ent_4629",
+    "type": "requires",
+    "id": "edge_smt_10171"
+  },
+  {
+    "source": "ent_4630",
+    "target": "ent_4635",
+    "type": "cites",
+    "id": "edge_smt_10172"
   },
   {
     "source": "ent_4646",
     "target": "ent_4647",
     "type": "involves",
-    "id": "edge_smt_9752"
+    "id": "edge_smt_10173"
   },
   {
     "source": "ent_4647",
     "target": "ent_4655",
     "type": "defines",
-    "id": "edge_smt_9753"
+    "id": "edge_smt_10174"
   },
   {
     "source": "ent_4664",
     "target": "ent_4660",
     "type": "has_exception",
-    "id": "edge_smt_9754"
+    "id": "edge_smt_10175"
   },
   {
     "source": "ent_4700",
     "target": "ent_4701",
     "type": "involves",
-    "id": "edge_smt_9755"
+    "id": "edge_smt_10176"
   },
   {
     "source": "ent_4701",
     "target": "ent_4696",
     "type": "defines",
-    "id": "edge_smt_9756"
+    "id": "edge_smt_10177"
+  },
+  {
+    "source": "ent_4696",
+    "target": "ent_4698",
+    "type": "related_to",
+    "id": "edge_smt_10178"
   },
   {
     "source": "ent_4698",
     "target": "ent_4714",
     "type": "applies_to",
-    "id": "edge_smt_9757"
+    "id": "edge_smt_10179"
   },
   {
     "source": "ent_4714",
     "target": "ent_4703",
     "type": "has_condition",
-    "id": "edge_smt_9758"
+    "id": "edge_smt_10180"
+  },
+  {
+    "source": "ent_4696",
+    "target": "ent_4714",
+    "type": "applies_to",
+    "id": "edge_smt_10181"
+  },
+  {
+    "source": "ent_4741",
+    "target": "ent_4743",
+    "type": "involves",
+    "id": "edge_smt_10182"
   },
   {
     "source": "ent_4743",
     "target": "ent_4740",
     "type": "regulates",
-    "id": "edge_smt_9759"
+    "id": "edge_smt_10183"
+  },
+  {
+    "source": "ent_4740",
+    "target": "ent_4744",
+    "type": "requires",
+    "id": "edge_smt_10184"
+  },
+  {
+    "source": "ent_4741",
+    "target": "ent_4740",
+    "type": "regulates",
+    "id": "edge_smt_10185"
+  },
+  {
+    "source": "ent_4746",
+    "target": "ent_4748",
+    "type": "cites",
+    "id": "edge_smt_10186"
   },
   {
     "source": "ent_4755",
     "target": "ent_4753",
     "type": "has_exception",
-    "id": "edge_smt_9760"
+    "id": "edge_smt_10187"
+  },
+  {
+    "source": "ent_4753",
+    "target": "ent_4759",
+    "type": "cites",
+    "id": "edge_smt_10188"
   },
   {
     "source": "ent_4768",
     "target": "ent_4777",
     "type": "defines",
-    "id": "edge_smt_9761"
+    "id": "edge_smt_10189"
+  },
+  {
+    "source": "ent_4777",
+    "target": "ent_4778",
+    "type": "cites",
+    "id": "edge_smt_10190"
+  },
+  {
+    "source": "ent_4778",
+    "target": "ent_4761",
+    "type": "applies_to",
+    "id": "edge_smt_10191"
+  },
+  {
+    "source": "ent_4761",
+    "target": "ent_4767",
+    "type": "related_to",
+    "id": "edge_smt_10192"
+  },
+  {
+    "source": "ent_4767",
+    "target": "ent_4770",
+    "type": "applies_to",
+    "id": "edge_smt_10193"
+  },
+  {
+    "source": "ent_4781",
+    "target": "ent_4783",
+    "type": "involves",
+    "id": "edge_smt_10194"
+  },
+  {
+    "source": "ent_4789",
+    "target": "ent_4791",
+    "type": "enables",
+    "id": "edge_smt_10195"
+  },
+  {
+    "source": "ent_4799",
+    "target": "ent_4800",
+    "type": "enables",
+    "id": "edge_smt_10196"
+  },
+  {
+    "source": "ent_4805",
+    "target": "ent_4807",
+    "type": "cites",
+    "id": "edge_smt_10197"
+  },
+  {
+    "source": "ent_4807",
+    "target": "ent_4803",
+    "type": "regulates",
+    "id": "edge_smt_10198"
+  },
+  {
+    "source": "ent_4803",
+    "target": "ent_4804",
+    "type": "enables",
+    "id": "edge_smt_10199"
+  },
+  {
+    "source": "ent_4835",
+    "target": "ent_4837",
+    "type": "enables",
+    "id": "edge_smt_10200"
+  },
+  {
+    "source": "ent_4833",
+    "target": "ent_4814",
+    "type": "related_to",
+    "id": "edge_smt_10201"
+  },
+  {
+    "source": "ent_4840",
+    "target": "ent_4815",
+    "type": "applies_to",
+    "id": "edge_smt_10202"
+  },
+  {
+    "source": "ent_4815",
+    "target": "ent_4827",
+    "type": "related_to",
+    "id": "edge_smt_10203"
+  },
+  {
+    "source": "ent_4841",
+    "target": "ent_4817",
+    "type": "applies_to",
+    "id": "edge_smt_10204"
+  },
+  {
+    "source": "ent_4817",
+    "target": "ent_4824",
+    "type": "related_to",
+    "id": "edge_smt_10205"
+  },
+  {
+    "source": "ent_4842",
+    "target": "ent_4819",
+    "type": "applies_to",
+    "id": "edge_smt_10206"
+  },
+  {
+    "source": "ent_4819",
+    "target": "ent_4825",
+    "type": "related_to",
+    "id": "edge_smt_10207"
   },
   {
     "source": "ent_4825",
     "target": "ent_4811",
     "type": "related_to",
-    "id": "edge_smt_9762"
+    "id": "edge_smt_10208"
+  },
+  {
+    "source": "ent_4843",
+    "target": "ent_4822",
+    "type": "applies_to",
+    "id": "edge_smt_10209"
+  },
+  {
+    "source": "ent_4822",
+    "target": "ent_4826",
+    "type": "related_to",
+    "id": "edge_smt_10210"
   },
   {
     "source": "ent_4877",
     "target": "ent_4878",
     "type": "cites",
-    "id": "edge_smt_9763"
+    "id": "edge_smt_10211"
   },
   {
     "source": "ent_4878",
     "target": "ent_4879",
     "type": "regulates",
-    "id": "edge_smt_9764"
+    "id": "edge_smt_10212"
   },
   {
     "source": "ent_4890",
     "target": "ent_4883",
     "type": "defines",
-    "id": "edge_smt_9765"
+    "id": "edge_smt_10213"
   },
   {
     "source": "ent_4883",
     "target": "ent_4889",
     "type": "applies_to",
-    "id": "edge_smt_9766"
+    "id": "edge_smt_10214"
+  },
+  {
+    "source": "ent_4889",
+    "target": "ent_4892",
+    "type": "enables",
+    "id": "edge_smt_10215"
   },
   {
     "source": "ent_4885",
     "target": "ent_4897",
     "type": "defines",
-    "id": "edge_smt_9767"
+    "id": "edge_smt_10216"
   },
   {
     "source": "ent_4886",
     "target": "ent_4898",
     "type": "defines",
-    "id": "edge_smt_9768"
+    "id": "edge_smt_10217"
   },
   {
     "source": "ent_4930",
     "target": "ent_4927",
     "type": "defines",
-    "id": "edge_smt_9769"
+    "id": "edge_smt_10218"
   },
   {
     "source": "ent_4927",
     "target": "ent_4929",
     "type": "applies_to",
-    "id": "edge_smt_9770"
+    "id": "edge_smt_10219"
+  },
+  {
+    "source": "ent_4929",
+    "target": "ent_4931",
+    "type": "involves",
+    "id": "edge_smt_10220"
+  },
+  {
+    "source": "ent_4931",
+    "target": "ent_4928",
+    "type": "applies_to",
+    "id": "edge_smt_10221"
   },
   {
     "source": "ent_4928",
     "target": "ent_4932",
     "type": "has_condition",
-    "id": "edge_smt_9771"
+    "id": "edge_smt_10222"
+  },
+  {
+    "source": "ent_4931",
+    "target": "ent_4932",
+    "type": "has_condition",
+    "id": "edge_smt_10223"
   },
   {
     "source": "ent_4947",
     "target": "ent_4945",
     "type": "regulates",
-    "id": "edge_smt_9772"
+    "id": "edge_smt_10224"
+  },
+  {
+    "source": "ent_4945",
+    "target": "ent_4952",
+    "type": "applies_to",
+    "id": "edge_smt_10225"
   },
   {
     "source": "ent_4951",
     "target": "ent_4953",
     "type": "enables",
-    "id": "edge_smt_9773"
+    "id": "edge_smt_10226"
+  },
+  {
+    "source": "ent_4958",
+    "target": "ent_4960",
+    "type": "applies_to",
+    "id": "edge_smt_10227"
+  },
+  {
+    "source": "ent_4960",
+    "target": "ent_4961",
+    "type": "related_to",
+    "id": "edge_smt_10228"
+  },
+  {
+    "source": "ent_4961",
+    "target": "ent_4962",
+    "type": "involves",
+    "id": "edge_smt_10229"
   },
   {
     "source": "ent_4962",
     "target": "ent_4959",
     "type": "involves",
-    "id": "edge_smt_9774"
+    "id": "edge_smt_10230"
   },
   {
     "source": "ent_4959",
     "target": "ent_4963",
     "type": "enables",
-    "id": "edge_smt_9775"
+    "id": "edge_smt_10231"
+  },
+  {
+    "source": "ent_4963",
+    "target": "ent_4965",
+    "type": "cites",
+    "id": "edge_smt_10232"
   },
   {
     "source": "ent_4962",
     "target": "ent_4963",
     "type": "enables",
-    "id": "edge_smt_9776"
+    "id": "edge_smt_10233"
+  },
+  {
+    "source": "ent_4974",
+    "target": "ent_4976",
+    "type": "related_to",
+    "id": "edge_smt_10234"
+  },
+  {
+    "source": "ent_4976",
+    "target": "ent_4973",
+    "type": "enables",
+    "id": "edge_smt_10235"
+  },
+  {
+    "source": "ent_4982",
+    "target": "ent_4983",
+    "type": "enables",
+    "id": "edge_smt_10236"
+  },
+  {
+    "source": "ent_4983",
+    "target": "ent_4986",
+    "type": "has_condition",
+    "id": "edge_smt_10237"
+  },
+  {
+    "source": "ent_5006",
+    "target": "ent_5007",
+    "type": "enables",
+    "id": "edge_smt_10238"
   },
   {
     "source": "ent_5012",
     "target": "ent_5013",
     "type": "enables",
-    "id": "edge_smt_9777"
+    "id": "edge_smt_10239"
+  },
+  {
+    "source": "ent_5015",
+    "target": "ent_5022",
+    "type": "requires",
+    "id": "edge_smt_10240"
+  },
+  {
+    "source": "ent_5022",
+    "target": "ent_5017",
+    "type": "has_condition",
+    "id": "edge_smt_10241"
+  },
+  {
+    "source": "ent_5017",
+    "target": "ent_5021",
+    "type": "involves",
+    "id": "edge_smt_10242"
+  },
+  {
+    "source": "ent_5030",
+    "target": "ent_5026",
+    "type": "prohibits",
+    "id": "edge_smt_10243"
   },
   {
     "source": "ent_5031",
     "target": "ent_5033",
     "type": "defines",
-    "id": "edge_smt_9778"
+    "id": "edge_smt_10244"
   },
   {
     "source": "ent_5033",
     "target": "ent_5037",
     "type": "related_to",
-    "id": "edge_smt_9779"
+    "id": "edge_smt_10245"
+  },
+  {
+    "source": "ent_5087",
+    "target": "ent_5089",
+    "type": "requires",
+    "id": "edge_smt_10246"
+  },
+  {
+    "source": "ent_5092",
+    "target": "ent_5095",
+    "type": "has_condition",
+    "id": "edge_smt_10247"
+  },
+  {
+    "source": "ent_5095",
+    "target": "ent_5097",
+    "type": "enables",
+    "id": "edge_smt_10248"
   },
   {
     "source": "ent_5124",
     "target": "ent_5125",
     "type": "requires",
-    "id": "edge_smt_9780"
+    "id": "edge_smt_10249"
   },
   {
     "source": "ent_5125",
     "target": "ent_5126",
     "type": "related_to",
-    "id": "edge_smt_9781"
+    "id": "edge_smt_10250"
+  },
+  {
+    "source": "ent_5126",
+    "target": "ent_5123",
+    "type": "requires",
+    "id": "edge_smt_10251"
   },
   {
     "source": "ent_5127",
     "target": "ent_5128",
     "type": "applies_to",
-    "id": "edge_smt_9782"
+    "id": "edge_smt_10252"
+  },
+  {
+    "source": "ent_5131",
+    "target": "ent_5133",
+    "type": "involves",
+    "id": "edge_smt_10253"
+  },
+  {
+    "source": "ent_5133",
+    "target": "ent_5132",
+    "type": "involves",
+    "id": "edge_smt_10254"
+  },
+  {
+    "source": "ent_5135",
+    "target": "ent_5145",
+    "type": "has_condition",
+    "id": "edge_smt_10255"
+  },
+  {
+    "source": "ent_5152",
+    "target": "ent_5165",
+    "type": "requires",
+    "id": "edge_smt_10256"
+  },
+  {
+    "source": "ent_5156",
+    "target": "ent_5167",
+    "type": "requires",
+    "id": "edge_smt_10257"
+  },
+  {
+    "source": "ent_5212",
+    "target": "ent_5220",
+    "type": "involves",
+    "id": "edge_smt_10258"
   },
   {
     "source": "ent_5219",
     "target": "ent_5207",
     "type": "involves",
-    "id": "edge_smt_9783"
+    "id": "edge_smt_10259"
+  },
+  {
+    "source": "ent_5206",
+    "target": "ent_5218",
+    "type": "involves",
+    "id": "edge_smt_10260"
+  },
+  {
+    "source": "ent_5218",
+    "target": "ent_5222",
+    "type": "cites",
+    "id": "edge_smt_10261"
+  },
+  {
+    "source": "ent_5210",
+    "target": "ent_5221",
+    "type": "involves",
+    "id": "edge_smt_10262"
   },
   {
     "source": "ent_5221",
     "target": "ent_5216",
     "type": "has_condition",
-    "id": "edge_smt_9784"
+    "id": "edge_smt_10263"
   },
   {
     "source": "ent_5252",
     "target": "ent_5254",
     "type": "regulates",
-    "id": "edge_smt_9785"
+    "id": "edge_smt_10264"
+  },
+  {
+    "source": "ent_5270",
+    "target": "ent_5273",
+    "type": "cites",
+    "id": "edge_smt_10265"
   },
   {
     "source": "ent_5273",
     "target": "ent_5271",
-    "type": "related_to",
-    "id": "edge_smt_9786"
+    "type": "defines",
+    "id": "edge_smt_10266"
+  },
+  {
+    "source": "ent_5271",
+    "target": "ent_5269",
+    "type": "enables",
+    "id": "edge_smt_10267"
+  },
+  {
+    "source": "ent_5277",
+    "target": "ent_5279",
+    "type": "requires",
+    "id": "edge_smt_10268"
+  },
+  {
+    "source": "ent_5283",
+    "target": "ent_5280",
+    "type": "applies_to",
+    "id": "edge_smt_10269"
   },
   {
     "source": "ent_5284",
     "target": "ent_5285",
     "type": "involves",
-    "id": "edge_smt_9787"
+    "id": "edge_smt_10270"
   },
   {
     "source": "ent_5288",
     "target": "ent_5290",
     "type": "violates",
-    "id": "edge_smt_9788"
+    "id": "edge_smt_10271"
+  },
+  {
+    "source": "ent_5290",
+    "target": "ent_5293",
+    "type": "involves",
+    "id": "edge_smt_10272"
   },
   {
     "source": "ent_5293",
     "target": "ent_5294",
     "type": "related_to",
-    "id": "edge_smt_9789"
+    "id": "edge_smt_10273"
   },
   {
     "source": "ent_5294",
     "target": "ent_5289",
     "type": "involves",
-    "id": "edge_smt_9790"
+    "id": "edge_smt_10274"
+  },
+  {
+    "source": "ent_5297",
+    "target": "ent_5306",
+    "type": "results_in",
+    "id": "edge_smt_10275"
+  },
+  {
+    "source": "ent_5299",
+    "target": "ent_5302",
+    "type": "cites",
+    "id": "edge_smt_10276"
+  },
+  {
+    "source": "ent_5315",
+    "target": "ent_5318",
+    "type": "involves",
+    "id": "edge_smt_10277"
+  },
+  {
+    "source": "ent_5326",
+    "target": "ent_5333",
+    "type": "results_in",
+    "id": "edge_smt_10278"
+  },
+  {
+    "source": "ent_5333",
+    "target": "ent_5327",
+    "type": "has_condition",
+    "id": "edge_smt_10279"
   },
   {
     "source": "ent_5335",
     "target": "ent_5343",
     "type": "results_in",
-    "id": "edge_smt_9791"
+    "id": "edge_smt_10280"
+  },
+  {
+    "source": "ent_5343",
+    "target": "ent_5340",
+    "type": "has_condition",
+    "id": "edge_smt_10281"
+  },
+  {
+    "source": "ent_5359",
+    "target": "ent_5367",
+    "type": "enables",
+    "id": "edge_smt_10282"
   },
   {
     "source": "ent_5367",
     "target": "ent_5361",
     "type": "has_condition",
-    "id": "edge_smt_9792"
+    "id": "edge_smt_10283"
+  },
+  {
+    "source": "ent_5359",
+    "target": "ent_5361",
+    "type": "has_condition",
+    "id": "edge_smt_10284"
   },
   {
     "source": "ent_5437",
     "target": "ent_5451",
     "type": "defines",
-    "id": "edge_smt_9793"
+    "id": "edge_smt_10285"
   },
   {
     "source": "ent_5451",
     "target": "ent_5435",
     "type": "involves",
-    "id": "edge_smt_9794"
+    "id": "edge_smt_10286"
+  },
+  {
+    "source": "ent_5435",
+    "target": "ent_5459",
+    "type": "requires",
+    "id": "edge_smt_10287"
+  },
+  {
+    "source": "ent_5459",
+    "target": "ent_5454",
+    "type": "cites",
+    "id": "edge_smt_10288"
+  },
+  {
+    "source": "ent_5454",
+    "target": "ent_5436",
+    "type": "regulates",
+    "id": "edge_smt_10289"
+  },
+  {
+    "source": "ent_5443",
+    "target": "ent_5453",
+    "type": "cites",
+    "id": "edge_smt_10290"
   },
   {
     "source": "ent_5463",
     "target": "ent_5461",
     "type": "defines",
-    "id": "edge_smt_9795"
+    "id": "edge_smt_10291"
   },
   {
     "source": "ent_5461",
     "target": "ent_5472",
     "type": "involves",
-    "id": "edge_smt_9796"
+    "id": "edge_smt_10292"
+  },
+  {
+    "source": "ent_5472",
+    "target": "ent_5462",
+    "type": "involves",
+    "id": "edge_smt_10293"
   },
   {
     "source": "ent_5462",
     "target": "ent_5475",
     "type": "applies_to",
-    "id": "edge_smt_9797"
+    "id": "edge_smt_10294"
+  },
+  {
+    "source": "ent_5472",
+    "target": "ent_5475",
+    "type": "applies_to",
+    "id": "edge_smt_10295"
+  },
+  {
+    "source": "ent_5485",
+    "target": "ent_5484",
+    "type": "violates",
+    "id": "edge_smt_10296"
   },
   {
     "source": "ent_5486",
     "target": "ent_5489",
     "type": "regulates",
-    "id": "edge_smt_9798"
+    "id": "edge_smt_10297"
   },
   {
     "source": "ent_5491",
     "target": "ent_5492",
     "type": "regulates",
-    "id": "edge_smt_9799"
+    "id": "edge_smt_10298"
   },
   {
     "source": "ent_5494",
     "target": "ent_5495",
     "type": "involves",
-    "id": "edge_smt_9800"
+    "id": "edge_smt_10299"
+  },
+  {
+    "source": "ent_5497",
+    "target": "ent_5502",
+    "type": "requires",
+    "id": "edge_smt_10300"
+  },
+  {
+    "source": "ent_5503",
+    "target": "ent_5511",
+    "type": "requires",
+    "id": "edge_smt_10301"
+  },
+  {
+    "source": "ent_5510",
+    "target": "ent_5506",
+    "type": "involves",
+    "id": "edge_smt_10302"
   },
   {
     "source": "ent_5518",
     "target": "ent_5520",
     "type": "has_purpose",
-    "id": "edge_smt_9801"
+    "id": "edge_smt_10303"
   },
   {
     "source": "ent_5520",
     "target": "ent_5519",
     "type": "related_to",
-    "id": "edge_smt_9802"
+    "id": "edge_smt_10304"
+  },
+  {
+    "source": "ent_5519",
+    "target": "ent_5522",
+    "type": "involves",
+    "id": "edge_smt_10305"
   },
   {
     "source": "ent_5522",
     "target": "ent_5521",
     "type": "defines",
-    "id": "edge_smt_9803"
+    "id": "edge_smt_10306"
+  },
+  {
+    "source": "ent_5519",
+    "target": "ent_5521",
+    "type": "defines",
+    "id": "edge_smt_10307"
   },
   {
     "source": "ent_5526",
     "target": "ent_5524",
     "type": "defines",
-    "id": "edge_smt_9804"
+    "id": "edge_smt_10308"
   },
   {
     "source": "ent_5524",
     "target": "ent_5525",
     "type": "has_purpose",
-    "id": "edge_smt_9805"
+    "id": "edge_smt_10309"
+  },
+  {
+    "source": "ent_5529",
+    "target": "ent_5530",
+    "type": "cites",
+    "id": "edge_smt_10310"
   },
   {
     "source": "ent_5533",
     "target": "ent_5534",
     "type": "related_to",
-    "id": "edge_smt_9806"
+    "id": "edge_smt_10311"
+  },
+  {
+    "source": "ent_5534",
+    "target": "ent_5532",
+    "type": "involves",
+    "id": "edge_smt_10312"
+  },
+  {
+    "source": "ent_5546",
+    "target": "ent_5544",
+    "type": "involves",
+    "id": "edge_smt_10313"
   },
   {
     "source": "ent_5550",
     "target": "ent_5549",
     "type": "applies_to",
-    "id": "edge_smt_9807"
+    "id": "edge_smt_10314"
   },
   {
     "source": "ent_5553",
     "target": "ent_5554",
     "type": "prohibits",
-    "id": "edge_smt_9808"
+    "id": "edge_smt_10315"
+  },
+  {
+    "source": "ent_5554",
+    "target": "ent_5566",
+    "type": "involves",
+    "id": "edge_smt_10316"
+  },
+  {
+    "source": "ent_5566",
+    "target": "ent_5560",
+    "type": "has_condition",
+    "id": "edge_smt_10317"
   },
   {
     "source": "ent_5563",
     "target": "ent_5559",
     "type": "has_exception",
-    "id": "edge_smt_9809"
+    "id": "edge_smt_10318"
+  },
+  {
+    "source": "ent_5581",
+    "target": "ent_5590",
+    "type": "involves",
+    "id": "edge_smt_10319"
+  },
+  {
+    "source": "ent_5590",
+    "target": "ent_5582",
+    "type": "enables",
+    "id": "edge_smt_10320"
   },
   {
     "source": "ent_5608",
     "target": "ent_5642",
     "type": "prohibits",
-    "id": "edge_smt_9810"
+    "id": "edge_smt_10321"
+  },
+  {
+    "source": "ent_5642",
+    "target": "ent_5621",
+    "type": "has_condition",
+    "id": "edge_smt_10322"
   },
   {
     "source": "ent_5650",
     "target": "ent_5651",
     "type": "has_condition",
-    "id": "edge_smt_9811"
+    "id": "edge_smt_10323"
+  },
+  {
+    "source": "ent_5659",
+    "target": "ent_5668",
+    "type": "has_condition",
+    "id": "edge_smt_10324"
   },
   {
     "source": "ent_5668",
     "target": "ent_5662",
     "type": "has_condition",
-    "id": "edge_smt_9812"
+    "id": "edge_smt_10325"
+  },
+  {
+    "source": "ent_5659",
+    "target": "ent_5662",
+    "type": "has_condition",
+    "id": "edge_smt_10326"
+  },
+  {
+    "source": "ent_5689",
+    "target": "ent_5705",
+    "type": "involves",
+    "id": "edge_smt_10327"
   },
   {
     "source": "ent_5714",
     "target": "ent_5726",
     "type": "related_to",
-    "id": "edge_smt_9813"
+    "id": "edge_smt_10328"
+  },
+  {
+    "source": "ent_5726",
+    "target": "ent_5718",
+    "type": "has_condition",
+    "id": "edge_smt_10329"
+  },
+  {
+    "source": "ent_5713",
+    "target": "ent_5717",
+    "type": "enables",
+    "id": "edge_smt_10330"
   },
   {
     "source": "ent_5731",
     "target": "ent_5727",
     "type": "involves",
-    "id": "edge_smt_9814"
+    "id": "edge_smt_10331"
+  },
+  {
+    "source": "ent_5727",
+    "target": "ent_5729",
+    "type": "enables",
+    "id": "edge_smt_10332"
+  },
+  {
+    "source": "ent_5729",
+    "target": "ent_5732",
+    "type": "cites",
+    "id": "edge_smt_10333"
   },
   {
     "source": "ent_5737",
     "target": "ent_5734",
     "type": "regulates",
-    "id": "edge_smt_9815"
+    "id": "edge_smt_10334"
   },
   {
     "source": "ent_5734",
     "target": "ent_5738",
     "type": "enables",
-    "id": "edge_smt_9816"
+    "id": "edge_smt_10335"
+  },
+  {
+    "source": "ent_5738",
+    "target": "ent_5735",
+    "type": "has_condition",
+    "id": "edge_smt_10336"
   },
   {
     "source": "ent_5753",
     "target": "ent_5745",
     "type": "regulates",
-    "id": "edge_smt_9817"
+    "id": "edge_smt_10337"
   },
   {
     "source": "ent_5745",
     "target": "ent_5739",
     "type": "defines",
-    "id": "edge_smt_9818"
+    "id": "edge_smt_10338"
+  },
+  {
+    "source": "ent_5739",
+    "target": "ent_5743",
+    "type": "applies_to",
+    "id": "edge_smt_10339"
+  },
+  {
+    "source": "ent_5743",
+    "target": "ent_5761",
+    "type": "requires",
+    "id": "edge_smt_10340"
+  },
+  {
+    "source": "ent_5752",
+    "target": "ent_5760",
+    "type": "cites",
+    "id": "edge_smt_10341"
+  },
+  {
+    "source": "ent_5766",
+    "target": "ent_5770",
+    "type": "has_condition",
+    "id": "edge_smt_10342"
   },
   {
     "source": "ent_5770",
     "target": "ent_5764",
     "type": "applies_to",
-    "id": "edge_smt_9819"
+    "id": "edge_smt_10343"
+  },
+  {
+    "source": "ent_5764",
+    "target": "ent_5771",
+    "type": "has_condition",
+    "id": "edge_smt_10344"
   },
   {
     "source": "ent_5771",
     "target": "ent_5767",
     "type": "applies_to",
-    "id": "edge_smt_9820"
+    "id": "edge_smt_10345"
+  },
+  {
+    "source": "ent_5767",
+    "target": "ent_5772",
+    "type": "has_condition",
+    "id": "edge_smt_10346"
   },
   {
     "source": "ent_5772",
     "target": "ent_5765",
     "type": "applies_to",
-    "id": "edge_smt_9821"
+    "id": "edge_smt_10347"
   },
   {
     "source": "ent_5765",
     "target": "ent_5763",
     "type": "defines",
-    "id": "edge_smt_9822"
+    "id": "edge_smt_10348"
+  },
+  {
+    "source": "ent_5763",
+    "target": "ent_5776",
+    "type": "has_condition",
+    "id": "edge_smt_10349"
+  },
+  {
+    "source": "ent_5776",
+    "target": "ent_5769",
+    "type": "enables",
+    "id": "edge_smt_10350"
+  },
+  {
+    "source": "ent_5769",
+    "target": "ent_5779",
+    "type": "cites",
+    "id": "edge_smt_10351"
   },
   {
     "source": "ent_5772",
     "target": "ent_5763",
     "type": "defines",
-    "id": "edge_smt_9823"
+    "id": "edge_smt_10352"
   },
   {
     "source": "ent_5780",
     "target": "ent_5784",
     "type": "regulates",
-    "id": "edge_smt_9824"
+    "id": "edge_smt_10353"
+  },
+  {
+    "source": "ent_5784",
+    "target": "ent_5783",
+    "type": "has_condition",
+    "id": "edge_smt_10354"
+  },
+  {
+    "source": "ent_5785",
+    "target": "ent_5797",
+    "type": "requires",
+    "id": "edge_smt_10355"
+  },
+  {
+    "source": "ent_5797",
+    "target": "ent_5796",
+    "type": "cites",
+    "id": "edge_smt_10356"
   },
   {
     "source": "ent_5796",
     "target": "ent_5795",
     "type": "defines",
-    "id": "edge_smt_9825"
+    "id": "edge_smt_10357"
+  },
+  {
+    "source": "ent_5797",
+    "target": "ent_5795",
+    "type": "defines",
+    "id": "edge_smt_10358"
+  },
+  {
+    "source": "ent_5800",
+    "target": "ent_5801",
+    "type": "prohibits",
+    "id": "edge_smt_10359"
+  },
+  {
+    "source": "ent_5801",
+    "target": "ent_5806",
+    "type": "cites",
+    "id": "edge_smt_10360"
   },
   {
     "source": "ent_5811",
     "target": "ent_5813",
     "type": "requires",
-    "id": "edge_smt_9826"
+    "id": "edge_smt_10361"
   },
   {
     "source": "ent_5813",
     "target": "ent_5809",
     "type": "applies_to",
-    "id": "edge_smt_9827"
+    "id": "edge_smt_10362"
   },
   {
     "source": "ent_5816",
     "target": "ent_5817",
     "type": "requires",
-    "id": "edge_smt_9828"
+    "id": "edge_smt_10363"
+  },
+  {
+    "source": "ent_5817",
+    "target": "ent_5820",
+    "type": "cites",
+    "id": "edge_smt_10364"
   },
   {
     "source": "ent_5827",
     "target": "ent_5830",
     "type": "has_condition",
-    "id": "edge_smt_9829"
+    "id": "edge_smt_10365"
+  },
+  {
+    "source": "ent_5833",
+    "target": "ent_5836",
+    "type": "requires",
+    "id": "edge_smt_10366"
   },
   {
     "source": "ent_5835",
     "target": "ent_5834",
     "type": "defines",
-    "id": "edge_smt_9830"
+    "id": "edge_smt_10367"
+  },
+  {
+    "source": "ent_5837",
+    "target": "ent_5839",
+    "type": "requires",
+    "id": "edge_smt_10368"
   },
   {
     "source": "ent_5842",
     "target": "ent_5847",
     "type": "defines",
-    "id": "edge_smt_9831"
+    "id": "edge_smt_10369"
+  },
+  {
+    "source": "ent_5847",
+    "target": "ent_5859",
+    "type": "requires",
+    "id": "edge_smt_10370"
+  },
+  {
+    "source": "ent_5859",
+    "target": "ent_5857",
+    "type": "cites",
+    "id": "edge_smt_10371"
   },
   {
     "source": "ent_5879",
     "target": "ent_5881",
     "type": "defines",
-    "id": "edge_smt_9832"
+    "id": "edge_smt_10372"
+  },
+  {
+    "source": "ent_5881",
+    "target": "ent_5884",
+    "type": "cites",
+    "id": "edge_smt_10373"
+  },
+  {
+    "source": "ent_5889",
+    "target": "ent_5892",
+    "type": "prohibits",
+    "id": "edge_smt_10374"
+  },
+  {
+    "source": "ent_5910",
+    "target": "ent_5904",
+    "type": "involves",
+    "id": "edge_smt_10375"
+  },
+  {
+    "source": "ent_5904",
+    "target": "ent_5905",
+    "type": "prohibits",
+    "id": "edge_smt_10376"
+  },
+  {
+    "source": "ent_5925",
+    "target": "ent_5918",
+    "type": "involves",
+    "id": "edge_smt_10377"
+  },
+  {
+    "source": "ent_5918",
+    "target": "ent_5921",
+    "type": "prohibits",
+    "id": "edge_smt_10378"
   },
   {
     "source": "ent_5919",
     "target": "ent_5922",
     "type": "enables",
-    "id": "edge_smt_9833"
+    "id": "edge_smt_10379"
   },
   {
     "source": "ent_5922",
     "target": "ent_5916",
     "type": "applies_to",
-    "id": "edge_smt_9834"
+    "id": "edge_smt_10380"
+  },
+  {
+    "source": "ent_5943",
+    "target": "ent_5946",
+    "type": "involves",
+    "id": "edge_smt_10381"
   },
   {
     "source": "ent_5958",
     "target": "ent_5961",
     "type": "regulates",
-    "id": "edge_smt_9835"
+    "id": "edge_smt_10382"
   },
   {
     "source": "ent_5964",
     "target": "ent_5966",
     "type": "defines",
-    "id": "edge_smt_9836"
+    "id": "edge_smt_10383"
+  },
+  {
+    "source": "ent_5966",
+    "target": "ent_5968",
+    "type": "cites",
+    "id": "edge_smt_10384"
+  },
+  {
+    "source": "ent_5972",
+    "target": "ent_5975",
+    "type": "enables",
+    "id": "edge_smt_10385"
   },
   {
     "source": "ent_5978",
     "target": "ent_5980",
     "type": "defines",
-    "id": "edge_smt_9837"
+    "id": "edge_smt_10386"
   },
   {
     "source": "ent_5981",
     "target": "ent_5983",
     "type": "related_to",
-    "id": "edge_smt_9838"
+    "id": "edge_smt_10387"
   },
   {
     "source": "ent_5983",
     "target": "ent_5984",
     "type": "enables",
-    "id": "edge_smt_9839"
+    "id": "edge_smt_10388"
   },
   {
     "source": "ent_5981",
     "target": "ent_5984",
     "type": "enables",
-    "id": "edge_smt_9840"
+    "id": "edge_smt_10389"
+  },
+  {
+    "source": "ent_5994",
+    "target": "ent_6002",
+    "type": "cites",
+    "id": "edge_smt_10390"
   },
   {
     "source": "ent_6002",
     "target": "ent_5995",
     "type": "defines",
-    "id": "edge_smt_9841"
+    "id": "edge_smt_10391"
+  },
+  {
+    "source": "ent_5995",
+    "target": "ent_5998",
+    "type": "related_to",
+    "id": "edge_smt_10392"
   },
   {
     "source": "ent_5998",
     "target": "ent_5989",
     "type": "involves",
-    "id": "edge_smt_9842"
+    "id": "edge_smt_10393"
+  },
+  {
+    "source": "ent_5989",
+    "target": "ent_5993",
+    "type": "enables",
+    "id": "edge_smt_10394"
   },
   {
     "source": "ent_5993",
     "target": "ent_5996",
     "type": "regulates",
-    "id": "edge_smt_9843"
+    "id": "edge_smt_10395"
+  },
+  {
+    "source": "ent_5994",
+    "target": "ent_5995",
+    "type": "defines",
+    "id": "edge_smt_10396"
+  },
+  {
+    "source": "ent_5995",
+    "target": "ent_5989",
+    "type": "involves",
+    "id": "edge_smt_10397"
+  },
+  {
+    "source": "ent_5989",
+    "target": "ent_5996",
+    "type": "regulates",
+    "id": "edge_smt_10398"
   },
   {
     "source": "ent_6008",
     "target": "ent_6009",
     "type": "has_exception",
-    "id": "edge_smt_9844"
+    "id": "edge_smt_10399"
+  },
+  {
+    "source": "ent_6021",
+    "target": "ent_6025",
+    "type": "requires",
+    "id": "edge_smt_10400"
   },
   {
     "source": "ent_6028",
     "target": "ent_6031",
     "type": "related_to",
-    "id": "edge_smt_9845"
+    "id": "edge_smt_10401"
   },
   {
     "source": "ent_6031",
     "target": "ent_6033",
     "type": "related_to",
-    "id": "edge_smt_9846"
+    "id": "edge_smt_10402"
   },
   {
     "source": "ent_6033",
     "target": "ent_6029",
     "type": "has_purpose",
-    "id": "edge_smt_9847"
+    "id": "edge_smt_10403"
+  },
+  {
+    "source": "ent_6029",
+    "target": "ent_6038",
+    "type": "involves",
+    "id": "edge_smt_10404"
   },
   {
     "source": "ent_6031",
     "target": "ent_6029",
     "type": "has_purpose",
-    "id": "edge_smt_9848"
+    "id": "edge_smt_10405"
+  },
+  {
+    "source": "ent_6030",
+    "target": "ent_6039",
+    "type": "involves",
+    "id": "edge_smt_10406"
+  },
+  {
+    "source": "ent_6039",
+    "target": "ent_6041",
+    "type": "cites",
+    "id": "edge_smt_10407"
   },
   {
     "source": "ent_6041",
     "target": "ent_6035",
     "type": "has_exception",
-    "id": "edge_smt_9849"
+    "id": "edge_smt_10408"
+  },
+  {
+    "source": "ent_6039",
+    "target": "ent_6035",
+    "type": "has_exception",
+    "id": "edge_smt_10409"
   },
   {
     "source": "ent_6043",
     "target": "ent_6044",
     "type": "defines",
-    "id": "edge_smt_9850"
+    "id": "edge_smt_10410"
   },
   {
     "source": "ent_6044",
     "target": "ent_6046",
     "type": "defines",
-    "id": "edge_smt_9851"
+    "id": "edge_smt_10411"
   },
   {
     "source": "ent_6047",
     "target": "ent_6048",
     "type": "defines",
-    "id": "edge_smt_9852"
+    "id": "edge_smt_10412"
   },
   {
     "source": "ent_6048",
     "target": "ent_6049",
     "type": "related_to",
-    "id": "edge_smt_9853"
+    "id": "edge_smt_10413"
+  },
+  {
+    "source": "ent_6066",
+    "target": "ent_6060",
+    "type": "cites",
+    "id": "edge_smt_10414"
   },
   {
     "source": "ent_6053",
     "target": "ent_6055",
     "type": "has_exception",
-    "id": "edge_smt_9854"
+    "id": "edge_smt_10415"
+  },
+  {
+    "source": "ent_6055",
+    "target": "ent_6058",
+    "type": "cites",
+    "id": "edge_smt_10416"
+  },
+  {
+    "source": "ent_6104",
+    "target": "ent_6101",
+    "type": "has_condition",
+    "id": "edge_smt_10417"
   },
   {
     "source": "ent_6094",
     "target": "ent_6099",
     "type": "related_to",
-    "id": "edge_smt_9855"
+    "id": "edge_smt_10418"
   },
   {
     "source": "ent_6099",
     "target": "ent_6102",
     "type": "enables",
-    "id": "edge_smt_9856"
+    "id": "edge_smt_10419"
   },
   {
     "source": "ent_6094",
     "target": "ent_6102",
     "type": "enables",
-    "id": "edge_smt_9857"
+    "id": "edge_smt_10420"
+  },
+  {
+    "source": "ent_6107",
+    "target": "ent_6116",
+    "type": "requires",
+    "id": "edge_smt_10421"
   },
   {
     "source": "ent_6116",
     "target": "ent_6112",
     "type": "has_exception",
-    "id": "edge_smt_9858"
+    "id": "edge_smt_10422"
+  },
+  {
+    "source": "ent_6107",
+    "target": "ent_6112",
+    "type": "has_exception",
+    "id": "edge_smt_10423"
   },
   {
     "source": "ent_6120",
     "target": "ent_6122",
     "type": "related_to",
-    "id": "edge_smt_9859"
+    "id": "edge_smt_10424"
   },
   {
     "source": "ent_6122",
     "target": "ent_6123",
     "type": "related_to",
-    "id": "edge_smt_9860"
+    "id": "edge_smt_10425"
   },
   {
     "source": "ent_6123",
     "target": "ent_6117",
     "type": "requires",
-    "id": "edge_smt_9861"
+    "id": "edge_smt_10426"
   },
   {
     "source": "ent_6117",
     "target": "ent_6125",
     "type": "defines",
-    "id": "edge_smt_9862"
+    "id": "edge_smt_10427"
+  },
+  {
+    "source": "ent_6125",
+    "target": "ent_6124",
+    "type": "related_to",
+    "id": "edge_smt_10428"
+  },
+  {
+    "source": "ent_6124",
+    "target": "ent_6121",
+    "type": "involves",
+    "id": "edge_smt_10429"
   },
   {
     "source": "ent_6122",
     "target": "ent_6117",
     "type": "requires",
-    "id": "edge_smt_9863"
+    "id": "edge_smt_10430"
   },
   {
     "source": "ent_6130",
     "target": "ent_6131",
     "type": "related_to",
-    "id": "edge_smt_9864"
+    "id": "edge_smt_10431"
   },
   {
     "source": "ent_6131",
     "target": "ent_6132",
     "type": "related_to",
-    "id": "edge_smt_9865"
+    "id": "edge_smt_10432"
+  },
+  {
+    "source": "ent_6132",
+    "target": "ent_6133",
+    "type": "has_condition",
+    "id": "edge_smt_10433"
+  },
+  {
+    "source": "ent_6141",
+    "target": "ent_6146",
+    "type": "requires",
+    "id": "edge_smt_10434"
   },
   {
     "source": "ent_6146",
     "target": "ent_6145",
     "type": "has_condition",
-    "id": "edge_smt_9866"
+    "id": "edge_smt_10435"
+  },
+  {
+    "source": "ent_6141",
+    "target": "ent_6145",
+    "type": "has_condition",
+    "id": "edge_smt_10436"
   },
   {
     "source": "ent_6147",
     "target": "ent_6151",
     "type": "not",
-    "id": "edge_smt_9867"
+    "id": "edge_smt_10437"
+  },
+  {
+    "source": "ent_6151",
+    "target": "ent_6150",
+    "type": "cites",
+    "id": "edge_smt_10438"
   },
   {
     "source": "ent_6153",
     "target": "ent_6152",
     "type": "involves",
-    "id": "edge_smt_9868"
+    "id": "edge_smt_10439"
   },
   {
     "source": "ent_6152",
     "target": "ent_6156",
     "type": "defines",
-    "id": "edge_smt_9869"
+    "id": "edge_smt_10440"
+  },
+  {
+    "source": "ent_6156",
+    "target": "ent_6155",
+    "type": "cites",
+    "id": "edge_smt_10441"
   },
   {
     "source": "ent_6158",
     "target": "ent_6157",
     "type": "related_to",
-    "id": "edge_smt_9870"
+    "id": "edge_smt_10442"
+  },
+  {
+    "source": "ent_6157",
+    "target": "ent_6161",
+    "type": "has_condition",
+    "id": "edge_smt_10443"
+  },
+  {
+    "source": "ent_6161",
+    "target": "ent_6162",
+    "type": "cites",
+    "id": "edge_smt_10444"
+  },
+  {
+    "source": "ent_6164",
+    "target": "ent_6166",
+    "type": "has_condition",
+    "id": "edge_smt_10445"
+  },
+  {
+    "source": "ent_6166",
+    "target": "ent_6167",
+    "type": "cites",
+    "id": "edge_smt_10446"
+  },
+  {
+    "source": "ent_6170",
+    "target": "ent_6172",
+    "type": "related_to",
+    "id": "edge_smt_10447"
   },
   {
     "source": "ent_6172",
     "target": "ent_6169",
     "type": "related_to",
-    "id": "edge_smt_9871"
+    "id": "edge_smt_10448"
   },
   {
     "source": "ent_6173",
     "target": "ent_6174",
     "type": "has_purpose",
-    "id": "edge_smt_9872"
+    "id": "edge_smt_10449"
   },
   {
     "source": "ent_6179",
     "target": "ent_6180",
     "type": "regulates",
-    "id": "edge_smt_9873"
+    "id": "edge_smt_10450"
+  },
+  {
+    "source": "ent_6182",
+    "target": "ent_6183",
+    "type": "cites",
+    "id": "edge_smt_10451"
   },
   {
     "source": "ent_6188",
     "target": "ent_6190",
     "type": "related_to",
-    "id": "edge_smt_9874"
+    "id": "edge_smt_10452"
   },
   {
     "source": "ent_6190",
     "target": "ent_6189",
     "type": "related_to",
-    "id": "edge_smt_9875"
+    "id": "edge_smt_10453"
   },
   {
     "source": "ent_6189",
     "target": "ent_6191",
     "type": "related_to",
-    "id": "edge_smt_9876"
+    "id": "edge_smt_10454"
+  },
+  {
+    "source": "ent_6193",
+    "target": "ent_6198",
+    "type": "requires",
+    "id": "edge_smt_10455"
+  },
+  {
+    "source": "ent_6200",
+    "target": "ent_6203",
+    "type": "requires",
+    "id": "edge_smt_10456"
   },
   {
     "source": "ent_6212",
     "target": "ent_6208",
     "type": "has_exception",
-    "id": "edge_smt_9877"
+    "id": "edge_smt_10457"
   },
   {
     "source": "ent_6226",
     "target": "ent_6214",
     "type": "applies_to",
-    "id": "edge_smt_9878"
+    "id": "edge_smt_10458"
   },
   {
     "source": "ent_6214",
     "target": "ent_6220",
     "type": "regulates",
-    "id": "edge_smt_9879"
+    "id": "edge_smt_10459"
   },
   {
     "source": "ent_6229",
     "target": "ent_6230",
     "type": "defines",
-    "id": "edge_smt_9880"
+    "id": "edge_smt_10460"
   },
   {
     "source": "ent_6230",
     "target": "ent_6227",
     "type": "involves",
-    "id": "edge_smt_9881"
+    "id": "edge_smt_10461"
   },
   {
     "source": "ent_6231",
     "target": "ent_6232",
     "type": "defines",
-    "id": "edge_smt_9882"
+    "id": "edge_smt_10462"
   },
   {
     "source": "ent_6232",
     "target": "ent_6233",
     "type": "defines",
-    "id": "edge_smt_9883"
+    "id": "edge_smt_10463"
   },
   {
     "source": "ent_6233",
     "target": "ent_6228",
     "type": "applies_to",
-    "id": "edge_smt_9884"
+    "id": "edge_smt_10464"
+  },
+  {
+    "source": "ent_6235",
+    "target": "ent_6238",
+    "type": "requires",
+    "id": "edge_smt_10465"
+  },
+  {
+    "source": "ent_6244",
+    "target": "ent_6242",
+    "type": "has_condition",
+    "id": "edge_smt_10466"
+  },
+  {
+    "source": "ent_6248",
+    "target": "ent_6249",
+    "type": "involves",
+    "id": "edge_smt_10467"
+  },
+  {
+    "source": "ent_6265",
+    "target": "ent_6271",
+    "type": "cites",
+    "id": "edge_smt_10468"
   },
   {
     "source": "ent_6271",
     "target": "ent_6262",
     "type": "has_purpose",
-    "id": "edge_smt_9885"
+    "id": "edge_smt_10469"
   },
   {
     "source": "ent_6262",
     "target": "ent_6269",
     "type": "involves",
-    "id": "edge_smt_9886"
+    "id": "edge_smt_10470"
   },
   {
     "source": "ent_6269",
     "target": "ent_6270",
     "type": "related_to",
-    "id": "edge_smt_9887"
+    "id": "edge_smt_10471"
+  },
+  {
+    "source": "ent_6265",
+    "target": "ent_6262",
+    "type": "has_purpose",
+    "id": "edge_smt_10472"
   },
   {
     "source": "ent_6283",
     "target": "ent_6281",
     "type": "has_condition",
-    "id": "edge_smt_9888"
+    "id": "edge_smt_10473"
   },
   {
     "source": "ent_6281",
     "target": "ent_6277",
     "type": "has_exception",
-    "id": "edge_smt_9889"
+    "id": "edge_smt_10474"
   },
   {
     "source": "ent_6294",
     "target": "ent_6293",
-    "type": "related_to",
-    "id": "edge_smt_9890"
+    "type": "cites",
+    "id": "edge_smt_10475"
   },
   {
     "source": "ent_6293",
     "target": "ent_6289",
     "type": "defines",
-    "id": "edge_smt_9891"
+    "id": "edge_smt_10476"
   },
   {
     "source": "ent_6294",
     "target": "ent_6289",
     "type": "defines",
-    "id": "edge_smt_9892"
+    "id": "edge_smt_10477"
   },
   {
     "source": "ent_6304",
     "target": "ent_6301",
     "type": "has_condition",
-    "id": "edge_smt_9893"
+    "id": "edge_smt_10478"
   },
   {
     "source": "ent_6301",
     "target": "ent_6302",
     "type": "violates",
-    "id": "edge_smt_9894"
+    "id": "edge_smt_10479"
   },
   {
     "source": "ent_6302",
     "target": "ent_6303",
     "type": "violates",
-    "id": "edge_smt_9895"
+    "id": "edge_smt_10480"
   },
   {
     "source": "ent_6314",
     "target": "ent_6316",
     "type": "related_to",
-    "id": "edge_smt_9896"
+    "id": "edge_smt_10481"
+  },
+  {
+    "source": "ent_6316",
+    "target": "ent_6333",
+    "type": "requires",
+    "id": "edge_smt_10482"
+  },
+  {
+    "source": "ent_6317",
+    "target": "ent_6322",
+    "type": "enables",
+    "id": "edge_smt_10483"
+  },
+  {
+    "source": "ent_6322",
+    "target": "ent_6332",
+    "type": "cites",
+    "id": "edge_smt_10484"
   },
   {
     "source": "ent_6315",
     "target": "ent_6318",
     "type": "related_to",
-    "id": "edge_smt_9897"
+    "id": "edge_smt_10485"
   },
   {
     "source": "ent_6318",
     "target": "ent_6323",
     "type": "involves",
-    "id": "edge_smt_9898"
+    "id": "edge_smt_10486"
   },
   {
     "source": "ent_6315",
     "target": "ent_6323",
     "type": "involves",
-    "id": "edge_smt_9899"
+    "id": "edge_smt_10487"
+  },
+  {
+    "source": "ent_6335",
+    "target": "ent_6342",
+    "type": "involves",
+    "id": "edge_smt_10488"
   },
   {
     "source": "ent_6342",
     "target": "ent_6344",
     "type": "involves",
-    "id": "edge_smt_9900"
+    "id": "edge_smt_10489"
+  },
+  {
+    "source": "ent_6344",
+    "target": "ent_6334",
+    "type": "involves",
+    "id": "edge_smt_10490"
+  },
+  {
+    "source": "ent_6334",
+    "target": "ent_6347",
+    "type": "requires",
+    "id": "edge_smt_10491"
   },
   {
     "source": "ent_6347",
     "target": "ent_6339",
     "type": "has_exception",
-    "id": "edge_smt_9901"
+    "id": "edge_smt_10492"
+  },
+  {
+    "source": "ent_6335",
+    "target": "ent_6344",
+    "type": "involves",
+    "id": "edge_smt_10493"
+  },
+  {
+    "source": "ent_6334",
+    "target": "ent_6339",
+    "type": "has_exception",
+    "id": "edge_smt_10494"
+  },
+  {
+    "source": "ent_6357",
+    "target": "ent_6373",
+    "type": "cites",
+    "id": "edge_smt_10495"
+  },
+  {
+    "source": "ent_6375",
+    "target": "ent_6381",
+    "type": "involves",
+    "id": "edge_smt_10496"
+  },
+  {
+    "source": "ent_6381",
+    "target": "ent_6385",
+    "type": "cites",
+    "id": "edge_smt_10497"
   },
   {
     "source": "ent_6385",
     "target": "ent_6379",
     "type": "has_condition",
-    "id": "edge_smt_9902"
+    "id": "edge_smt_10498"
+  },
+  {
+    "source": "ent_6381",
+    "target": "ent_6379",
+    "type": "has_condition",
+    "id": "edge_smt_10499"
   },
   {
     "source": "ent_6390",
     "target": "ent_6399",
     "type": "regulates",
-    "id": "edge_smt_9903"
+    "id": "edge_smt_10500"
+  },
+  {
+    "source": "ent_6388",
+    "target": "ent_6401",
+    "type": "applies_to",
+    "id": "edge_smt_10501"
+  },
+  {
+    "source": "ent_6407",
+    "target": "ent_6416",
+    "type": "cites",
+    "id": "edge_smt_10502"
   },
   {
     "source": "ent_6416",
     "target": "ent_6405",
     "type": "has_exception",
-    "id": "edge_smt_9904"
+    "id": "edge_smt_10503"
+  },
+  {
+    "source": "ent_6407",
+    "target": "ent_6405",
+    "type": "has_exception",
+    "id": "edge_smt_10504"
+  },
+  {
+    "source": "ent_6418",
+    "target": "ent_6422",
+    "type": "has_condition",
+    "id": "edge_smt_10505"
+  },
+  {
+    "source": "ent_6422",
+    "target": "ent_6420",
+    "type": "related_to",
+    "id": "edge_smt_10506"
+  },
+  {
+    "source": "ent_6420",
+    "target": "ent_6423",
+    "type": "cites",
+    "id": "edge_smt_10507"
   },
   {
     "source": "ent_6423",
     "target": "ent_6421",
     "type": "has_condition",
-    "id": "edge_smt_9905"
+    "id": "edge_smt_10508"
+  },
+  {
+    "source": "ent_6420",
+    "target": "ent_6421",
+    "type": "has_condition",
+    "id": "edge_smt_10509"
+  },
+  {
+    "source": "ent_6427",
+    "target": "ent_6428",
+    "type": "enables",
+    "id": "edge_smt_10510"
+  },
+  {
+    "source": "ent_6428",
+    "target": "ent_6429",
+    "type": "cites",
+    "id": "edge_smt_10511"
+  },
+  {
+    "source": "ent_6430",
+    "target": "ent_6432",
+    "type": "related_to",
+    "id": "edge_smt_10512"
+  },
+  {
+    "source": "ent_6432",
+    "target": "ent_6435",
+    "type": "enables",
+    "id": "edge_smt_10513"
+  },
+  {
+    "source": "ent_6435",
+    "target": "ent_6436",
+    "type": "cites",
+    "id": "edge_smt_10514"
   },
   {
     "source": "ent_6440",
     "target": "ent_6446",
     "type": "regulates",
-    "id": "edge_smt_9906"
+    "id": "edge_smt_10515"
   },
   {
     "source": "ent_6446",
     "target": "ent_6445",
     "type": "involves",
-    "id": "edge_smt_9907"
+    "id": "edge_smt_10516"
   },
   {
     "source": "ent_6452",
     "target": "ent_6450",
     "type": "applies_to",
-    "id": "edge_smt_9908"
+    "id": "edge_smt_10517"
   },
   {
     "source": "ent_6450",
     "target": "ent_6454",
     "type": "defines",
-    "id": "edge_smt_9909"
+    "id": "edge_smt_10518"
   },
   {
     "source": "ent_6458",
     "target": "ent_6457",
     "type": "involves",
-    "id": "edge_smt_9910"
+    "id": "edge_smt_10519"
   },
   {
     "source": "ent_6457",
     "target": "ent_6459",
     "type": "related_to",
-    "id": "edge_smt_9911"
+    "id": "edge_smt_10520"
+  },
+  {
+    "source": "ent_6459",
+    "target": "ent_6460",
+    "type": "cites",
+    "id": "edge_smt_10521"
+  },
+  {
+    "source": "ent_6467",
+    "target": "ent_6463",
+    "type": "related_to",
+    "id": "edge_smt_10522"
+  },
+  {
+    "source": "ent_6463",
+    "target": "ent_6465",
+    "type": "related_to",
+    "id": "edge_smt_10523"
   },
   {
     "source": "ent_6465",
     "target": "ent_6470",
     "type": "defines",
-    "id": "edge_smt_9912"
+    "id": "edge_smt_10524"
+  },
+  {
+    "source": "ent_6463",
+    "target": "ent_6470",
+    "type": "defines",
+    "id": "edge_smt_10525"
+  },
+  {
+    "source": "ent_6468",
+    "target": "ent_6464",
+    "type": "related_to",
+    "id": "edge_smt_10526"
+  },
+  {
+    "source": "ent_6464",
+    "target": "ent_6466",
+    "type": "related_to",
+    "id": "edge_smt_10527"
+  },
+  {
+    "source": "ent_6466",
+    "target": "ent_6469",
+    "type": "related_to",
+    "id": "edge_smt_10528"
+  },
+  {
+    "source": "ent_6469",
+    "target": "ent_6472",
+    "type": "requires",
+    "id": "edge_smt_10529"
+  },
+  {
+    "source": "ent_6479",
+    "target": "ent_6474",
+    "type": "related_to",
+    "id": "edge_smt_10530"
+  },
+  {
+    "source": "ent_6474",
+    "target": "ent_6476",
+    "type": "related_to",
+    "id": "edge_smt_10531"
+  },
+  {
+    "source": "ent_6476",
+    "target": "ent_6490",
+    "type": "results_in",
+    "id": "edge_smt_10532"
+  },
+  {
+    "source": "ent_6490",
+    "target": "ent_6484",
+    "type": "cites",
+    "id": "edge_smt_10533"
   },
   {
     "source": "ent_6484",
     "target": "ent_6481",
     "type": "regulates",
-    "id": "edge_smt_9913"
+    "id": "edge_smt_10534"
+  },
+  {
+    "source": "ent_6481",
+    "target": "ent_6475",
+    "type": "related_to",
+    "id": "edge_smt_10535"
+  },
+  {
+    "source": "ent_6475",
+    "target": "ent_6477",
+    "type": "related_to",
+    "id": "edge_smt_10536"
   },
   {
     "source": "ent_6477",
     "target": "ent_6483",
     "type": "results_in",
-    "id": "edge_smt_9914"
+    "id": "edge_smt_10537"
+  },
+  {
+    "source": "ent_6475",
+    "target": "ent_6483",
+    "type": "results_in",
+    "id": "edge_smt_10538"
+  },
+  {
+    "source": "ent_6495",
+    "target": "ent_6497",
+    "type": "cites",
+    "id": "edge_smt_10539"
   },
   {
     "source": "ent_6498",
     "target": "ent_6508",
     "type": "regulates",
-    "id": "edge_smt_9915"
+    "id": "edge_smt_10540"
+  },
+  {
+    "source": "ent_6504",
+    "target": "ent_6500",
+    "type": "related_to",
+    "id": "edge_smt_10541"
+  },
+  {
+    "source": "ent_6500",
+    "target": "ent_6502",
+    "type": "related_to",
+    "id": "edge_smt_10542"
   },
   {
     "source": "ent_6520",
     "target": "ent_6517",
     "type": "requires",
-    "id": "edge_smt_9916"
+    "id": "edge_smt_10543"
+  },
+  {
+    "source": "ent_6517",
+    "target": "ent_6513",
+    "type": "related_to",
+    "id": "edge_smt_10544"
+  },
+  {
+    "source": "ent_6513",
+    "target": "ent_6515",
+    "type": "related_to",
+    "id": "edge_smt_10545"
+  },
+  {
+    "source": "ent_6515",
+    "target": "ent_6519",
+    "type": "requires",
+    "id": "edge_smt_10546"
+  },
+  {
+    "source": "ent_6519",
+    "target": "ent_6518",
+    "type": "cites",
+    "id": "edge_smt_10547"
+  },
+  {
+    "source": "ent_6526",
+    "target": "ent_6521",
+    "type": "related_to",
+    "id": "edge_smt_10548"
+  },
+  {
+    "source": "ent_6521",
+    "target": "ent_6523",
+    "type": "related_to",
+    "id": "edge_smt_10549"
   },
   {
     "source": "ent_6525",
     "target": "ent_6524",
     "type": "defines",
-    "id": "edge_smt_9917"
+    "id": "edge_smt_10550"
   },
   {
     "source": "ent_6531",
     "target": "ent_6527",
     "type": "results_in",
-    "id": "edge_smt_9918"
+    "id": "edge_smt_10551"
+  },
+  {
+    "source": "ent_6527",
+    "target": "ent_6529",
+    "type": "cites",
+    "id": "edge_smt_10552"
+  },
+  {
+    "source": "ent_6550",
+    "target": "ent_6537",
+    "type": "related_to",
+    "id": "edge_smt_10553"
+  },
+  {
+    "source": "ent_6537",
+    "target": "ent_6545",
+    "type": "related_to",
+    "id": "edge_smt_10554"
+  },
+  {
+    "source": "ent_6545",
+    "target": "ent_6579",
+    "type": "requires",
+    "id": "edge_smt_10555"
+  },
+  {
+    "source": "ent_6535",
+    "target": "ent_6569",
+    "type": "involves",
+    "id": "edge_smt_10556"
   },
   {
     "source": "ent_6569",
     "target": "ent_6571",
     "type": "involves",
-    "id": "edge_smt_9919"
+    "id": "edge_smt_10557"
+  },
+  {
+    "source": "ent_6571",
+    "target": "ent_6538",
+    "type": "involves",
+    "id": "edge_smt_10558"
   },
   {
     "source": "ent_6538",
     "target": "ent_6536",
     "type": "related_to",
-    "id": "edge_smt_9920"
+    "id": "edge_smt_10559"
+  },
+  {
+    "source": "ent_6535",
+    "target": "ent_6571",
+    "type": "involves",
+    "id": "edge_smt_10560"
+  },
+  {
+    "source": "ent_6568",
+    "target": "ent_6574",
+    "type": "involves",
+    "id": "edge_smt_10561"
+  },
+  {
+    "source": "ent_6554",
+    "target": "ent_6540",
+    "type": "related_to",
+    "id": "edge_smt_10562"
+  },
+  {
+    "source": "ent_6540",
+    "target": "ent_6548",
+    "type": "related_to",
+    "id": "edge_smt_10563"
   },
   {
     "source": "ent_6548",
     "target": "ent_6541",
     "type": "defines",
-    "id": "edge_smt_9921"
+    "id": "edge_smt_10564"
   },
   {
     "source": "ent_6541",
     "target": "ent_6542",
     "type": "defines",
-    "id": "edge_smt_9922"
+    "id": "edge_smt_10565"
   },
   {
     "source": "ent_6542",
     "target": "ent_6566",
     "type": "involves",
-    "id": "edge_smt_9923"
+    "id": "edge_smt_10566"
+  },
+  {
+    "source": "ent_6540",
+    "target": "ent_6541",
+    "type": "defines",
+    "id": "edge_smt_10567"
   },
   {
     "source": "ent_6555",
     "target": "ent_6578",
     "type": "involves",
-    "id": "edge_smt_9924"
+    "id": "edge_smt_10568"
   },
   {
     "source": "ent_6578",
     "target": "ent_6534",
     "type": "involves",
-    "id": "edge_smt_9925"
+    "id": "edge_smt_10569"
+  },
+  {
+    "source": "ent_6534",
+    "target": "ent_6556",
+    "type": "related_to",
+    "id": "edge_smt_10570"
+  },
+  {
+    "source": "ent_6563",
+    "target": "ent_6544",
+    "type": "related_to",
+    "id": "edge_smt_10571"
+  },
+  {
+    "source": "ent_6544",
+    "target": "ent_6549",
+    "type": "related_to",
+    "id": "edge_smt_10572"
+  },
+  {
+    "source": "ent_6549",
+    "target": "ent_6582",
+    "type": "requires",
+    "id": "edge_smt_10573"
   },
   {
     "source": "ent_6570",
     "target": "ent_6565",
     "type": "involves",
-    "id": "edge_smt_9926"
+    "id": "edge_smt_10574"
+  },
+  {
+    "source": "ent_6745",
+    "target": "ent_6766",
+    "type": "enables",
+    "id": "edge_smt_10575"
   },
   {
     "source": "ent_6751",
     "target": "ent_6772",
     "type": "has_purpose",
-    "id": "edge_smt_9927"
+    "id": "edge_smt_10576"
+  },
+  {
+    "source": "ent_6768",
+    "target": "ent_6782",
+    "type": "cites",
+    "id": "edge_smt_10577"
   },
   {
     "source": "ent_6848",
     "target": "ent_6837",
     "type": "defines",
-    "id": "edge_smt_9928"
+    "id": "edge_smt_10578"
+  },
+  {
+    "source": "ent_6916",
+    "target": "ent_6890",
+    "type": "has_condition",
+    "id": "edge_smt_10579"
   },
   {
     "source": "ent_6878",
     "target": "ent_6866",
     "type": "involves",
-    "id": "edge_smt_9929"
+    "id": "edge_smt_10580"
+  },
+  {
+    "source": "ent_6866",
+    "target": "ent_6888",
+    "type": "enables",
+    "id": "edge_smt_10581"
+  },
+  {
+    "source": "ent_6888",
+    "target": "ent_6919",
+    "type": "requires",
+    "id": "edge_smt_10582"
+  },
+  {
+    "source": "ent_6936",
+    "target": "ent_6935",
+    "type": "cites",
+    "id": "edge_smt_10583"
+  },
+  {
+    "source": "ent_6938",
+    "target": "ent_6940",
+    "type": "cites",
+    "id": "edge_smt_10584"
+  },
+  {
+    "source": "ent_6947",
+    "target": "ent_6945",
+    "type": "cites",
+    "id": "edge_smt_10585"
   },
   {
     "source": "ent_6966",
     "target": "ent_6965",
     "type": "has_condition",
-    "id": "edge_smt_9930"
+    "id": "edge_smt_10586"
+  },
+  {
+    "source": "ent_6965",
+    "target": "ent_6962",
+    "type": "involves",
+    "id": "edge_smt_10587"
   },
   {
     "source": "ent_6962",
     "target": "ent_6961",
     "type": "has_condition",
-    "id": "edge_smt_9931"
+    "id": "edge_smt_10588"
+  },
+  {
+    "source": "ent_6965",
+    "target": "ent_6961",
+    "type": "has_condition",
+    "id": "edge_smt_10589"
+  },
+  {
+    "source": "ent_6970",
+    "target": "ent_6968",
+    "type": "cites",
+    "id": "edge_smt_10590"
+  },
+  {
+    "source": "ent_6974",
+    "target": "ent_6980",
+    "type": "requires",
+    "id": "edge_smt_10591"
+  },
+  {
+    "source": "ent_6979",
+    "target": "ent_6976",
+    "type": "has_condition",
+    "id": "edge_smt_10592"
+  },
+  {
+    "source": "ent_6997",
+    "target": "ent_6996",
+    "type": "cites",
+    "id": "edge_smt_10593"
+  },
+  {
+    "source": "ent_7106",
+    "target": "ent_7093",
+    "type": "has_condition",
+    "id": "edge_smt_10594"
   },
   {
     "source": "ent_7076",
     "target": "ent_7100",
     "type": "violates",
-    "id": "edge_smt_9932"
+    "id": "edge_smt_10595"
+  },
+  {
+    "source": "ent_7105",
+    "target": "ent_7096",
+    "type": "involves",
+    "id": "edge_smt_10596"
   },
   {
     "source": "ent_7135",
     "target": "ent_7136",
     "type": "defines",
-    "id": "edge_smt_9933"
+    "id": "edge_smt_10597"
   },
   {
     "source": "ent_7136",
     "target": "ent_7133",
     "type": "results_in",
-    "id": "edge_smt_9934"
+    "id": "edge_smt_10598"
+  },
+  {
+    "source": "ent_7134",
+    "target": "ent_7137",
+    "type": "cites",
+    "id": "edge_smt_10599"
   },
   {
     "source": "ent_7185",
     "target": "ent_7196",
     "type": "related_to",
-    "id": "edge_smt_9935"
+    "id": "edge_smt_10600"
+  },
+  {
+    "source": "ent_7198",
+    "target": "ent_7201",
+    "type": "related_to",
+    "id": "edge_smt_10601"
   },
   {
     "source": "ent_7201",
     "target": "ent_7197",
     "type": "involves",
-    "id": "edge_smt_9936"
+    "id": "edge_smt_10602"
   },
   {
     "source": "ent_7197",
     "target": "ent_7199",
     "type": "related_to",
-    "id": "edge_smt_9937"
+    "id": "edge_smt_10603"
+  },
+  {
+    "source": "ent_7199",
+    "target": "ent_7203",
+    "type": "involves",
+    "id": "edge_smt_10604"
+  },
+  {
+    "source": "ent_7198",
+    "target": "ent_7197",
+    "type": "involves",
+    "id": "edge_smt_10605"
   },
   {
     "source": "ent_7276",
     "target": "ent_7277",
     "type": "defines",
-    "id": "edge_smt_9938"
+    "id": "edge_smt_10606"
   },
   {
     "source": "ent_7277",
     "target": "ent_7279",
     "type": "related_to",
-    "id": "edge_smt_9939"
+    "id": "edge_smt_10607"
   },
   {
     "source": "ent_7291",
     "target": "ent_7294",
     "type": "requires",
-    "id": "edge_smt_9940"
+    "id": "edge_smt_10608"
+  },
+  {
+    "source": "ent_7294",
+    "target": "ent_7292",
+    "type": "related_to",
+    "id": "edge_smt_10609"
+  },
+  {
+    "source": "ent_7296",
+    "target": "ent_7293",
+    "type": "involves",
+    "id": "edge_smt_10610"
   },
   {
     "source": "ent_7293",
     "target": "ent_7290",
     "type": "defines",
-    "id": "edge_smt_9941"
+    "id": "edge_smt_10611"
+  },
+  {
+    "source": "ent_7296",
+    "target": "ent_7290",
+    "type": "defines",
+    "id": "edge_smt_10612"
+  },
+  {
+    "source": "ent_7302",
+    "target": "ent_7300",
+    "type": "related_to",
+    "id": "edge_smt_10613"
   },
   {
     "source": "ent_7300",
     "target": "ent_7307",
     "type": "defines",
-    "id": "edge_smt_9942"
+    "id": "edge_smt_10614"
   },
   {
     "source": "ent_7307",
     "target": "ent_7298",
     "type": "requires",
-    "id": "edge_smt_9943"
+    "id": "edge_smt_10615"
   },
   {
     "source": "ent_7298",
     "target": "ent_7299",
     "type": "defines",
-    "id": "edge_smt_9944"
+    "id": "edge_smt_10616"
+  },
+  {
+    "source": "ent_7302",
+    "target": "ent_7307",
+    "type": "defines",
+    "id": "edge_smt_10617"
   },
   {
     "source": "ent_7320",
     "target": "ent_7321",
     "type": "regulates",
-    "id": "edge_smt_9945"
+    "id": "edge_smt_10618"
   },
   {
     "source": "ent_7321",
     "target": "ent_7336",
     "type": "defines",
-    "id": "edge_smt_9946"
+    "id": "edge_smt_10619"
   },
   {
     "source": "ent_7322",
     "target": "ent_7316",
     "type": "regulates",
-    "id": "edge_smt_9947"
+    "id": "edge_smt_10620"
   },
   {
     "source": "ent_7316",
     "target": "ent_7330",
     "type": "related_to",
-    "id": "edge_smt_9948"
+    "id": "edge_smt_10621"
   },
   {
     "source": "ent_7330",
     "target": "ent_7315",
     "type": "related_to",
-    "id": "edge_smt_9949"
+    "id": "edge_smt_10622"
   },
   {
     "source": "ent_7315",
     "target": "ent_7333",
     "type": "requires",
-    "id": "edge_smt_9950"
+    "id": "edge_smt_10623"
   },
   {
     "source": "ent_7333",
     "target": "ent_7334",
     "type": "requires",
-    "id": "edge_smt_9951"
+    "id": "edge_smt_10624"
   },
   {
     "source": "ent_7330",
     "target": "ent_7333",
     "type": "requires",
-    "id": "edge_smt_9952"
+    "id": "edge_smt_10625"
+  },
+  {
+    "source": "ent_7317",
+    "target": "ent_7335",
+    "type": "involves",
+    "id": "edge_smt_10626"
+  },
+  {
+    "source": "ent_7388",
+    "target": "ent_7409",
+    "type": "cites",
+    "id": "edge_smt_10627"
   },
   {
     "source": "ent_7409",
     "target": "ent_7360",
     "type": "regulates",
-    "id": "edge_smt_9953"
+    "id": "edge_smt_10628"
   },
   {
     "source": "ent_7360",
     "target": "ent_7361",
     "type": "defines",
-    "id": "edge_smt_9954"
+    "id": "edge_smt_10629"
   },
   {
     "source": "ent_7361",
     "target": "ent_7404",
     "type": "has_purpose",
-    "id": "edge_smt_9955"
+    "id": "edge_smt_10630"
+  },
+  {
+    "source": "ent_7404",
+    "target": "ent_7367",
+    "type": "involves",
+    "id": "edge_smt_10631"
+  },
+  {
+    "source": "ent_7367",
+    "target": "ent_7398",
+    "type": "involves",
+    "id": "edge_smt_10632"
+  },
+  {
+    "source": "ent_7398",
+    "target": "ent_7374",
+    "type": "involves",
+    "id": "edge_smt_10633"
+  },
+  {
+    "source": "ent_7374",
+    "target": "ent_7368",
+    "type": "related_to",
+    "id": "edge_smt_10634"
   },
   {
     "source": "ent_7409",
     "target": "ent_7361",
     "type": "defines",
-    "id": "edge_smt_9956"
+    "id": "edge_smt_10635"
+  },
+  {
+    "source": "ent_7369",
+    "target": "ent_7383",
+    "type": "related_to",
+    "id": "edge_smt_10636"
+  },
+  {
+    "source": "ent_7383",
+    "target": "ent_7394",
+    "type": "involves",
+    "id": "edge_smt_10637"
+  },
+  {
+    "source": "ent_7394",
+    "target": "ent_7410",
+    "type": "cites",
+    "id": "edge_smt_10638"
   },
   {
     "source": "ent_7410",
     "target": "ent_7395",
     "type": "involves",
-    "id": "edge_smt_9957"
+    "id": "edge_smt_10639"
+  },
+  {
+    "source": "ent_7395",
+    "target": "ent_7372",
+    "type": "involves",
+    "id": "edge_smt_10640"
   },
   {
     "source": "ent_7372",
     "target": "ent_7362",
     "type": "defines",
-    "id": "edge_smt_9958"
+    "id": "edge_smt_10641"
+  },
+  {
+    "source": "ent_7394",
+    "target": "ent_7395",
+    "type": "involves",
+    "id": "edge_smt_10642"
+  },
+  {
+    "source": "ent_7395",
+    "target": "ent_7362",
+    "type": "defines",
+    "id": "edge_smt_10643"
   },
   {
     "source": "ent_7459",
     "target": "ent_7460",
     "type": "defines",
-    "id": "edge_smt_9959"
+    "id": "edge_smt_10644"
+  },
+  {
+    "source": "ent_7460",
+    "target": "ent_7461",
+    "type": "cites",
+    "id": "edge_smt_10645"
+  },
+  {
+    "source": "ent_7521",
+    "target": "ent_7494",
+    "type": "involves",
+    "id": "edge_smt_10646"
   },
   {
     "source": "ent_7494",
     "target": "ent_7507",
     "type": "requires",
-    "id": "edge_smt_9960"
+    "id": "edge_smt_10647"
+  },
+  {
+    "source": "ent_7521",
+    "target": "ent_7507",
+    "type": "requires",
+    "id": "edge_smt_10648"
   },
   {
     "source": "ent_7538",
     "target": "ent_7523",
-    "type": "related_to",
-    "id": "edge_smt_9961"
+    "type": "involves",
+    "id": "edge_smt_10649"
+  },
+  {
+    "source": "ent_7516",
+    "target": "ent_7533",
+    "type": "cites",
+    "id": "edge_smt_10650"
   },
   {
     "source": "ent_7539",
     "target": "ent_7490",
     "type": "involves",
-    "id": "edge_smt_9962"
+    "id": "edge_smt_10651"
+  },
+  {
+    "source": "ent_7490",
+    "target": "ent_7482",
+    "type": "related_to",
+    "id": "edge_smt_10652"
+  },
+  {
+    "source": "ent_7480",
+    "target": "ent_7481",
+    "type": "related_to",
+    "id": "edge_smt_10653"
+  },
+  {
+    "source": "ent_7591",
+    "target": "ent_7596",
+    "type": "cites",
+    "id": "edge_smt_10654"
   },
   {
     "source": "ent_7596",
     "target": "ent_7588",
     "type": "regulates",
-    "id": "edge_smt_9963"
+    "id": "edge_smt_10655"
+  },
+  {
+    "source": "ent_7588",
+    "target": "ent_7600",
+    "type": "requires",
+    "id": "edge_smt_10656"
+  },
+  {
+    "source": "ent_7610",
+    "target": "ent_7655",
+    "type": "requires",
+    "id": "edge_smt_10657"
+  },
+  {
+    "source": "ent_7614",
+    "target": "ent_7647",
+    "type": "involves",
+    "id": "edge_smt_10658"
   },
   {
     "source": "ent_7687",
     "target": "ent_7680",
     "type": "regulates",
-    "id": "edge_smt_9964"
+    "id": "edge_smt_10659"
   },
   {
     "source": "ent_7680",
     "target": "ent_7681",
     "type": "regulates",
-    "id": "edge_smt_9965"
+    "id": "edge_smt_10660"
+  },
+  {
+    "source": "ent_7681",
+    "target": "ent_7685",
+    "type": "enables",
+    "id": "edge_smt_10661"
   },
   {
     "source": "ent_7685",
     "target": "ent_7698",
     "type": "regulates",
-    "id": "edge_smt_9966"
+    "id": "edge_smt_10662"
+  },
+  {
+    "source": "ent_7681",
+    "target": "ent_7698",
+    "type": "regulates",
+    "id": "edge_smt_10663"
+  },
+  {
+    "source": "ent_7716",
+    "target": "ent_7722",
+    "type": "enables",
+    "id": "edge_smt_10664"
+  },
+  {
+    "source": "ent_7722",
+    "target": "ent_7726",
+    "type": "has_condition",
+    "id": "edge_smt_10665"
+  },
+  {
+    "source": "ent_7726",
+    "target": "ent_7737",
+    "type": "cites",
+    "id": "edge_smt_10666"
   },
   {
     "source": "ent_7728",
     "target": "ent_7725",
     "type": "has_exception",
-    "id": "edge_smt_9967"
+    "id": "edge_smt_10667"
   },
   {
     "source": "ent_7747",
     "target": "ent_7744",
     "type": "regulates",
-    "id": "edge_smt_9968"
+    "id": "edge_smt_10668"
+  },
+  {
+    "source": "ent_7744",
+    "target": "ent_7754",
+    "type": "requires",
+    "id": "edge_smt_10669"
   },
   {
     "source": "ent_7777",
     "target": "ent_7770",
     "type": "regulates",
-    "id": "edge_smt_9969"
+    "id": "edge_smt_10670"
+  },
+  {
+    "source": "ent_7770",
+    "target": "ent_7774",
+    "type": "prohibits",
+    "id": "edge_smt_10671"
   },
   {
     "source": "ent_7774",
     "target": "ent_7771",
     "type": "regulates",
-    "id": "edge_smt_9970"
+    "id": "edge_smt_10672"
   },
   {
     "source": "ent_7771",
     "target": "ent_7781",
     "type": "not",
-    "id": "edge_smt_9971"
+    "id": "edge_smt_10673"
+  },
+  {
+    "source": "ent_7781",
+    "target": "ent_7773",
+    "type": "involves",
+    "id": "edge_smt_10674"
+  },
+  {
+    "source": "ent_7773",
+    "target": "ent_7775",
+    "type": "enables",
+    "id": "edge_smt_10675"
+  },
+  {
+    "source": "ent_7770",
+    "target": "ent_7771",
+    "type": "regulates",
+    "id": "edge_smt_10676"
+  },
+  {
+    "source": "ent_7833",
+    "target": "ent_7839",
+    "type": "cites",
+    "id": "edge_smt_10677"
   },
   {
     "source": "ent_7839",
     "target": "ent_7836",
     "type": "regulates",
-    "id": "edge_smt_9972"
+    "id": "edge_smt_10678"
+  },
+  {
+    "source": "ent_7833",
+    "target": "ent_7836",
+    "type": "regulates",
+    "id": "edge_smt_10679"
   },
   {
     "source": "ent_7847",
     "target": "ent_7842",
     "type": "related_to",
-    "id": "edge_smt_9973"
+    "id": "edge_smt_10680"
+  },
+  {
+    "source": "ent_7842",
+    "target": "ent_7849",
+    "type": "involves",
+    "id": "edge_smt_10681"
   },
   {
     "source": "ent_7865",
     "target": "ent_7862",
     "type": "requires",
-    "id": "edge_smt_9974"
+    "id": "edge_smt_10682"
+  },
+  {
+    "source": "ent_7892",
+    "target": "ent_7881",
+    "type": "cites",
+    "id": "edge_smt_10683"
+  },
+  {
+    "source": "ent_7871",
+    "target": "ent_7879",
+    "type": "cites",
+    "id": "edge_smt_10684"
   },
   {
     "source": "ent_7879",
     "target": "ent_7878",
     "type": "violates",
-    "id": "edge_smt_9975"
+    "id": "edge_smt_10685"
+  },
+  {
+    "source": "ent_7878",
+    "target": "ent_7869",
+    "type": "involves",
+    "id": "edge_smt_10686"
+  },
+  {
+    "source": "ent_7869",
+    "target": "ent_7874",
+    "type": "involves",
+    "id": "edge_smt_10687"
+  },
+  {
+    "source": "ent_7874",
+    "target": "ent_7882",
+    "type": "cites",
+    "id": "edge_smt_10688"
+  },
+  {
+    "source": "ent_7871",
+    "target": "ent_7878",
+    "type": "violates",
+    "id": "edge_smt_10689"
+  },
+  {
+    "source": "ent_7902",
+    "target": "ent_7914",
+    "type": "cites",
+    "id": "edge_smt_10690"
+  },
+  {
+    "source": "ent_7914",
+    "target": "ent_7894",
+    "type": "regulates",
+    "id": "edge_smt_10691"
   },
   {
     "source": "ent_7894",
     "target": "ent_7895",
     "type": "not",
-    "id": "edge_smt_9976"
+    "id": "edge_smt_10692"
+  },
+  {
+    "source": "ent_7895",
+    "target": "ent_7899",
+    "type": "enables",
+    "id": "edge_smt_10693"
+  },
+  {
+    "source": "ent_7899",
+    "target": "ent_7915",
+    "type": "cites",
+    "id": "edge_smt_10694"
+  },
+  {
+    "source": "ent_7914",
+    "target": "ent_7895",
+    "type": "not",
+    "id": "edge_smt_10695"
+  },
+  {
+    "source": "ent_7933",
+    "target": "ent_7937",
+    "type": "enables",
+    "id": "edge_smt_10696"
+  },
+  {
+    "source": "ent_7937",
+    "target": "ent_7940",
+    "type": "has_condition",
+    "id": "edge_smt_10697"
+  },
+  {
+    "source": "ent_7940",
+    "target": "ent_7948",
+    "type": "cites",
+    "id": "edge_smt_10698"
+  },
+  {
+    "source": "ent_7948",
+    "target": "ent_7932",
+    "type": "regulates",
+    "id": "edge_smt_10699"
   },
   {
     "source": "ent_7932",
     "target": "ent_7936",
     "type": "not",
-    "id": "edge_smt_9977"
+    "id": "edge_smt_10700"
   },
   {
     "source": "ent_7936",
     "target": "ent_7941",
     "type": "not",
-    "id": "edge_smt_9978"
+    "id": "edge_smt_10701"
+  },
+  {
+    "source": "ent_7948",
+    "target": "ent_7936",
+    "type": "not",
+    "id": "edge_smt_10702"
   },
   {
     "source": "ent_7958",
     "target": "ent_7955",
     "type": "regulates",
-    "id": "edge_smt_9979"
+    "id": "edge_smt_10703"
+  },
+  {
+    "source": "ent_7955",
+    "target": "ent_7965",
+    "type": "requires",
+    "id": "edge_smt_10704"
+  },
+  {
+    "source": "ent_7973",
+    "target": "ent_7990",
+    "type": "cites",
+    "id": "edge_smt_10705"
   },
   {
     "source": "ent_7990",
     "target": "ent_7989",
     "type": "violates",
-    "id": "edge_smt_9980"
+    "id": "edge_smt_10706"
+  },
+  {
+    "source": "ent_7989",
+    "target": "ent_7969",
+    "type": "involves",
+    "id": "edge_smt_10707"
   },
   {
     "source": "ent_7969",
     "target": "ent_7981",
     "type": "not",
-    "id": "edge_smt_9981"
+    "id": "edge_smt_10708"
+  },
+  {
+    "source": "ent_7981",
+    "target": "ent_7992",
+    "type": "cites",
+    "id": "edge_smt_10709"
+  },
+  {
+    "source": "ent_7973",
+    "target": "ent_7989",
+    "type": "violates",
+    "id": "edge_smt_10710"
+  },
+  {
+    "source": "ent_7989",
+    "target": "ent_7981",
+    "type": "not",
+    "id": "edge_smt_10711"
   },
   {
     "source": "ent_8006",
     "target": "ent_8001",
     "type": "regulates",
-    "id": "edge_smt_9982"
+    "id": "edge_smt_10712"
   },
   {
     "source": "ent_8001",
     "target": "ent_8016",
     "type": "involves",
-    "id": "edge_smt_9983"
+    "id": "edge_smt_10713"
   },
   {
     "source": "ent_8016",
     "target": "ent_8004",
     "type": "involves",
-    "id": "edge_smt_9984"
+    "id": "edge_smt_10714"
+  },
+  {
+    "source": "ent_8004",
+    "target": "ent_8005",
+    "type": "prohibits",
+    "id": "edge_smt_10715"
   },
   {
     "source": "ent_8024",
     "target": "ent_8017",
     "type": "regulates",
-    "id": "edge_smt_9985"
+    "id": "edge_smt_10716"
+  },
+  {
+    "source": "ent_8017",
+    "target": "ent_8021",
+    "type": "prohibits",
+    "id": "edge_smt_10717"
   },
   {
     "source": "ent_8021",
     "target": "ent_8018",
     "type": "regulates",
-    "id": "edge_smt_9986"
+    "id": "edge_smt_10718"
   },
   {
     "source": "ent_8018",
     "target": "ent_8027",
     "type": "not",
-    "id": "edge_smt_9987"
+    "id": "edge_smt_10719"
+  },
+  {
+    "source": "ent_8027",
+    "target": "ent_8020",
+    "type": "involves",
+    "id": "edge_smt_10720"
+  },
+  {
+    "source": "ent_8020",
+    "target": "ent_8022",
+    "type": "enables",
+    "id": "edge_smt_10721"
+  },
+  {
+    "source": "ent_8017",
+    "target": "ent_8018",
+    "type": "regulates",
+    "id": "edge_smt_10722"
   },
   {
     "source": "ent_8075",
     "target": "ent_8072",
     "type": "related_to",
-    "id": "edge_smt_9988"
+    "id": "edge_smt_10723"
+  },
+  {
+    "source": "ent_8072",
+    "target": "ent_8077",
+    "type": "involves",
+    "id": "edge_smt_10724"
   },
   {
     "source": "ent_8090",
     "target": "ent_8087",
     "type": "requires",
-    "id": "edge_smt_9989"
+    "id": "edge_smt_10725"
+  },
+  {
+    "source": "ent_8101",
+    "target": "ent_8096",
+    "type": "cites",
+    "id": "edge_smt_10726"
+  },
+  {
+    "source": "ent_8109",
+    "target": "ent_8105",
+    "type": "involves",
+    "id": "edge_smt_10727"
+  },
+  {
+    "source": "ent_8125",
+    "target": "ent_8136",
+    "type": "cites",
+    "id": "edge_smt_10728"
+  },
+  {
+    "source": "ent_8136",
+    "target": "ent_8114",
+    "type": "regulates",
+    "id": "edge_smt_10729"
   },
   {
     "source": "ent_8114",
     "target": "ent_8120",
     "type": "not",
-    "id": "edge_smt_9990"
+    "id": "edge_smt_10730"
   },
   {
     "source": "ent_8120",
     "target": "ent_8127",
     "type": "not",
-    "id": "edge_smt_9991"
+    "id": "edge_smt_10731"
+  },
+  {
+    "source": "ent_8127",
+    "target": "ent_8115",
+    "type": "involves",
+    "id": "edge_smt_10732"
+  },
+  {
+    "source": "ent_8115",
+    "target": "ent_8122",
+    "type": "enables",
+    "id": "edge_smt_10733"
+  },
+  {
+    "source": "ent_8122",
+    "target": "ent_8137",
+    "type": "cites",
+    "id": "edge_smt_10734"
+  },
+  {
+    "source": "ent_8136",
+    "target": "ent_8120",
+    "type": "not",
+    "id": "edge_smt_10735"
+  },
+  {
+    "source": "ent_8112",
+    "target": "ent_8124",
+    "type": "enables",
+    "id": "edge_smt_10736"
   },
   {
     "source": "ent_8124",
     "target": "ent_8140",
     "type": "regulates",
-    "id": "edge_smt_9992"
+    "id": "edge_smt_10737"
+  },
+  {
+    "source": "ent_8112",
+    "target": "ent_8140",
+    "type": "regulates",
+    "id": "edge_smt_10738"
+  },
+  {
+    "source": "ent_8164",
+    "target": "ent_8168",
+    "type": "enables",
+    "id": "edge_smt_10739"
+  },
+  {
+    "source": "ent_8168",
+    "target": "ent_8171",
+    "type": "has_condition",
+    "id": "edge_smt_10740"
+  },
+  {
+    "source": "ent_8171",
+    "target": "ent_8179",
+    "type": "cites",
+    "id": "edge_smt_10741"
+  },
+  {
+    "source": "ent_8179",
+    "target": "ent_8163",
+    "type": "regulates",
+    "id": "edge_smt_10742"
   },
   {
     "source": "ent_8163",
     "target": "ent_8167",
     "type": "not",
-    "id": "edge_smt_9993"
+    "id": "edge_smt_10743"
   },
   {
     "source": "ent_8167",
     "target": "ent_8172",
     "type": "not",
-    "id": "edge_smt_9994"
+    "id": "edge_smt_10744"
+  },
+  {
+    "source": "ent_8179",
+    "target": "ent_8167",
+    "type": "not",
+    "id": "edge_smt_10745"
   },
   {
     "source": "ent_8189",
     "target": "ent_8186",
     "type": "regulates",
-    "id": "edge_smt_9995"
+    "id": "edge_smt_10746"
+  },
+  {
+    "source": "ent_8186",
+    "target": "ent_8196",
+    "type": "requires",
+    "id": "edge_smt_10747"
   },
   {
     "source": "ent_8234",
     "target": "ent_8215",
     "type": "regulates",
-    "id": "edge_smt_9996"
+    "id": "edge_smt_10748"
+  },
+  {
+    "source": "ent_8215",
+    "target": "ent_8231",
+    "type": "prohibits",
+    "id": "edge_smt_10749"
+  },
+  {
+    "source": "ent_8219",
+    "target": "ent_8232",
+    "type": "prohibits",
+    "id": "edge_smt_10750"
   },
   {
     "source": "ent_8232",
     "target": "ent_8240",
     "type": "regulates",
-    "id": "edge_smt_9997"
+    "id": "edge_smt_10751"
+  },
+  {
+    "source": "ent_8240",
+    "target": "ent_8216",
+    "type": "involves",
+    "id": "edge_smt_10752"
   },
   {
     "source": "ent_8216",
     "target": "ent_8222",
     "type": "defines",
-    "id": "edge_smt_9998"
+    "id": "edge_smt_10753"
+  },
+  {
+    "source": "ent_8222",
+    "target": "ent_8233",
+    "type": "enables",
+    "id": "edge_smt_10754"
   },
   {
     "source": "ent_8233",
     "target": "ent_8253",
     "type": "regulates",
-    "id": "edge_smt_9999"
+    "id": "edge_smt_10755"
+  },
+  {
+    "source": "ent_8219",
+    "target": "ent_8240",
+    "type": "regulates",
+    "id": "edge_smt_10756"
+  },
+  {
+    "source": "ent_8240",
+    "target": "ent_8222",
+    "type": "defines",
+    "id": "edge_smt_10757"
+  },
+  {
+    "source": "ent_8222",
+    "target": "ent_8253",
+    "type": "regulates",
+    "id": "edge_smt_10758"
+  },
+  {
+    "source": "ent_8260",
+    "target": "ent_8256",
+    "type": "cites",
+    "id": "edge_smt_10759"
+  },
+  {
+    "source": "ent_8256",
+    "target": "ent_8255",
+    "type": "regulates",
+    "id": "edge_smt_10760"
+  },
+  {
+    "source": "ent_8261",
+    "target": "ent_8265",
+    "type": "prohibits",
+    "id": "edge_smt_10761"
+  },
+  {
+    "source": "ent_8274",
+    "target": "ent_8277",
+    "type": "cites",
+    "id": "edge_smt_10762"
+  },
+  {
+    "source": "ent_8282",
+    "target": "ent_8284",
+    "type": "cites",
+    "id": "edge_smt_10763"
+  },
+  {
+    "source": "ent_8300",
+    "target": "ent_8304",
+    "type": "cites",
+    "id": "edge_smt_10764"
+  },
+  {
+    "source": "ent_8304",
+    "target": "ent_8307",
+    "type": "defines",
+    "id": "edge_smt_10765"
   },
   {
     "source": "ent_8308",
     "target": "ent_8315",
     "type": "regulates",
-    "id": "edge_smt_10000"
+    "id": "edge_smt_10766"
+  },
+  {
+    "source": "ent_8335",
+    "target": "ent_8343",
+    "type": "prohibits",
+    "id": "edge_smt_10767"
+  },
+  {
+    "source": "ent_8358",
+    "target": "ent_8363",
+    "type": "cites",
+    "id": "edge_smt_10768"
+  },
+  {
+    "source": "ent_8363",
+    "target": "ent_8354",
+    "type": "regulates",
+    "id": "edge_smt_10769"
+  },
+  {
+    "source": "ent_8354",
+    "target": "ent_8360",
+    "type": "involves",
+    "id": "edge_smt_10770"
+  },
+  {
+    "source": "ent_8369",
+    "target": "ent_8368",
+    "type": "related_to",
+    "id": "edge_smt_10771"
+  },
+  {
+    "source": "ent_8368",
+    "target": "ent_8374",
+    "type": "related_to",
+    "id": "edge_smt_10772"
   },
   {
     "source": "ent_8395",
     "target": "ent_8403",
     "type": "defines",
-    "id": "edge_smt_10001"
+    "id": "edge_smt_10773"
+  },
+  {
+    "source": "ent_8412",
+    "target": "ent_8405",
+    "type": "applies_to",
+    "id": "edge_smt_10774"
+  },
+  {
+    "source": "ent_8405",
+    "target": "ent_8411",
+    "type": "related_to",
+    "id": "edge_smt_10775"
+  },
+  {
+    "source": "ent_8426",
+    "target": "ent_8432",
+    "type": "enables",
+    "id": "edge_smt_10776"
+  },
+  {
+    "source": "ent_8432",
+    "target": "ent_8435",
+    "type": "cites",
+    "id": "edge_smt_10777"
+  },
+  {
+    "source": "ent_8444",
+    "target": "ent_8449",
+    "type": "enables",
+    "id": "edge_smt_10778"
   },
   {
     "source": "ent_8455",
     "target": "ent_8454",
     "type": "has_condition",
-    "id": "edge_smt_10002"
+    "id": "edge_smt_10779"
+  },
+  {
+    "source": "ent_8470",
+    "target": "ent_8471",
+    "type": "cites",
+    "id": "edge_smt_10780"
+  },
+  {
+    "source": "ent_8474",
+    "target": "ent_8479",
+    "type": "enables",
+    "id": "edge_smt_10781"
+  },
+  {
+    "source": "ent_8483",
+    "target": "ent_8480",
+    "type": "cites",
+    "id": "edge_smt_10782"
   },
   {
     "source": "ent_8488",
     "target": "ent_8485",
     "type": "related_to",
-    "id": "edge_smt_10003"
+    "id": "edge_smt_10783"
   },
   {
     "source": "ent_8485",
     "target": "ent_8484",
     "type": "related_to",
-    "id": "edge_smt_10004"
+    "id": "edge_smt_10784"
+  },
+  {
+    "source": "ent_8484",
+    "target": "ent_8487",
+    "type": "involves",
+    "id": "edge_smt_10785"
+  },
+  {
+    "source": "ent_8487",
+    "target": "ent_8489",
+    "type": "cites",
+    "id": "edge_smt_10786"
+  },
+  {
+    "source": "ent_8493",
+    "target": "ent_8494",
+    "type": "cites",
+    "id": "edge_smt_10787"
+  },
+  {
+    "source": "ent_8499",
+    "target": "ent_8501",
+    "type": "cites",
+    "id": "edge_smt_10788"
   },
   {
     "source": "ent_8520",
     "target": "ent_8533",
     "type": "involves",
-    "id": "edge_smt_10005"
+    "id": "edge_smt_10789"
+  },
+  {
+    "source": "ent_8533",
+    "target": "ent_8521",
+    "type": "related_to",
+    "id": "edge_smt_10790"
+  },
+  {
+    "source": "ent_8521",
+    "target": "ent_8529",
+    "type": "cites",
+    "id": "edge_smt_10791"
+  },
+  {
+    "source": "ent_8529",
+    "target": "ent_8526",
+    "type": "defines",
+    "id": "edge_smt_10792"
   },
   {
     "source": "ent_8534",
     "target": "ent_8536",
     "type": "involves",
-    "id": "edge_smt_10006"
+    "id": "edge_smt_10793"
+  },
+  {
+    "source": "ent_8536",
+    "target": "ent_8544",
+    "type": "cites",
+    "id": "edge_smt_10794"
   },
   {
     "source": "ent_8544",
     "target": "ent_8538",
     "type": "has_exception",
-    "id": "edge_smt_10007"
+    "id": "edge_smt_10795"
+  },
+  {
+    "source": "ent_8536",
+    "target": "ent_8538",
+    "type": "has_exception",
+    "id": "edge_smt_10796"
   },
   {
     "source": "ent_8575",
     "target": "ent_8576",
     "type": "regulates",
-    "id": "edge_smt_10008"
+    "id": "edge_smt_10797"
   },
   {
     "source": "ent_8580",
     "target": "ent_8582",
     "type": "regulates",
-    "id": "edge_smt_10009"
+    "id": "edge_smt_10798"
   },
   {
     "source": "ent_8584",
     "target": "ent_8587",
     "type": "regulates",
-    "id": "edge_smt_10010"
+    "id": "edge_smt_10799"
   },
   {
     "source": "ent_8587",
     "target": "ent_8586",
     "type": "related_to",
-    "id": "edge_smt_10011"
+    "id": "edge_smt_10800"
+  },
+  {
+    "source": "ent_8590",
+    "target": "ent_8591",
+    "type": "involves",
+    "id": "edge_smt_10801"
+  },
+  {
+    "source": "ent_8598",
+    "target": "ent_8594",
+    "type": "has_condition",
+    "id": "edge_smt_10802"
   },
   {
     "source": "ent_8601",
     "target": "ent_8593",
     "type": "involves",
-    "id": "edge_smt_10012"
+    "id": "edge_smt_10803"
+  },
+  {
+    "source": "ent_8597",
+    "target": "ent_8600",
+    "type": "involves",
+    "id": "edge_smt_10804"
+  },
+  {
+    "source": "ent_8600",
+    "target": "ent_8595",
+    "type": "has_condition",
+    "id": "edge_smt_10805"
   },
   {
     "source": "ent_8604",
     "target": "ent_8605",
     "type": "related_to",
-    "id": "edge_smt_10013"
+    "id": "edge_smt_10806"
+  },
+  {
+    "source": "ent_8605",
+    "target": "ent_8602",
+    "type": "involves",
+    "id": "edge_smt_10807"
+  },
+  {
+    "source": "ent_8613",
+    "target": "ent_8616",
+    "type": "involves",
+    "id": "edge_smt_10808"
+  },
+  {
+    "source": "ent_8616",
+    "target": "ent_8614",
+    "type": "related_to",
+    "id": "edge_smt_10809"
+  },
+  {
+    "source": "ent_8617",
+    "target": "ent_8611",
+    "type": "defines",
+    "id": "edge_smt_10810"
   },
   {
     "source": "ent_8630",
     "target": "ent_8631",
     "type": "involves",
-    "id": "edge_smt_10014"
+    "id": "edge_smt_10811"
+  },
+  {
+    "source": "ent_8631",
+    "target": "ent_8633",
+    "type": "involves",
+    "id": "edge_smt_10812"
   },
   {
     "source": "ent_8647",
     "target": "ent_8648",
     "type": "has_condition",
-    "id": "edge_smt_10015"
+    "id": "edge_smt_10813"
+  },
+  {
+    "source": "ent_8652",
+    "target": "ent_8653",
+    "type": "cites",
+    "id": "edge_smt_10814"
+  },
+  {
+    "source": "ent_8657",
+    "target": "ent_8654",
+    "type": "involves",
+    "id": "edge_smt_10815"
+  },
+  {
+    "source": "ent_8654",
+    "target": "ent_8659",
+    "type": "cites",
+    "id": "edge_smt_10816"
   },
   {
     "source": "ent_8665",
     "target": "ent_8667",
     "type": "violates",
-    "id": "edge_smt_10016"
+    "id": "edge_smt_10817"
+  },
+  {
+    "source": "ent_8667",
+    "target": "ent_8660",
+    "type": "has_condition",
+    "id": "edge_smt_10818"
+  },
+  {
+    "source": "ent_8660",
+    "target": "ent_8666",
+    "type": "enables",
+    "id": "edge_smt_10819"
+  },
+  {
+    "source": "ent_8666",
+    "target": "ent_8664",
+    "type": "cites",
+    "id": "edge_smt_10820"
+  },
+  {
+    "source": "ent_8680",
+    "target": "ent_8674",
+    "type": "applies_to",
+    "id": "edge_smt_10821"
   },
   {
     "source": "ent_8674",
     "target": "ent_8692",
     "type": "involves",
-    "id": "edge_smt_10017"
+    "id": "edge_smt_10822"
+  },
+  {
+    "source": "ent_8680",
+    "target": "ent_8692",
+    "type": "involves",
+    "id": "edge_smt_10823"
   },
   {
     "source": "ent_8683",
     "target": "ent_8694",
     "type": "enables",
-    "id": "edge_smt_10018"
+    "id": "edge_smt_10824"
+  },
+  {
+    "source": "ent_8694",
+    "target": "ent_8690",
+    "type": "cites",
+    "id": "edge_smt_10825"
+  },
+  {
+    "source": "ent_8685",
+    "target": "ent_8691",
+    "type": "cites",
+    "id": "edge_smt_10826"
   },
   {
     "source": "ent_8709",
     "target": "ent_8716",
     "type": "violates",
-    "id": "edge_smt_10019"
+    "id": "edge_smt_10827"
+  },
+  {
+    "source": "ent_8716",
+    "target": "ent_8703",
+    "type": "has_condition",
+    "id": "edge_smt_10828"
+  },
+  {
+    "source": "ent_8703",
+    "target": "ent_8715",
+    "type": "enables",
+    "id": "edge_smt_10829"
+  },
+  {
+    "source": "ent_8715",
+    "target": "ent_8714",
+    "type": "cites",
+    "id": "edge_smt_10830"
   },
   {
     "source": "ent_8928",
     "target": "ent_8889",
     "type": "related_to",
-    "id": "edge_smt_10020"
+    "id": "edge_smt_10831"
   },
   {
     "source": "ent_8742",
     "target": "ent_8890",
     "type": "regulates",
-    "id": "edge_smt_10021"
+    "id": "edge_smt_10832"
   },
   {
     "source": "ent_8890",
     "target": "ent_8776",
     "type": "has_exception",
-    "id": "edge_smt_10022"
+    "id": "edge_smt_10833"
   },
   {
     "source": "ent_8776",
     "target": "ent_8772",
     "type": "regulates",
-    "id": "edge_smt_10023"
+    "id": "edge_smt_10834"
+  },
+  {
+    "source": "ent_8772",
+    "target": "ent_8764",
+    "type": "enables",
+    "id": "edge_smt_10835"
+  },
+  {
+    "source": "ent_8764",
+    "target": "ent_8781",
+    "type": "has_condition",
+    "id": "edge_smt_10836"
   },
   {
     "source": "ent_8781",
     "target": "ent_8918",
     "type": "regulates",
-    "id": "edge_smt_10024"
+    "id": "edge_smt_10837"
+  },
+  {
+    "source": "ent_8764",
+    "target": "ent_8918",
+    "type": "regulates",
+    "id": "edge_smt_10838"
+  },
+  {
+    "source": "ent_8817",
+    "target": "ent_8886",
+    "type": "cites",
+    "id": "edge_smt_10839"
   },
   {
     "source": "ent_8886",
     "target": "ent_8720",
     "type": "has_condition",
-    "id": "edge_smt_10025"
+    "id": "edge_smt_10840"
+  },
+  {
+    "source": "ent_8720",
+    "target": "ent_8824",
+    "type": "applies_to",
+    "id": "edge_smt_10841"
+  },
+  {
+    "source": "ent_8817",
+    "target": "ent_8720",
+    "type": "has_condition",
+    "id": "edge_smt_10842"
   },
   {
     "source": "ent_8743",
     "target": "ent_8744",
     "type": "involves",
-    "id": "edge_smt_10026"
+    "id": "edge_smt_10843"
+  },
+  {
+    "source": "ent_8744",
+    "target": "ent_8875",
+    "type": "applies_to",
+    "id": "edge_smt_10844"
   },
   {
     "source": "ent_8875",
     "target": "ent_8801",
     "type": "has_condition",
-    "id": "edge_smt_10027"
+    "id": "edge_smt_10845"
+  },
+  {
+    "source": "ent_8801",
+    "target": "ent_8866",
+    "type": "involves",
+    "id": "edge_smt_10846"
+  },
+  {
+    "source": "ent_8744",
+    "target": "ent_8801",
+    "type": "has_condition",
+    "id": "edge_smt_10847"
+  },
+  {
+    "source": "ent_8876",
+    "target": "ent_8829",
+    "type": "defines",
+    "id": "edge_smt_10848"
+  },
+  {
+    "source": "ent_8829",
+    "target": "ent_8805",
+    "type": "has_condition",
+    "id": "edge_smt_10849"
+  },
+  {
+    "source": "ent_8805",
+    "target": "ent_8767",
+    "type": "enables",
+    "id": "edge_smt_10850"
   },
   {
     "source": "ent_8767",
     "target": "ent_8921",
     "type": "regulates",
-    "id": "edge_smt_10028"
+    "id": "edge_smt_10851"
   },
   {
     "source": "ent_8921",
     "target": "ent_8779",
     "type": "has_condition",
-    "id": "edge_smt_10029"
+    "id": "edge_smt_10852"
+  },
+  {
+    "source": "ent_8805",
+    "target": "ent_8921",
+    "type": "regulates",
+    "id": "edge_smt_10853"
   },
   {
     "source": "ent_8878",
     "target": "ent_8726",
     "type": "has_condition",
-    "id": "edge_smt_10030"
+    "id": "edge_smt_10854"
+  },
+  {
+    "source": "ent_8726",
+    "target": "ent_8825",
+    "type": "applies_to",
+    "id": "edge_smt_10855"
   },
   {
     "source": "ent_8749",
     "target": "ent_8836",
     "type": "defines",
-    "id": "edge_smt_10031"
+    "id": "edge_smt_10856"
   },
   {
     "source": "ent_8836",
     "target": "ent_8830",
     "type": "has_condition",
-    "id": "edge_smt_10032"
+    "id": "edge_smt_10857"
   },
   {
     "source": "ent_8830",
     "target": "ent_8809",
     "type": "has_condition",
-    "id": "edge_smt_10033"
+    "id": "edge_smt_10858"
   },
   {
     "source": "ent_8809",
     "target": "ent_8814",
     "type": "related_to",
-    "id": "edge_smt_10034"
+    "id": "edge_smt_10859"
+  },
+  {
+    "source": "ent_8814",
+    "target": "ent_8879",
+    "type": "cites",
+    "id": "edge_smt_10860"
+  },
+  {
+    "source": "ent_8879",
+    "target": "ent_8765",
+    "type": "defines",
+    "id": "edge_smt_10861"
+  },
+  {
+    "source": "ent_8845",
+    "target": "ent_8794",
+    "type": "has_condition",
+    "id": "edge_smt_10862"
+  },
+  {
+    "source": "ent_8794",
+    "target": "ent_8887",
+    "type": "cites",
+    "id": "edge_smt_10863"
   },
   {
     "source": "ent_8746",
     "target": "ent_8893",
     "type": "regulates",
-    "id": "edge_smt_10035"
+    "id": "edge_smt_10864"
   },
   {
     "source": "ent_8893",
     "target": "ent_8831",
     "type": "has_condition",
-    "id": "edge_smt_10036"
+    "id": "edge_smt_10865"
+  },
+  {
+    "source": "ent_8831",
+    "target": "ent_8806",
+    "type": "has_condition",
+    "id": "edge_smt_10866"
+  },
+  {
+    "source": "ent_8806",
+    "target": "ent_8770",
+    "type": "enables",
+    "id": "edge_smt_10867"
   },
   {
     "source": "ent_8770",
     "target": "ent_8787",
     "type": "regulates",
-    "id": "edge_smt_10037"
+    "id": "edge_smt_10868"
+  },
+  {
+    "source": "ent_8787",
+    "target": "ent_8880",
+    "type": "cites",
+    "id": "edge_smt_10869"
+  },
+  {
+    "source": "ent_8806",
+    "target": "ent_8787",
+    "type": "regulates",
+    "id": "edge_smt_10870"
+  },
+  {
+    "source": "ent_8812",
+    "target": "ent_8826",
+    "type": "applies_to",
+    "id": "edge_smt_10871"
+  },
+  {
+    "source": "ent_8747",
+    "target": "ent_8882",
+    "type": "applies_to",
+    "id": "edge_smt_10872"
   },
   {
     "source": "ent_8882",
     "target": "ent_8832",
     "type": "has_condition",
-    "id": "edge_smt_10038"
+    "id": "edge_smt_10873"
+  },
+  {
+    "source": "ent_8832",
+    "target": "ent_8807",
+    "type": "has_condition",
+    "id": "edge_smt_10874"
   },
   {
     "source": "ent_8807",
     "target": "ent_8811",
     "type": "results_in",
-    "id": "edge_smt_10039"
+    "id": "edge_smt_10875"
+  },
+  {
+    "source": "ent_8811",
+    "target": "ent_8771",
+    "type": "enables",
+    "id": "edge_smt_10876"
   },
   {
     "source": "ent_8771",
     "target": "ent_8789",
     "type": "regulates",
-    "id": "edge_smt_10040"
+    "id": "edge_smt_10877"
   },
   {
     "source": "ent_8789",
     "target": "ent_8926",
     "type": "regulates",
-    "id": "edge_smt_10041"
+    "id": "edge_smt_10878"
+  },
+  {
+    "source": "ent_8747",
+    "target": "ent_8832",
+    "type": "has_condition",
+    "id": "edge_smt_10879"
+  },
+  {
+    "source": "ent_8832",
+    "target": "ent_8811",
+    "type": "results_in",
+    "id": "edge_smt_10880"
+  },
+  {
+    "source": "ent_8811",
+    "target": "ent_8789",
+    "type": "regulates",
+    "id": "edge_smt_10881"
+  },
+  {
+    "source": "ent_8813",
+    "target": "ent_8827",
+    "type": "applies_to",
+    "id": "edge_smt_10882"
   },
   {
     "source": "ent_8748",
     "target": "ent_8851",
     "type": "involves",
-    "id": "edge_smt_10042"
+    "id": "edge_smt_10883"
   },
   {
     "source": "ent_8851",
     "target": "ent_8815",
     "type": "has_condition",
-    "id": "edge_smt_10043"
+    "id": "edge_smt_10884"
+  },
+  {
+    "source": "ent_8815",
+    "target": "ent_8888",
+    "type": "cites",
+    "id": "edge_smt_10885"
   },
   {
     "source": "ent_9233",
     "target": "ent_9234",
     "type": "related_to",
-    "id": "edge_smt_10044"
+    "id": "edge_smt_10886"
   },
   {
     "source": "ent_9234",
     "target": "ent_9212",
     "type": "applies_to",
-    "id": "edge_smt_10045"
+    "id": "edge_smt_10887"
+  },
+  {
+    "source": "ent_9212",
+    "target": "ent_9153",
+    "type": "involves",
+    "id": "edge_smt_10888"
+  },
+  {
+    "source": "ent_9235",
+    "target": "ent_9165",
+    "type": "involves",
+    "id": "edge_smt_10889"
   },
   {
     "source": "ent_9165",
     "target": "ent_9160",
     "type": "involves",
-    "id": "edge_smt_10046"
+    "id": "edge_smt_10890"
+  },
+  {
+    "source": "ent_9160",
+    "target": "ent_9157",
+    "type": "related_to",
+    "id": "edge_smt_10891"
+  },
+  {
+    "source": "ent_9157",
+    "target": "ent_9262",
+    "type": "requires",
+    "id": "edge_smt_10892"
+  },
+  {
+    "source": "ent_9262",
+    "target": "ent_9252",
+    "type": "cites",
+    "id": "edge_smt_10893"
+  },
+  {
+    "source": "ent_9252",
+    "target": "ent_9148",
+    "type": "regulates",
+    "id": "edge_smt_10894"
   },
   {
     "source": "ent_9148",
     "target": "ent_9236",
     "type": "has_exception",
-    "id": "edge_smt_10047"
+    "id": "edge_smt_10895"
   },
   {
     "source": "ent_9236",
     "target": "ent_9263",
     "type": "not",
-    "id": "edge_smt_10048"
+    "id": "edge_smt_10896"
   },
   {
     "source": "ent_9263",
     "target": "ent_9192",
     "type": "related_to",
-    "id": "edge_smt_10049"
+    "id": "edge_smt_10897"
+  },
+  {
+    "source": "ent_9235",
+    "target": "ent_9160",
+    "type": "involves",
+    "id": "edge_smt_10898"
+  },
+  {
+    "source": "ent_9252",
+    "target": "ent_9236",
+    "type": "has_exception",
+    "id": "edge_smt_10899"
   },
   {
     "source": "ent_9267",
     "target": "ent_9161",
     "type": "involves",
-    "id": "edge_smt_10050"
+    "id": "edge_smt_10900"
+  },
+  {
+    "source": "ent_9161",
+    "target": "ent_9138",
+    "type": "related_to",
+    "id": "edge_smt_10901"
+  },
+  {
+    "source": "ent_9136",
+    "target": "ent_9137",
+    "type": "related_to",
+    "id": "edge_smt_10902"
+  },
+  {
+    "source": "ent_9237",
+    "target": "ent_9166",
+    "type": "involves",
+    "id": "edge_smt_10903"
+  },
+  {
+    "source": "ent_9166",
+    "target": "ent_9176",
+    "type": "related_to",
+    "id": "edge_smt_10904"
+  },
+  {
+    "source": "ent_9176",
+    "target": "ent_9202",
+    "type": "involves",
+    "id": "edge_smt_10905"
+  },
+  {
+    "source": "ent_9202",
+    "target": "ent_9254",
+    "type": "cites",
+    "id": "edge_smt_10906"
+  },
+  {
+    "source": "ent_9254",
+    "target": "ent_9141",
+    "type": "regulates",
+    "id": "edge_smt_10907"
+  },
+  {
+    "source": "ent_9141",
+    "target": "ent_9178",
+    "type": "prohibits",
+    "id": "edge_smt_10908"
   },
   {
     "source": "ent_9239",
     "target": "ent_9255",
     "type": "related_to",
-    "id": "edge_smt_10051"
+    "id": "edge_smt_10909"
   },
   {
     "source": "ent_9255",
     "target": "ent_9265",
     "type": "related_to",
-    "id": "edge_smt_10052"
+    "id": "edge_smt_10910"
   },
   {
     "source": "ent_9265",
     "target": "ent_9150",
     "type": "regulates",
-    "id": "edge_smt_10053"
+    "id": "edge_smt_10911"
   },
   {
     "source": "ent_9150",
     "target": "ent_9174",
     "type": "not",
-    "id": "edge_smt_10054"
+    "id": "edge_smt_10912"
   },
   {
     "source": "ent_9174",
     "target": "ent_9201",
     "type": "not",
-    "id": "edge_smt_10055"
+    "id": "edge_smt_10913"
+  },
+  {
+    "source": "ent_9201",
+    "target": "ent_9181",
+    "type": "enables",
+    "id": "edge_smt_10914"
   },
   {
     "source": "ent_9240",
     "target": "ent_9177",
     "type": "related_to",
-    "id": "edge_smt_10056"
+    "id": "edge_smt_10915"
+  },
+  {
+    "source": "ent_9177",
+    "target": "ent_9203",
+    "type": "involves",
+    "id": "edge_smt_10916"
+  },
+  {
+    "source": "ent_9203",
+    "target": "ent_9256",
+    "type": "cites",
+    "id": "edge_smt_10917"
+  },
+  {
+    "source": "ent_9256",
+    "target": "ent_9144",
+    "type": "regulates",
+    "id": "edge_smt_10918"
+  },
+  {
+    "source": "ent_9144",
+    "target": "ent_9179",
+    "type": "prohibits",
+    "id": "edge_smt_10919"
   },
   {
     "source": "ent_9402",
     "target": "ent_9399",
     "type": "results_in",
-    "id": "edge_smt_10057"
+    "id": "edge_smt_10920"
+  },
+  {
+    "source": "ent_9399",
+    "target": "ent_9400",
+    "type": "related_to",
+    "id": "edge_smt_10921"
   },
   {
     "source": "ent_9403",
     "target": "ent_9401",
     "type": "results_in",
-    "id": "edge_smt_10058"
+    "id": "edge_smt_10922"
   },
   {
     "source": "ent_9427",
     "target": "ent_9423",
     "type": "related_to",
-    "id": "edge_smt_10059"
+    "id": "edge_smt_10923"
   },
   {
     "source": "ent_9423",
     "target": "ent_9416",
     "type": "related_to",
-    "id": "edge_smt_10060"
+    "id": "edge_smt_10924"
+  },
+  {
+    "source": "ent_9416",
+    "target": "ent_9417",
+    "type": "related_to",
+    "id": "edge_smt_10925"
   }
 ]
