@@ -1,0 +1,148 @@
+Question 1
+Q:Người lao động được nghỉ phép bao nhiêu ngày?
+A:Theo Điều 113 của Luật Việc Làm Việt Nam, người lao động được nghỉ phép hàng năm như sau:
+
+- Đối với người làm công việc trong điều kiện bình thường: 12 ngày
+- Đối với người lao động chưa thành niên, lao động bị thương tật hoặc làm nghề, công việc nặng nhọc, độc hại, nguy hiểm: 14 ngày
+- Đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm: 16 ngày
+
+Như vậy, tổng cộng người lao động được nghỉ phép hàng năm là tối đa 42 ngày (12+14+16).
+Time: 88.1369s
+----------------------------
+Question 2
+Q:Người lao động làm thêm giờ được trả lương như thế nào?
+A:Theo Điều 98 của Luật Lao động Việt Nam, người lao động làm thêm giờ vào ban đêm sẽ được trả lương theo một cách cụ thể:
+
+- Ngoài việc trả lương theo quy định tại khoản 1 và khoản 2 Điều này,
+- Người lao động còn được trả thêm 20% tiền lương tính theo đơn giá tiền lương hoặc tiền lương theo công việc làm vào ban ngày của ngày làm việc bình thường hoặc của ngày nghỉ hằng tuần hoặc của ngày nghỉ lễ, tết.
+
+Ngoài ra, nếu người lao động làm thêm giờ vào ban đêm, họ cũng được trả thêm 20% tiền lương tương đương với mức lương tối thiểu cho công việc đó.
+Time: 87.8626s
+----------------------------
+Question 3
+Q:Người lao động nữ được nghỉ thai sản bao lâu?
+A:Theo Điều 139 của Thông tư 06/2014/TT-BTC, người lao động nữ được nghỉ thai sản là 06 tháng kể từ khi sinh con hoặc sinh đôi trở lên. Thời gian nghỉ trước khi sinh không quá 02 tháng.
+Time: 58.618s
+----------------------------
+Question 4
+Q:Người lao động có được nghỉ lễ hưởng lương không?
+A:Theo Điều 98 của Luật Lao động Việt Nam, người lao động được nghỉ lễ hưởng lương trong các trường hợp sau:
+
+- Ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương, ít nhất bằng 300% chưa kể tiền lương ngày lễ, tết, ngày nghỉ có hưởng lương đối với người lao động hưởng lương ngày.
+  
+Vì vậy, người lao động có quyền được nghỉ lễ và vẫn nhận được lương tương ứng với mức tăng lên từ 300% so với lương hàng ngày.
+Time: 67.0135s
+----------------------------
+Question 5
+Q:Người sử dụng lao động được giữ CCCD của người lao động không?
+A:Theo Điều 165 của Thông tư số 07/2019/TT-BLĐTBXH, việc giữ giấy tờ tùy thân của người lao động là một hành vi bị nghiêm cấm đối với người sử dụng lao động. Theo Điều 17 của Thông tư số 07/2019/TT-BLĐTBXH, việc giữ bản chính giấy tờ tùy thân, văn bằng, chứng chỉ của người lao động cũng là một hành vi bị nghiêm cấm đối với người sử dụng lao động.
+Time: 58.5186s
+----------------------------
+Question 6
+Q:Người lao động nghỉ việc có phải báo trước không?
+A:Theo Điều 35, người lao động có quyền đơn phương chấm dứt hợp đồng lao động nhưng phải báo trước cho người sử dụng lao động ít nhất 30 ngày nếu làm việc theo hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng.
+Time: 77.2435s
+----------------------------
+Question 7
+Q:Khi nào người lao động được đơn phương chấm dứt hợp đồng?
+A:Theo Điều 162 của Thông tư số 07/2019/TT-BLĐTBXH, người lao động được đơn phương chấm dứt hợp đồng lao động nếu hai bên đã thỏa thuận về thời hạn hợp đồng. Theo Điều 39 của Bộ Luật Lao động, đơn phương chấm dứt hợp đồng lao động trái pháp luật xảy ra khi không tuân thủ các điều 35, 36 và 37 của Bộ luật này. Người lao động cũng有权单方面解除劳动合同，前提是他们提前通知了雇主，并且雇主同意。
+Time: 55.0075s
+----------------------------
+Question 8
+Q:Người lao động thử việc tối đa bao nhiêu ngày?
+A:Theo Điều 26 của Thông tư 07/2019/TT-BLĐTBXH, tiền lương thử việc của người lao động trong thời gian thử việc do hai bên thỏa thuận nhưng ít nhất phải bằng 85% mức lương của công việc đó. Theo Điều 27 của cùng một văn bản, khi kết thúc thời gian thử việc, người sử dụng lao động phải thông báo kết quả thử việc cho người lao động. Trường hợp thử việc đạt yêu cầu thì người sử dụng lao động tiếp tục thực hiện hợp đồng lao động đã giao kết đối với trường hợp thỏa thuận thử việc trong hợp đồng lao động hoặc phải giao kết hợp đồng lao động đối với trường hợp giao kết hợp đồng thử việc.
+Time: 74.4322s
+----------------------------
+Question 9
+Q:Lương làm ban đêm được tính như thế nào?
+A:Lương làm ban đêm được tính như sau:
+
+- Người lao động làm việc vào ban đêm được trả thêm ít nhất bằng 30% tiền lương theo đơn giá tiền lương hoặc tiền lương thực trả theo công việc của ngày làm việc bình thường.
+- Ngoài ra, nếu làm thêm giờ vào ban đêm, người lao động sẽ được trả thêm 20% tiền lương theo đơn giá tiền lương hoặc tiền lương theo công việc làm vào ban ngày của ngày làm việc bình thường hoặc của ngày nghỉ hằng tuần hoặc của ngày nghỉ lễ, tết.
+Time: 63.2882s
+----------------------------
+Question 10
+Q:Người lao động chưa đủ 18 tuổi được làm công việc gì?
+A:Theo Điều 143 của Bộ Luật Lao động, người lao động chưa đủ 18 tuổi không được làm công việc hoặc làm việc ở nơi làm việc quy định tại Điều 147 của Bộ luật này.
+Time: 40.5067s
+----------------------------
+Question 11
+Q:Người lao động có được nghỉ 42 ngày phép không?
+A:Theo Điều 111 của Bộ Luật Lao động, mỗi tuần người lao động được nghỉ ít nhất 24 giờ liên tục. Trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hằng tuần, người sử dụng lao động phải bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít nhất 04 ngày. 
+
+Vậy, người lao động có được nghỉ 42 ngày phép không? Theo quy định, họ chỉ được nghỉ ít nhất 24 giờ liên tục mỗi tuần và cần được bảo đảm tối thiểu 04 ngày nghỉ trong tháng. Vì vậy, họ có thể được nghỉ khoảng hơn 42 ngày phép, nhưng tổng cộng không vượt quá 42 ngày vì các nguyên tắc về thời gian nghỉ và bảo đảm bình quân.
+Time: 80.3847s
+----------------------------
+Question 12
+Q:Làm việc 2 công ty có được hưởng gấp đôi bảo hiểm xã hội không?
+A:Theo thông tin đã cung cấp, người lao động chỉ được hưởng một lần bảo hiểm xã hội, không thể hưởng hai lần cho mỗi công ty. Việc làm việc tại nhiều công ty sẽ không mang lại hiệu quả tích cực trong việc đảm bảo bảo hiểm xã hội cho người lao động. 
+
+Nếu bạn cần hỗ trợ thêm về vấn đề bảo hiểm xã hội, vui lòng liên hệ với tôi.
+Time: 203.4307s
+----------------------------
+Question 13
+Q:Người lao động làm 5 năm được cộng thêm bao nhiêu ngày phép?
+A:Theo Điều 114 của Bộ Luật Lao động, nếu một người sử dụng lao động đủ 5 năm làm việc, họ sẽ được cộng thêm 1 ngày nghỉ hằng năm so với số ngày được quy định tại khoản 1 của Bộ luật này. 
+
+Vậy, người lao động làm 5 năm sẽ được cộng thêm 1 ngày phép.
+Time: 71.917s
+----------------------------
+Question 14
+Q:Nghỉ thai sản có được hưởng cả lương công ty và bảo hiểm xã hội không?
+A:Theo Điều 139 của Luật Việc Làm, lao động nữ được hưởng chế độ thai sản theo quy định của pháp luật về bảo hiểm xã hội. Theo Điều 140 của cùng một Luật, lao động được bảo đảm việc làm cũ khi trở lại làm việc sau khi nghỉ hết thời gian theo quy định tại các khoản 1, 3 và 5 của Bộ luật này mà không bị cắt giảm tiền lương và quyền, lợi ích so với trước khi nghỉ thai sản. Trường hợp việc làm cũ không còn thì người sử dụng lao động phải bố trí việc làm khác cho họ với mức lương không thấp hơn mức lương trước khi nghỉ thai sản. 
+
+Vì vậy, lao động nữ có được hưởng cả lương công ty và bảo hiểm xã hội khi nghỉ thai sản.
+Time: 83.3425s
+----------------------------
+Question 15
+Q:Người lao động tự ý nghỉ việc 5 ngày liên tục có bị sa thải không?
+A:Theo Điều 125 của Bộ Luật Lao động Việt Nam, nếu người lao động tự ý nghỉ việc 5 ngày liên tục trong thời hạn 30 ngày hay 20 ngày cộng dồn trong thời hạn 365 ngày tính từ ngày đầu tiên tự ý nghỉ việc mà không có lý do chính đáng, người sử dụng lao động có quyền áp dụng hình thức xử lý kỷ luật sa thải. 
+
+Vì vậy, người lao động tự ý nghỉ việc 5 ngày liên tục sẽ bị sa thải.
+Time: 119.0924s
+----------------------------
+Question 16
+Q:Hợp đồng lao động bằng miệng có hợp pháp không?
+A:Thực tế, theo các đoạn văn trên, hợp đồng lao động bằng miệng chỉ được phép trong một số trường hợp cụ thể, bao gồm:
+
+- Đối với hợp đồng có thời hạn dưới 01 tháng;
+- Trừ trường hợp quy định tại khoản 2 Điều 18, điểm a khoản 1 Điều 145 và khoản 1 Điều 162 của Bộ Luật này;
+
+Vì vậy, hợp đồng lao động bằng miệng không hoàn toàn hợp pháp mà chỉ áp dụng cho một số trường hợp đặc biệt. Theo đó, nếu muốn thực hiện hợp đồng lao động bằng miệng, cần đảm bảo rằng thỏa thuận giữa双方 phù hợp với những điều kiện đã nêu ở trên.
+Time: 75.2343s
+----------------------------
+Question 17
+Q:Người lao động bị tai nạn lao động được bồi thường thế nào?
+A:Theo Điều 129 của Bộ Luật Lao động Việt Nam, nếu người lao động gặp tai nạn lao động, sẽ được bồi thường như sau:
+
+- Nếu tai nạn là lỗi của người sử dụng lao động, người lao động có quyền yêu cầu bồi thường từ người sử dụng lao động.
+- Nếu tai nạn thuộc trường hợp "được quy định trong pháp luật" mà không cần phải qua thủ tục hòa giải, người lao động cũng có quyền yêu cầu bồi thường từ người sử dụng lao động.
+- Đối với trường hợp tai nạn thuộc "trong hợp đồng lao động", người lao động có quyền yêu cầu bồi thường từ người sử dụng lao động.
+- Đối với trường hợp tai nạn thuộc "bảo hiểm tai nạn lao động, bệnh nghề nghiệp", người lao động có quyền yêu cầu bồi thường từ cơ quan quản lý nhà nước có thẩm quyền.
+- Đối với trường hợp tai nạn thuộc "tài sản khác", người lao động có quyền yêu cầu bồi thường từ người sử dụng lao động.
+- Đối với trường hợp tai nạn thuộc "thuật toán tính bồi thường", người lao động có quyền yêu cầu bồi thường từ người sử dụng lao động.
+- Đối với trường hợp tai nạn thuộc "không có thỏa thuận bồi thường", người lao động có quyền yêu cầu bồi thường từ người sử dụng lao động.
+- Đối với trường hợp tai nạn thuộc "nếu không có thỏa thuận bồi thường", người lao động có quyền yêu cầu bồi thường từ người sử dụng lao động.
+- Đối với trường hợp tai nạn thuộc "vì nguyên nhân chủ quan của người sử dụng lao động", người lao động có quyền yêu cầu bồi thường từ người sử dụng lao động.
+- Đối với trường hợp tai nạn thuộc "do thiên tai, hỏa hoạn, địch họa, dịch bệnh nguy hiểm, thảm họa, sự kiện xảy ra khách quan không thể lường trước được và không thể khắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép", người lao động không được bồi thường.
+
+Ngoài ra, đối với trường hợp tai nạn thuộc "các loại tai nạn lao động khác", người lao động có quyền yêu cầu bồi thường từ người sử dụng lao động.
+Time: 256.7474s
+----------------------------
+Question 18
+Q:Người sử dụng lao động được phép phạt tiền nhân viên không?
+A:Theo Điều 127 của Thông tư 05/2011/TT-BLĐTBXH, phạt tiền hoặc cắt lương là những hình thức kỷ luật lao động nghiêm cấm. Theo đó, người sử dụng lao động không được áp dụng các hình thức kỷ luật lao động khác ngoài phạt tiền hoặc cắt lương.
+Time: 56.9038s
+----------------------------
+Question 19
+Q:Người lao động được nghỉ phép 12 ngày và thêm 14 ngày đúng không?
+A:Thực tế, theo các đoạn văn trên, người lao động có quyền được nghỉ phép 12 ngày và 14 ngày tùy thuộc vào tình trạng cụ thể của họ. Theo Điều 113 của Bộ Luật Lao động Việt Nam, người lao động làm việc đủ 12 tháng hoặc 14 ngày tùy thuộc vào loại công việc mà họ thực hiện. 
+
+Vì vậy, câu trả lời chính xác là "Không" - người lao động chỉ được nghỉ phép 12 ngày nếu họ làm việc đủ 12 tháng, còn 14 ngày nếu họ làm việc đủ 14 ngày. Họ không được nghỉ cả 12 ngày và 14 ngày cùng lúc.
+Time: 75.5195s
+----------------------------
+Question 20
+Q:Người lao động làm việc trong điều kiện đặc biệt nặng nhọc được nghỉ bao nhiêu ngày?
+A:Theo Điều 113 của Thông tư 07/2019/TT-BLĐTBXH, người lao động làm việc trong điều kiện đặc biệt nặng nhọc sẽ được nghỉ 14 ngày hàng năm.
+Time: 66.1789s
+----------------------------
