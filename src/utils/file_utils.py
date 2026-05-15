@@ -26,7 +26,7 @@ def save_txt(lines, output_path, mode="w"):
 
     with open(output_path, mode, encoding="utf-8") as f:
         if isinstance(lines, list):
-            f.writelines(lines)
+            f.write("\n".join(lines))
         else:
             f.write(lines)
 

@@ -255,7 +255,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "chương xi của bộ luật này",
+        "text": "chương xi của bộ luật lao động",
         "span": [
           255,
           280
@@ -264,7 +264,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "mục 1 chương xi của bộ luật này",
+        "text": "mục 1 chương xi của bộ luật lao động",
         "span": [
           249,
           280
@@ -273,7 +273,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           269,
           280
@@ -1432,7 +1432,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           193,
           204
@@ -5390,6 +5390,15 @@
           9
         ],
         "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 12",
+        "span": [
+          28,
+          36
+        ],
+        "source": "pattern"
       }
     ]
   },
@@ -5768,10 +5777,37 @@
       },
       {
         "type": "LEGAL_REF",
+        "text": "khoản 2 điều 14",
+        "span": [
+          153,
+          182
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
         "text": "theo quy định của pháp luật về giao dịch điện tử có giá trị như hợp đồng lao động bằng văn bản",
         "span": [
           280,
           374
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 14",
+        "span": [
+          166,
+          182
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 14",
+        "span": [
+          174,
+          182
         ],
         "source": "pattern"
       },
@@ -5848,7 +5884,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm a khoản 2 điều 18 của bộ luật này",
+        "text": "điểm a khoản 2 điều 18 của bộ luật lao động",
         "span": [
           114,
           203
@@ -5857,7 +5893,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 145 của bộ luật này",
+        "text": "khoản 1 điều 145 của bộ luật lao động",
         "span": [
           114,
           203
@@ -5866,7 +5902,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 162 của bộ luật này",
+        "text": "khoản 1 điều 162 của bộ luật lao động",
         "span": [
           114,
           203
@@ -5875,7 +5911,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm a khoản 1 điều 145 của bộ luật này",
+        "text": "điểm a khoản 1 điều 145 của bộ luật lao động",
         "span": [
           144,
           203
@@ -5884,7 +5920,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 162 của bộ luật này",
+        "text": "khoản 1 điều 162 của bộ luật lao động",
         "span": [
           144,
           203
@@ -5893,7 +5929,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm a khoản 2 điều 18 của bộ luật này",
+        "text": "điểm a khoản 2 điều 18 của bộ luật lao động",
         "span": [
           127,
           203
@@ -5902,7 +5938,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 145 của bộ luật này",
+        "text": "khoản 1 điều 145 của bộ luật lao động",
         "span": [
           127,
           203
@@ -5911,7 +5947,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 162 của bộ luật này",
+        "text": "khoản 1 điều 162 của bộ luật lao động",
         "span": [
           127,
           203
@@ -5920,7 +5956,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 18 của bộ luật này",
+        "text": "điều 18 của bộ luật lao động",
         "span": [
           135,
           203
@@ -5929,7 +5965,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm a khoản 1 điều 145 của bộ luật này",
+        "text": "điểm a khoản 1 điều 145 của bộ luật lao động",
         "span": [
           135,
           203
@@ -5938,7 +5974,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 162 của bộ luật này",
+        "text": "khoản 1 điều 162 của bộ luật lao động",
         "span": [
           135,
           203
@@ -5947,7 +5983,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           192,
           203
@@ -6536,6 +6572,33 @@
         "span": [
           34,
           51
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 18",
+        "span": [
+          68,
+          97
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 18",
+        "span": [
+          81,
+          97
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 18",
+        "span": [
+          89,
+          97
         ],
         "source": "pattern"
       }
@@ -8321,7 +8384,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm b khoản 1",
+        "text": "điểm b khoản 1 điều 20",
         "span": [
           22,
           58
@@ -8330,7 +8393,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm b khoản 1",
+        "text": "điểm b khoản 1 điều 20",
         "span": [
           513,
           549
@@ -8339,7 +8402,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 149 của bộ luật này",
+        "text": "khoản 1 điều 149 của bộ luật lao động",
         "span": [
           942,
           1025
@@ -8348,7 +8411,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 151 của bộ luật này",
+        "text": "khoản 2 điều 151 của bộ luật lao động",
         "span": [
           942,
           1025
@@ -8357,7 +8420,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 4 điều 177 của bộ luật này",
+        "text": "khoản 4 điều 177 của bộ luật lao động",
         "span": [
           942,
           1025
@@ -8366,7 +8429,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm b khoản 1",
+        "text": "điểm b khoản 1 điều 20",
         "span": [
           508,
           549
@@ -8375,7 +8438,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm b khoản 1",
+        "text": "điểm b khoản 1 điều 20",
         "span": [
           35,
           58
@@ -8384,7 +8447,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm b khoản 1",
+        "text": "điểm b khoản 1 điều 20",
         "span": [
           526,
           549
@@ -8393,7 +8456,25 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 149 của bộ luật này",
+        "text": "khoản 1 điều 20",
+        "span": [
+          42,
+          58
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 20",
+        "span": [
+          533,
+          549
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 149 của bộ luật lao động",
         "span": [
           955,
           1025
@@ -8402,7 +8483,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 151 của bộ luật này",
+        "text": "khoản 2 điều 151 của bộ luật lao động",
         "span": [
           955,
           1025
@@ -8411,7 +8492,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 4 điều 177 của bộ luật này",
+        "text": "khoản 4 điều 177 của bộ luật lao động",
         "span": [
           955,
           1025
@@ -8420,7 +8501,25 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 149 của bộ luật này",
+        "text": "điều 20",
+        "span": [
+          50,
+          58
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 20",
+        "span": [
+          541,
+          549
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 149 của bộ luật lao động",
         "span": [
           963,
           1025
@@ -8429,7 +8528,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 151 của bộ luật này",
+        "text": "khoản 2 điều 151 của bộ luật lao động",
         "span": [
           963,
           1025
@@ -8438,7 +8537,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 4 điều 177 của bộ luật này",
+        "text": "khoản 4 điều 177 của bộ luật lao động",
         "span": [
           963,
           1025
@@ -8447,7 +8546,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           1014,
           1025
@@ -8720,7 +8819,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm b khoản 1",
+        "text": "điểm b khoản 1 điều 20",
         "span": [
           138,
           174
@@ -8729,7 +8828,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm b khoản 1",
+        "text": "điểm b khoản 1 điều 20",
         "span": [
           133,
           174
@@ -8738,9 +8837,27 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm b khoản 1",
+        "text": "điểm b khoản 1 điều 20",
         "span": [
           151,
+          174
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 20",
+        "span": [
+          158,
+          174
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 20",
+        "span": [
+          166,
           174
         ],
         "source": "pattern"
@@ -8870,7 +8987,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 149 của bộ luật này",
+        "text": "khoản 1 điều 149 của bộ luật lao động",
         "span": [
           336,
           419
@@ -8879,7 +8996,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 151 của bộ luật này",
+        "text": "khoản 2 điều 151 của bộ luật lao động",
         "span": [
           336,
           419
@@ -8888,7 +9005,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 4 điều 177 của bộ luật này",
+        "text": "khoản 4 điều 177 của bộ luật lao động",
         "span": [
           336,
           419
@@ -8897,7 +9014,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 149 của bộ luật này",
+        "text": "khoản 1 điều 149 của bộ luật lao động",
         "span": [
           349,
           419
@@ -8906,7 +9023,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 151 của bộ luật này",
+        "text": "khoản 2 điều 151 của bộ luật lao động",
         "span": [
           349,
           419
@@ -8915,7 +9032,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 4 điều 177 của bộ luật này",
+        "text": "khoản 4 điều 177 của bộ luật lao động",
         "span": [
           349,
           419
@@ -8924,7 +9041,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 149 của bộ luật này",
+        "text": "điều 149 của bộ luật lao động",
         "span": [
           357,
           419
@@ -8933,7 +9050,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 151 của bộ luật này",
+        "text": "khoản 2 điều 151 của bộ luật lao động",
         "span": [
           357,
           419
@@ -8942,7 +9059,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 4 điều 177 của bộ luật này",
+        "text": "khoản 4 điều 177 của bộ luật lao động",
         "span": [
           357,
           419
@@ -8951,7 +9068,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           408,
           419
@@ -10074,6 +10191,24 @@
           45
         ],
         "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 21",
+        "span": [
+          64,
+          92
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 21",
+        "span": [
+          84,
+          92
+        ],
+        "source": "pattern"
       }
     ]
   },
@@ -10343,7 +10478,7 @@
     "entities": [
       {
         "type": "LEGAL_REF",
-        "text": "điểm a khoản 1 điều 21 của bộ luật này",
+        "text": "điểm a khoản 1 điều 21 của bộ luật lao động",
         "span": [
           87,
           146
@@ -10352,7 +10487,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 21 của bộ luật này",
+        "text": "khoản 1 điều 21 của bộ luật lao động",
         "span": [
           115,
           146
@@ -10361,7 +10496,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 21 của bộ luật này",
+        "text": "điều 21 của bộ luật lao động",
         "span": [
           123,
           146
@@ -10370,7 +10505,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           135,
           146
@@ -11449,6 +11584,33 @@
         "source": "pattern"
       },
       {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 29",
+        "span": [
+          79,
+          108
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 29",
+        "span": [
+          92,
+          108
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 29",
+        "span": [
+          100,
+          108
+        ],
+        "source": "pattern"
+      },
+      {
         "type": "OBLIGATION",
         "text": "phải báo cho người lao động biết trước ít nhất 03 ngày làm việc, thông báo rõ thời hạn làm tạm thời và bố trí công việc phù hợp với sức khỏe, giới tính của người lao động",
         "span": [
@@ -11808,7 +11970,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 99 của bộ luật này",
+        "text": "điều 99 của bộ luật lao động",
         "span": [
           201,
           237
@@ -11817,7 +11979,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 99 của bộ luật này",
+        "text": "điều 99 của bộ luật lao động",
         "span": [
           196,
           237
@@ -11826,7 +11988,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 99 của bộ luật này",
+        "text": "điều 99 của bộ luật lao động",
         "span": [
           214,
           237
@@ -11835,7 +11997,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           226,
           237
@@ -12185,7 +12347,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 138 của bộ luật này",
+        "text": "điều 138 của bộ luật lao động",
         "span": [
           403,
           440
@@ -12203,7 +12365,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 138 của bộ luật này",
+        "text": "điều 138 của bộ luật lao động",
         "span": [
           398,
           440
@@ -12212,7 +12374,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 138 của bộ luật này",
+        "text": "điều 138 của bộ luật lao động",
         "span": [
           416,
           440
@@ -12221,7 +12383,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           429,
           440
@@ -12407,7 +12569,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 138 của bộ luật này",
+        "text": "điều 138 của bộ luật lao động",
         "span": [
           27,
           64
@@ -12416,7 +12578,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 138 của bộ luật này",
+        "text": "điều 138 của bộ luật lao động",
         "span": [
           22,
           64
@@ -12425,7 +12587,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 138 của bộ luật này",
+        "text": "điều 138 của bộ luật lao động",
         "span": [
           40,
           64
@@ -12434,7 +12596,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           53,
           64
@@ -13341,7 +13503,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 4 điều 177 của bộ luật này",
+        "text": "khoản 4 điều 177 của bộ luật lao động",
         "span": [
           42,
           87
@@ -13350,7 +13512,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 4 điều 177 của bộ luật này",
+        "text": "khoản 4 điều 177 của bộ luật lao động",
         "span": [
           55,
           87
@@ -13359,7 +13521,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 177 của bộ luật này",
+        "text": "điều 177 của bộ luật lao động",
         "span": [
           63,
           87
@@ -13368,7 +13530,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           76,
           87
@@ -13954,7 +14116,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 35 của bộ luật này",
+        "text": "điều 35 của bộ luật lao động",
         "span": [
           58,
           94
@@ -13963,7 +14125,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 35 của bộ luật này",
+        "text": "điều 35 của bộ luật lao động",
         "span": [
           53,
           94
@@ -13972,7 +14134,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 35 của bộ luật này",
+        "text": "điều 35 của bộ luật lao động",
         "span": [
           71,
           94
@@ -13981,7 +14143,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           83,
           94
@@ -14034,7 +14196,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 36 của bộ luật này",
+        "text": "điều 36 của bộ luật lao động",
         "span": [
           66,
           102
@@ -14043,7 +14205,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 36 của bộ luật này",
+        "text": "điều 36 của bộ luật lao động",
         "span": [
           61,
           102
@@ -14052,7 +14214,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 36 của bộ luật này",
+        "text": "điều 36 của bộ luật lao động",
         "span": [
           79,
           102
@@ -14061,7 +14223,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           91,
           102
@@ -14105,7 +14267,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 42 của bộ luật này",
+        "text": "điều 42 của bộ luật lao động",
         "span": [
           57,
           104
@@ -14114,7 +14276,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 43 của bộ luật này",
+        "text": "điều 43 của bộ luật lao động",
         "span": [
           57,
           104
@@ -14123,7 +14285,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 42 của bộ luật này",
+        "text": "điều 42 của bộ luật lao động",
         "span": [
           52,
           104
@@ -14132,7 +14294,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 43 của bộ luật này",
+        "text": "điều 43 của bộ luật lao động",
         "span": [
           52,
           104
@@ -14141,7 +14303,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 42 của bộ luật này",
+        "text": "điều 42 của bộ luật lao động",
         "span": [
           70,
           104
@@ -14150,7 +14312,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 43 của bộ luật này",
+        "text": "điều 43 của bộ luật lao động",
         "span": [
           70,
           104
@@ -14159,7 +14321,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           93,
           104
@@ -14212,7 +14374,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 156 của bộ luật này",
+        "text": "điều 156 của bộ luật lao động",
         "span": [
           102,
           139
@@ -14221,7 +14383,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 156 của bộ luật này",
+        "text": "điều 156 của bộ luật lao động",
         "span": [
           97,
           139
@@ -14230,7 +14392,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 156 của bộ luật này",
+        "text": "điều 156 của bộ luật lao động",
         "span": [
           115,
           139
@@ -14239,7 +14401,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           128,
           139
@@ -15187,7 +15349,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 29 của bộ luật này",
+        "text": "điều 29 của bộ luật lao động",
         "span": [
           243,
           279
@@ -15196,7 +15358,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 4 điều 97 của bộ luật này",
+        "text": "khoản 4 điều 97 của bộ luật lao động",
         "span": [
           359,
           403
@@ -15205,7 +15367,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 138 của bộ luật này",
+        "text": "khoản 1 điều 138 của bộ luật lao động",
         "span": [
           654,
           699
@@ -15214,7 +15376,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 169 của bộ luật này",
+        "text": "điều 169 của bộ luật lao động",
         "span": [
           726,
           763
@@ -15223,7 +15385,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 16 của bộ luật này",
+        "text": "khoản 1 điều 16 của bộ luật lao động",
         "span": [
           875,
           919
@@ -15232,7 +15394,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 138 của bộ luật này",
+        "text": "khoản 1 điều 138 của bộ luật lao động",
         "span": [
           649,
           699
@@ -15241,7 +15403,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 169 của bộ luật này",
+        "text": "điều 169 của bộ luật lao động",
         "span": [
           721,
           763
@@ -15250,7 +15412,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 16 của bộ luật này",
+        "text": "khoản 1 điều 16 của bộ luật lao động",
         "span": [
           870,
           919
@@ -15259,7 +15421,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 4 điều 97 của bộ luật này",
+        "text": "khoản 4 điều 97 của bộ luật lao động",
         "span": [
           372,
           403
@@ -15268,7 +15430,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 138 của bộ luật này",
+        "text": "khoản 1 điều 138 của bộ luật lao động",
         "span": [
           667,
           699
@@ -15277,7 +15439,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 16 của bộ luật này",
+        "text": "khoản 1 điều 16 của bộ luật lao động",
         "span": [
           888,
           919
@@ -15286,7 +15448,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 97 của bộ luật này",
+        "text": "điều 97 của bộ luật lao động",
         "span": [
           380,
           403
@@ -15295,7 +15457,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 138 của bộ luật này",
+        "text": "điều 138 của bộ luật lao động",
         "span": [
           675,
           699
@@ -15304,7 +15466,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 169 của bộ luật này",
+        "text": "điều 169 của bộ luật lao động",
         "span": [
           739,
           763
@@ -15313,7 +15475,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 16 của bộ luật này",
+        "text": "điều 16 của bộ luật lao động",
         "span": [
           896,
           919
@@ -15322,7 +15484,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           268,
           279
@@ -15331,7 +15493,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           392,
           403
@@ -15340,7 +15502,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           688,
           699
@@ -15349,7 +15511,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           752,
           763
@@ -15358,7 +15520,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           908,
           919
@@ -15436,7 +15598,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 29 của bộ luật này",
+        "text": "điều 29 của bộ luật lao động",
         "span": [
           132,
           168
@@ -15445,7 +15607,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           157,
           168
@@ -15523,7 +15685,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 4 điều 97 của bộ luật này",
+        "text": "khoản 4 điều 97 của bộ luật lao động",
         "span": [
           75,
           119
@@ -15532,7 +15694,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 4 điều 97 của bộ luật này",
+        "text": "khoản 4 điều 97 của bộ luật lao động",
         "span": [
           88,
           119
@@ -15541,7 +15703,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 97 của bộ luật này",
+        "text": "điều 97 của bộ luật lao động",
         "span": [
           96,
           119
@@ -15550,7 +15712,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           108,
           119
@@ -15658,7 +15820,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 138 của bộ luật này",
+        "text": "khoản 1 điều 138 của bộ luật lao động",
         "span": [
           42,
           87
@@ -15667,7 +15829,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 138 của bộ luật này",
+        "text": "khoản 1 điều 138 của bộ luật lao động",
         "span": [
           37,
           87
@@ -15676,7 +15838,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 138 của bộ luật này",
+        "text": "khoản 1 điều 138 của bộ luật lao động",
         "span": [
           55,
           87
@@ -15685,7 +15847,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 138 của bộ luật này",
+        "text": "điều 138 của bộ luật lao động",
         "span": [
           63,
           87
@@ -15694,7 +15856,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           76,
           87
@@ -15781,7 +15943,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 169 của bộ luật này",
+        "text": "điều 169 của bộ luật lao động",
         "span": [
           22,
           59
@@ -15790,7 +15952,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 169 của bộ luật này",
+        "text": "điều 169 của bộ luật lao động",
         "span": [
           17,
           59
@@ -15799,7 +15961,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 169 của bộ luật này",
+        "text": "điều 169 của bộ luật lao động",
         "span": [
           35,
           59
@@ -15808,7 +15970,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           48,
           59
@@ -15868,7 +16030,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 16 của bộ luật này",
+        "text": "khoản 1 điều 16 của bộ luật lao động",
         "span": [
           64,
           108
@@ -15877,7 +16039,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 16 của bộ luật này",
+        "text": "khoản 1 điều 16 của bộ luật lao động",
         "span": [
           59,
           108
@@ -15886,7 +16048,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 16 của bộ luật này",
+        "text": "khoản 1 điều 16 của bộ luật lao động",
         "span": [
           77,
           108
@@ -15895,7 +16057,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 16 của bộ luật này",
+        "text": "điều 16 của bộ luật lao động",
         "span": [
           85,
           108
@@ -15904,7 +16066,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           97,
           108
@@ -16686,7 +16848,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 31 của bộ luật này",
+        "text": "điều 31 của bộ luật lao động",
         "span": [
           1371,
           1407
@@ -16695,7 +16857,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 169 của bộ luật này",
+        "text": "điều 169 của bộ luật lao động",
         "span": [
           1449,
           1486
@@ -16704,7 +16866,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 16 của bộ luật này",
+        "text": "khoản 2 điều 16 của bộ luật lao động",
         "span": [
           1680,
           1724
@@ -16713,7 +16875,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 169 của bộ luật này",
+        "text": "điều 169 của bộ luật lao động",
         "span": [
           1444,
           1486
@@ -16722,7 +16884,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 16 của bộ luật này",
+        "text": "khoản 2 điều 16 của bộ luật lao động",
         "span": [
           1675,
           1724
@@ -16731,7 +16893,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 16 của bộ luật này",
+        "text": "khoản 2 điều 16 của bộ luật lao động",
         "span": [
           1693,
           1724
@@ -16740,7 +16902,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 31 của bộ luật này",
+        "text": "điều 31 của bộ luật lao động",
         "span": [
           1384,
           1407
@@ -16749,7 +16911,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 169 của bộ luật này",
+        "text": "điều 169 của bộ luật lao động",
         "span": [
           1462,
           1486
@@ -16758,7 +16920,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 16 của bộ luật này",
+        "text": "điều 16 của bộ luật lao động",
         "span": [
           1701,
           1724
@@ -16767,7 +16929,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           1396,
           1407
@@ -16776,7 +16938,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           1475,
           1486
@@ -16785,7 +16947,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           1713,
           1724
@@ -17385,7 +17547,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 31 của bộ luật này",
+        "text": "điều 31 của bộ luật lao động",
         "span": [
           58,
           94
@@ -17394,7 +17556,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 31 của bộ luật này",
+        "text": "điều 31 của bộ luật lao động",
         "span": [
           71,
           94
@@ -17403,7 +17565,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           83,
           94
@@ -17481,7 +17643,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 169 của bộ luật này",
+        "text": "điều 169 của bộ luật lao động",
         "span": [
           37,
           74
@@ -17490,7 +17652,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 169 của bộ luật này",
+        "text": "điều 169 của bộ luật lao động",
         "span": [
           32,
           74
@@ -17499,7 +17661,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 169 của bộ luật này",
+        "text": "điều 169 của bộ luật lao động",
         "span": [
           50,
           74
@@ -17508,7 +17670,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           63,
           74
@@ -17628,7 +17790,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 16 của bộ luật này",
+        "text": "khoản 2 điều 16 của bộ luật lao động",
         "span": [
           56,
           100
@@ -17637,7 +17799,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 16 của bộ luật này",
+        "text": "khoản 2 điều 16 của bộ luật lao động",
         "span": [
           51,
           100
@@ -17646,7 +17808,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 16 của bộ luật này",
+        "text": "khoản 2 điều 16 của bộ luật lao động",
         "span": [
           69,
           100
@@ -17655,7 +17817,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 16 của bộ luật này",
+        "text": "điều 16 của bộ luật lao động",
         "span": [
           77,
           100
@@ -17664,7 +17826,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           89,
           100
@@ -18005,7 +18167,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm b khoản 1",
+        "text": "điểm b khoản 1 điều 36",
         "span": [
           472,
           508
@@ -18023,7 +18185,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm a khoản 1",
+        "text": "điểm a khoản 1 điều 36",
         "span": [
           72,
           113
@@ -18032,9 +18194,45 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm b khoản 1",
+        "text": "điểm b khoản 1 điều 36",
         "span": [
           485,
+          508
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 36",
+        "span": [
+          97,
+          113
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 36",
+        "span": [
+          492,
+          508
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 36",
+        "span": [
+          105,
+          113
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 36",
+        "span": [
+          500,
           508
         ],
         "source": "pattern"
@@ -18248,7 +18446,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm b khoản 1",
+        "text": "điểm b khoản 1 điều 36",
         "span": [
           117,
           153
@@ -18257,9 +18455,27 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm b khoản 1",
+        "text": "điểm b khoản 1 điều 36",
         "span": [
           130,
+          153
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 36",
+        "span": [
+          137,
+          153
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 36",
+        "span": [
+          145,
           153
         ],
         "source": "pattern"
@@ -18406,7 +18622,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm d khoản 1",
+        "text": "điểm d khoản 1 điều 36",
         "span": [
           42,
           88
@@ -18415,7 +18631,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm e khoản 1",
+        "text": "điểm e khoản 1 điều 36",
         "span": [
           42,
           88
@@ -18424,7 +18640,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm d khoản 1",
+        "text": "điểm d khoản 1 điều 36",
         "span": [
           55,
           88
@@ -18433,9 +18649,27 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm e khoản 1",
+        "text": "điểm e khoản 1 điều 36",
         "span": [
           55,
+          88
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 36",
+        "span": [
+          72,
+          88
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 36",
+        "span": [
+          80,
           88
         ],
         "source": "pattern"
@@ -18504,7 +18738,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm b khoản 1 điều 36 của bộ luật này",
+        "text": "điểm b khoản 1 điều 36 của bộ luật lao động",
         "span": [
           157,
           208
@@ -18513,7 +18747,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm b khoản 1 điều 36 của bộ luật này",
+        "text": "điểm b khoản 1 điều 36 của bộ luật lao động",
         "span": [
           170,
           208
@@ -18522,7 +18756,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 36 của bộ luật này",
+        "text": "khoản 1 điều 36 của bộ luật lao động",
         "span": [
           177,
           208
@@ -18531,7 +18765,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           197,
           208
@@ -18877,7 +19111,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 62 của bộ luật này",
+        "text": "điều 62 của bộ luật lao động",
         "span": [
           57,
           93
@@ -18886,7 +19120,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 62 của bộ luật này",
+        "text": "điều 62 của bộ luật lao động",
         "span": [
           70,
           93
@@ -18895,7 +19129,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           82,
           93
@@ -19398,7 +19632,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 36 của bộ luật này",
+        "text": "khoản 2 điều 36 của bộ luật lao động",
         "span": [
           718,
           762
@@ -19407,7 +19641,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 36 của bộ luật này",
+        "text": "khoản 2 điều 36 của bộ luật lao động",
         "span": [
           731,
           762
@@ -19416,7 +19650,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 36 của bộ luật này",
+        "text": "điều 36 của bộ luật lao động",
         "span": [
           739,
           762
@@ -19425,7 +19659,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           751,
           762
@@ -19568,7 +19802,16 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 46 của bộ luật này",
+        "text": "khoản 1 điều 41",
+        "span": [
+          85,
+          114
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 46 của bộ luật lao động",
         "span": [
           165,
           206
@@ -19577,7 +19820,16 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "điều 41",
+        "span": [
+          106,
+          114
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "bộ luật lao động",
         "span": [
           195,
           206
@@ -19792,7 +20044,34 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "khoản 1 điều 41",
+        "span": [
+          152,
+          181
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 41",
+        "span": [
+          147,
+          181
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 41",
+        "span": [
+          173,
+          181
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "bộ luật lao động",
         "span": [
           233,
           244
@@ -20169,7 +20448,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 44 của bộ luật này",
+        "text": "điều 44 của bộ luật lao động",
         "span": [
           175,
           211
@@ -20178,7 +20457,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 44 của bộ luật này",
+        "text": "điều 44 của bộ luật lao động",
         "span": [
           170,
           211
@@ -20187,7 +20466,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 44 của bộ luật này",
+        "text": "điều 44 của bộ luật lao động",
         "span": [
           188,
           211
@@ -20196,7 +20475,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           200,
           211
@@ -20312,7 +20591,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 44 của bộ luật này",
+        "text": "điều 44 của bộ luật lao động",
         "span": [
           184,
           220
@@ -20321,7 +20600,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 44 của bộ luật này",
+        "text": "điều 44 của bộ luật lao động",
         "span": [
           179,
           220
@@ -20330,7 +20609,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 44 của bộ luật này",
+        "text": "điều 44 của bộ luật lao động",
         "span": [
           197,
           220
@@ -20339,7 +20618,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           209,
           220
@@ -20482,7 +20761,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 47 của bộ luật này",
+        "text": "điều 47 của bộ luật lao động",
         "span": [
           151,
           187
@@ -20491,7 +20770,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 47 của bộ luật này",
+        "text": "điều 47 của bộ luật lao động",
         "span": [
           146,
           187
@@ -20500,7 +20779,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 47 của bộ luật này",
+        "text": "điều 47 của bộ luật lao động",
         "span": [
           164,
           187
@@ -20509,7 +20788,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           176,
           187
@@ -20714,6 +20993,33 @@
         "source": "pattern"
       },
       {
+        "type": "LEGAL_REF",
+        "text": "điều 42",
+        "span": [
+          47,
+          68
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 42",
+        "span": [
+          42,
+          68
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 42",
+        "span": [
+          60,
+          68
+        ],
+        "source": "pattern"
+      },
+      {
         "type": "OBLIGATION",
         "text": "việc cho thôi việc đối với người lao động",
         "span": [
@@ -20876,7 +21182,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 44 của bộ luật này",
+        "text": "điều 44 của bộ luật lao động",
         "span": [
           302,
           338
@@ -20885,7 +21191,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 44 của bộ luật này",
+        "text": "điều 44 của bộ luật lao động",
         "span": [
           297,
           338
@@ -20894,7 +21200,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 44 của bộ luật này",
+        "text": "điều 44 của bộ luật lao động",
         "span": [
           315,
           338
@@ -20903,7 +21209,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           327,
           338
@@ -21027,7 +21333,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 47 của bộ luật này",
+        "text": "điều 47 của bộ luật lao động",
         "span": [
           68,
           104
@@ -21036,7 +21342,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 47 của bộ luật này",
+        "text": "điều 47 của bộ luật lao động",
         "span": [
           63,
           104
@@ -21045,7 +21351,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 47 của bộ luật này",
+        "text": "điều 47 của bộ luật lao động",
         "span": [
           81,
           104
@@ -21054,7 +21360,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           93,
           104
@@ -21756,7 +22062,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "theo quy định của bộ luật này",
+        "text": "theo quy định của bộ luật lao động",
         "span": [
           136,
           165
@@ -21765,7 +22071,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 4 điều 34 của bộ luật này",
+        "text": "khoản 4 điều 34 của bộ luật lao động",
         "span": [
           195,
           244
@@ -21774,7 +22080,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 34 của bộ luật này",
+        "text": "điều 34 của bộ luật lao động",
         "span": [
           221,
           244
@@ -21783,7 +22089,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           154,
           165
@@ -22025,7 +22331,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 7 điều 34 của bộ luật này",
+        "text": "khoản 7 điều 34 của bộ luật lao động",
         "span": [
           438,
           482
@@ -22034,7 +22340,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 7 điều 34 của bộ luật này",
+        "text": "khoản 7 điều 34 của bộ luật lao động",
         "span": [
           433,
           482
@@ -22043,7 +22349,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 7 điều 34 của bộ luật này",
+        "text": "khoản 7 điều 34 của bộ luật lao động",
         "span": [
           451,
           482
@@ -22052,7 +22358,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 34 của bộ luật này",
+        "text": "điều 34 của bộ luật lao động",
         "span": [
           459,
           482
@@ -22061,7 +22367,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           471,
           482
@@ -22285,7 +22591,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm e khoản 1 điều 36 của bộ luật này",
+        "text": "điểm e khoản 1 điều 36 của bộ luật lao động",
         "span": [
           411,
           462
@@ -22294,7 +22600,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 34 của bộ luật này",
+        "text": "khoản 1 điều 34 của bộ luật lao động",
         "span": [
           31,
           108
@@ -22303,7 +22609,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm e khoản 1 điều 36 của bộ luật này",
+        "text": "điểm e khoản 1 điều 36 của bộ luật lao động",
         "span": [
           424,
           462
@@ -22312,7 +22618,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 34 của bộ luật này",
+        "text": "khoản 1 điều 34 của bộ luật lao động",
         "span": [
           49,
           108
@@ -22321,7 +22627,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 34 của bộ luật này",
+        "text": "điều 34 của bộ luật lao động",
         "span": [
           85,
           108
@@ -22330,7 +22636,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           97,
           108
@@ -22639,6 +22945,15 @@
           9
         ],
         "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 46",
+        "span": [
+          28,
+          36
+        ],
+        "source": "pattern"
       }
     ]
   },
@@ -22776,7 +23091,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 11 điều 34 của bộ luật này",
+        "text": "khoản 11 điều 34 của bộ luật lao động",
         "span": [
           148,
           193
@@ -22785,7 +23100,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 11 điều 34 của bộ luật này",
+        "text": "khoản 11 điều 34 của bộ luật lao động",
         "span": [
           143,
           193
@@ -22794,7 +23109,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 11 điều 34 của bộ luật này",
+        "text": "khoản 11 điều 34 của bộ luật lao động",
         "span": [
           161,
           193
@@ -22803,7 +23118,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 34 của bộ luật này",
+        "text": "điều 34 của bộ luật lao động",
         "span": [
           170,
           193
@@ -22812,7 +23127,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           182,
           193
@@ -23101,6 +23416,15 @@
         "span": [
           0,
           9
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 47",
+        "span": [
+          28,
+          36
         ],
         "source": "pattern"
       }
@@ -24209,7 +24533,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 15 của bộ luật này",
+        "text": "khoản 1 điều 15 của bộ luật lao động",
         "span": [
           230,
           274
@@ -24218,7 +24542,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 15 của bộ luật này",
+        "text": "khoản 1 điều 15 của bộ luật lao động",
         "span": [
           243,
           274
@@ -24227,7 +24551,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 15 của bộ luật này",
+        "text": "điều 15 của bộ luật lao động",
         "span": [
           251,
           274
@@ -24236,7 +24560,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           263,
           274
@@ -24347,7 +24671,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 15 của bộ luật này",
+        "text": "khoản 1 điều 15 của bộ luật lao động",
         "span": [
           106,
           150
@@ -24356,7 +24680,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 15 của bộ luật này",
+        "text": "khoản 1 điều 15 của bộ luật lao động",
         "span": [
           119,
           150
@@ -24365,7 +24689,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 15 của bộ luật này",
+        "text": "điều 15 của bộ luật lao động",
         "span": [
           127,
           150
@@ -24374,7 +24698,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           139,
           150
@@ -24878,6 +25202,15 @@
         "span": [
           0,
           9
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 51",
+        "span": [
+          28,
+          36
         ],
         "source": "pattern"
       }
@@ -27017,7 +27350,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "theo quy định của bộ luật này",
+        "text": "theo quy định của bộ luật lao động",
         "span": [
           77,
           106
@@ -27026,7 +27359,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           95,
           106
@@ -28622,7 +28955,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "theo quy định của bộ luật này",
+        "text": "theo quy định của bộ luật lao động",
         "span": [
           92,
           121
@@ -28631,7 +28964,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           110,
           121
@@ -29301,7 +29634,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm a khoản 1 điều 36 của bộ luật này",
+        "text": "điểm a khoản 1 điều 36 của bộ luật lao động",
         "span": [
           182,
           284
@@ -29310,7 +29643,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 42 của bộ luật này",
+        "text": "điều 42 của bộ luật lao động",
         "span": [
           182,
           284
@@ -29319,7 +29652,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 128 của bộ luật này",
+        "text": "khoản 1 điều 128 của bộ luật lao động",
         "span": [
           182,
           284
@@ -29328,7 +29661,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm a khoản 1 điều 36 của bộ luật này",
+        "text": "điểm a khoản 1 điều 36 của bộ luật lao động",
         "span": [
           195,
           284
@@ -29337,7 +29670,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 42 của bộ luật này",
+        "text": "điều 42 của bộ luật lao động",
         "span": [
           195,
           284
@@ -29346,7 +29679,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 128 của bộ luật này",
+        "text": "khoản 1 điều 128 của bộ luật lao động",
         "span": [
           195,
           284
@@ -29355,7 +29688,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 36 của bộ luật này",
+        "text": "khoản 1 điều 36 của bộ luật lao động",
         "span": [
           202,
           284
@@ -29364,7 +29697,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 42 của bộ luật này",
+        "text": "điều 42 của bộ luật lao động",
         "span": [
           202,
           284
@@ -29373,7 +29706,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 128 của bộ luật này",
+        "text": "khoản 1 điều 128 của bộ luật lao động",
         "span": [
           202,
           284
@@ -29382,7 +29715,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 36 của bộ luật này",
+        "text": "điều 36 của bộ luật lao động",
         "span": [
           210,
           284
@@ -29391,7 +29724,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 42 của bộ luật này",
+        "text": "điều 42 của bộ luật lao động",
         "span": [
           210,
           284
@@ -29400,7 +29733,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 128 của bộ luật này",
+        "text": "khoản 1 điều 128 của bộ luật lao động",
         "span": [
           210,
           284
@@ -29409,7 +29742,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           273,
           284
@@ -29481,7 +29814,7 @@
     "entities": [
       {
         "type": "LEGAL_REF",
-        "text": "điểm a khoản 1 điều 36 của bộ luật này",
+        "text": "điểm a khoản 1 điều 36 của bộ luật lao động",
         "span": [
           15,
           117
@@ -29490,7 +29823,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 42 của bộ luật này",
+        "text": "điều 42 của bộ luật lao động",
         "span": [
           15,
           117
@@ -29499,7 +29832,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 128 của bộ luật này",
+        "text": "khoản 1 điều 128 của bộ luật lao động",
         "span": [
           15,
           117
@@ -29508,7 +29841,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm a khoản 1 điều 36 của bộ luật này",
+        "text": "điểm a khoản 1 điều 36 của bộ luật lao động",
         "span": [
           28,
           117
@@ -29517,7 +29850,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 42 của bộ luật này",
+        "text": "điều 42 của bộ luật lao động",
         "span": [
           28,
           117
@@ -29526,7 +29859,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 128 của bộ luật này",
+        "text": "khoản 1 điều 128 của bộ luật lao động",
         "span": [
           28,
           117
@@ -29535,7 +29868,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 36 của bộ luật này",
+        "text": "khoản 1 điều 36 của bộ luật lao động",
         "span": [
           35,
           117
@@ -29544,7 +29877,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 42 của bộ luật này",
+        "text": "điều 42 của bộ luật lao động",
         "span": [
           35,
           117
@@ -29553,7 +29886,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 128 của bộ luật này",
+        "text": "khoản 1 điều 128 của bộ luật lao động",
         "span": [
           35,
           117
@@ -29562,7 +29895,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 36 của bộ luật này",
+        "text": "điều 36 của bộ luật lao động",
         "span": [
           43,
           117
@@ -29571,7 +29904,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 42 của bộ luật này",
+        "text": "điều 42 của bộ luật lao động",
         "span": [
           43,
           117
@@ -29580,7 +29913,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 128 của bộ luật này",
+        "text": "khoản 1 điều 128 của bộ luật lao động",
         "span": [
           43,
           117
@@ -29589,7 +29922,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           106,
           117
@@ -29684,6 +30017,33 @@
           110
         ],
         "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 63",
+        "span": [
+          134,
+          163
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 63",
+        "span": [
+          147,
+          163
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 63",
+        "span": [
+          155,
+          163
+        ],
+        "source": "pattern"
       }
     ]
   },
@@ -29757,7 +30117,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm c khoản 2 điều 63 của bộ luật này",
+        "text": "điểm c khoản 2 điều 63 của bộ luật lao động",
         "span": [
           33,
           84
@@ -29766,7 +30126,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm c khoản 2 điều 63 của bộ luật này",
+        "text": "điểm c khoản 2 điều 63 của bộ luật lao động",
         "span": [
           28,
           84
@@ -29775,7 +30135,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm c khoản 2 điều 63 của bộ luật này",
+        "text": "điểm c khoản 2 điều 63 của bộ luật lao động",
         "span": [
           46,
           84
@@ -29784,7 +30144,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 63 của bộ luật này",
+        "text": "khoản 2 điều 63 của bộ luật lao động",
         "span": [
           53,
           84
@@ -29793,7 +30153,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 63 của bộ luật này",
+        "text": "điều 63 của bộ luật lao động",
         "span": [
           61,
           84
@@ -29802,7 +30162,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           73,
           84
@@ -30102,6 +30462,33 @@
         "span": [
           123,
           153
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 64",
+        "span": [
+          15,
+          44
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 64",
+        "span": [
+          28,
+          44
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 64",
+        "span": [
+          36,
+          44
         ],
         "source": "pattern"
       }
@@ -31219,6 +31606,33 @@
           380
         ],
         "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 68",
+        "span": [
+          83,
+          112
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 68",
+        "span": [
+          96,
+          112
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 68",
+        "span": [
+          104,
+          112
+        ],
+        "source": "pattern"
       }
     ]
   },
@@ -31360,6 +31774,42 @@
         "span": [
           200,
           220
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 68",
+        "span": [
+          107,
+          136
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 68",
+        "span": [
+          291,
+          325
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 68",
+        "span": [
+          120,
+          136
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 68",
+        "span": [
+          128,
+          136
         ],
         "source": "pattern"
       },
@@ -31776,7 +32226,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 68 của bộ luật này",
+        "text": "khoản 2 điều 68 của bộ luật lao động",
         "span": [
           166,
           210
@@ -31785,7 +32235,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 3 điều 68 của bộ luật này",
+        "text": "khoản 3 điều 68 của bộ luật lao động",
         "span": [
           421,
           465
@@ -31794,7 +32244,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 68 của bộ luật này",
+        "text": "khoản 2 điều 68 của bộ luật lao động",
         "span": [
           161,
           210
@@ -31803,7 +32253,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 3 điều 68 của bộ luật này",
+        "text": "khoản 3 điều 68 của bộ luật lao động",
         "span": [
           416,
           465
@@ -31812,7 +32262,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 68 của bộ luật này",
+        "text": "khoản 2 điều 68 của bộ luật lao động",
         "span": [
           179,
           210
@@ -31821,7 +32271,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 3 điều 68 của bộ luật này",
+        "text": "khoản 3 điều 68 của bộ luật lao động",
         "span": [
           434,
           465
@@ -31830,7 +32280,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 68 của bộ luật này",
+        "text": "điều 68 của bộ luật lao động",
         "span": [
           187,
           210
@@ -31839,7 +32289,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 68 của bộ luật này",
+        "text": "điều 68 của bộ luật lao động",
         "span": [
           442,
           465
@@ -31848,7 +32298,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           199,
           210
@@ -31857,7 +32307,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           454,
           465
@@ -32013,6 +32463,33 @@
         "span": [
           160,
           180
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 69",
+        "span": [
+          222,
+          251
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 69",
+        "span": [
+          235,
+          251
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 69",
+        "span": [
+          243,
+          251
         ],
         "source": "pattern"
       }
@@ -32350,7 +32827,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 68 của bộ luật này",
+        "text": "điều 68 của bộ luật lao động",
         "span": [
           125,
           161
@@ -32359,7 +32836,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 68 của bộ luật này",
+        "text": "điều 68 của bộ luật lao động",
         "span": [
           120,
           161
@@ -32368,7 +32845,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 68 của bộ luật này",
+        "text": "điều 68 của bộ luật lao động",
         "span": [
           138,
           161
@@ -32377,7 +32854,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           150,
           161
@@ -32673,7 +33150,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 176 của bộ luật này",
+        "text": "khoản 2 điều 176 của bộ luật lao động",
         "span": [
           446,
           491
@@ -32682,7 +33159,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 176 của bộ luật này",
+        "text": "khoản 2 điều 176 của bộ luật lao động",
         "span": [
           459,
           491
@@ -32691,7 +33168,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 176 của bộ luật này",
+        "text": "điều 176 của bộ luật lao động",
         "span": [
           467,
           491
@@ -32700,7 +33177,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           480,
           491
@@ -33461,7 +33938,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 70 của bộ luật này",
+        "text": "khoản 1 điều 70 của bộ luật lao động",
         "span": [
           154,
           198
@@ -33470,7 +33947,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 70 của bộ luật này",
+        "text": "khoản 2 điều 70 của bộ luật lao động",
         "span": [
           219,
           263
@@ -33479,7 +33956,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 70 của bộ luật này",
+        "text": "khoản 2 điều 70 của bộ luật lao động",
         "span": [
           323,
           367
@@ -33488,7 +33965,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 70 của bộ luật này",
+        "text": "khoản 1 điều 70 của bộ luật lao động",
         "span": [
           167,
           198
@@ -33497,7 +33974,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 70 của bộ luật này",
+        "text": "khoản 2 điều 70 của bộ luật lao động",
         "span": [
           232,
           263
@@ -33506,7 +33983,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 70 của bộ luật này",
+        "text": "khoản 2 điều 70 của bộ luật lao động",
         "span": [
           336,
           367
@@ -33515,7 +33992,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 70 của bộ luật này",
+        "text": "điều 70 của bộ luật lao động",
         "span": [
           175,
           198
@@ -33524,7 +34001,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 70 của bộ luật này",
+        "text": "điều 70 của bộ luật lao động",
         "span": [
           240,
           263
@@ -33533,7 +34010,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 70 của bộ luật này",
+        "text": "điều 70 của bộ luật lao động",
         "span": [
           344,
           367
@@ -33542,7 +34019,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           187,
           198
@@ -33551,7 +34028,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           252,
           263
@@ -33560,7 +34037,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           356,
           367
@@ -33593,7 +34070,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 70 của bộ luật này",
+        "text": "khoản 1 điều 70 của bộ luật lao động",
         "span": [
           78,
           122
@@ -33602,7 +34079,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 70 của bộ luật này",
+        "text": "khoản 1 điều 70 của bộ luật lao động",
         "span": [
           91,
           122
@@ -33611,7 +34088,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 70 của bộ luật này",
+        "text": "điều 70 của bộ luật lao động",
         "span": [
           99,
           122
@@ -33620,7 +34097,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           111,
           122
@@ -33644,7 +34121,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 70 của bộ luật này",
+        "text": "khoản 2 điều 70 của bộ luật lao động",
         "span": [
           16,
           60
@@ -33653,7 +34130,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 70 của bộ luật này",
+        "text": "khoản 2 điều 70 của bộ luật lao động",
         "span": [
           29,
           60
@@ -33662,7 +34139,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 70 của bộ luật này",
+        "text": "điều 70 của bộ luật lao động",
         "span": [
           37,
           60
@@ -33671,7 +34148,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           49,
           60
@@ -33713,7 +34190,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 70 của bộ luật này",
+        "text": "khoản 2 điều 70 của bộ luật lao động",
         "span": [
           18,
           62
@@ -33722,7 +34199,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 70 của bộ luật này",
+        "text": "khoản 2 điều 70 của bộ luật lao động",
         "span": [
           31,
           62
@@ -33731,7 +34208,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 70 của bộ luật này",
+        "text": "điều 70 của bộ luật lao động",
         "span": [
           39,
           62
@@ -33740,7 +34217,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           51,
           62
@@ -33883,7 +34360,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "theo quy định của bộ luật này",
+        "text": "theo quy định của bộ luật lao động",
         "span": [
           100,
           129
@@ -33892,7 +34369,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           118,
           129
@@ -33972,7 +34449,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 66 của bộ luật này",
+        "text": "điều 66 của bộ luật lao động",
         "span": [
           116,
           163
@@ -33981,7 +34458,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 67 của bộ luật này",
+        "text": "điều 67 của bộ luật lao động",
         "span": [
           116,
           163
@@ -33990,7 +34467,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 66 của bộ luật này",
+        "text": "điều 66 của bộ luật lao động",
         "span": [
           111,
           163
@@ -33999,7 +34476,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 67 của bộ luật này",
+        "text": "điều 67 của bộ luật lao động",
         "span": [
           111,
           163
@@ -34008,7 +34485,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 66 của bộ luật này",
+        "text": "điều 66 của bộ luật lao động",
         "span": [
           129,
           163
@@ -34017,7 +34494,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 67 của bộ luật này",
+        "text": "điều 67 của bộ luật lao động",
         "span": [
           129,
           163
@@ -34026,7 +34503,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           152,
           163
@@ -34124,7 +34601,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 73 của bộ luật này",
+        "text": "điều 73 của bộ luật lao động",
         "span": [
           232,
           268
@@ -34133,7 +34610,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 73 của bộ luật này",
+        "text": "điều 73 của bộ luật lao động",
         "span": [
           245,
           268
@@ -34142,7 +34619,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           257,
           268
@@ -35312,7 +35789,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 73 của bộ luật này",
+        "text": "điều 73 của bộ luật lao động",
         "span": [
           115,
           151
@@ -35321,7 +35798,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 73 của bộ luật này",
+        "text": "điều 73 của bộ luật lao động",
         "span": [
           110,
           151
@@ -35330,7 +35807,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 73 của bộ luật này",
+        "text": "điều 73 của bộ luật lao động",
         "span": [
           128,
           151
@@ -35339,7 +35816,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           140,
           151
@@ -36655,7 +37132,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 77 của bộ luật này",
+        "text": "điều 77 của bộ luật lao động",
         "span": [
           133,
           169
@@ -36664,7 +37141,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 77 của bộ luật này",
+        "text": "điều 77 của bộ luật lao động",
         "span": [
           128,
           169
@@ -36673,7 +37150,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 77 của bộ luật này",
+        "text": "điều 77 của bộ luật lao động",
         "span": [
           146,
           169
@@ -36682,7 +37159,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           158,
           169
@@ -36783,6 +37260,15 @@
         "span": [
           0,
           9
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 76",
+        "span": [
+          28,
+          36
         ],
         "source": "pattern"
       }
@@ -37879,7 +38365,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 68 của bộ luật này",
+        "text": "điều 68 của bộ luật lao động",
         "span": [
           257,
           293
@@ -37888,7 +38374,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 68 của bộ luật này",
+        "text": "điều 68 của bộ luật lao động",
         "span": [
           252,
           293
@@ -37897,7 +38383,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 68 của bộ luật này",
+        "text": "điều 68 của bộ luật lao động",
         "span": [
           270,
           293
@@ -37906,7 +38392,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           282,
           293
@@ -38923,6 +39409,51 @@
         "source": "pattern"
       },
       {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 84",
+        "span": [
+          148,
+          177
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 84",
+        "span": [
+          28,
+          44
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 84",
+        "span": [
+          161,
+          177
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 84",
+        "span": [
+          36,
+          44
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 84",
+        "span": [
+          169,
+          177
+        ],
+        "source": "pattern"
+      },
+      {
         "type": "PROCEDURE",
         "text": "thủ tục và thẩm quyền quyết định mở rộng phạm vi áp dụng thỏa ước lao động tập thể",
         "span": [
@@ -39085,7 +39616,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 84 của bộ luật này",
+        "text": "khoản 1 điều 84 của bộ luật lao động",
         "span": [
           260,
           304
@@ -39094,7 +39625,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 84 của bộ luật này",
+        "text": "khoản 1 điều 84 của bộ luật lao động",
         "span": [
           273,
           304
@@ -39103,7 +39634,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 84 của bộ luật này",
+        "text": "điều 84 của bộ luật lao động",
         "span": [
           281,
           304
@@ -39112,7 +39643,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           293,
           304
@@ -39303,6 +39834,15 @@
         "span": [
           0,
           9
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 85",
+        "span": [
+          28,
+          36
         ],
         "source": "pattern"
       }
@@ -40032,6 +40572,15 @@
         "span": [
           116,
           126
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 91",
+        "span": [
+          28,
+          36
         ],
         "source": "pattern"
       }
@@ -41523,6 +42072,15 @@
           9
         ],
         "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 96",
+        "span": [
+          28,
+          36
+        ],
+        "source": "pattern"
       }
     ]
   },
@@ -42648,6 +43206,42 @@
           219
         ],
         "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 98",
+        "span": [
+          70,
+          110
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 98",
+        "span": [
+          65,
+          110
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 98",
+        "span": [
+          83,
+          110
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 98",
+        "span": [
+          102,
+          110
+        ],
+        "source": "pattern"
       }
     ]
   },
@@ -42663,6 +43257,15 @@
         "span": [
           0,
           9
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 98",
+        "span": [
+          28,
+          36
         ],
         "source": "pattern"
       }
@@ -44111,7 +44714,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 129 của bộ luật này",
+        "text": "điều 129 của bộ luật lao động",
         "span": [
           169,
           206
@@ -44120,7 +44723,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 129 của bộ luật này",
+        "text": "điều 129 của bộ luật lao động",
         "span": [
           164,
           206
@@ -44129,7 +44732,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 129 của bộ luật này",
+        "text": "điều 129 của bộ luật lao động",
         "span": [
           182,
           206
@@ -44138,7 +44741,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           195,
           206
@@ -45253,6 +45856,33 @@
         "source": "pattern"
       },
       {
+        "type": "LEGAL_REF",
+        "text": "khoản 3 điều 107",
+        "span": [
+          532,
+          561
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 3 điều 107",
+        "span": [
+          545,
+          561
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 107",
+        "span": [
+          553,
+          561
+        ],
+        "source": "pattern"
+      },
+      {
         "type": "OBLIGATION",
         "text": "phải được sự đồng ý của người lao động",
         "span": [
@@ -45501,6 +46131,33 @@
         "span": [
           0,
           73
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 3 điều 107",
+        "span": [
+          90,
+          119
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 3 điều 107",
+        "span": [
+          103,
+          119
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 107",
+        "span": [
+          111,
+          119
         ],
         "source": "pattern"
       },
@@ -45992,6 +46649,42 @@
         "source": "pattern"
       },
       {
+        "type": "LEGAL_REF",
+        "text": "khoản 3 điều 107",
+        "span": [
+          30,
+          59
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 3 điều 107",
+        "span": [
+          25,
+          59
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 3 điều 107",
+        "span": [
+          43,
+          59
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 107",
+        "span": [
+          51,
+          59
+        ],
+        "source": "pattern"
+      },
+      {
         "type": "OBLIGATION",
         "text": "phải thông báo bằng văn bản cho cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh",
         "span": [
@@ -46014,6 +46707,15 @@
         "span": [
           0,
           9
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 107",
+        "span": [
+          28,
+          36
         ],
         "source": "pattern"
       }
@@ -46331,7 +47033,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 105 của bộ luật này",
+        "text": "điều 105 của bộ luật lao động",
         "span": [
           47,
           84
@@ -46340,7 +47042,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 105 của bộ luật này",
+        "text": "điều 105 của bộ luật lao động",
         "span": [
           60,
           84
@@ -46349,7 +47051,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           73,
           84
@@ -46397,6 +47099,33 @@
         "span": [
           134,
           150
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 109",
+        "span": [
+          21,
+          50
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 109",
+        "span": [
+          34,
+          50
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 109",
+        "span": [
+          42,
+          50
         ],
         "source": "pattern"
       }
@@ -46624,7 +47353,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 112 của bộ luật này",
+        "text": "khoản 1 điều 112 của bộ luật lao động",
         "span": [
           52,
           97
@@ -46633,7 +47362,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 112 của bộ luật này",
+        "text": "khoản 1 điều 112 của bộ luật lao động",
         "span": [
           65,
           97
@@ -46642,7 +47371,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 112 của bộ luật này",
+        "text": "điều 112 của bộ luật lao động",
         "span": [
           73,
           97
@@ -46651,7 +47380,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           86,
           97
@@ -47303,6 +48032,42 @@
           176
         ],
         "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 112",
+        "span": [
+          76,
+          105
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 112",
+        "span": [
+          71,
+          105
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 112",
+        "span": [
+          89,
+          105
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 112",
+        "span": [
+          97,
+          105
+        ],
+        "source": "pattern"
       }
     ]
   },
@@ -47332,7 +48097,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm b khoản 1",
+        "text": "điểm b khoản 1 điều 112",
         "span": [
           88,
           134
@@ -47341,7 +48106,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm đ khoản 1",
+        "text": "điểm đ khoản 1 điều 112",
         "span": [
           88,
           134
@@ -47350,7 +48115,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm b khoản 1",
+        "text": "điểm b khoản 1 điều 112",
         "span": [
           101,
           134
@@ -47359,9 +48124,18 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm đ khoản 1",
+        "text": "điểm đ khoản 1 điều 112",
         "span": [
           101,
+          134
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 112",
+        "span": [
+          118,
           134
         ],
         "source": "pattern"
@@ -48155,7 +48929,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 3 điều 101 của bộ luật này",
+        "text": "khoản 3 điều 101 của bộ luật lao động",
         "span": [
           88,
           133
@@ -48164,7 +48938,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 3 điều 101 của bộ luật này",
+        "text": "khoản 3 điều 101 của bộ luật lao động",
         "span": [
           83,
           133
@@ -48173,7 +48947,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 3 điều 101 của bộ luật này",
+        "text": "khoản 3 điều 101 của bộ luật lao động",
         "span": [
           101,
           133
@@ -48182,7 +48956,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 101 của bộ luật này",
+        "text": "điều 101 của bộ luật lao động",
         "span": [
           109,
           133
@@ -48191,7 +48965,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           122,
           133
@@ -48292,6 +49066,15 @@
         "span": [
           0,
           9
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 113",
+        "span": [
+          28,
+          36
         ],
         "source": "pattern"
       }
@@ -48667,6 +49450,33 @@
         "span": [
           128,
           133
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 115",
+        "span": [
+          6,
+          46
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 115",
+        "span": [
+          19,
+          46
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 115",
+        "span": [
+          38,
+          46
         ],
         "source": "pattern"
       }
@@ -49447,6 +50257,15 @@
           9
         ],
         "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 118",
+        "span": [
+          28,
+          36
+        ],
+        "source": "pattern"
       }
     ]
   },
@@ -49836,6 +50655,24 @@
         "span": [
           193,
           209
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 119",
+        "span": [
+          215,
+          236
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 119",
+        "span": [
+          210,
+          236
         ],
         "source": "pattern"
       },
@@ -50757,7 +51594,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 125 của bộ luật này",
+        "text": "khoản 2 điều 125 của bộ luật lao động",
         "span": [
           303,
           359
@@ -50766,7 +51603,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 125 của bộ luật này",
+        "text": "khoản 2 điều 125 của bộ luật lao động",
         "span": [
           316,
           359
@@ -50775,7 +51612,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           348,
           359
@@ -50883,7 +51720,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 125 của bộ luật này",
+        "text": "khoản 2 điều 125 của bộ luật lao động",
         "span": [
           102,
           158
@@ -50892,7 +51729,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 125 của bộ luật này",
+        "text": "khoản 2 điều 125 của bộ luật lao động",
         "span": [
           115,
           158
@@ -50901,7 +51738,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           147,
           158
@@ -51272,7 +52109,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 4 điều 122 của bộ luật này",
+        "text": "khoản 4 điều 122 của bộ luật lao động",
         "span": [
           18,
           63
@@ -51281,7 +52118,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 4 điều 122 của bộ luật này",
+        "text": "khoản 4 điều 122 của bộ luật lao động",
         "span": [
           31,
           63
@@ -51290,7 +52127,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 122 của bộ luật này",
+        "text": "điều 122 của bộ luật lao động",
         "span": [
           39,
           63
@@ -51299,7 +52136,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           52,
           63
@@ -51329,6 +52166,33 @@
         "span": [
           71,
           85
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 123",
+        "span": [
+          86,
+          126
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 123",
+        "span": [
+          99,
+          126
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 123",
+        "span": [
+          118,
+          126
         ],
         "source": "pattern"
       },
@@ -51594,7 +52458,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 126 của bộ luật này",
+        "text": "điều 126 của bộ luật lao động",
         "span": [
           233,
           270
@@ -51603,7 +52467,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 126 của bộ luật này",
+        "text": "điều 126 của bộ luật lao động",
         "span": [
           228,
           270
@@ -51612,7 +52476,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 126 của bộ luật này",
+        "text": "điều 126 của bộ luật lao động",
         "span": [
           246,
           270
@@ -51621,7 +52485,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           259,
           270
@@ -53041,7 +53905,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 3 điều 102 của bộ luật này",
+        "text": "khoản 3 điều 102 của bộ luật lao động",
         "span": [
           511,
           556
@@ -53059,7 +53923,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 3 điều 102 của bộ luật này",
+        "text": "khoản 3 điều 102 của bộ luật lao động",
         "span": [
           506,
           556
@@ -53068,7 +53932,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 3 điều 102 của bộ luật này",
+        "text": "khoản 3 điều 102 của bộ luật lao động",
         "span": [
           524,
           556
@@ -53077,7 +53941,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 102 của bộ luật này",
+        "text": "điều 102 của bộ luật lao động",
         "span": [
           532,
           556
@@ -53086,7 +53950,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           545,
           556
@@ -53887,6 +54751,15 @@
         "span": [
           0,
           9
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 135",
+        "span": [
+          28,
+          36
         ],
         "source": "pattern"
       }
@@ -55832,6 +56705,42 @@
           140
         ],
         "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 139",
+        "span": [
+          33,
+          62
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 139",
+        "span": [
+          28,
+          62
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 139",
+        "span": [
+          46,
+          62
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 139",
+        "span": [
+          54,
+          62
+        ],
+        "source": "pattern"
       }
     ]
   },
@@ -56032,10 +56941,46 @@
       },
       {
         "type": "LEGAL_REF",
+        "text": "khoản 1 điều 139",
+        "span": [
+          43,
+          72
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 139",
+        "span": [
+          38,
+          72
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
         "text": "theo quy định của pháp luật về bảo hiểm xã hội",
         "span": [
           488,
           534
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 139",
+        "span": [
+          56,
+          72
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 139",
+        "span": [
+          64,
+          72
         ],
         "source": "pattern"
       },
@@ -56380,10 +57325,28 @@
       },
       {
         "type": "LEGAL_REF",
+        "text": "khoản 1 điều 142",
+        "span": [
+          265,
+          294
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
         "text": "theo quy định",
         "span": [
           207,
           220
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 142",
+        "span": [
+          278,
+          294
         ],
         "source": "pattern"
       },
@@ -56486,7 +57449,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 147 của bộ luật này",
+        "text": "điều 147 của bộ luật lao động",
         "span": [
           94,
           131
@@ -56495,7 +57458,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 147 của bộ luật này",
+        "text": "điều 147 của bộ luật lao động",
         "span": [
           107,
           131
@@ -56504,7 +57467,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           120,
           131
@@ -56619,7 +57582,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 3 điều 145 của bộ luật này",
+        "text": "khoản 3 điều 145 của bộ luật lao động",
         "span": [
           54,
           99
@@ -56628,7 +57591,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 3 điều 145 của bộ luật này",
+        "text": "khoản 3 điều 145 của bộ luật lao động",
         "span": [
           49,
           99
@@ -56637,7 +57600,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 3 điều 145 của bộ luật này",
+        "text": "khoản 3 điều 145 của bộ luật lao động",
         "span": [
           67,
           99
@@ -56646,7 +57609,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 145 của bộ luật này",
+        "text": "điều 145 của bộ luật lao động",
         "span": [
           75,
           99
@@ -56655,7 +57618,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           88,
           99
@@ -57267,7 +58230,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 3 điều 143 của bộ luật này",
+        "text": "khoản 3 điều 143 của bộ luật lao động",
         "span": [
           125,
           170
@@ -57276,7 +58239,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 3 điều 143 của bộ luật này",
+        "text": "khoản 3 điều 143 của bộ luật lao động",
         "span": [
           120,
           170
@@ -57285,7 +58248,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 3 điều 143 của bộ luật này",
+        "text": "khoản 3 điều 143 của bộ luật lao động",
         "span": [
           138,
           170
@@ -57294,7 +58257,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 143 của bộ luật này",
+        "text": "điều 143 của bộ luật lao động",
         "span": [
           146,
           170
@@ -57303,7 +58266,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           159,
           170
@@ -57422,6 +58385,15 @@
         "span": [
           39,
           45
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 145",
+        "span": [
+          64,
+          72
         ],
         "source": "pattern"
       }
@@ -58103,7 +59075,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm h khoản 2",
+        "text": "điểm h khoản 2 điều 147",
         "span": [
           68,
           109
@@ -58112,7 +59084,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm đ khoản 2",
+        "text": "điểm đ khoản 2 điều 147",
         "span": [
           68,
           109
@@ -58121,9 +59093,18 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm đ khoản 2",
+        "text": "điểm đ khoản 2 điều 147",
         "span": [
           75,
+          109
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 147",
+        "span": [
+          101,
           109
         ],
         "source": "pattern"
@@ -58165,7 +59146,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 169 của bộ luật này",
+        "text": "khoản 2 điều 169 của bộ luật lao động",
         "span": [
           68,
           113
@@ -58174,7 +59155,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 169 của bộ luật này",
+        "text": "khoản 2 điều 169 của bộ luật lao động",
         "span": [
           63,
           113
@@ -58183,7 +59164,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 169 của bộ luật này",
+        "text": "khoản 2 điều 169 của bộ luật lao động",
         "span": [
           81,
           113
@@ -58192,7 +59173,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 169 của bộ luật này",
+        "text": "điều 169 của bộ luật lao động",
         "span": [
           89,
           113
@@ -58201,7 +59182,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           102,
           113
@@ -59064,7 +60045,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 154 của bộ luật này",
+        "text": "điều 154 của bộ luật lao động",
         "span": [
           606,
           643
@@ -59091,7 +60072,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 154 của bộ luật này",
+        "text": "điều 154 của bộ luật lao động",
         "span": [
           619,
           643
@@ -59100,7 +60081,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           632,
           643
@@ -59367,7 +60348,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 154 của bộ luật này",
+        "text": "điều 154 của bộ luật lao động",
         "span": [
           89,
           126
@@ -59376,7 +60357,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 154 của bộ luật này",
+        "text": "điều 154 của bộ luật lao động",
         "span": [
           102,
           126
@@ -59385,7 +60366,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           115,
           126
@@ -62729,7 +63710,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm n khoản 2",
+        "text": "điểm n khoản 2 điều 169",
         "span": [
           284,
           336
@@ -62738,7 +63719,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm n khoản 2",
+        "text": "điểm n khoản 2 điều 169",
         "span": [
           297,
           336
@@ -62800,7 +63781,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm n khoản 2",
+        "text": "điểm n khoản 2 điều 169",
         "span": [
           144,
           196
@@ -62809,9 +63790,18 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm n khoản 2",
+        "text": "điểm n khoản 2 điều 169",
         "span": [
           157,
+          196
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 169",
+        "span": [
+          165,
           196
         ],
         "source": "pattern"
@@ -62839,6 +63829,15 @@
         "span": [
           0,
           9
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 169",
+        "span": [
+          28,
+          36
         ],
         "source": "pattern"
       }
@@ -62941,7 +63940,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 172 của bộ luật này",
+        "text": "điều 172 của bộ luật lao động",
         "span": [
           133,
           191
@@ -62950,7 +63949,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 172 của bộ luật này",
+        "text": "điều 172 của bộ luật lao động",
         "span": [
           151,
           191
@@ -62959,7 +63958,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 172 của bộ luật này",
+        "text": "điều 172 của bộ luật lao động",
         "span": [
           155,
           191
@@ -62968,7 +63967,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           180,
           191
@@ -63061,6 +64060,33 @@
         "span": [
           99,
           107
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 170",
+        "span": [
+          36,
+          76
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 170",
+        "span": [
+          49,
+          76
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 170",
+        "span": [
+          68,
+          76
         ],
         "source": "pattern"
       },
@@ -63413,7 +64439,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm b khoản 1 điều 174 của bộ luật này",
+        "text": "điểm b khoản 1 điều 174 của bộ luật lao động",
         "span": [
           108,
           160
@@ -63422,7 +64448,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm b khoản 1 điều 174 của bộ luật này",
+        "text": "điểm b khoản 1 điều 174 của bộ luật lao động",
         "span": [
           121,
           160
@@ -63431,7 +64457,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 1 điều 174 của bộ luật này",
+        "text": "khoản 1 điều 174 của bộ luật lao động",
         "span": [
           128,
           160
@@ -63440,7 +64466,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 174 của bộ luật này",
+        "text": "điều 174 của bộ luật lao động",
         "span": [
           136,
           160
@@ -63449,7 +64475,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           149,
           160
@@ -64919,6 +65945,15 @@
           9
         ],
         "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 174",
+        "span": [
+          28,
+          36
+        ],
+        "source": "pattern"
       }
     ]
   },
@@ -66239,10 +67274,46 @@
       },
       {
         "type": "LEGAL_REF",
+        "text": "khoản 3 điều 176",
+        "span": [
+          483,
+          523
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 3 điều 176",
+        "span": [
+          478,
+          523
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
         "text": "theo quy định của pháp luật",
         "span": [
           736,
           763
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 3 điều 176",
+        "span": [
+          496,
+          523
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 176",
+        "span": [
+          515,
+          523
         ],
         "source": "pattern"
       },
@@ -66569,6 +67640,42 @@
           100
         ],
         "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 3 điều 176",
+        "span": [
+          37,
+          77
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 3 điều 176",
+        "span": [
+          32,
+          77
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 3 điều 176",
+        "span": [
+          50,
+          77
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 176",
+        "span": [
+          69,
+          77
+        ],
+        "source": "pattern"
       }
     ]
   },
@@ -66868,6 +67975,33 @@
         "span": [
           68,
           128
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 176",
+        "span": [
+          129,
+          158
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 176",
+        "span": [
+          142,
+          158
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 176",
+        "span": [
+          150,
+          158
         ],
         "source": "pattern"
       },
@@ -67749,7 +68883,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "theo quy định của bộ luật này",
+        "text": "theo quy định của bộ luật lao động",
         "span": [
           48,
           77
@@ -67758,7 +68892,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           66,
           77
@@ -67802,7 +68936,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "theo quy định của bộ luật này",
+        "text": "theo quy định của bộ luật lao động",
         "span": [
           27,
           56
@@ -67811,7 +68945,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           45,
           56
@@ -68033,7 +69167,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "theo quy định của bộ luật này",
+        "text": "theo quy định của bộ luật lao động",
         "span": [
           30,
           59
@@ -68042,7 +69176,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           48,
           59
@@ -71608,6 +72742,42 @@
           184
         ],
         "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 185",
+        "span": [
+          251,
+          280
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 185",
+        "span": [
+          246,
+          280
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 185",
+        "span": [
+          264,
+          280
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 185",
+        "span": [
+          272,
+          280
+        ],
+        "source": "pattern"
       }
     ]
   },
@@ -71762,6 +72932,42 @@
         "span": [
           288,
           319
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 185",
+        "span": [
+          39,
+          68
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 185",
+        "span": [
+          34,
+          68
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 185",
+        "span": [
+          52,
+          68
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 185",
+        "span": [
+          60,
+          68
         ],
         "source": "pattern"
       }
@@ -72285,7 +73491,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 189 của bộ luật này",
+        "text": "điều 189 của bộ luật lao động",
         "span": [
           46,
           104
@@ -72312,7 +73518,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 189 của bộ luật này",
+        "text": "điều 189 của bộ luật lao động",
         "span": [
           64,
           104
@@ -72321,7 +73527,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 189 của bộ luật này",
+        "text": "điều 189 của bộ luật lao động",
         "span": [
           68,
           104
@@ -72330,7 +73536,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           93,
           104
@@ -72779,7 +73985,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm c khoản 4",
+        "text": "điểm c khoản 4 điều 185",
         "span": [
           97,
           133
@@ -72788,9 +73994,27 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm c khoản 4",
+        "text": "điểm c khoản 4 điều 185",
         "span": [
           110,
+          133
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 4 điều 185",
+        "span": [
+          117,
+          133
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 185",
+        "span": [
+          125,
           133
         ],
         "source": "pattern"
@@ -72872,6 +74096,24 @@
         "span": [
           193,
           215
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 185",
+        "span": [
+          291,
+          312
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 185",
+        "span": [
+          304,
+          312
         ],
         "source": "pattern"
       },
@@ -74078,7 +75320,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 3 điều 181 của bộ luật này",
+        "text": "khoản 3 điều 181 của bộ luật lao động",
         "span": [
           137,
           182
@@ -74087,7 +75329,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 3 điều 181 của bộ luật này",
+        "text": "khoản 3 điều 181 của bộ luật lao động",
         "span": [
           150,
           182
@@ -74096,7 +75338,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 181 của bộ luật này",
+        "text": "điều 181 của bộ luật lao động",
         "span": [
           158,
           182
@@ -74105,7 +75347,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           171,
           182
@@ -75036,7 +76278,43 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "khoản 1 điều 188",
+        "span": [
+          52,
+          81
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 4 điều 188",
+        "span": [
+          238,
+          272
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 188",
+        "span": [
+          65,
+          81
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 188",
+        "span": [
+          73,
+          81
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "bộ luật lao động",
         "span": [
           451,
           462
@@ -75105,7 +76383,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 189 của bộ luật này",
+        "text": "điều 189 của bộ luật lao động",
         "span": [
           52,
           89
@@ -75114,7 +76392,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 189 của bộ luật này",
+        "text": "điều 189 của bộ luật lao động",
         "span": [
           47,
           89
@@ -75123,7 +76401,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 189 của bộ luật này",
+        "text": "điều 189 của bộ luật lao động",
         "span": [
           65,
           89
@@ -75132,7 +76410,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           78,
           89
@@ -75407,7 +76685,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 7 điều 188 của bộ luật này",
+        "text": "khoản 7 điều 188 của bộ luật lao động",
         "span": [
           126,
           171
@@ -75416,7 +76694,16 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 7 điều 188 của bộ luật này",
+        "text": "khoản 4 điều 189",
+        "span": [
+          307,
+          336
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 7 điều 188 của bộ luật lao động",
         "span": [
           139,
           171
@@ -75425,7 +76712,16 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 188 của bộ luật này",
+        "text": "khoản 4 điều 189",
+        "span": [
+          320,
+          336
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 188 của bộ luật lao động",
         "span": [
           147,
           171
@@ -75434,7 +76730,16 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "điều 189",
+        "span": [
+          328,
+          336
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "bộ luật lao động",
         "span": [
           160,
           171
@@ -75563,6 +76868,42 @@
         "span": [
           165,
           186
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 189",
+        "span": [
+          88,
+          117
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 189",
+        "span": [
+          83,
+          117
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 189",
+        "span": [
+          101,
+          117
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 189",
+        "span": [
+          109,
+          117
         ],
         "source": "pattern"
       },
@@ -75858,6 +77199,33 @@
         "span": [
           195,
           216
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 189",
+        "span": [
+          24,
+          53
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 189",
+        "span": [
+          37,
+          53
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 189",
+        "span": [
+          45,
+          53
         ],
         "source": "pattern"
       }
@@ -76389,10 +77757,28 @@
       },
       {
         "type": "LEGAL_REF",
+        "text": "điều 190",
+        "span": [
+          166,
+          187
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
         "text": "theo quy định của pháp luật",
         "span": [
           103,
           130
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 190",
+        "span": [
+          179,
+          187
         ],
         "source": "pattern"
       }
@@ -76791,7 +78177,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm b khoản 2 điều 179 của bộ luật này",
+        "text": "điểm b khoản 2 điều 179 của bộ luật lao động",
         "span": [
           168,
           230
@@ -76800,7 +78186,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm c khoản 2 điều 179 của bộ luật này",
+        "text": "điểm c khoản 2 điều 179 của bộ luật lao động",
         "span": [
           168,
           230
@@ -76809,7 +78195,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 188 của bộ luật này",
+        "text": "khoản 2 điều 188 của bộ luật lao động",
         "span": [
           79,
           147
@@ -76827,7 +78213,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm b khoản 2 điều 179 của bộ luật này",
+        "text": "điểm b khoản 2 điều 179 của bộ luật lao động",
         "span": [
           181,
           230
@@ -76836,7 +78222,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm c khoản 2 điều 179 của bộ luật này",
+        "text": "điểm c khoản 2 điều 179 của bộ luật lao động",
         "span": [
           181,
           230
@@ -76845,7 +78231,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 188 của bộ luật này",
+        "text": "khoản 2 điều 188 của bộ luật lao động",
         "span": [
           97,
           147
@@ -76854,7 +78240,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 179 của bộ luật này",
+        "text": "khoản 2 điều 179 của bộ luật lao động",
         "span": [
           198,
           230
@@ -76863,7 +78249,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 188 của bộ luật này",
+        "text": "điều 188 của bộ luật lao động",
         "span": [
           123,
           147
@@ -76872,7 +78258,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 179 của bộ luật này",
+        "text": "điều 179 của bộ luật lao động",
         "span": [
           206,
           230
@@ -76881,7 +78267,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           136,
           147
@@ -76890,7 +78276,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           219,
           230
@@ -77114,7 +78500,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 188 của bộ luật này",
+        "text": "khoản 2 điều 188 của bộ luật lao động",
         "span": [
           65,
           110
@@ -77123,7 +78509,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 193 của bộ luật này",
+        "text": "điều 193 của bộ luật lao động",
         "span": [
           309,
           351
@@ -77132,7 +78518,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 188 của bộ luật này",
+        "text": "khoản 2 điều 188 của bộ luật lao động",
         "span": [
           78,
           110
@@ -77141,7 +78527,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 188 của bộ luật này",
+        "text": "điều 188 của bộ luật lao động",
         "span": [
           86,
           110
@@ -77150,7 +78536,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           99,
           110
@@ -77192,7 +78578,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 193 của bộ luật này",
+        "text": "điều 193 của bộ luật lao động",
         "span": [
           52,
           89
@@ -77201,7 +78587,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 193 của bộ luật này",
+        "text": "điều 193 của bộ luật lao động",
         "span": [
           47,
           89
@@ -77210,7 +78596,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 193 của bộ luật này",
+        "text": "điều 193 của bộ luật lao động",
         "span": [
           65,
           89
@@ -77219,7 +78605,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           78,
           89
@@ -77440,7 +78826,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 188 của bộ luật này",
+        "text": "khoản 2 điều 188 của bộ luật lao động",
         "span": [
           174,
           219
@@ -77449,7 +78835,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 188 của bộ luật này",
+        "text": "khoản 2 điều 188 của bộ luật lao động",
         "span": [
           187,
           219
@@ -77458,7 +78844,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 188 của bộ luật này",
+        "text": "điều 188 của bộ luật lao động",
         "span": [
           195,
           219
@@ -77467,7 +78853,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           208,
           219
@@ -77596,6 +78982,42 @@
         "span": [
           165,
           186
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 193",
+        "span": [
+          88,
+          117
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 193",
+        "span": [
+          83,
+          117
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 193",
+        "span": [
+          101,
+          117
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 193",
+        "span": [
+          109,
+          117
         ],
         "source": "pattern"
       },
@@ -77834,7 +79256,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm b khoản 2 điều 179 của bộ luật này",
+        "text": "điểm b khoản 2 điều 179 của bộ luật lao động",
         "span": [
           312,
           374
@@ -77843,7 +79265,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm c khoản 2 điều 179 của bộ luật này",
+        "text": "điểm c khoản 2 điều 179 của bộ luật lao động",
         "span": [
           312,
           374
@@ -77861,7 +79283,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm b khoản 2 điều 179 của bộ luật này",
+        "text": "điểm b khoản 2 điều 179 của bộ luật lao động",
         "span": [
           325,
           374
@@ -77870,7 +79292,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm c khoản 2 điều 179 của bộ luật này",
+        "text": "điểm c khoản 2 điều 179 của bộ luật lao động",
         "span": [
           325,
           374
@@ -77879,7 +79301,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 179 của bộ luật này",
+        "text": "khoản 2 điều 179 của bộ luật lao động",
         "span": [
           342,
           374
@@ -77888,7 +79310,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 179 của bộ luật này",
+        "text": "điều 179 của bộ luật lao động",
         "span": [
           350,
           374
@@ -77897,7 +79319,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           363,
           374
@@ -78082,6 +79504,33 @@
           199
         ],
         "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 193",
+        "span": [
+          93,
+          114
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 193",
+        "span": [
+          88,
+          114
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 193",
+        "span": [
+          106,
+          114
+        ],
+        "source": "pattern"
       }
     ]
   },
@@ -78214,6 +79663,33 @@
         "span": [
           188,
           209
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 193",
+        "span": [
+          17,
+          46
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 193",
+        "span": [
+          30,
+          46
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 193",
+        "span": [
+          38,
+          46
         ],
         "source": "pattern"
       }
@@ -78872,7 +80348,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 188 của bộ luật này",
+        "text": "khoản 2 điều 188 của bộ luật lao động",
         "span": [
           81,
           146
@@ -78881,7 +80357,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 188 của bộ luật này",
+        "text": "khoản 2 điều 188 của bộ luật lao động",
         "span": [
           99,
           146
@@ -78890,7 +80366,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 188 của bộ luật này",
+        "text": "điều 188 của bộ luật lao động",
         "span": [
           122,
           146
@@ -78899,7 +80375,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           135,
           146
@@ -79248,7 +80724,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 188 của bộ luật này",
+        "text": "khoản 2 điều 188 của bộ luật lao động",
         "span": [
           59,
           104
@@ -79257,7 +80733,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 197 của bộ luật này",
+        "text": "điều 197 của bộ luật lao động",
         "span": [
           383,
           425
@@ -79266,7 +80742,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 188 của bộ luật này",
+        "text": "khoản 2 điều 188 của bộ luật lao động",
         "span": [
           72,
           104
@@ -79275,7 +80751,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 188 của bộ luật này",
+        "text": "điều 188 của bộ luật lao động",
         "span": [
           80,
           104
@@ -79284,7 +80760,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 200 của bộ luật này",
+        "text": "điều 200 của bộ luật lao động",
         "span": [
           502,
           542
@@ -79293,7 +80769,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 200 của bộ luật này",
+        "text": "điều 200 của bộ luật lao động",
         "span": [
           506,
           542
@@ -79302,7 +80778,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           93,
           104
@@ -79311,7 +80787,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           531,
           542
@@ -79362,7 +80838,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 197 của bộ luật này",
+        "text": "điều 197 của bộ luật lao động",
         "span": [
           52,
           89
@@ -79371,7 +80847,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 197 của bộ luật này",
+        "text": "điều 197 của bộ luật lao động",
         "span": [
           47,
           89
@@ -79380,7 +80856,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 197 của bộ luật này",
+        "text": "điều 197 của bộ luật lao động",
         "span": [
           65,
           89
@@ -79389,7 +80865,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           78,
           89
@@ -79458,7 +80934,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 200 của bộ luật này",
+        "text": "điều 200 của bộ luật lao động",
         "span": [
           72,
           112
@@ -79467,7 +80943,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 200 của bộ luật này",
+        "text": "điều 200 của bộ luật lao động",
         "span": [
           76,
           112
@@ -79476,7 +80952,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           101,
           112
@@ -79655,7 +81131,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 188 của bộ luật này",
+        "text": "khoản 2 điều 188 của bộ luật lao động",
         "span": [
           174,
           219
@@ -79664,7 +81140,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 188 của bộ luật này",
+        "text": "khoản 2 điều 188 của bộ luật lao động",
         "span": [
           187,
           219
@@ -79673,7 +81149,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 188 của bộ luật này",
+        "text": "điều 188 của bộ luật lao động",
         "span": [
           195,
           219
@@ -79682,7 +81158,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           208,
           219
@@ -79811,6 +81287,42 @@
         "span": [
           165,
           186
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 197",
+        "span": [
+          88,
+          117
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 197",
+        "span": [
+          83,
+          117
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 197",
+        "span": [
+          101,
+          117
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 197",
+        "span": [
+          109,
+          117
         ],
         "source": "pattern"
       },
@@ -80345,7 +81857,61 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "điều 197",
+        "span": [
+          86,
+          107
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 197",
+        "span": [
+          274,
+          303
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 197",
+        "span": [
+          81,
+          107
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 2 điều 197",
+        "span": [
+          287,
+          303
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 197",
+        "span": [
+          99,
+          107
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 197",
+        "span": [
+          295,
+          303
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "bộ luật lao động",
         "span": [
           703,
           714
@@ -80380,7 +81946,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 188 của bộ luật này",
+        "text": "khoản 2 điều 188 của bộ luật lao động",
         "span": [
           48,
           93
@@ -80389,7 +81955,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 188 của bộ luật này",
+        "text": "khoản 2 điều 188 của bộ luật lao động",
         "span": [
           61,
           93
@@ -80398,7 +81964,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 188 của bộ luật này",
+        "text": "điều 188 của bộ luật lao động",
         "span": [
           69,
           93
@@ -80407,7 +81973,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           82,
           93
@@ -80576,7 +82142,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 201 của bộ luật này",
+        "text": "điều 201 của bộ luật lao động",
         "span": [
           29,
           66
@@ -80585,7 +82151,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 201 của bộ luật này",
+        "text": "điều 201 của bộ luật lao động",
         "span": [
           24,
           66
@@ -80594,7 +82160,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 201 của bộ luật này",
+        "text": "điều 201 của bộ luật lao động",
         "span": [
           42,
           66
@@ -80603,7 +82169,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           55,
           66
@@ -80647,7 +82213,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 202 của bộ luật này",
+        "text": "điều 202 của bộ luật lao động",
         "span": [
           52,
           89
@@ -80656,7 +82222,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 202 của bộ luật này",
+        "text": "điều 202 của bộ luật lao động",
         "span": [
           47,
           89
@@ -80665,7 +82231,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 202 của bộ luật này",
+        "text": "điều 202 của bộ luật lao động",
         "span": [
           65,
           89
@@ -80674,7 +82240,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           78,
           89
@@ -80852,7 +82418,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 198 của bộ luật này",
+        "text": "điều 198 của bộ luật lao động",
         "span": [
           102,
           139
@@ -80861,7 +82427,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 198 của bộ luật này",
+        "text": "điều 198 của bộ luật lao động",
         "span": [
           115,
           139
@@ -80870,7 +82436,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           128,
           139
@@ -80959,7 +82525,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm b khoản 2 điều 202 của bộ luật này",
+        "text": "điểm b khoản 2 điều 202 của bộ luật lao động",
         "span": [
           141,
           192
@@ -80968,7 +82534,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 202 của bộ luật này",
+        "text": "khoản 2 điều 202 của bộ luật lao động",
         "span": [
           160,
           192
@@ -80977,7 +82543,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 202 của bộ luật này",
+        "text": "điều 202 của bộ luật lao động",
         "span": [
           168,
           192
@@ -80986,7 +82552,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           181,
           192
@@ -81042,7 +82608,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điểm b khoản 2 điều 202 của bộ luật này",
+        "text": "điểm b khoản 2 điều 202 của bộ luật lao động",
         "span": [
           71,
           122
@@ -81051,7 +82617,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 202 của bộ luật này",
+        "text": "khoản 2 điều 202 của bộ luật lao động",
         "span": [
           90,
           122
@@ -81060,7 +82626,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 202 của bộ luật này",
+        "text": "điều 202 của bộ luật lao động",
         "span": [
           98,
           122
@@ -81069,7 +82635,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           111,
           122
@@ -81426,7 +82992,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 201 của bộ luật này",
+        "text": "khoản 2 điều 201 của bộ luật lao động",
         "span": [
           87,
           132
@@ -81435,7 +83001,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 201 của bộ luật này",
+        "text": "khoản 2 điều 201 của bộ luật lao động",
         "span": [
           82,
           132
@@ -81444,7 +83010,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 201 của bộ luật này",
+        "text": "khoản 2 điều 201 của bộ luật lao động",
         "span": [
           100,
           132
@@ -81453,7 +83019,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 201 của bộ luật này",
+        "text": "điều 201 của bộ luật lao động",
         "span": [
           108,
           132
@@ -81462,7 +83028,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           121,
           132
@@ -82135,7 +83701,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 198 của bộ luật này",
+        "text": "điều 198 của bộ luật lao động",
         "span": [
           76,
           113
@@ -82144,7 +83710,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 198 của bộ luật này",
+        "text": "điều 198 của bộ luật lao động",
         "span": [
           71,
           113
@@ -82153,7 +83719,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 198 của bộ luật này",
+        "text": "điều 198 của bộ luật lao động",
         "span": [
           89,
           113
@@ -82162,7 +83728,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           102,
           113
@@ -82514,7 +84080,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 199 của bộ luật này",
+        "text": "điều 199 của bộ luật lao động",
         "span": [
           38,
           75
@@ -82523,7 +84089,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 199 của bộ luật này",
+        "text": "điều 199 của bộ luật lao động",
         "span": [
           51,
           75
@@ -82532,7 +84098,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           64,
           75
@@ -82611,7 +84177,7 @@
     "entities": [
       {
         "type": "LEGAL_REF",
-        "text": "theo quy định của bộ luật này",
+        "text": "theo quy định của bộ luật lao động",
         "span": [
           62,
           91
@@ -82620,7 +84186,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           80,
           91
@@ -82700,7 +84266,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "theo quy định của bộ luật này",
+        "text": "theo quy định của bộ luật lao động",
         "span": [
           93,
           122
@@ -82709,7 +84275,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           111,
           122
@@ -82753,7 +84319,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 209 của bộ luật này",
+        "text": "điều 209 của bộ luật lao động",
         "span": [
           58,
           95
@@ -82762,7 +84328,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 209 của bộ luật này",
+        "text": "điều 209 của bộ luật lao động",
         "span": [
           71,
           95
@@ -82771,7 +84337,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           84,
           95
@@ -82815,7 +84381,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 210 của bộ luật này",
+        "text": "điều 210 của bộ luật lao động",
         "span": [
           78,
           115
@@ -82824,7 +84390,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 210 của bộ luật này",
+        "text": "điều 210 của bộ luật lao động",
         "span": [
           73,
           115
@@ -82833,7 +84399,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 210 của bộ luật này",
+        "text": "điều 210 của bộ luật lao động",
         "span": [
           91,
           115
@@ -82842,7 +84408,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           104,
           115
@@ -83115,7 +84681,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 99 của bộ luật này",
+        "text": "khoản 2 điều 99 của bộ luật lao động",
         "span": [
           116,
           160
@@ -83124,7 +84690,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 99 của bộ luật này",
+        "text": "khoản 2 điều 99 của bộ luật lao động",
         "span": [
           111,
           160
@@ -83133,7 +84699,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "khoản 2 điều 99 của bộ luật này",
+        "text": "khoản 2 điều 99 của bộ luật lao động",
         "span": [
           129,
           160
@@ -83142,7 +84708,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "điều 99 của bộ luật này",
+        "text": "điều 99 của bộ luật lao động",
         "span": [
           137,
           160
@@ -83151,7 +84717,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           149,
           160
@@ -83652,6 +85218,33 @@
           99
         ],
         "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 209",
+        "span": [
+          155,
+          184
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 1 điều 209",
+        "span": [
+          168,
+          184
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "điều 209",
+        "span": [
+          176,
+          184
+        ],
+        "source": "pattern"
       }
     ]
   },
@@ -84036,7 +85629,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           130,
           141
@@ -84580,7 +86173,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           42,
           53
@@ -86485,6 +88078,15 @@
       },
       {
         "type": "LEGAL_REF",
+        "text": "khoản 3 điều 219",
+        "span": [
+          325,
+          354
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
         "text": "khoản 3 điều 169 của bộ luật lao động",
         "span": [
           565,
@@ -87908,6 +89510,15 @@
         "span": [
           1728,
           1737
+        ],
+        "source": "pattern"
+      },
+      {
+        "type": "LEGAL_REF",
+        "text": "khoản 3 điều 219",
+        "span": [
+          176,
+          205
         ],
         "source": "pattern"
       },
@@ -91274,7 +92885,7 @@
       },
       {
         "type": "CONDITION",
-        "text": "kể từ ngày bộ luật này có hiệu lực",
+        "text": "kể từ ngày bộ luật lao động có hiệu lực",
         "span": [
           118,
           152
@@ -91283,7 +92894,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           0,
           11
@@ -91327,7 +92938,7 @@
       },
       {
         "type": "RIGHT",
-        "text": "có quyền và điều kiện thuận lợi hơn so với quy định của bộ luật này được tiếp tục thực hiện",
+        "text": "có quyền và điều kiện thuận lợi hơn so với quy định của bộ luật lao động được tiếp tục thực hiện",
         "span": [
           182,
           273
@@ -91336,7 +92947,7 @@
       },
       {
         "type": "CONDITION",
-        "text": "trường hợp các bên có thỏa thuận về việc sửa đổi, bổ sung để phù hợp và để áp dụng quy định của bộ luật này",
+        "text": "trường hợp các bên có thỏa thuận về việc sửa đổi, bổ sung để phù hợp và để áp dụng quy định của bộ luật lao động",
         "span": [
           279,
           386
@@ -91345,7 +92956,7 @@
       },
       {
         "type": "CONDITION",
-        "text": "các bên có thỏa thuận về việc sửa đổi, bổ sung để phù hợp và để áp dụng quy định của bộ luật này",
+        "text": "các bên có thỏa thuận về việc sửa đổi, bổ sung để phù hợp và để áp dụng quy định của bộ luật lao động",
         "span": [
           290,
           386
@@ -91354,7 +92965,7 @@
       },
       {
         "type": "CONDITION",
-        "text": "kể từ ngày bộ luật này có hiệu lực thi hành, hợp đồng lao động, thỏa ước lao động tập thể, các thỏa thuận hợp pháp đã giao kết có nội dung không trái hoặc bảo đảm cho người lao động có quyền và điều kiện thuận lợi hơn so với quy định của bộ luật này được tiếp tục thực hiện, trừ trường hợp các bên có thỏa thuận về việc sửa đổi, bổ sung để phù hợp và để áp dụng quy định của bộ luật này",
+        "text": "kể từ ngày bộ luật lao động có hiệu lực thi hành, hợp đồng lao động, thỏa ước lao động tập thể, các thỏa thuận hợp pháp đã giao kết có nội dung không trái hoặc bảo đảm cho người lao động có quyền và điều kiện thuận lợi hơn so với quy định của bộ luật lao động được tiếp tục thực hiện, trừ trường hợp các bên có thỏa thuận về việc sửa đổi, bổ sung để phù hợp và để áp dụng quy định của bộ luật lao động",
         "span": [
           0,
           386
@@ -91363,7 +92974,7 @@
       },
       {
         "type": "ACTION",
-        "text": "thỏa thuận hợp pháp đã giao kết có nội dung không trái hoặc bảo đảm cho người lao động có quyền và điều kiện thuận lợi hơn so với quy định của bộ luật này được tiếp tục thực hiện",
+        "text": "thỏa thuận hợp pháp đã giao kết có nội dung không trái hoặc bảo đảm cho người lao động có quyền và điều kiện thuận lợi hơn so với quy định của bộ luật lao động được tiếp tục thực hiện",
         "span": [
           95,
           273
@@ -91372,7 +92983,7 @@
       },
       {
         "type": "ACTION",
-        "text": "bảo đảm cho người lao động có quyền và điều kiện thuận lợi hơn so với quy định của bộ luật này được tiếp tục thực hiện",
+        "text": "bảo đảm cho người lao động có quyền và điều kiện thuận lợi hơn so với quy định của bộ luật lao động được tiếp tục thực hiện",
         "span": [
           155,
           273
@@ -91408,7 +93019,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           11,
           22
@@ -91497,7 +93108,7 @@
       },
       {
         "type": "CONDITION",
-        "text": "đối với cán bộ, công chức, viên chức, người thuộc lực lượng quân đội nhân dân, công an nhân dân, tổ chức xã hội, xã viên hợp tác xã, người làm việc không có quan hệ lao động do các văn bản pháp luật khác quy định nhưng tùy từng đối tượng mà được áp dụng một số quy định trong bộ luật này",
+        "text": "đối với cán bộ, công chức, viên chức, người thuộc lực lượng quân đội nhân dân, công an nhân dân, tổ chức xã hội, xã viên hợp tác xã, người làm việc không có quan hệ lao động do các văn bản pháp luật khác quy định nhưng tùy từng đối tượng mà được áp dụng một số quy định trong bộ luật lao động",
         "span": [
           16,
           303
@@ -91515,7 +93126,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           292,
           303
@@ -91524,7 +93135,7 @@
       },
       {
         "type": "LEGAL_REF",
-        "text": "bộ luật này",
+        "text": "bộ luật lao động",
         "span": [
           305,
           316

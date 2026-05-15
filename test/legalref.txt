@@ -1,0 +1,955 @@
+node_id=ch1_d3_k1 ==> chương xi của bộ luật lao động
+node_id=ch1_d3_k1 ==> mục 1 chương xi của bộ luật lao động
+node_id=ch1_d3_k1 ==> bộ luật lao động
+node_id=ch1_d3_k3 ==> theo quy định của pháp luật về lao động
+node_id=ch1_d4_k3 ==> bộ luật lao động
+node_id=ch1_d5_k1 ==> theo quy định của pháp luật
+node_id=ch1_d5_k1 ==> theo quy định của pháp luật
+node_id=ch1_d5_k1_c ==> theo quy định của pháp luật
+node_id=ch1_d5_k1_g ==> theo quy định của pháp luật
+node_id=ch1_d6_k1 ==> theo quy định của pháp luật
+node_id=ch1_d6_k1 ==> theo quy định của pháp luật
+node_id=ch1_d6_k1_b ==> theo quy định của pháp luật
+node_id=ch1_d6_k1_đ ==> theo quy định của pháp luật
+node_id=ch1_d7_k4 ==> theo quy định của pháp luật có vai trò đại diện, bảo vệ quyền và lợi ích hợp pháp của
+node_id=ch2_d12_k3 ==> điều 12
+node_id=ch3_muc1_d14_k1 ==> khoản 2 điều 14
+node_id=ch3_muc1_d14_k1 ==> theo quy định của pháp luật về giao dịch điện tử có giá trị như hợp đồng lao động bằng văn bản
+node_id=ch3_muc1_d14_k1 ==> khoản 2 điều 14
+node_id=ch3_muc1_d14_k1 ==> điều 14
+node_id=ch3_muc1_d14_k2 ==> điểm a khoản 2 điều 18 của bộ luật lao động
+node_id=ch3_muc1_d14_k2 ==> khoản 1 điều 145 của bộ luật lao động
+node_id=ch3_muc1_d14_k2 ==> khoản 1 điều 162 của bộ luật lao động
+node_id=ch3_muc1_d14_k2 ==> điểm a khoản 1 điều 145 của bộ luật lao động
+node_id=ch3_muc1_d14_k2 ==> khoản 1 điều 162 của bộ luật lao động
+node_id=ch3_muc1_d14_k2 ==> điểm a khoản 2 điều 18 của bộ luật lao động
+node_id=ch3_muc1_d14_k2 ==> khoản 1 điều 145 của bộ luật lao động
+node_id=ch3_muc1_d14_k2 ==> khoản 1 điều 162 của bộ luật lao động
+node_id=ch3_muc1_d14_k2 ==> điều 18 của bộ luật lao động
+node_id=ch3_muc1_d14_k2 ==> điểm a khoản 1 điều 145 của bộ luật lao động
+node_id=ch3_muc1_d14_k2 ==> khoản 1 điều 162 của bộ luật lao động
+node_id=ch3_muc1_d14_k2 ==> bộ luật lao động
+node_id=ch3_muc1_d18_k1 ==> khoản 2 điều 18
+node_id=ch3_muc1_d18_k1 ==> khoản 2 điều 18
+node_id=ch3_muc1_d18_k1 ==> điều 18
+node_id=ch3_muc1_d18_k3 ==> theo quy định của pháp luật
+node_id=ch3_muc1_d18_k3 ==> theo quy định của pháp luật hoặc người được ủy quyền theo quy định của pháp luật
+node_id=ch3_muc1_d18_k3 ==> theo quy định của pháp luật
+node_id=ch3_muc1_d18_k3_a ==> theo quy định của pháp luật
+node_id=ch3_muc1_d18_k3_b ==> theo quy định của pháp luật hoặc người được ủy quyền theo quy định của pháp luật
+node_id=ch3_muc1_d18_k3_c ==> theo quy định của pháp luật
+node_id=ch3_muc1_d19_k2 ==> theo quy định của pháp luật về bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và an toàn, vệ sinh lao động
+node_id=ch3_muc1_d20_k2 ==> điểm b khoản 1 điều 20
+node_id=ch3_muc1_d20_k2 ==> điểm b khoản 1 điều 20
+node_id=ch3_muc1_d20_k2 ==> khoản 1 điều 149 của bộ luật lao động
+node_id=ch3_muc1_d20_k2 ==> khoản 2 điều 151 của bộ luật lao động
+node_id=ch3_muc1_d20_k2 ==> khoản 4 điều 177 của bộ luật lao động
+node_id=ch3_muc1_d20_k2 ==> điểm b khoản 1 điều 20
+node_id=ch3_muc1_d20_k2 ==> điểm b khoản 1 điều 20
+node_id=ch3_muc1_d20_k2 ==> điểm b khoản 1 điều 20
+node_id=ch3_muc1_d20_k2 ==> khoản 1 điều 20
+node_id=ch3_muc1_d20_k2 ==> khoản 1 điều 20
+node_id=ch3_muc1_d20_k2 ==> khoản 1 điều 149 của bộ luật lao động
+node_id=ch3_muc1_d20_k2 ==> khoản 2 điều 151 của bộ luật lao động
+node_id=ch3_muc1_d20_k2 ==> khoản 4 điều 177 của bộ luật lao động
+node_id=ch3_muc1_d20_k2 ==> điều 20
+node_id=ch3_muc1_d20_k2 ==> điều 20
+node_id=ch3_muc1_d20_k2 ==> điều 149 của bộ luật lao động
+node_id=ch3_muc1_d20_k2 ==> khoản 2 điều 151 của bộ luật lao động
+node_id=ch3_muc1_d20_k2 ==> khoản 4 điều 177 của bộ luật lao động
+node_id=ch3_muc1_d20_k2 ==> bộ luật lao động
+node_id=ch3_muc1_d20_k2_b ==> điểm b khoản 1 điều 20
+node_id=ch3_muc1_d20_k2_b ==> điểm b khoản 1 điều 20
+node_id=ch3_muc1_d20_k2_b ==> điểm b khoản 1 điều 20
+node_id=ch3_muc1_d20_k2_b ==> khoản 1 điều 20
+node_id=ch3_muc1_d20_k2_b ==> điều 20
+node_id=ch3_muc1_d20_k2_c ==> khoản 1 điều 149 của bộ luật lao động
+node_id=ch3_muc1_d20_k2_c ==> khoản 2 điều 151 của bộ luật lao động
+node_id=ch3_muc1_d20_k2_c ==> khoản 4 điều 177 của bộ luật lao động
+node_id=ch3_muc1_d20_k2_c ==> khoản 1 điều 149 của bộ luật lao động
+node_id=ch3_muc1_d20_k2_c ==> khoản 2 điều 151 của bộ luật lao động
+node_id=ch3_muc1_d20_k2_c ==> khoản 4 điều 177 của bộ luật lao động
+node_id=ch3_muc1_d20_k2_c ==> điều 149 của bộ luật lao động
+node_id=ch3_muc1_d20_k2_c ==> khoản 2 điều 151 của bộ luật lao động
+node_id=ch3_muc1_d20_k2_c ==> khoản 4 điều 177 của bộ luật lao động
+node_id=ch3_muc1_d20_k2_c ==> bộ luật lao động
+node_id=ch3_muc1_d21_k2 ==> theo quy định của pháp luật
+node_id=ch3_muc1_d21_k5 ==> khoản 1 điều 21
+node_id=ch3_muc1_d21_k5 ==> điều 21
+node_id=ch3_muc1_d24_k2 ==> điểm a khoản 1 điều 21 của bộ luật lao động
+node_id=ch3_muc1_d24_k2 ==> khoản 1 điều 21 của bộ luật lao động
+node_id=ch3_muc1_d24_k2 ==> điều 21 của bộ luật lao động
+node_id=ch3_muc1_d24_k2 ==> bộ luật lao động
+node_id=ch3_muc1_d25_k1 ==> theo quy định của luật doanh nghiệp, luật quản lý, sử dụng vốn nhà nước đầu tư vào sản xuất, kinh doanh tại doanh nghiệp
+node_id=ch3_muc2_d29_k2 ==> khoản 1 điều 29
+node_id=ch3_muc2_d29_k2 ==> khoản 1 điều 29
+node_id=ch3_muc2_d29_k2 ==> điều 29
+node_id=ch3_muc2_d29_k4 ==> điều 99 của bộ luật lao động
+node_id=ch3_muc2_d29_k4 ==> điều 99 của bộ luật lao động
+node_id=ch3_muc2_d29_k4 ==> điều 99 của bộ luật lao động
+node_id=ch3_muc2_d29_k4 ==> bộ luật lao động
+node_id=ch3_muc2_d30_k1 ==> điều 138 của bộ luật lao động
+node_id=ch3_muc2_d30_k1 ==> theo quy định của pháp luật về tố tụng hình sự
+node_id=ch3_muc2_d30_k1 ==> điều 138 của bộ luật lao động
+node_id=ch3_muc2_d30_k1 ==> điều 138 của bộ luật lao động
+node_id=ch3_muc2_d30_k1 ==> bộ luật lao động
+node_id=ch3_muc2_d30_k1_b ==> theo quy định của pháp luật về tố tụng hình sự
+node_id=ch3_muc2_d30_k1_d ==> điều 138 của bộ luật lao động
+node_id=ch3_muc2_d30_k1_d ==> điều 138 của bộ luật lao động
+node_id=ch3_muc2_d30_k1_d ==> điều 138 của bộ luật lao động
+node_id=ch3_muc2_d30_k1_d ==> bộ luật lao động
+node_id=ch3_muc3_d34_k1 ==> khoản 4 điều 177 của bộ luật lao động
+node_id=ch3_muc3_d34_k1 ==> khoản 4 điều 177 của bộ luật lao động
+node_id=ch3_muc3_d34_k1 ==> điều 177 của bộ luật lao động
+node_id=ch3_muc3_d34_k1 ==> bộ luật lao động
+node_id=ch3_muc3_d34_k4 ==> khoản 5 điều 328 của bộ luật tố tụng hình sự
+node_id=ch3_muc3_d34_k4 ==> khoản 5 điều 328 của bộ luật tố tụng hình sự
+node_id=ch3_muc3_d34_k4 ==> theo bản án, quyết định của tòa án
+node_id=ch3_muc3_d34_k4 ==> khoản 5 điều 328 của bộ luật tố tụng hình sự
+node_id=ch3_muc3_d34_k4 ==> điều 328 của bộ luật tố tụng hình sự
+node_id=ch3_muc3_d34_k4 ==> bộ luật tố tụng hình sự
+node_id=ch3_muc3_d34_k5 ==> theo bản án, quyết định của tòa án
+node_id=ch3_muc3_d34_k9 ==> điều 35 của bộ luật lao động
+node_id=ch3_muc3_d34_k9 ==> điều 35 của bộ luật lao động
+node_id=ch3_muc3_d34_k9 ==> điều 35 của bộ luật lao động
+node_id=ch3_muc3_d34_k9 ==> bộ luật lao động
+node_id=ch3_muc3_d34_k10 ==> điều 36 của bộ luật lao động
+node_id=ch3_muc3_d34_k10 ==> điều 36 của bộ luật lao động
+node_id=ch3_muc3_d34_k10 ==> điều 36 của bộ luật lao động
+node_id=ch3_muc3_d34_k10 ==> bộ luật lao động
+node_id=ch3_muc3_d34_k11 ==> điều 42 của bộ luật lao động
+node_id=ch3_muc3_d34_k11 ==> điều 43 của bộ luật lao động
+node_id=ch3_muc3_d34_k11 ==> điều 42 của bộ luật lao động
+node_id=ch3_muc3_d34_k11 ==> điều 43 của bộ luật lao động
+node_id=ch3_muc3_d34_k11 ==> điều 42 của bộ luật lao động
+node_id=ch3_muc3_d34_k11 ==> điều 43 của bộ luật lao động
+node_id=ch3_muc3_d34_k11 ==> bộ luật lao động
+node_id=ch3_muc3_d34_k12 ==> điều 156 của bộ luật lao động
+node_id=ch3_muc3_d34_k12 ==> điều 156 của bộ luật lao động
+node_id=ch3_muc3_d34_k12 ==> điều 156 của bộ luật lao động
+node_id=ch3_muc3_d34_k12 ==> bộ luật lao động
+node_id=ch3_muc3_d35_k1 ==> theo quy định của chính phủ
+node_id=ch3_muc3_d35_k1_d ==> theo quy định của chính phủ
+node_id=ch3_muc3_d35_k2 ==> điều 29 của bộ luật lao động
+node_id=ch3_muc3_d35_k2 ==> khoản 4 điều 97 của bộ luật lao động
+node_id=ch3_muc3_d35_k2 ==> khoản 1 điều 138 của bộ luật lao động
+node_id=ch3_muc3_d35_k2 ==> điều 169 của bộ luật lao động
+node_id=ch3_muc3_d35_k2 ==> khoản 1 điều 16 của bộ luật lao động
+node_id=ch3_muc3_d35_k2 ==> khoản 1 điều 138 của bộ luật lao động
+node_id=ch3_muc3_d35_k2 ==> điều 169 của bộ luật lao động
+node_id=ch3_muc3_d35_k2 ==> khoản 1 điều 16 của bộ luật lao động
+node_id=ch3_muc3_d35_k2 ==> khoản 4 điều 97 của bộ luật lao động
+node_id=ch3_muc3_d35_k2 ==> khoản 1 điều 138 của bộ luật lao động
+node_id=ch3_muc3_d35_k2 ==> khoản 1 điều 16 của bộ luật lao động
+node_id=ch3_muc3_d35_k2 ==> điều 97 của bộ luật lao động
+node_id=ch3_muc3_d35_k2 ==> điều 138 của bộ luật lao động
+node_id=ch3_muc3_d35_k2 ==> điều 169 của bộ luật lao động
+node_id=ch3_muc3_d35_k2 ==> điều 16 của bộ luật lao động
+node_id=ch3_muc3_d35_k2 ==> bộ luật lao động
+node_id=ch3_muc3_d35_k2 ==> bộ luật lao động
+node_id=ch3_muc3_d35_k2 ==> bộ luật lao động
+node_id=ch3_muc3_d35_k2 ==> bộ luật lao động
+node_id=ch3_muc3_d35_k2 ==> bộ luật lao động
+node_id=ch3_muc3_d35_k2_a ==> điều 29 của bộ luật lao động
+node_id=ch3_muc3_d35_k2_a ==> bộ luật lao động
+node_id=ch3_muc3_d35_k2_b ==> khoản 4 điều 97 của bộ luật lao động
+node_id=ch3_muc3_d35_k2_b ==> khoản 4 điều 97 của bộ luật lao động
+node_id=ch3_muc3_d35_k2_b ==> điều 97 của bộ luật lao động
+node_id=ch3_muc3_d35_k2_b ==> bộ luật lao động
+node_id=ch3_muc3_d35_k2_đ ==> khoản 1 điều 138 của bộ luật lao động
+node_id=ch3_muc3_d35_k2_đ ==> khoản 1 điều 138 của bộ luật lao động
+node_id=ch3_muc3_d35_k2_đ ==> khoản 1 điều 138 của bộ luật lao động
+node_id=ch3_muc3_d35_k2_đ ==> điều 138 của bộ luật lao động
+node_id=ch3_muc3_d35_k2_đ ==> bộ luật lao động
+node_id=ch3_muc3_d35_k2_e ==> điều 169 của bộ luật lao động
+node_id=ch3_muc3_d35_k2_e ==> điều 169 của bộ luật lao động
+node_id=ch3_muc3_d35_k2_e ==> điều 169 của bộ luật lao động
+node_id=ch3_muc3_d35_k2_e ==> bộ luật lao động
+node_id=ch3_muc3_d35_k2_g ==> khoản 1 điều 16 của bộ luật lao động
+node_id=ch3_muc3_d35_k2_g ==> khoản 1 điều 16 của bộ luật lao động
+node_id=ch3_muc3_d35_k2_g ==> khoản 1 điều 16 của bộ luật lao động
+node_id=ch3_muc3_d35_k2_g ==> điều 16 của bộ luật lao động
+node_id=ch3_muc3_d35_k2_g ==> bộ luật lao động
+node_id=ch3_muc3_d36_k1 ==> điều 31 của bộ luật lao động
+node_id=ch3_muc3_d36_k1 ==> điều 169 của bộ luật lao động
+node_id=ch3_muc3_d36_k1 ==> khoản 2 điều 16 của bộ luật lao động
+node_id=ch3_muc3_d36_k1 ==> điều 169 của bộ luật lao động
+node_id=ch3_muc3_d36_k1 ==> khoản 2 điều 16 của bộ luật lao động
+node_id=ch3_muc3_d36_k1 ==> khoản 2 điều 16 của bộ luật lao động
+node_id=ch3_muc3_d36_k1 ==> điều 31 của bộ luật lao động
+node_id=ch3_muc3_d36_k1 ==> điều 169 của bộ luật lao động
+node_id=ch3_muc3_d36_k1 ==> điều 16 của bộ luật lao động
+node_id=ch3_muc3_d36_k1 ==> bộ luật lao động
+node_id=ch3_muc3_d36_k1 ==> bộ luật lao động
+node_id=ch3_muc3_d36_k1 ==> bộ luật lao động
+node_id=ch3_muc3_d36_k1_d ==> điều 31 của bộ luật lao động
+node_id=ch3_muc3_d36_k1_d ==> điều 31 của bộ luật lao động
+node_id=ch3_muc3_d36_k1_d ==> bộ luật lao động
+node_id=ch3_muc3_d36_k1_đ ==> điều 169 của bộ luật lao động
+node_id=ch3_muc3_d36_k1_đ ==> điều 169 của bộ luật lao động
+node_id=ch3_muc3_d36_k1_đ ==> điều 169 của bộ luật lao động
+node_id=ch3_muc3_d36_k1_đ ==> bộ luật lao động
+node_id=ch3_muc3_d36_k1_g ==> khoản 2 điều 16 của bộ luật lao động
+node_id=ch3_muc3_d36_k1_g ==> khoản 2 điều 16 của bộ luật lao động
+node_id=ch3_muc3_d36_k1_g ==> khoản 2 điều 16 của bộ luật lao động
+node_id=ch3_muc3_d36_k1_g ==> điều 16 của bộ luật lao động
+node_id=ch3_muc3_d36_k1_g ==> bộ luật lao động
+node_id=ch3_muc3_d36_k2 ==> điểm b khoản 1 điều 36
+node_id=ch3_muc3_d36_k2 ==> theo quy định của chính phủ
+node_id=ch3_muc3_d36_k2 ==> điểm a khoản 1 điều 36
+node_id=ch3_muc3_d36_k2 ==> điểm b khoản 1 điều 36
+node_id=ch3_muc3_d36_k2 ==> khoản 1 điều 36
+node_id=ch3_muc3_d36_k2 ==> khoản 1 điều 36
+node_id=ch3_muc3_d36_k2 ==> điều 36
+node_id=ch3_muc3_d36_k2 ==> điều 36
+node_id=ch3_muc3_d36_k2_c ==> điểm b khoản 1 điều 36
+node_id=ch3_muc3_d36_k2_c ==> điểm b khoản 1 điều 36
+node_id=ch3_muc3_d36_k2_c ==> khoản 1 điều 36
+node_id=ch3_muc3_d36_k2_c ==> điều 36
+node_id=ch3_muc3_d36_k2_d ==> theo quy định của chính phủ
+node_id=ch3_muc3_d36_k3 ==> điểm d khoản 1 điều 36
+node_id=ch3_muc3_d36_k3 ==> điểm e khoản 1 điều 36
+node_id=ch3_muc3_d36_k3 ==> điểm d khoản 1 điều 36
+node_id=ch3_muc3_d36_k3 ==> điểm e khoản 1 điều 36
+node_id=ch3_muc3_d36_k3 ==> khoản 1 điều 36
+node_id=ch3_muc3_d36_k3 ==> điều 36
+node_id=ch3_muc3_d37_k1 ==> điểm b khoản 1 điều 36 của bộ luật lao động
+node_id=ch3_muc3_d37_k1 ==> điểm b khoản 1 điều 36 của bộ luật lao động
+node_id=ch3_muc3_d37_k1 ==> khoản 1 điều 36 của bộ luật lao động
+node_id=ch3_muc3_d37_k1 ==> bộ luật lao động
+node_id=ch3_muc3_d40_k3 ==> điều 62 của bộ luật lao động
+node_id=ch3_muc3_d40_k3 ==> điều 62 của bộ luật lao động
+node_id=ch3_muc3_d40_k3 ==> bộ luật lao động
+node_id=ch3_muc3_d41_k1 ==> khoản 2 điều 36 của bộ luật lao động
+node_id=ch3_muc3_d41_k1 ==> khoản 2 điều 36 của bộ luật lao động
+node_id=ch3_muc3_d41_k1 ==> điều 36 của bộ luật lao động
+node_id=ch3_muc3_d41_k1 ==> bộ luật lao động
+node_id=ch3_muc3_d41_k2 ==> khoản 1 điều 41
+node_id=ch3_muc3_d41_k2 ==> điều 46 của bộ luật lao động
+node_id=ch3_muc3_d41_k2 ==> điều 41
+node_id=ch3_muc3_d41_k2 ==> bộ luật lao động
+node_id=ch3_muc3_d41_k3 ==> khoản 1 điều 41
+node_id=ch3_muc3_d41_k3 ==> khoản 1 điều 41
+node_id=ch3_muc3_d41_k3 ==> điều 41
+node_id=ch3_muc3_d41_k3 ==> bộ luật lao động
+node_id=ch3_muc3_d42_k3 ==> điều 44 của bộ luật lao động
+node_id=ch3_muc3_d42_k3 ==> điều 44 của bộ luật lao động
+node_id=ch3_muc3_d42_k3 ==> điều 44 của bộ luật lao động
+node_id=ch3_muc3_d42_k3 ==> bộ luật lao động
+node_id=ch3_muc3_d42_k4 ==> điều 44 của bộ luật lao động
+node_id=ch3_muc3_d42_k4 ==> điều 44 của bộ luật lao động
+node_id=ch3_muc3_d42_k4 ==> điều 44 của bộ luật lao động
+node_id=ch3_muc3_d42_k4 ==> bộ luật lao động
+node_id=ch3_muc3_d42_k5 ==> điều 47 của bộ luật lao động
+node_id=ch3_muc3_d42_k5 ==> điều 47 của bộ luật lao động
+node_id=ch3_muc3_d42_k5 ==> điều 47 của bộ luật lao động
+node_id=ch3_muc3_d42_k5 ==> bộ luật lao động
+node_id=ch3_muc3_d42_k6 ==> điều 42
+node_id=ch3_muc3_d42_k6 ==> điều 42
+node_id=ch3_muc3_d42_k6 ==> điều 42
+node_id=ch3_muc3_d43_k1 ==> điều 44 của bộ luật lao động
+node_id=ch3_muc3_d43_k1 ==> điều 44 của bộ luật lao động
+node_id=ch3_muc3_d43_k1 ==> điều 44 của bộ luật lao động
+node_id=ch3_muc3_d43_k1 ==> bộ luật lao động
+node_id=ch3_muc3_d43_k3 ==> điều 47 của bộ luật lao động
+node_id=ch3_muc3_d43_k3 ==> điều 47 của bộ luật lao động
+node_id=ch3_muc3_d43_k3 ==> điều 47 của bộ luật lao động
+node_id=ch3_muc3_d43_k3 ==> bộ luật lao động
+node_id=ch3_muc3_d45_k1 ==> theo quy định của bộ luật lao động
+node_id=ch3_muc3_d45_k1 ==> khoản 4 điều 34 của bộ luật lao động
+node_id=ch3_muc3_d45_k1 ==> điều 34 của bộ luật lao động
+node_id=ch3_muc3_d45_k1 ==> bộ luật lao động
+node_id=ch3_muc3_d45_k2 ==> khoản 7 điều 34 của bộ luật lao động
+node_id=ch3_muc3_d45_k2 ==> khoản 7 điều 34 của bộ luật lao động
+node_id=ch3_muc3_d45_k2 ==> khoản 7 điều 34 của bộ luật lao động
+node_id=ch3_muc3_d45_k2 ==> điều 34 của bộ luật lao động
+node_id=ch3_muc3_d45_k2 ==> bộ luật lao động
+node_id=ch3_muc3_d46_k1 ==> điểm e khoản 1 điều 36 của bộ luật lao động
+node_id=ch3_muc3_d46_k1 ==> khoản 1 điều 34 của bộ luật lao động
+node_id=ch3_muc3_d46_k1 ==> điểm e khoản 1 điều 36 của bộ luật lao động
+node_id=ch3_muc3_d46_k1 ==> khoản 1 điều 34 của bộ luật lao động
+node_id=ch3_muc3_d46_k1 ==> điều 34 của bộ luật lao động
+node_id=ch3_muc3_d46_k1 ==> bộ luật lao động
+node_id=ch3_muc3_d46_k2 ==> theo quy định của pháp luật về bảo hiểm thất nghiệp và thời gian làm việc
+node_id=ch3_muc3_d46_k4 ==> điều 46
+node_id=ch3_muc3_d47_k1 ==> khoản 11 điều 34 của bộ luật lao động
+node_id=ch3_muc3_d47_k1 ==> khoản 11 điều 34 của bộ luật lao động
+node_id=ch3_muc3_d47_k1 ==> khoản 11 điều 34 của bộ luật lao động
+node_id=ch3_muc3_d47_k1 ==> điều 34 của bộ luật lao động
+node_id=ch3_muc3_d47_k1 ==> bộ luật lao động
+node_id=ch3_muc3_d47_k2 ==> theo quy định của pháp luật về bảo hiểm thất nghiệp và thời gian làm việc
+node_id=ch3_muc3_d47_k4 ==> điều 47
+node_id=ch3_muc4_d49_k1 ==> khoản 1 điều 15 của bộ luật lao động
+node_id=ch3_muc4_d49_k1 ==> khoản 1 điều 15 của bộ luật lao động
+node_id=ch3_muc4_d49_k1 ==> điều 15 của bộ luật lao động
+node_id=ch3_muc4_d49_k1 ==> bộ luật lao động
+node_id=ch3_muc4_d49_k1_b ==> khoản 1 điều 15 của bộ luật lao động
+node_id=ch3_muc4_d49_k1_b ==> khoản 1 điều 15 của bộ luật lao động
+node_id=ch3_muc4_d49_k1_b ==> điều 15 của bộ luật lao động
+node_id=ch3_muc4_d49_k1_b ==> bộ luật lao động
+node_id=ch3_muc4_d51_k1 ==> theo quy định của pháp luật
+node_id=ch3_muc4_d51_k1_a ==> theo quy định của pháp luật
+node_id=ch3_muc4_d51_k2 ==> theo quy định của pháp luật
+node_id=ch3_muc4_d51_k3 ==> điều 51
+node_id=ch3_muc5_d57_k3 ==> theo quy định của bộ luật lao động
+node_id=ch3_muc5_d57_k3 ==> bộ luật lao động
+node_id=ch4_d61_k1 ==> theo quy định của luật giáo dục nghề nghiệp
+node_id=ch4_d61_k3 ==> theo quy định của luật giáo dục nghề nghiệp
+node_id=ch4_d61_k6 ==> theo quy định của bộ luật lao động
+node_id=ch4_d61_k6 ==> bộ luật lao động
+node_id=ch5_muc1_d63_k2 ==> điểm a khoản 1 điều 36 của bộ luật lao động
+node_id=ch5_muc1_d63_k2 ==> điều 42 của bộ luật lao động
+node_id=ch5_muc1_d63_k2 ==> khoản 1 điều 128 của bộ luật lao động
+node_id=ch5_muc1_d63_k2 ==> điểm a khoản 1 điều 36 của bộ luật lao động
+node_id=ch5_muc1_d63_k2 ==> điều 42 của bộ luật lao động
+node_id=ch5_muc1_d63_k2 ==> khoản 1 điều 128 của bộ luật lao động
+node_id=ch5_muc1_d63_k2 ==> khoản 1 điều 36 của bộ luật lao động
+node_id=ch5_muc1_d63_k2 ==> điều 42 của bộ luật lao động
+node_id=ch5_muc1_d63_k2 ==> khoản 1 điều 128 của bộ luật lao động
+node_id=ch5_muc1_d63_k2 ==> điều 36 của bộ luật lao động
+node_id=ch5_muc1_d63_k2 ==> điều 42 của bộ luật lao động
+node_id=ch5_muc1_d63_k2 ==> khoản 1 điều 128 của bộ luật lao động
+node_id=ch5_muc1_d63_k2 ==> bộ luật lao động
+node_id=ch5_muc1_d63_k2_c ==> điểm a khoản 1 điều 36 của bộ luật lao động
+node_id=ch5_muc1_d63_k2_c ==> điều 42 của bộ luật lao động
+node_id=ch5_muc1_d63_k2_c ==> khoản 1 điều 128 của bộ luật lao động
+node_id=ch5_muc1_d63_k2_c ==> điểm a khoản 1 điều 36 của bộ luật lao động
+node_id=ch5_muc1_d63_k2_c ==> điều 42 của bộ luật lao động
+node_id=ch5_muc1_d63_k2_c ==> khoản 1 điều 128 của bộ luật lao động
+node_id=ch5_muc1_d63_k2_c ==> khoản 1 điều 36 của bộ luật lao động
+node_id=ch5_muc1_d63_k2_c ==> điều 42 của bộ luật lao động
+node_id=ch5_muc1_d63_k2_c ==> khoản 1 điều 128 của bộ luật lao động
+node_id=ch5_muc1_d63_k2_c ==> điều 36 của bộ luật lao động
+node_id=ch5_muc1_d63_k2_c ==> điều 42 của bộ luật lao động
+node_id=ch5_muc1_d63_k2_c ==> khoản 1 điều 128 của bộ luật lao động
+node_id=ch5_muc1_d63_k2_c ==> bộ luật lao động
+node_id=ch5_muc1_d63_k3 ==> khoản 2 điều 63
+node_id=ch5_muc1_d63_k3 ==> khoản 2 điều 63
+node_id=ch5_muc1_d63_k3 ==> điều 63
+node_id=ch5_muc1_d64_k1 ==> điểm c khoản 2 điều 63 của bộ luật lao động
+node_id=ch5_muc1_d64_k1 ==> điểm c khoản 2 điều 63 của bộ luật lao động
+node_id=ch5_muc1_d64_k1 ==> điểm c khoản 2 điều 63 của bộ luật lao động
+node_id=ch5_muc1_d64_k1 ==> khoản 2 điều 63 của bộ luật lao động
+node_id=ch5_muc1_d64_k1 ==> điều 63 của bộ luật lao động
+node_id=ch5_muc1_d64_k1 ==> bộ luật lao động
+node_id=ch5_muc1_d64_k2 ==> khoản 1 điều 64
+node_id=ch5_muc1_d64_k2 ==> khoản 1 điều 64
+node_id=ch5_muc1_d64_k2 ==> điều 64
+node_id=ch5_muc2_d68_k1 ==> theo quy định của chính phủ
+node_id=ch5_muc2_d68_k2 ==> khoản 1 điều 68
+node_id=ch5_muc2_d68_k2 ==> khoản 1 điều 68
+node_id=ch5_muc2_d68_k2 ==> điều 68
+node_id=ch5_muc2_d68_k3 ==> khoản 1 điều 68
+node_id=ch5_muc2_d68_k3 ==> khoản 1 điều 68
+node_id=ch5_muc2_d68_k3 ==> khoản 1 điều 68
+node_id=ch5_muc2_d68_k3 ==> điều 68
+node_id=ch5_muc2_d69_k2 ==> khoản 2 điều 68 của bộ luật lao động
+node_id=ch5_muc2_d69_k2 ==> khoản 3 điều 68 của bộ luật lao động
+node_id=ch5_muc2_d69_k2 ==> khoản 2 điều 68 của bộ luật lao động
+node_id=ch5_muc2_d69_k2 ==> khoản 3 điều 68 của bộ luật lao động
+node_id=ch5_muc2_d69_k2 ==> khoản 2 điều 68 của bộ luật lao động
+node_id=ch5_muc2_d69_k2 ==> khoản 3 điều 68 của bộ luật lao động
+node_id=ch5_muc2_d69_k2 ==> điều 68 của bộ luật lao động
+node_id=ch5_muc2_d69_k2 ==> điều 68 của bộ luật lao động
+node_id=ch5_muc2_d69_k2 ==> bộ luật lao động
+node_id=ch5_muc2_d69_k2 ==> bộ luật lao động
+node_id=ch5_muc2_d69_k3 ==> khoản 1 điều 69
+node_id=ch5_muc2_d69_k3 ==> khoản 1 điều 69
+node_id=ch5_muc2_d69_k3 ==> điều 69
+node_id=ch5_muc2_d70_k1 ==> điều 68 của bộ luật lao động
+node_id=ch5_muc2_d70_k1 ==> điều 68 của bộ luật lao động
+node_id=ch5_muc2_d70_k1 ==> điều 68 của bộ luật lao động
+node_id=ch5_muc2_d70_k1 ==> bộ luật lao động
+node_id=ch5_muc2_d70_k2 ==> khoản 2 điều 176 của bộ luật lao động
+node_id=ch5_muc2_d70_k2 ==> khoản 2 điều 176 của bộ luật lao động
+node_id=ch5_muc2_d70_k2 ==> điều 176 của bộ luật lao động
+node_id=ch5_muc2_d70_k2 ==> bộ luật lao động
+node_id=ch5_muc2_d71_k1 ==> khoản 1 điều 70 của bộ luật lao động
+node_id=ch5_muc2_d71_k1 ==> khoản 2 điều 70 của bộ luật lao động
+node_id=ch5_muc2_d71_k1 ==> khoản 2 điều 70 của bộ luật lao động
+node_id=ch5_muc2_d71_k1 ==> khoản 1 điều 70 của bộ luật lao động
+node_id=ch5_muc2_d71_k1 ==> khoản 2 điều 70 của bộ luật lao động
+node_id=ch5_muc2_d71_k1 ==> khoản 2 điều 70 của bộ luật lao động
+node_id=ch5_muc2_d71_k1 ==> điều 70 của bộ luật lao động
+node_id=ch5_muc2_d71_k1 ==> điều 70 của bộ luật lao động
+node_id=ch5_muc2_d71_k1 ==> điều 70 của bộ luật lao động
+node_id=ch5_muc2_d71_k1 ==> bộ luật lao động
+node_id=ch5_muc2_d71_k1 ==> bộ luật lao động
+node_id=ch5_muc2_d71_k1 ==> bộ luật lao động
+node_id=ch5_muc2_d71_k1_a ==> khoản 1 điều 70 của bộ luật lao động
+node_id=ch5_muc2_d71_k1_a ==> khoản 1 điều 70 của bộ luật lao động
+node_id=ch5_muc2_d71_k1_a ==> điều 70 của bộ luật lao động
+node_id=ch5_muc2_d71_k1_a ==> bộ luật lao động
+node_id=ch5_muc2_d71_k1_b ==> khoản 2 điều 70 của bộ luật lao động
+node_id=ch5_muc2_d71_k1_b ==> khoản 2 điều 70 của bộ luật lao động
+node_id=ch5_muc2_d71_k1_b ==> điều 70 của bộ luật lao động
+node_id=ch5_muc2_d71_k1_b ==> bộ luật lao động
+node_id=ch5_muc2_d71_k1_c ==> khoản 2 điều 70 của bộ luật lao động
+node_id=ch5_muc2_d71_k1_c ==> khoản 2 điều 70 của bộ luật lao động
+node_id=ch5_muc2_d71_k1_c ==> điều 70 của bộ luật lao động
+node_id=ch5_muc2_d71_k1_c ==> bộ luật lao động
+node_id=ch5_muc2_d71_k2 ==> theo quy định của bộ luật lao động
+node_id=ch5_muc2_d71_k2 ==> bộ luật lao động
+node_id=ch5_muc2_d72_k1 ==> điều 66 của bộ luật lao động
+node_id=ch5_muc2_d72_k1 ==> điều 67 của bộ luật lao động
+node_id=ch5_muc2_d72_k1 ==> điều 66 của bộ luật lao động
+node_id=ch5_muc2_d72_k1 ==> điều 67 của bộ luật lao động
+node_id=ch5_muc2_d72_k1 ==> điều 66 của bộ luật lao động
+node_id=ch5_muc2_d72_k1 ==> điều 67 của bộ luật lao động
+node_id=ch5_muc2_d72_k1 ==> bộ luật lao động
+node_id=ch5_muc2_d72_k2 ==> điều 73 của bộ luật lao động
+node_id=ch5_muc2_d72_k2 ==> điều 73 của bộ luật lao động
+node_id=ch5_muc2_d72_k2 ==> bộ luật lao động
+node_id=ch5_muc2_d74_k4 ==> điều 73 của bộ luật lao động
+node_id=ch5_muc2_d74_k4 ==> điều 73 của bộ luật lao động
+node_id=ch5_muc2_d74_k4 ==> điều 73 của bộ luật lao động
+node_id=ch5_muc2_d74_k4 ==> bộ luật lao động
+node_id=ch5_muc3_d76_k5 ==> điều 77 của bộ luật lao động
+node_id=ch5_muc3_d76_k5 ==> điều 77 của bộ luật lao động
+node_id=ch5_muc3_d76_k5 ==> điều 77 của bộ luật lao động
+node_id=ch5_muc3_d76_k5 ==> bộ luật lao động
+node_id=ch5_muc3_d76_k7 ==> điều 76
+node_id=ch5_muc3_d79_k3 ==> theo quy định của pháp luật
+node_id=ch5_muc3_d80_k1 ==> điều 68 của bộ luật lao động
+node_id=ch5_muc3_d80_k1 ==> điều 68 của bộ luật lao động
+node_id=ch5_muc3_d80_k1 ==> điều 68 của bộ luật lao động
+node_id=ch5_muc3_d80_k1 ==> bộ luật lao động
+node_id=ch5_muc3_d80_k2 ==> theo quy định của pháp luật
+node_id=ch5_muc3_d82_k2 ==> theo quy định của pháp luật
+node_id=ch5_muc3_d84_k2 ==> khoản 1 điều 84
+node_id=ch5_muc3_d84_k2 ==> khoản 1 điều 84
+node_id=ch5_muc3_d84_k2 ==> khoản 1 điều 84
+node_id=ch5_muc3_d84_k2 ==> điều 84
+node_id=ch5_muc3_d84_k2 ==> điều 84
+node_id=ch5_muc3_d85_k1 ==> khoản 1 điều 84 của bộ luật lao động
+node_id=ch5_muc3_d85_k1 ==> khoản 1 điều 84 của bộ luật lao động
+node_id=ch5_muc3_d85_k1 ==> điều 84 của bộ luật lao động
+node_id=ch5_muc3_d85_k1 ==> bộ luật lao động
+node_id=ch5_muc3_d85_k3 ==> điều 85
+node_id=ch6_d91_k4 ==> điều 91
+node_id=ch6_d96_k3 ==> điều 96
+node_id=ch6_d98_k3 ==> khoản 2 điều 98
+node_id=ch6_d98_k3 ==> khoản 2 điều 98
+node_id=ch6_d98_k3 ==> khoản 2 điều 98
+node_id=ch6_d98_k3 ==> điều 98
+node_id=ch6_d98_k4 ==> điều 98
+node_id=ch6_d100_k2 ==> theo quy định của pháp luật
+node_id=ch6_d101_k2 ==> theo quy định của luật nghĩa vụ quân sự
+node_id=ch6_d102_k1 ==> điều 129 của bộ luật lao động
+node_id=ch6_d102_k1 ==> điều 129 của bộ luật lao động
+node_id=ch6_d102_k1 ==> điều 129 của bộ luật lao động
+node_id=ch6_d102_k1 ==> bộ luật lao động
+node_id=ch7_muc1_d107_k1 ==> theo quy định của pháp luật, thỏa ước lao động tập thể hoặc nội quy lao động
+node_id=ch7_muc1_d107_k2 ==> khoản 3 điều 107
+node_id=ch7_muc1_d107_k2 ==> khoản 3 điều 107
+node_id=ch7_muc1_d107_k2 ==> điều 107
+node_id=ch7_muc1_d107_k2_c ==> khoản 3 điều 107
+node_id=ch7_muc1_d107_k2_c ==> khoản 3 điều 107
+node_id=ch7_muc1_d107_k2_c ==> điều 107
+node_id=ch7_muc1_d107_k4 ==> khoản 3 điều 107
+node_id=ch7_muc1_d107_k4 ==> khoản 3 điều 107
+node_id=ch7_muc1_d107_k4 ==> khoản 3 điều 107
+node_id=ch7_muc1_d107_k4 ==> điều 107
+node_id=ch7_muc1_d107_k5 ==> điều 107
+node_id=ch7_muc1_d108_k1 ==> theo quy định của pháp luật
+node_id=ch7_muc1_d108_k2 ==> theo quy định của pháp luật về an toàn, vệ sinh lao động
+node_id=ch7_muc2_d109_k1 ==> điều 105 của bộ luật lao động
+node_id=ch7_muc2_d109_k1 ==> điều 105 của bộ luật lao động
+node_id=ch7_muc2_d109_k1 ==> bộ luật lao động
+node_id=ch7_muc2_d109_k2 ==> khoản 1 điều 109
+node_id=ch7_muc2_d109_k2 ==> khoản 1 điều 109
+node_id=ch7_muc2_d109_k2 ==> điều 109
+node_id=ch7_muc2_d111_k3 ==> khoản 1 điều 112 của bộ luật lao động
+node_id=ch7_muc2_d111_k3 ==> khoản 1 điều 112 của bộ luật lao động
+node_id=ch7_muc2_d111_k3 ==> điều 112 của bộ luật lao động
+node_id=ch7_muc2_d111_k3 ==> bộ luật lao động
+node_id=ch7_muc2_d112_k2 ==> khoản 1 điều 112
+node_id=ch7_muc2_d112_k2 ==> khoản 1 điều 112
+node_id=ch7_muc2_d112_k2 ==> khoản 1 điều 112
+node_id=ch7_muc2_d112_k2 ==> điều 112
+node_id=ch7_muc2_d112_k3 ==> điểm b khoản 1 điều 112
+node_id=ch7_muc2_d112_k3 ==> điểm đ khoản 1 điều 112
+node_id=ch7_muc2_d112_k3 ==> điểm b khoản 1 điều 112
+node_id=ch7_muc2_d112_k3 ==> điểm đ khoản 1 điều 112
+node_id=ch7_muc2_d112_k3 ==> khoản 1 điều 112
+node_id=ch7_muc2_d113_k5 ==> khoản 3 điều 101 của bộ luật lao động
+node_id=ch7_muc2_d113_k5 ==> khoản 3 điều 101 của bộ luật lao động
+node_id=ch7_muc2_d113_k5 ==> khoản 3 điều 101 của bộ luật lao động
+node_id=ch7_muc2_d113_k5 ==> điều 101 của bộ luật lao động
+node_id=ch7_muc2_d113_k5 ==> bộ luật lao động
+node_id=ch7_muc2_d113_k7 ==> điều 113
+node_id=ch7_muc2_d115_k3 ==> khoản 2 điều 115
+node_id=ch7_muc2_d115_k3 ==> khoản 2 điều 115
+node_id=ch7_muc2_d115_k3 ==> điều 115
+node_id=ch8_muc1_d118_k5 ==> điều 118
+node_id=ch8_muc1_d119_k5 ==> điều 119
+node_id=ch8_muc1_d119_k5 ==> điều 119
+node_id=ch8_muc1_d122_k4 ==> khoản 2 điều 125 của bộ luật lao động
+node_id=ch8_muc1_d122_k4 ==> khoản 2 điều 125 của bộ luật lao động
+node_id=ch8_muc1_d122_k4 ==> bộ luật lao động
+node_id=ch8_muc1_d122_k4_c ==> khoản 2 điều 125 của bộ luật lao động
+node_id=ch8_muc1_d122_k4_c ==> khoản 2 điều 125 của bộ luật lao động
+node_id=ch8_muc1_d122_k4_c ==> bộ luật lao động
+node_id=ch8_muc1_d123_k2 ==> khoản 4 điều 122 của bộ luật lao động
+node_id=ch8_muc1_d123_k2 ==> khoản 4 điều 122 của bộ luật lao động
+node_id=ch8_muc1_d123_k2 ==> điều 122 của bộ luật lao động
+node_id=ch8_muc1_d123_k2 ==> bộ luật lao động
+node_id=ch8_muc1_d123_k3 ==> khoản 2 điều 123
+node_id=ch8_muc1_d123_k3 ==> khoản 2 điều 123
+node_id=ch8_muc1_d123_k3 ==> điều 123
+node_id=ch8_muc1_d125_k3 ==> điều 126 của bộ luật lao động
+node_id=ch8_muc1_d125_k3 ==> điều 126 của bộ luật lao động
+node_id=ch8_muc1_d125_k3 ==> điều 126 của bộ luật lao động
+node_id=ch8_muc1_d125_k3 ==> bộ luật lao động
+node_id=ch8_muc2_d129_k1 ==> khoản 3 điều 102 của bộ luật lao động
+node_id=ch8_muc2_d129_k1 ==> theo quy định của pháp luật hoặc nội quy lao động của
+node_id=ch8_muc2_d129_k1 ==> khoản 3 điều 102 của bộ luật lao động
+node_id=ch8_muc2_d129_k1 ==> khoản 3 điều 102 của bộ luật lao động
+node_id=ch8_muc2_d129_k1 ==> điều 102 của bộ luật lao động
+node_id=ch8_muc2_d129_k1 ==> bộ luật lao động
+node_id=ch10_d135_k4 ==> theo quy định của pháp luật về thuế
+node_id=ch10_d135_k6 ==> điều 135
+node_id=ch10_d139_k2 ==> theo quy định của pháp luật về bảo hiểm xã hội
+node_id=ch10_d139_k3 ==> khoản 1 điều 139
+node_id=ch10_d139_k3 ==> khoản 1 điều 139
+node_id=ch10_d139_k3 ==> khoản 1 điều 139
+node_id=ch10_d139_k3 ==> điều 139
+node_id=ch10_d139_k4 ==> khoản 1 điều 139
+node_id=ch10_d139_k4 ==> khoản 1 điều 139
+node_id=ch10_d139_k4 ==> theo quy định của pháp luật về bảo hiểm xã hội
+node_id=ch10_d139_k4 ==> khoản 1 điều 139
+node_id=ch10_d139_k4 ==> điều 139
+node_id=ch10_d139_k5 ==> theo quy định của pháp luật về bảo hiểm xã hội
+node_id=ch10_d142_k2 ==> khoản 1 điều 142
+node_id=ch10_d142_k2 ==> theo quy định
+node_id=ch10_d142_k2 ==> khoản 1 điều 142
+node_id=ch11_muc1_d143_k2 ==> điều 147 của bộ luật lao động
+node_id=ch11_muc1_d143_k2 ==> điều 147 của bộ luật lao động
+node_id=ch11_muc1_d143_k2 ==> bộ luật lao động
+node_id=ch11_muc1_d143_k4 ==> khoản 3 điều 145 của bộ luật lao động
+node_id=ch11_muc1_d143_k4 ==> khoản 3 điều 145 của bộ luật lao động
+node_id=ch11_muc1_d143_k4 ==> khoản 3 điều 145 của bộ luật lao động
+node_id=ch11_muc1_d143_k4 ==> điều 145 của bộ luật lao động
+node_id=ch11_muc1_d143_k4 ==> bộ luật lao động
+node_id=ch11_muc1_d145_k1 ==> theo quy định sau đây
+node_id=ch11_muc1_d145_k1 ==> phải giao kết hợp đồng lao động bằng văn bản với người chưa đủ 15 tuổi và người đại diện theo pháp luật của người đó
+node_id=ch11_muc1_d145_k2 ==> khoản 3 điều 143 của bộ luật lao động
+node_id=ch11_muc1_d145_k2 ==> khoản 3 điều 143 của bộ luật lao động
+node_id=ch11_muc1_d145_k2 ==> khoản 3 điều 143 của bộ luật lao động
+node_id=ch11_muc1_d145_k2 ==> điều 143 của bộ luật lao động
+node_id=ch11_muc1_d145_k2 ==> bộ luật lao động
+node_id=ch11_muc1_d145_k4 ==> điều 145
+node_id=ch11_muc1_d147_k3 ==> điểm h khoản 2 điều 147
+node_id=ch11_muc1_d147_k3 ==> điểm đ khoản 2 điều 147
+node_id=ch11_muc1_d147_k3 ==> điểm đ khoản 2 điều 147
+node_id=ch11_muc1_d147_k3 ==> điều 147
+node_id=ch11_muc2_d148_k1 ==> khoản 2 điều 169 của bộ luật lao động
+node_id=ch11_muc2_d148_k1 ==> khoản 2 điều 169 của bộ luật lao động
+node_id=ch11_muc2_d148_k1 ==> khoản 2 điều 169 của bộ luật lao động
+node_id=ch11_muc2_d148_k1 ==> điều 169 của bộ luật lao động
+node_id=ch11_muc2_d148_k1 ==> bộ luật lao động
+node_id=ch11_muc2_d149_k2 ==> theo quy định của luật bảo hiểm xã hội
+node_id=ch11_muc2_d149_k2 ==> luật bảo hiểm xã hội
+node_id=ch11_muc3_d150_k1 ==> theo quy định của pháp luật việt nam, pháp luật nước sở tại
+node_id=ch11_muc3_d151_k1 ==> điều 154 của bộ luật lao động
+node_id=ch11_muc3_d151_k1 ==> theo quy định của bộ trưởng bộ y tế
+node_id=ch11_muc3_d151_k1 ==> theo quy định của pháp luật nước ngoài hoặc pháp luật việt nam
+node_id=ch11_muc3_d151_k1 ==> điều 154 của bộ luật lao động
+node_id=ch11_muc3_d151_k1 ==> bộ luật lao động
+node_id=ch11_muc3_d151_k1_b ==> theo quy định của bộ trưởng bộ y tế
+node_id=ch11_muc3_d151_k1_c ==> theo quy định của pháp luật nước ngoài hoặc pháp luật việt nam
+node_id=ch11_muc3_d151_k1_d ==> điều 154 của bộ luật lao động
+node_id=ch11_muc3_d151_k1_d ==> điều 154 của bộ luật lao động
+node_id=ch11_muc3_d151_k1_d ==> bộ luật lao động
+node_id=ch11_muc3_d153_k2 ==> theo quy định của pháp luật về nhập cảnh, xuất cảnh, quá cảnh, cư trú của người nước ngoài tại việt nam
+node_id=ch11_muc3_d153_k3 ==> theo quy định của pháp luật
+node_id=ch11_muc3_d154_k1 ==> theo quy định của chính phủ
+node_id=ch11_muc3_d154_k2 ==> theo quy định của chính phủ
+node_id=ch11_muc3_d154_k6 ==> theo quy định của luật luật sư
+node_id=ch11_muc3_d154_k9 ==> theo quy định của chính phủ
+node_id=ch11_muc5_d163_k2 ==> theo quy định của pháp luật
+node_id=ch11_muc5_d164_k2 ==> theo quy định của pháp luật
+node_id=ch12_d168_k1 ==> theo quy định của pháp luật về bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp
+node_id=ch12_d168_k3 ==> theo quy định của pháp luật về bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp
+node_id=ch12_d169_k1 ==> theo quy định của pháp luật về bảo hiểm xã hội được hưởng lương hưu
+node_id=ch12_d169_k3 ==> điểm n khoản 2 điều 169
+node_id=ch12_d169_k3 ==> điểm n khoản 2 điều 169
+node_id=ch12_d169_k4 ==> điểm n khoản 2 điều 169
+node_id=ch12_d169_k4 ==> điểm n khoản 2 điều 169
+node_id=ch12_d169_k4 ==> điều 169
+node_id=ch12_d169_k4 ==> điểm n
+node_id=ch12_d169_k5 ==> điều 169
+node_id=ch13_d170_k1 ==> theo quy định của luật công đoàn
+node_id=ch13_d170_k2 ==> điều 172 của bộ luật lao động
+node_id=ch13_d170_k2 ==> điều 172 của bộ luật lao động
+node_id=ch13_d170_k2 ==> điều 172 của bộ luật lao động
+node_id=ch13_d170_k2 ==> bộ luật lao động
+node_id=ch13_d170_k3 ==> khoản 2 điều 170
+node_id=ch13_d170_k3 ==> khoản 2 điều 170
+node_id=ch13_d170_k3 ==> điều 170
+node_id=ch13_d171_k2 ==> theo quy định của luật công đoàn
+node_id=ch13_d172_k2 ==> điểm b khoản 1 điều 174 của bộ luật lao động
+node_id=ch13_d172_k2 ==> điểm b khoản 1 điều 174 của bộ luật lao động
+node_id=ch13_d172_k2 ==> khoản 1 điều 174 của bộ luật lao động
+node_id=ch13_d172_k2 ==> điều 174 của bộ luật lao động
+node_id=ch13_d172_k2 ==> bộ luật lao động
+node_id=ch13_d172_k3 ==> theo quy định của luật công đoàn
+node_id=ch13_d173_k1 ==> theo quy định của chính phủ
+node_id=ch13_d173_k2 ==> theo quy định của bộ luật hình sự
+node_id=ch13_d173_k2 ==> bộ luật hình sự
+node_id=ch13_d174_k2 ==> điều 174
+node_id=ch13_d176_k1 ==> khoản 3 điều 176
+node_id=ch13_d176_k1 ==> khoản 3 điều 176
+node_id=ch13_d176_k1 ==> theo quy định của pháp luật
+node_id=ch13_d176_k1 ==> khoản 3 điều 176
+node_id=ch13_d176_k1 ==> điều 176
+node_id=ch13_d176_k1_c ==> khoản 3 điều 176
+node_id=ch13_d176_k1_c ==> khoản 3 điều 176
+node_id=ch13_d176_k1_c ==> khoản 3 điều 176
+node_id=ch13_d176_k1_c ==> điều 176
+node_id=ch13_d176_k1_d ==> theo quy định của pháp luật
+node_id=ch13_d176_k3 ==> khoản 2 điều 176
+node_id=ch13_d176_k3 ==> khoản 2 điều 176
+node_id=ch13_d176_k3 ==> điều 176
+node_id=ch13_d177_k5 ==> theo quy định của pháp luật
+node_id=ch13_d178_k1 ==> theo quy định của bộ luật lao động
+node_id=ch13_d178_k1 ==> bộ luật lao động
+node_id=ch13_d178_k2 ==> theo quy định của bộ luật lao động
+node_id=ch13_d178_k2 ==> bộ luật lao động
+node_id=ch13_d178_k5 ==> theo quy định của bộ luật lao động
+node_id=ch13_d178_k5 ==> bộ luật lao động
+node_id=ch13_d178_k8 ==> theo quy định của pháp luật
+node_id=ch14_muc1_d179_k3 ==> theo quy định của pháp luật
+node_id=ch14_muc1_d179_k3_b ==> theo quy định của pháp luật
+node_id=ch14_muc1_d185_k3 ==> khoản 2 điều 185
+node_id=ch14_muc1_d185_k3 ==> khoản 2 điều 185
+node_id=ch14_muc1_d185_k3 ==> khoản 2 điều 185
+node_id=ch14_muc1_d185_k3 ==> điều 185
+node_id=ch14_muc1_d185_k3_b ==> khoản 2 điều 185
+node_id=ch14_muc1_d185_k3_b ==> khoản 2 điều 185
+node_id=ch14_muc1_d185_k3_b ==> khoản 2 điều 185
+node_id=ch14_muc1_d185_k3_b ==> điều 185
+node_id=ch14_muc1_d185_k4 ==> điểm a
+node_id=ch14_muc1_d185_k4 ==> điều 189 của bộ luật lao động
+node_id=ch14_muc1_d185_k4 ==> điểm a
+node_id=ch14_muc1_d185_k4 ==> điểm a
+node_id=ch14_muc1_d185_k4 ==> điều 189 của bộ luật lao động
+node_id=ch14_muc1_d185_k4 ==> điều 189 của bộ luật lao động
+node_id=ch14_muc1_d185_k4 ==> bộ luật lao động
+node_id=ch14_muc1_d185_k4_b ==> điểm a
+node_id=ch14_muc1_d185_k4_b ==> điểm a
+node_id=ch14_muc1_d185_k4_b ==> điểm a
+node_id=ch14_muc1_d185_k5 ==> điểm c khoản 4 điều 185
+node_id=ch14_muc1_d185_k5 ==> điểm c khoản 4 điều 185
+node_id=ch14_muc1_d185_k5 ==> khoản 4 điều 185
+node_id=ch14_muc1_d185_k5 ==> điều 185
+node_id=ch14_muc1_d185_k6 ==> điều 185
+node_id=ch14_muc1_d185_k6 ==> điều 185
+node_id=ch14_muc2_d188_k1 ==> theo quy định của pháp luật về bảo hiểm xã hội, về bảo hiểm y tế theo quy định của pháp luật về bảo hiểm y tế, về bảo hiểm thất nghiệp theo quy định của pháp luật về việc làm, về bảo hiểm tai nạn lao động, bệnh nghề nghiệp theo quy định của pháp luật về an toàn, vệ sinh lao động
+node_id=ch14_muc2_d188_k1_d ==> theo quy định của pháp luật về bảo hiểm xã hội, về bảo hiểm y tế theo quy định của pháp luật về bảo hiểm y tế, về bảo hiểm thất nghiệp theo quy định của pháp luật về việc làm, về bảo hiểm tai nạn lao động, bệnh nghề nghiệp theo quy định của pháp luật về an toàn, vệ sinh lao động
+node_id=ch14_muc2_d188_k2 ==> khoản 3 điều 181 của bộ luật lao động
+node_id=ch14_muc2_d188_k2 ==> khoản 3 điều 181 của bộ luật lao động
+node_id=ch14_muc2_d188_k2 ==> điều 181 của bộ luật lao động
+node_id=ch14_muc2_d188_k2 ==> bộ luật lao động
+node_id=ch14_muc2_d188_k7 ==> khoản 1 điều 188
+node_id=ch14_muc2_d188_k7 ==> khoản 4 điều 188
+node_id=ch14_muc2_d188_k7 ==> khoản 1 điều 188
+node_id=ch14_muc2_d188_k7 ==> điều 188
+node_id=ch14_muc2_d188_k7 ==> bộ luật lao động
+node_id=ch14_muc2_d188_k7_a ==> điều 189 của bộ luật lao động
+node_id=ch14_muc2_d188_k7_a ==> điều 189 của bộ luật lao động
+node_id=ch14_muc2_d188_k7_a ==> điều 189 của bộ luật lao động
+node_id=ch14_muc2_d188_k7_a ==> bộ luật lao động
+node_id=ch14_muc2_d189_k1 ==> khoản 7 điều 188 của bộ luật lao động
+node_id=ch14_muc2_d189_k1 ==> khoản 4 điều 189
+node_id=ch14_muc2_d189_k1 ==> khoản 7 điều 188 của bộ luật lao động
+node_id=ch14_muc2_d189_k1 ==> khoản 4 điều 189
+node_id=ch14_muc2_d189_k1 ==> điều 188 của bộ luật lao động
+node_id=ch14_muc2_d189_k1 ==> điều 189
+node_id=ch14_muc2_d189_k1 ==> bộ luật lao động
+node_id=ch14_muc2_d189_k2 ==> khoản 1 điều 189
+node_id=ch14_muc2_d189_k2 ==> khoản 1 điều 189
+node_id=ch14_muc2_d189_k2 ==> khoản 1 điều 189
+node_id=ch14_muc2_d189_k2 ==> điều 189
+node_id=ch14_muc2_d189_k4 ==> khoản 2 điều 189
+node_id=ch14_muc2_d189_k4 ==> khoản 2 điều 189
+node_id=ch14_muc2_d189_k4 ==> điều 189
+node_id=ch14_muc2_d190_k4 ==> điều 190
+node_id=ch14_muc2_d190_k4 ==> theo quy định của pháp luật
+node_id=ch14_muc2_d190_k4 ==> điều 190
+node_id=ch14_muc3_d192_k1 ==> điểm b khoản 2 điều 179 của bộ luật lao động
+node_id=ch14_muc3_d192_k1 ==> điểm c khoản 2 điều 179 của bộ luật lao động
+node_id=ch14_muc3_d192_k1 ==> khoản 2 điều 188 của bộ luật lao động
+node_id=ch14_muc3_d192_k1 ==> theo quy định của pháp luật
+node_id=ch14_muc3_d192_k1 ==> điểm b khoản 2 điều 179 của bộ luật lao động
+node_id=ch14_muc3_d192_k1 ==> điểm c khoản 2 điều 179 của bộ luật lao động
+node_id=ch14_muc3_d192_k1 ==> khoản 2 điều 188 của bộ luật lao động
+node_id=ch14_muc3_d192_k1 ==> khoản 2 điều 179 của bộ luật lao động
+node_id=ch14_muc3_d192_k1 ==> điều 188 của bộ luật lao động
+node_id=ch14_muc3_d192_k1 ==> điều 179 của bộ luật lao động
+node_id=ch14_muc3_d192_k1 ==> bộ luật lao động
+node_id=ch14_muc3_d192_k1 ==> bộ luật lao động
+node_id=ch14_muc3_d192_k2 ==> khoản 2 điều 188 của bộ luật lao động
+node_id=ch14_muc3_d192_k2 ==> điều 193 của bộ luật lao động
+node_id=ch14_muc3_d192_k2 ==> khoản 2 điều 188 của bộ luật lao động
+node_id=ch14_muc3_d192_k2 ==> điều 188 của bộ luật lao động
+node_id=ch14_muc3_d192_k2 ==> bộ luật lao động
+node_id=ch14_muc3_d192_k2_a ==> điều 193 của bộ luật lao động
+node_id=ch14_muc3_d192_k2_a ==> điều 193 của bộ luật lao động
+node_id=ch14_muc3_d192_k2_a ==> điều 193 của bộ luật lao động
+node_id=ch14_muc3_d192_k2_a ==> bộ luật lao động
+node_id=ch14_muc3_d193_k1 ==> khoản 2 điều 188 của bộ luật lao động
+node_id=ch14_muc3_d193_k1 ==> khoản 2 điều 188 của bộ luật lao động
+node_id=ch14_muc3_d193_k1 ==> điều 188 của bộ luật lao động
+node_id=ch14_muc3_d193_k1 ==> bộ luật lao động
+node_id=ch14_muc3_d193_k2 ==> khoản 1 điều 193
+node_id=ch14_muc3_d193_k2 ==> khoản 1 điều 193
+node_id=ch14_muc3_d193_k2 ==> khoản 1 điều 193
+node_id=ch14_muc3_d193_k2 ==> điều 193
+node_id=ch14_muc3_d193_k3 ==> điểm b khoản 2 điều 179 của bộ luật lao động
+node_id=ch14_muc3_d193_k3 ==> điểm c khoản 2 điều 179 của bộ luật lao động
+node_id=ch14_muc3_d193_k3 ==> theo quy định của pháp luật
+node_id=ch14_muc3_d193_k3 ==> điểm b khoản 2 điều 179 của bộ luật lao động
+node_id=ch14_muc3_d193_k3 ==> điểm c khoản 2 điều 179 của bộ luật lao động
+node_id=ch14_muc3_d193_k3 ==> khoản 2 điều 179 của bộ luật lao động
+node_id=ch14_muc3_d193_k3 ==> điều 179 của bộ luật lao động
+node_id=ch14_muc3_d193_k3 ==> bộ luật lao động
+node_id=ch14_muc3_d193_k4 ==> điều 193
+node_id=ch14_muc3_d193_k4 ==> điều 193
+node_id=ch14_muc3_d193_k4 ==> điều 193
+node_id=ch14_muc3_d193_k5 ==> khoản 2 điều 193
+node_id=ch14_muc3_d193_k5 ==> khoản 2 điều 193
+node_id=ch14_muc3_d193_k5 ==> điều 193
+node_id=ch14_muc4_d196_k1 ==> khoản 2 điều 188 của bộ luật lao động
+node_id=ch14_muc4_d196_k1 ==> khoản 2 điều 188 của bộ luật lao động
+node_id=ch14_muc4_d196_k1 ==> điều 188 của bộ luật lao động
+node_id=ch14_muc4_d196_k1 ==> bộ luật lao động
+node_id=ch14_muc4_d196_k3 ==> khoản 2 điều 188 của bộ luật lao động
+node_id=ch14_muc4_d196_k3 ==> điều 197 của bộ luật lao động
+node_id=ch14_muc4_d196_k3 ==> khoản 2 điều 188 của bộ luật lao động
+node_id=ch14_muc4_d196_k3 ==> điều 188 của bộ luật lao động
+node_id=ch14_muc4_d196_k3 ==> điều 200 của bộ luật lao động
+node_id=ch14_muc4_d196_k3 ==> điều 200 của bộ luật lao động
+node_id=ch14_muc4_d196_k3 ==> bộ luật lao động
+node_id=ch14_muc4_d196_k3 ==> bộ luật lao động
+node_id=ch14_muc4_d196_k3_a ==> điều 197 của bộ luật lao động
+node_id=ch14_muc4_d196_k3_a ==> điều 197 của bộ luật lao động
+node_id=ch14_muc4_d196_k3_a ==> điều 197 của bộ luật lao động
+node_id=ch14_muc4_d196_k3_a ==> bộ luật lao động
+node_id=ch14_muc4_d196_k3_b ==> điều 200 của bộ luật lao động
+node_id=ch14_muc4_d196_k3_b ==> điều 200 của bộ luật lao động
+node_id=ch14_muc4_d196_k3_b ==> bộ luật lao động
+node_id=ch14_muc4_d197_k1 ==> khoản 2 điều 188 của bộ luật lao động
+node_id=ch14_muc4_d197_k1 ==> khoản 2 điều 188 của bộ luật lao động
+node_id=ch14_muc4_d197_k1 ==> điều 188 của bộ luật lao động
+node_id=ch14_muc4_d197_k1 ==> bộ luật lao động
+node_id=ch14_muc4_d197_k2 ==> khoản 1 điều 197
+node_id=ch14_muc4_d197_k2 ==> khoản 1 điều 197
+node_id=ch14_muc4_d197_k2 ==> khoản 1 điều 197
+node_id=ch14_muc4_d197_k2 ==> điều 197
+node_id=ch14_muc4_d197_k4 ==> điều 197
+node_id=ch14_muc4_d197_k4 ==> khoản 2 điều 197
+node_id=ch14_muc4_d197_k4 ==> điều 197
+node_id=ch14_muc4_d197_k4 ==> khoản 2 điều 197
+node_id=ch14_muc4_d197_k4 ==> điều 197
+node_id=ch14_muc4_d197_k4 ==> điều 197
+node_id=ch14_muc4_d197_k4 ==> bộ luật lao động
+node_id=ch14_muc5_d199_k1 ==> khoản 2 điều 188 của bộ luật lao động
+node_id=ch14_muc5_d199_k1 ==> khoản 2 điều 188 của bộ luật lao động
+node_id=ch14_muc5_d199_k1 ==> điều 188 của bộ luật lao động
+node_id=ch14_muc5_d199_k1 ==> bộ luật lao động
+node_id=ch14_muc5_d200_k1 ==> điều 201 của bộ luật lao động
+node_id=ch14_muc5_d200_k1 ==> điều 201 của bộ luật lao động
+node_id=ch14_muc5_d200_k1 ==> điều 201 của bộ luật lao động
+node_id=ch14_muc5_d200_k1 ==> bộ luật lao động
+node_id=ch14_muc5_d200_k2 ==> điều 202 của bộ luật lao động
+node_id=ch14_muc5_d200_k2 ==> điều 202 của bộ luật lao động
+node_id=ch14_muc5_d200_k2 ==> điều 202 của bộ luật lao động
+node_id=ch14_muc5_d200_k2 ==> bộ luật lao động
+node_id=ch14_muc5_d201_k1 ==> điều 198 của bộ luật lao động
+node_id=ch14_muc5_d201_k1 ==> điều 198 của bộ luật lao động
+node_id=ch14_muc5_d201_k1 ==> bộ luật lao động
+node_id=ch14_muc5_d201_k2 ==> điểm b khoản 2 điều 202 của bộ luật lao động
+node_id=ch14_muc5_d201_k2 ==> khoản 2 điều 202 của bộ luật lao động
+node_id=ch14_muc5_d201_k2 ==> điều 202 của bộ luật lao động
+node_id=ch14_muc5_d201_k2 ==> bộ luật lao động
+node_id=ch14_muc5_d201_k2_b ==> điểm b khoản 2 điều 202 của bộ luật lao động
+node_id=ch14_muc5_d201_k2_b ==> khoản 2 điều 202 của bộ luật lao động
+node_id=ch14_muc5_d201_k2_b ==> điều 202 của bộ luật lao động
+node_id=ch14_muc5_d201_k2_b ==> bộ luật lao động
+node_id=ch14_muc5_d202_k1 ==> khoản 2 điều 201 của bộ luật lao động
+node_id=ch14_muc5_d202_k1 ==> khoản 2 điều 201 của bộ luật lao động
+node_id=ch14_muc5_d202_k1 ==> khoản 2 điều 201 của bộ luật lao động
+node_id=ch14_muc5_d202_k1 ==> điều 201 của bộ luật lao động
+node_id=ch14_muc5_d202_k1 ==> bộ luật lao động
+node_id=ch14_muc5_d203_k2 ==> điều 198 của bộ luật lao động
+node_id=ch14_muc5_d203_k2 ==> điều 198 của bộ luật lao động
+node_id=ch14_muc5_d203_k2 ==> điều 198 của bộ luật lao động
+node_id=ch14_muc5_d203_k2 ==> bộ luật lao động
+node_id=ch14_muc5_d204_k1 ==> điều 199 của bộ luật lao động
+node_id=ch14_muc5_d204_k1 ==> điều 199 của bộ luật lao động
+node_id=ch14_muc5_d204_k1 ==> bộ luật lao động
+node_id=ch14_muc5_d204_k3 ==> theo quy định của bộ luật lao động
+node_id=ch14_muc5_d204_k3 ==> bộ luật lao động
+node_id=ch14_muc5_d204_k4 ==> theo quy định của bộ luật lao động
+node_id=ch14_muc5_d204_k4 ==> bộ luật lao động
+node_id=ch14_muc5_d204_k5 ==> điều 209 của bộ luật lao động
+node_id=ch14_muc5_d204_k5 ==> điều 209 của bộ luật lao động
+node_id=ch14_muc5_d204_k5 ==> bộ luật lao động
+node_id=ch14_muc5_d204_k6 ==> điều 210 của bộ luật lao động
+node_id=ch14_muc5_d204_k6 ==> điều 210 của bộ luật lao động
+node_id=ch14_muc5_d204_k6 ==> điều 210 của bộ luật lao động
+node_id=ch14_muc5_d204_k6 ==> bộ luật lao động
+node_id=ch14_muc5_d207_k1 ==> khoản 2 điều 99 của bộ luật lao động
+node_id=ch14_muc5_d207_k1 ==> khoản 2 điều 99 của bộ luật lao động
+node_id=ch14_muc5_d207_k1 ==> khoản 2 điều 99 của bộ luật lao động
+node_id=ch14_muc5_d207_k1 ==> điều 99 của bộ luật lao động
+node_id=ch14_muc5_d207_k1 ==> bộ luật lao động
+node_id=ch14_muc5_d207_k2 ==> theo quy định của pháp luật
+node_id=ch14_muc5_d209_k2 ==> khoản 1 điều 209
+node_id=ch14_muc5_d209_k2 ==> khoản 1 điều 209
+node_id=ch14_muc5_d209_k2 ==> điều 209
+node_id=ch15_d212_k4 ==> bộ luật lao động
+node_id=ch15_d212_k5 ==> theo quy định của pháp luật
+node_id=ch16_d214_k4 ==> theo quy định của pháp luật
+node_id=ch16_d215_k1 ==> theo quy định của luật thanh tra
+node_id=ch16_d215_k2 ==> theo quy định của luật an toàn, vệ sinh lao động
+node_id=ch16_d217_k1 ==> theo quy định của pháp luật
+node_id=ch16_d217_k1 ==> bộ luật lao động
+node_id=ch16_d217_k2 ==> theo quy định của pháp luật về lao động
+node_id=ch16_d217_k2 ==> theo quy định của pháp luật
+node_id=ch16_d217_k3 ==> theo quy định của pháp luật
+node_id=ch17_d219_k1 ==> khoản 3 điều 219
+node_id=ch17_d219_k1 ==> khoản 3 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1 ==> khoản 2 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1 ==> điểm đ khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1 ==> điểm e khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1 ==> khoản 3 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1 ==> khoản 2 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1 ==> khoản 2 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1 ==> khoản 2 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1 ==> điểm đ khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1 ==> điểm e khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1 ==> khoản 2 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1 ==> khoản 2 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1 ==> khoản 3 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1 ==> theo quy định của chính phủ
+node_id=ch17_d219_k1 ==> khoản 2 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1 ==> điều 54
+node_id=ch17_d219_k1 ==> điểm a khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1 ==> điểm đ khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1 ==> điểm e khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1 ==> điểm a khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1 ==> điểm đ khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1 ==> điểm e khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1 ==> khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1 ==> khoản 3 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1 ==> khoản 2 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1 ==> khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1 ==> khoản 3 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1 ==> khoản 2 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1 ==> khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1 ==> khoản 2 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1 ==> khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1 ==> khoản 1 điều 73
+node_id=ch17_d219_k1 ==> khoản 2 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1 ==> điều 2 của luật này
+node_id=ch17_d219_k1 ==> điều 169 của bộ luật lao động
+node_id=ch17_d219_k1 ==> điều 169 của bộ luật lao động
+node_id=ch17_d219_k1 ==> điều 2 của luật này
+node_id=ch17_d219_k1 ==> điều 169 của bộ luật lao động
+node_id=ch17_d219_k1 ==> điều 169 của bộ luật lao động
+node_id=ch17_d219_k1 ==> điều 55
+node_id=ch17_d219_k1 ==> điều 2 của luật này
+node_id=ch17_d219_k1 ==> điều 169 của bộ luật lao động
+node_id=ch17_d219_k1 ==> điều 2 của luật này
+node_id=ch17_d219_k1 ==> điều 73
+node_id=ch17_d219_k1 ==> bộ luật lao động
+node_id=ch17_d219_k1 ==> bộ luật lao động
+node_id=ch17_d219_k1 ==> bộ luật lao động
+node_id=ch17_d219_k1 ==> bộ luật lao động
+node_id=ch17_d219_k1 ==> bộ luật lao động
+node_id=ch17_d219_k1 ==> bộ luật lao động
+node_id=ch17_d219_k1 ==> bộ luật lao động
+node_id=ch17_d219_k1 ==> bộ luật lao động
+node_id=ch17_d219_k1 ==> bộ luật lao động
+node_id=ch17_d219_k1 ==> bộ luật lao động
+node_id=ch17_d219_k1 ==> luật bảo hiểm xã hội số 58/2014/qh13
+node_id=ch17_d219_k1_a ==> khoản 3 điều 219
+node_id=ch17_d219_k1_a ==> khoản 3 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1_a ==> khoản 2 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1_a ==> điểm đ khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1_a ==> điểm e khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1_a ==> khoản 3 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1_a ==> khoản 2 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1_a ==> khoản 2 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1_a ==> khoản 3 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1_a ==> theo quy định của chính phủ
+node_id=ch17_d219_k1_a ==> điểm a khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1_a ==> điểm đ khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1_a ==> điểm e khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1_a ==> khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1_a ==> khoản 3 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1_a ==> khoản 2 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1_a ==> khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1_a ==> khoản 3 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1_a ==> khoản 2 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1_a ==> điều 54
+node_id=ch17_d219_k1_a ==> điều 2 của luật này
+node_id=ch17_d219_k1_a ==> điều 169 của bộ luật lao động
+node_id=ch17_d219_k1_a ==> điều 169 của bộ luật lao động
+node_id=ch17_d219_k1_a ==> điều 2 của luật này
+node_id=ch17_d219_k1_a ==> điều 169 của bộ luật lao động
+node_id=ch17_d219_k1_a ==> điều 169 của bộ luật lao động
+node_id=ch17_d219_k1_a ==> bộ luật lao động
+node_id=ch17_d219_k1_a ==> bộ luật lao động
+node_id=ch17_d219_k1_a ==> bộ luật lao động
+node_id=ch17_d219_k1_a ==> bộ luật lao động
+node_id=ch17_d219_k1_a ==> bộ luật lao động
+node_id=ch17_d219_k1_a ==> bộ luật lao động
+node_id=ch17_d219_k1_b ==> khoản 2 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1_b ==> khoản 2 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1_b ==> điểm đ khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1_b ==> điểm e khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1_b ==> điểm a khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1_b ==> điểm đ khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1_b ==> điểm e khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1_b ==> khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1_b ==> khoản 2 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1_b ==> khoản 1 điều 2 của luật này
+node_id=ch17_d219_k1_b ==> điều 55
+node_id=ch17_d219_k1_b ==> điều 2 của luật này
+node_id=ch17_d219_k1_b ==> điều 169 của bộ luật lao động
+node_id=ch17_d219_k1_b ==> điều 2 của luật này
+node_id=ch17_d219_k1_b ==> bộ luật lao động
+node_id=ch17_d219_k1_b ==> bộ luật lao động
+node_id=ch17_d219_k1_b ==> bộ luật lao động
+node_id=ch17_d219_k1_c ==> khoản 2 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1_c ==> khoản 2 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1_c ==> khoản 1 điều 73
+node_id=ch17_d219_k1_c ==> khoản 2 điều 169 của bộ luật lao động
+node_id=ch17_d219_k1_c ==> điều 73
+node_id=ch17_d219_k1_c ==> bộ luật lao động
+node_id=ch17_d219_k2 ==> theo quy định của pháp luật về lao động
+node_id=ch17_d219_k2 ==> theo quy định của pháp luật về bảo hiểm xã hội, về bảo hiểm y tế theo quy định của pháp luật về bảo hiểm y tế, về bảo hiểm thất nghiệp theo quy định của pháp luật về việc làm, về bảo hiểm tai nạn lao động, bệnh nghề nghiệp theo quy định của pháp luật về an toàn, vệ sinh lao động
+node_id=ch17_d219_k2 ==> theo quy định của pháp luật về lao động
+node_id=ch17_d219_k2 ==> theo quy định của pháp luật về lao động
+node_id=ch17_d219_k2 ==> theo quy định của pháp luật về lao động
+node_id=ch17_d219_k2 ==> khoản 2 điều 32
+node_id=ch17_d219_k2 ==> điều 32 của bộ luật tố tụng dân sự số 92/2015/qh13
+node_id=ch17_d219_k2 ==> điều 32
+node_id=ch17_d219_k2 ==> điều 32
+node_id=ch17_d219_k2 ==> bộ luật tố tụng dân sự số 92/2015/qh13
+node_id=ch17_d219_k2_a ==> theo quy định của pháp luật về lao động
+node_id=ch17_d219_k2_a ==> theo quy định của pháp luật về bảo hiểm xã hội, về bảo hiểm y tế theo quy định của pháp luật về bảo hiểm y tế, về bảo hiểm thất nghiệp theo quy định của pháp luật về việc làm, về bảo hiểm tai nạn lao động, bệnh nghề nghiệp theo quy định của pháp luật về an toàn, vệ sinh lao động
+node_id=ch17_d219_k2_a ==> theo quy định của pháp luật về lao động
+node_id=ch17_d219_k2_a ==> theo quy định của pháp luật về lao động
+node_id=ch17_d219_k2_a ==> theo quy định của pháp luật về lao động
+node_id=ch17_d219_k2_a ==> điều 32
+node_id=ch17_d219_k2_b ==> khoản 2 điều 32
+node_id=ch17_d219_k2_b ==> điều 32
+node_id=ch17_d220_k1 ==> bộ luật lao động
+node_id=ch17_d220_k1 ==> bộ luật lao động số 10/2012/qh13
+node_id=ch17_d220_k2 ==> bộ luật lao động
+node_id=ch17_d220_k3 ==> bộ luật lao động
+node_id=ch17_d220_k3 ==> bộ luật lao động

@@ -8,7 +8,7 @@ def extract_structural_nodes(law):
     law_id = law.get("law_code", "law_unknown").replace("/", "_") # a/b/c =a_b_c
 
     nodes.append({
-        "id": law_id,
+        "id": f'laborlaw_{law_id}',
         "type": "LAW",
         "properties": {
             "law_code": law.get("law_code"),

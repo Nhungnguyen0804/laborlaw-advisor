@@ -111,18 +111,17 @@ def add_entity_ids(property_entities):
 
 property_entities = add_entity_ids(property_entities)
 save_json(property_entities,'src/ner_re/property_entities.json')
+def extract_nodes(data):
+    all_nodes = []
+    for doc in data:
+        for ent in doc.get('entities', []):
+            all_nodes.append(ent)
+    return all_nodes 
 
+all_semantic_nodes = extract_nodes(property_entities)
+print(f'TẤT CẢ SEMANTIC NODES LÀ {len(all_semantic_nodes)} NODE')
+save_json(all_semantic_nodes,'data/graph/all_semantic_nodes.json')
 
 all_semantic_edges = run_re(property_entities,structural_nodes)
 save_json(all_semantic_edges,'data/graph/all_semantic_edges.json')
 
-def extract_entities(data):
-    all_entities = []
-    for doc in data:
-        for ent in doc.get('entities', []):
-            all_entities.append(ent)
-    return all_entities 
-
-all_semantic_nodes = extract_entities(property_entities)
-print(f'TẤT CẢ SEMANTIC NODES LÀ {len(all_semantic_nodes)} NODE')
-save_json(all_semantic_nodes,'data/graph/all_semantic_nodes.json')

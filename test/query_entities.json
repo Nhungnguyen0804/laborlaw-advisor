@@ -1,7 +1,7 @@
 [
   {
     "type": "LEGAL_ROLE",
-    "text": "Người lao động",
+    "text": "người lao động",
     "span": [
       0,
       14
@@ -10,19 +10,10 @@
   },
   {
     "type": "RIGHT",
-    "text": "được nghỉ bao nhiêu ngày?",
+    "text": "được nghỉ phép bao nhiêu ngày",
     "span": [
-      59,
-      84
-    ],
-    "source": "pattern"
-  },
-  {
-    "type": "LEGAL_REF",
-    "text": "điều kiện đặc biệt nặng nhọc được nghỉ bao nhiêu ngày?",
-    "span": [
-      30,
-      84
+      15,
+      44
     ],
     "source": "pattern"
   }

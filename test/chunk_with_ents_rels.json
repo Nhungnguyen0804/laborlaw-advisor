@@ -3,185 +3,185 @@
     "chunk_id": "chunk_00342",
     "chunk_type": "clause",
     "content_with_context": "Chương 7, Mục 2, Điều 113:\nNgười lao động làm việc đủ 12 tháng cho một người sử dụng lao động thì được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau: a) 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường; b) 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm; c) 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm.",
-    "rrf_score": 0.03278688524590164,
+    "rrf_score": 0.032266458495966696,
     "graph": {
       "article_id": "ch7_muc2_d113",
       "article_title": "Nghỉ hằng năm",
       "clause_id": "ch7_muc2_d113_k1",
       "entities": [
         {
-          "id": "ent_4896",
-          "label": "đối với người làm công việc trong điều kiện bình thường",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_4902",
-          "label": "lương",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_4884",
-          "label": "12 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4892",
-          "label": "thì được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_4906",
-          "label": "công việc nặng",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_4901",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_4903",
-          "label": "đặc biệt nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_4907",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_4893",
-          "label": "12 ngày làm việc đối với người làm công việc trong điều kiện bình thường",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_4909",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_4897",
-          "label": "đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_4905",
+          "id": "ent_4991",
           "label": "nặng nhọc, độc hại, nguy hiểm",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_4885",
-          "label": "14 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4904",
-          "label": "nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_4908",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_4894",
-          "label": "được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_4900",
-          "label": "làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_4887",
-          "label": "hằng năm",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4886",
-          "label": "16 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4891",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4898",
-          "label": "đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_4890",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4899",
+          "id": "ent_4985",
           "label": "làm nghề, công việc nặng nhọc, độc hại, nguy hiểm",
           "attributes": {},
           "type": "ACTION"
         },
         {
-          "id": "ent_4888",
-          "label": "người lao động chưa thành niên",
-          "attributes": "[\"chưa thành niên\"]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4889",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4895",
+          "id": "ent_4981",
           "label": "12 ngày làm việc đối với người làm công việc trong điều kiện bình thường",
           "attributes": {},
           "type": "RIGHT"
         },
         {
-          "id": "ent_4883",
+          "id": "ent_4972",
+          "label": "16 ngày",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_4993",
+          "label": "công việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4994",
+          "label": "công việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4992",
+          "label": "công việc nặng",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4986",
+          "label": "làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_4974",
+          "label": "người lao động chưa thành niên",
+          "attributes": "[\"chưa thành niên\"]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_4990",
+          "label": "nặng nhọc, độc hại, nguy hiểm",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4995",
+          "label": "công việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4984",
+          "label": "đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_4988",
+          "label": "lương",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4983",
+          "label": "đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_4971",
+          "label": "14 ngày",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_4976",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_4977",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_4970",
+          "label": "12 ngày",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_4973",
+          "label": "hằng năm",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_4987",
+          "label": "hợp đồng lao động",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4979",
+          "label": "12 ngày làm việc đối với người làm công việc trong điều kiện bình thường",
+          "attributes": {},
+          "type": "RIGHT"
+        },
+        {
+          "id": "ent_4978",
+          "label": "thì được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau",
+          "attributes": {},
+          "type": "RIGHT"
+        },
+        {
+          "id": "ent_4975",
+          "label": "người sử dụng lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_4969",
           "label": "12 tháng",
           "attributes": {},
           "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_4989",
+          "label": "đặc biệt nặng nhọc, độc hại, nguy hiểm",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4980",
+          "label": "được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau",
+          "attributes": {},
+          "type": "RIGHT"
+        },
+        {
+          "id": "ent_4982",
+          "label": "đối với người làm công việc trong điều kiện bình thường",
+          "attributes": {},
+          "type": "CONDITION"
         }
       ],
       "rels": [
         [
           "12 tháng",
-          "defines",
-          "người lao động"
+          "applies_to",
+          "người sử dụng lao động"
         ],
         [
           "12 tháng",
-          "applies_to",
-          "người sử dụng lao động"
+          "defines",
+          "người lao động"
         ],
         [
           "14 ngày",
@@ -195,13 +195,13 @@
         ],
         [
           "người sử dụng lao động",
-          "applies_to",
-          "12 tháng"
+          "enables",
+          "thì được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau"
         ],
         [
           "người sử dụng lao động",
-          "enables",
-          "thì được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau"
+          "applies_to",
+          "12 tháng"
         ],
         [
           "người lao động",
@@ -230,93 +230,93 @@
     "chunk_id": "chunk_00336",
     "chunk_type": "clause",
     "content_with_context": "Chương 7, Mục 2, Điều 111:\nMỗi tuần, người lao động được nghỉ ít nhất 24 giờ liên tục. Trong trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hằng tuần thì người sử dụng lao động có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít nhất 04 ngày.",
-    "rrf_score": 0.031754032258064516,
+    "rrf_score": 0.03128054740957967,
     "graph": {
       "article_id": "ch7_muc2_d111",
       "article_title": "Nghỉ hằng tuần",
       "clause_id": "ch7_muc2_d111_k1",
       "entities": [
         {
-          "id": "ent_4792",
-          "label": "được nghỉ tính bình quân 01 tháng ít nhất 04 ngày",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_4787",
-          "label": "04 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4786",
-          "label": "01 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4785",
+          "id": "ent_4866",
           "label": "24 giờ",
           "attributes": {},
           "type": "TIME_PERIOD"
         },
         {
-          "id": "ent_4791",
-          "label": "được nghỉ ít nhất 24 giờ liên tục",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_4788",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4790",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4789",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4794",
+          "id": "ent_4875",
           "label": "trong trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hằng tuần",
           "attributes": {},
           "type": "CONDITION"
         },
         {
-          "id": "ent_4798",
-          "label": "có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít nhất 04 ngày",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_4795",
-          "label": "trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hằng tuần thì người sử dụng lao động có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít nhất 04 ngày",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_4797",
-          "label": "bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít nhất 04 ngày",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_4793",
+          "id": "ent_4874",
           "label": "trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hằng tuần",
           "attributes": {},
           "type": "CONDITION"
         },
         {
-          "id": "ent_4796",
+          "id": "ent_4868",
+          "label": "04 ngày",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_4873",
+          "label": "được nghỉ tính bình quân 01 tháng ít nhất 04 ngày",
+          "attributes": {},
+          "type": "RIGHT"
+        },
+        {
+          "id": "ent_4877",
           "label": "trong trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hằng tuần thì người sử dụng lao động có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít nhất 04 ngày",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_4869",
+          "label": "người sử dụng lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_4871",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_4878",
+          "label": "bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít nhất 04 ngày",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_4879",
+          "label": "có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít nhất 04 ngày",
+          "attributes": {},
+          "type": "OBLIGATION"
+        },
+        {
+          "id": "ent_4870",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_4867",
+          "label": "01 tháng",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_4872",
+          "label": "được nghỉ ít nhất 24 giờ liên tục",
+          "attributes": {},
+          "type": "RIGHT"
+        },
+        {
+          "id": "ent_4876",
+          "label": "trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hằng tuần thì người sử dụng lao động có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít nhất 04 ngày",
           "attributes": {},
           "type": "CONDITION"
         }
@@ -336,2852 +336,159 @@
     }
   },
   {
-    "chunk_id": "chunk_00516",
-    "chunk_type": "clause",
-    "content_with_context": "Chương 12, Điều 169:\nNgười lao động bị suy giảm khả năng lao động; làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm; làm nghề, công việc nặng nhọc, độc hại, nguy hiểm; làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn có thể nghỉ hưu ở tuổi thấp hơn nhưng không quá 05 tuổi so với quy định tại khoản 2 Điều này tại thời điểm nghỉ hưu, trừ trường hợp pháp luật có quy định khác.",
-    "rrf_score": 0.031746031746031744,
+    "chunk_id": "chunk_00349",
+    "chunk_type": "full_article",
+    "content_with_context": "Chương 7, Mục 2, Điều 114:\nNgày nghỉ hằng năm tăng thêm theo thâm niên làm việc Cứ đủ 05 năm làm việc cho một người sử dụng lao động thì số ngày nghỉ hằng năm của người lao động theo quy định tại khoản 1  của Bộ luật này được tăng thêm tương ứng 01 ngày.",
+    "rrf_score": 0.031009615384615385,
     "graph": {
-      "article_id": "ch12_d169",
-      "article_title": "Tuổi nghỉ hưu",
-      "clause_id": "ch12_d169_k3",
-      "entities": [
-        {
-          "id": "ent_6405",
-          "label": "trường hợp pháp luật có quy định khác",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_6404",
-          "label": "không quá 05 tuổi so với",
-          "attributes": {},
-          "type": "PROHIBITION"
-        },
-        {
-          "id": "ent_6402",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_6406",
-          "label": "pháp luật có quy định khác",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_6415",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_6410",
-          "label": "đặc biệt nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_6407",
-          "label": "làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn có thể nghỉ hưu ở tuổi thấp hơn nhưng không quá 05 tuổi so với",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_6408",
-          "label": "làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_6417",
-          "label": "điểm n khoản 2",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_6413",
-          "label": "công việc nặng",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_6409",
-          "label": "làm nghề, công việc nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_6411",
-          "label": "nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_6414",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_6403",
-          "label": "xã hội",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_6416",
-          "label": "điểm n khoản 2",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_6412",
-          "label": "nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        }
-      ],
-      "rels": [
-        [
-          "trường hợp pháp luật có quy định khác",
-          "has_exception",
-          "điểm n khoản 2"
-        ],
-        [
-          "trường hợp pháp luật có quy định khác",
-          "has_exception",
-          "làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn có thể nghỉ hưu ở tuổi thấp hơn nhưng không quá 05 tuổi so với"
-        ],
-        [
-          "làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn có thể nghỉ hưu ở tuổi thấp hơn nhưng không quá 05 tuổi so với",
-          "cites",
-          "điểm n khoản 2"
-        ],
-        [
-          "làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn có thể nghỉ hưu ở tuổi thấp hơn nhưng không quá 05 tuổi so với",
-          "has_exception",
-          "trường hợp pháp luật có quy định khác"
-        ],
-        [
-          "điểm n khoản 2",
-          "has_exception",
-          "trường hợp pháp luật có quy định khác"
-        ],
-        [
-          "điểm n khoản 2",
-          "cites",
-          "làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn có thể nghỉ hưu ở tuổi thấp hơn nhưng không quá 05 tuổi so với"
-        ]
-      ]
-    }
-  },
-  {
-    "chunk_id": "chunk_00417",
-    "chunk_type": "clause",
-    "content_with_context": "Chương 10, Điều 137:\nLao động nữ làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm hoặc làm nghề, công việc có ảnh hưởng xấu tới chức năng sinh sản và nuôi con khi mang thai và có thông báo cho người sử dụng lao động biết thì được người sử dụng lao động chuyển sang làm công việc nhẹ hơn, an toàn hơn hoặc giảm bớt 01 giờ làm việc hằng ngày mà không bị cắt giảm tiền lương và quyền, lợi ích cho đến hết thời gian nuôi con dưới 12 tháng tuổi.",
-    "rrf_score": 0.030303030303030304,
-    "graph": {
-      "article_id": "ch10_d137",
-      "article_title": "Bảo vệ thai sản",
-      "clause_id": "ch10_d137_k2",
-      "entities": [
-        {
-          "id": "ent_5599",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_5577",
-          "label": "01 giờ",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_5589",
-          "label": "thông báo cho người sử dụng lao động biết",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_5600",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_5593",
-          "label": "đặc biệt nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_5592",
-          "label": "nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_5588",
-          "label": "mang thai",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_5580",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_5581",
-          "label": "lao động nữ",
-          "attributes": "[\"nữ\"]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_5582",
-          "label": "thì được người sử dụng lao động chuyển sang làm công việc nhẹ hơn, an toàn hơn hoặc giảm bớt 01 giờ làm việc hằng ngày mà không bị cắt giảm tiền lương và quyền, lợi ích cho đến hết thời gian nuôi con dưới 12 tháng tuổi",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_5595",
-          "label": "nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_5590",
-          "label": "làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm hoặc làm nghề, công việc có ảnh hưởng xấu tới chức năng sinh sản và nuôi con khi mang thai và có thông báo cho người sử dụng lao động biết",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_5578",
-          "label": "12 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_5586",
-          "label": "có ảnh hưởng xấu tới chức năng sinh sản và nuôi con",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_5594",
-          "label": "nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_5583",
-          "label": "được người sử dụng lao động chuyển sang làm công việc nhẹ hơn, an toàn hơn hoặc giảm bớt 01 giờ làm việc hằng ngày mà không bị cắt giảm tiền lương và quyền, lợi ích cho đến hết thời gian nuôi con dưới 12 tháng tuổi",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_5598",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_5579",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_5585",
-          "label": "khi mang thai và có thông báo cho người sử dụng lao động biết",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_5587",
-          "label": "nuôi con dưới 12 tháng tuổi",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_5584",
-          "label": "không bị cắt giảm tiền lương và quyền, lợi ích cho đến hết thời gian nuôi con dưới 12 tháng tuổi",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_5597",
-          "label": "công việc nặng",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_5591",
-          "label": "tiền lương",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_5596",
-          "label": "công việc nhẹ",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        }
-      ],
-      "rels": [
-        [
-          "lao động nữ",
-          "involves",
-          "làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm hoặc làm nghề, công việc có ảnh hưởng xấu tới chức năng sinh sản và nuôi con khi mang thai và có thông báo cho người sử dụng lao động biết"
-        ],
-        [
-          "thì được người sử dụng lao động chuyển sang làm công việc nhẹ hơn, an toàn hơn hoặc giảm bớt 01 giờ làm việc hằng ngày mà không bị cắt giảm tiền lương và quyền, lợi ích cho đến hết thời gian nuôi con dưới 12 tháng tuổi",
-          "enables",
-          "làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm hoặc làm nghề, công việc có ảnh hưởng xấu tới chức năng sinh sản và nuôi con khi mang thai và có thông báo cho người sử dụng lao động biết"
-        ],
-        [
-          "làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm hoặc làm nghề, công việc có ảnh hưởng xấu tới chức năng sinh sản và nuôi con khi mang thai và có thông báo cho người sử dụng lao động biết",
-          "enables",
-          "thì được người sử dụng lao động chuyển sang làm công việc nhẹ hơn, an toàn hơn hoặc giảm bớt 01 giờ làm việc hằng ngày mà không bị cắt giảm tiền lương và quyền, lợi ích cho đến hết thời gian nuôi con dưới 12 tháng tuổi"
-        ],
-        [
-          "làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm hoặc làm nghề, công việc có ảnh hưởng xấu tới chức năng sinh sản và nuôi con khi mang thai và có thông báo cho người sử dụng lao động biết",
-          "involves",
-          "lao động nữ"
-        ]
-      ]
-    }
-  },
-  {
-    "chunk_id": "chunk_00333",
-    "chunk_type": "clause",
-    "content_with_context": "Chương 7, Mục 2, Điều 109:\nNgười lao động làm việc theo thời giờ làm việc quy định tại Điều 105 của Bộ luật này từ 06 giờ trở lên trong một ngày thì được nghỉ giữa giờ ít nhất 30 phút liên tục, làm việc ban đêm thì được nghỉ giữa giờ ít nhất 45 phút liên tục. Trường hợp người lao động làm việc theo ca liên tục từ 06 giờ trở lên thì thời gian nghỉ giữa giờ được tính vào giờ làm việc.",
-    "rrf_score": 0.028577260665441927,
-    "graph": {
-      "article_id": "ch7_muc2_d109",
-      "article_title": "Nghỉ trong giờ làm việc",
-      "clause_id": "ch7_muc2_d109_k1",
-      "entities": [
-        {
-          "id": "ent_4762",
-          "label": "từ 06 giờ trở lên",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4779",
-          "label": "điều 105 của bộ luật này",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_4761",
-          "label": "từ 06 giờ trở lên",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4774",
-          "label": "trường hợp người lao động làm việc theo ca liên tục từ 06 giờ trở lên thì thời gian nghỉ giữa giờ được tính vào giờ làm việc",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_4777",
-          "label": "thời giờ làm việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_4767",
-          "label": "trong một ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4773",
-          "label": "trường hợp người lao động làm việc theo ca liên tục từ 06 giờ trở lên",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_4772",
-          "label": "được tính vào giờ làm việc",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_4765",
-          "label": "45 phút",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4778",
-          "label": "điều 105 của bộ luật này",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_4766",
-          "label": "06 giờ",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4769",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4764",
-          "label": "30 phút",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4780",
-          "label": "bộ luật này",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_4768",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4763",
-          "label": "06 giờ",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4770",
-          "label": "thì được nghỉ giữa giờ ít nhất 30 phút liên tục, làm việc ban đêm thì được nghỉ giữa giờ ít nhất 45 phút liên tục",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_4771",
-          "label": "được nghỉ giữa giờ ít nhất 30 phút liên tục, làm việc ban đêm thì được nghỉ giữa giờ ít nhất 45 phút liên tục",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_4775",
-          "label": "trường hợp người lao động làm việc theo ca liên tục từ 06 giờ trở lên",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_4776",
-          "label": "làm việc ban đêm",
-          "attributes": {},
-          "type": "ACTION"
-        }
-      ],
-      "rels": [
-        [
-          "từ 06 giờ trở lên",
-          "applies_to",
-          "điều 105 của bộ luật này"
-        ],
-        [
-          "từ 06 giờ trở lên",
-          "related_to",
-          "trong một ngày"
-        ],
-        [
-          "trong một ngày",
-          "applies_to",
-          "thì được nghỉ giữa giờ ít nhất 30 phút liên tục, làm việc ban đêm thì được nghỉ giữa giờ ít nhất 45 phút liên tục"
-        ],
-        [
-          "trong một ngày",
-          "related_to",
-          "từ 06 giờ trở lên"
-        ],
-        [
-          "người lao động",
-          "defines",
-          "thời giờ làm việc"
-        ],
-        [
-          "thì được nghỉ giữa giờ ít nhất 30 phút liên tục, làm việc ban đêm thì được nghỉ giữa giờ ít nhất 45 phút liên tục",
-          "applies_to",
-          "trong một ngày"
-        ],
-        [
-          "thời giờ làm việc",
-          "cites",
-          "điều 105 của bộ luật này"
-        ],
-        [
-          "thời giờ làm việc",
-          "defines",
-          "người lao động"
-        ],
-        [
-          "điều 105 của bộ luật này",
-          "cites",
-          "thời giờ làm việc"
-        ],
-        [
-          "điều 105 của bộ luật này",
-          "applies_to",
-          "từ 06 giờ trở lên"
-        ]
-      ]
-    }
-  },
-  {
-    "chunk_id": "chunk_00393",
-    "chunk_type": "clause",
-    "content_with_context": "Chương 8, Mục 1, Điều 128:\nThời hạn tạm đình chỉ công việc không được quá 15 ngày, trường hợp đặc biệt không được quá 90 ngày. Trong thời gian bị tạm đình chỉ công việc, người lao động được tạm ứng 50% tiền lương trước khi bị đình chỉ công việc. Hết thời hạn tạm đình chỉ công việc, người sử dụng lao động phải nhận người lao động trở lại làm việc.",
-    "rrf_score": 0.02817460317460317,
-    "graph": {
-      "article_id": "ch8_muc1_d128",
-      "article_title": "Tạm đình chỉ công việc",
-      "clause_id": "ch8_muc1_d128_k2",
-      "entities": [
-        {
-          "id": "ent_5389",
-          "label": "tạm đình chỉ công việc",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_5391",
-          "label": "đình chỉ công việc không được quá 15 ngày",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_5394",
-          "label": "đình chỉ công việc",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_5404",
-          "label": "bị tạm đình chỉ công việc",
-          "attributes": {},
-          "type": "PENALTY"
-        },
-        {
-          "id": "ent_5379",
-          "label": "không được quá 90 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_5385",
-          "label": "không được quá 15 ngày, trường hợp đặc biệt không được quá 90 ngày",
-          "attributes": {},
-          "type": "PROHIBITION"
-        },
-        {
-          "id": "ent_5397",
-          "label": "tạm đình chỉ công việc, người sử dụng lao động phải nhận người lao động trở lại làm việc",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_5390",
-          "label": "tạm đình chỉ công việc",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_5382",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_5381",
-          "label": "90 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_5400",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_5378",
-          "label": "không được quá 15 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_5388",
-          "label": "tạm đình chỉ công việc không được quá 15 ngày",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_5395",
-          "label": "tạm đình chỉ công việc không được quá 15 ngày, trường hợp đặc biệt không được quá 90 ngày",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_5386",
-          "label": "trường hợp đặc biệt không được quá 90 ngày",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_5398",
-          "label": "tiền lương",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_5383",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_5403",
-          "label": "phải nhận người lao động trở lại làm việc",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_5402",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_5392",
-          "label": "đình chỉ công việc",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_5384",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_5393",
-          "label": "đình chỉ công việc",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_5399",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_5387",
-          "label": "trước khi bị đình chỉ công việc",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_5401",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_5396",
-          "label": "tạm đình chỉ công việc, người lao động được tạm ứng 50% tiền lương trước khi bị đình chỉ công việc",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_5380",
-          "label": "15 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        }
-      ],
+      "article_id": "ch7_muc2_d114",
+      "article_title": "Ngày nghỉ hằng năm tăng thêm theo thâm niên làm việc Cứ đủ 05 năm làm việc cho một người sử dụng lao động thì số ngày nghỉ hằng năm của người lao động theo quy định tại khoản 1  của Bộ luật này được tăng thêm tương ứng 01 ngày.",
+      "clause_id": null,
+      "entities": [],
       "rels": []
-    }
-  },
-  {
-    "chunk_id": "chunk_00677",
-    "chunk_type": "point",
-    "content_with_context": "Chương 17, Điều 219:\nSửa đổi, bổ sung Điều 54 như sau: “Điều 54. Điều kiện hưởng lương hưu 1. Người lao động quy định tại các điểm a, b, c, d, g, h và i khoản 1 Điều 2 của Luật này, trừ trường hợp quy định tại khoản 3 Điều này, khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên thì được hưởng lương hưu nếu thuộc một trong các trường hợp sau đây: a) Đủ tuổi theo quy định tại khoản 2 Điều 169 của Bộ luật Lao động; b) Đủ tuổi theo quy định tại khoản 3 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành hoặc có đủ 15 năm làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021; c) Người lao động có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu của người lao động quy định tại khoản 2 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm công việc khai thác than trong hầm lò; d) Người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ được giao. 2. Người lao động quy định tại điểm đ và điểm e khoản 1 Điều 2 của Luật này nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên được hưởng lương hưu khi thuộc một trong các trường hợp sau đây: a) Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động, trừ trường hợp Luật Sĩ quan Quân đội nhân dân Việt Nam, Luật Công an nhân dân, Luật Cơ yếu, Luật Quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng có quy định khác; b) Có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu quy định tại khoản 3 Điều 169 của Bộ luật Lao động và có đủ 15 năm làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do Bộ Lao động - Thương binh và Xã hội ban hành hoặc có đủ 15 năm làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021; c) Người bị nhiễm HIV do tai nạn rủi ro nghề nghiệp trong khi thực hiện nhiệm vụ được giao. 3. Lao động nữ là cán bộ, công chức cấp xã hoặc là người hoạt động không chuyên trách ở xã, phường, thị trấn tham gia bảo hiểm xã hội khi nghỉ việc mà có từ đủ 15 năm đến dưới 20 năm đóng bảo hiểm xã hội và đủ tuổi nghỉ hưu quy định tại khoản 2 Điều 169 của Bộ luật Lao động thì được hưởng lương hưu. 4. Điều kiện về tuổi hưởng lương hưu đối với một số trường hợp đặc biệt theo quy định của Chính phủ.”;",
-    "rrf_score": 0.027583600982429624,
-    "graph": {
-      "article_id": "ch17_d219",
-      "article_title": "Sửa đổi, bổ sung một số điều của các luật có liên quan đến lao động",
-      "clause_id": "ch17_d219_k1",
-      "entities": [
-        {
-          "id": "ent_8774",
-          "label": "2",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8904",
-          "label": "khoản 1 điều 2 của luật này",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8837",
-          "label": "bảo hiểm xã hội",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8926",
-          "label": "bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8898",
-          "label": "khoản 2 điều 169 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8851",
-          "label": "lương hưu",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8849",
-          "label": "lương hưu",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8872",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8921",
-          "label": "bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8891",
-          "label": "điểm đ khoản 1 điều 2 của luật này",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8879",
-          "label": "khoản 2 điều 169 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8875",
-          "label": "khoản 2 điều 169 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8923",
-          "label": "bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8901",
-          "label": "khoản 2 điều 169 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8896",
-          "label": "khoản 1 điều 2 của luật này",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8860",
-          "label": "nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8900",
-          "label": "khoản 3 điều 169 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8884",
-          "label": "khoản 2 điều 169 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8890",
-          "label": "điểm a khoản 1 điều 2 của luật này",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8905",
-          "label": "khoản 1 điều 73",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8874",
-          "label": "khoản 3 điều 169 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8913",
-          "label": "điều 55",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8857",
-          "label": "đặc biệt nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8899",
-          "label": "khoản 1 điều 2 của luật này",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8918",
-          "label": "bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8893",
-          "label": "điểm a khoản 1 điều 2 của luật này",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8864",
-          "label": "nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8858",
-          "label": "đặc biệt nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8895",
-          "label": "điểm e khoản 1 điều 2 của luật này",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8873",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8871",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8853",
-          "label": "phụ cấp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8850",
-          "label": "lương hưu",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8909",
-          "label": "điều 169 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8880",
-          "label": "khoản 2 điều 169 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8878",
-          "label": "khoản 3 điều 169 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8863",
-          "label": "nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8925",
-          "label": "bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8876",
-          "label": "điểm đ khoản 1 điều 2 của luật này",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8843",
-          "label": "lương hưu",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8920",
-          "label": "bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8844",
-          "label": "lương hưu",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8861",
-          "label": "nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8881",
-          "label": "khoản 2 điều 169 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8927",
-          "label": "bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8922",
-          "label": "bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8855",
-          "label": "nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8902",
-          "label": "khoản 1 điều 2 của luật này",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8886",
-          "label": "khoản 3 điều 169 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8919",
-          "label": "bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8836",
-          "label": "bảo hiểm xã hội",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8845",
-          "label": "lương hưu",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8870",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8916",
-          "label": "điều 2 của luật này",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8862",
-          "label": "nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8882",
-          "label": "điểm đ khoản 1 điều 2 của luật này",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8866",
-          "label": "công việc khai thác than trong hầm lò",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8854",
-          "label": "nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8911",
-          "label": "điều 169 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8867",
-          "label": "công việc nặng",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8892",
-          "label": "điểm e khoản 1 điều 2 của luật này",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8894",
-          "label": "điểm đ khoản 1 điều 2 của luật này",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8915",
-          "label": "điều 169 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8856",
-          "label": "đặc biệt nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8877",
-          "label": "điểm e khoản 1 điều 2 của luật này",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8842",
-          "label": "lương hưu",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8869",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8917",
-          "label": "điều 73",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8887",
-          "label": "theo quy định của chính phủ",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8839",
-          "label": "bảo hiểm xã hội",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8852",
-          "label": "phụ cấp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8846",
-          "label": "lương hưu",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8847",
-          "label": "lương hưu",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8883",
-          "label": "điểm e khoản 1 điều 2 của luật này",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8841",
-          "label": "lương hưu",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8897",
-          "label": "khoản 3 điều 169 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8912",
-          "label": "điều 169 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8910",
-          "label": "điều 2 của luật này",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8865",
-          "label": "nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8838",
-          "label": "bảo hiểm xã hội",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8859",
-          "label": "đặc biệt nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8885",
-          "label": "khoản 2 điều 169 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8903",
-          "label": "khoản 2 điều 169 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8835",
-          "label": "bảo hiểm xã hội",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8914",
-          "label": "điều 2 của luật này",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8848",
-          "label": "lương hưu",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8889",
-          "label": "điều 54",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8840",
-          "label": "bảo hiểm xã hội",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8928",
-          "label": "luật bảo hiểm xã hội số 58/2014/qh13",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8908",
-          "label": "điều 169 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8907",
-          "label": "điều 2 của luật này",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8888",
-          "label": "khoản 2 điều 169 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8924",
-          "label": "bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8868",
-          "label": "công việc nặng",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8906",
-          "label": "khoản 2 điều 169 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_8796",
-          "label": "có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8786",
-          "label": "trường hợp đặc biệt",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8828",
-          "label": "nghỉ việc",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_8807",
-          "label": "đủ 20 năm đóng bảo hiểm xã hội trở lên",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8721",
-          "label": "15 năm",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_8782",
-          "label": "đủ tuổi theo",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8793",
-          "label": "trước ngày 01 tháng 01 năm 2021",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8797",
-          "label": "có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8816",
-          "label": "đủ tuổi",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8778",
-          "label": "đủ tuổi theo",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8731",
-          "label": "20 năm",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_8723",
-          "label": "01 năm",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_8720",
-          "label": "15 năm",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_8762",
-          "label": "xã hội",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8815",
-          "label": "đủ tuổi nghỉ hưu",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8742",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8831",
-          "label": "nghỉ việc",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_8827",
-          "label": "làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do bộ lao động - thương binh và xã hội ban hành",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_8740",
-          "label": "bộ lao động - thương binh và xã hội",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8747",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8736",
-          "label": "20 năm",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_8789",
-          "label": "trường hợp sau đây",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8804",
-          "label": "đủ 20 năm đóng bảo hiểm xã hội trở lên",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8737",
-          "label": "bộ lao động - thương binh và xã hội",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8811",
-          "label": "từ 61% trở lên",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8771",
-          "label": "được hưởng lương hưu với mức thấp hơn so với người đủ điều kiện hưởng lương hưu",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_8746",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8795",
-          "label": "khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8760",
-          "label": "xã hội",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8783",
-          "label": "trường hợp",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8819",
-          "label": "đủ tuổi",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8726",
-          "label": "15 năm",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_8821",
-          "label": "thực hiện nhiệm vụ được giao",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_8784",
-          "label": "trường hợp sau đây",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8752",
-          "label": "xã hội",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8756",
-          "label": "xã hội",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8832",
-          "label": "nghỉ việc",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_8826",
-          "label": "làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do bộ lao động - thương binh và xã hội ban hành và bị suy giảm khả năng lao động từ 61% trở lên",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_8734",
-          "label": "20 năm",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_8743",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8790",
-          "label": "có tuổi thấp hơn tối đa 10 tuổi so với tuổi nghỉ hưu",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8802",
-          "label": "đủ 15 năm làm",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8834",
-          "label": "bảo hiểm xã hội",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8824",
-          "label": "làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do bộ lao động - thương binh và xã hội ban hành hoặc có đủ 15 năm làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_8823",
-          "label": "làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_8735",
-          "label": "15 năm",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_8732",
-          "label": "20 năm",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_8801",
-          "label": "đủ 15 năm làm",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8781",
-          "label": "nếu thuộc một trong các trường hợp sau đây",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8739",
-          "label": "bộ lao động - thương binh và xã hội",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8754",
-          "label": "xã hội",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8772",
-          "label": "khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8748",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8785",
-          "label": "có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8745",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8803",
-          "label": "đủ 15 năm làm",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8776",
-          "label": "trường hợp",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8738",
-          "label": "bộ lao động - thương binh và xã hội",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8800",
-          "label": "đủ 15 năm làm",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8829",
-          "label": "nghỉ việc",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_8792",
-          "label": "trước ngày 01 tháng 01 năm 2021",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8767",
-          "label": "được hưởng lương hưu khi thuộc một trong các trường hợp sau đây",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_8813",
-          "label": "đủ 15 năm trở lên",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8749",
-          "label": "lao động nữ",
-          "attributes": "[\"nữ\"]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8733",
-          "label": "15 năm",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_8761",
-          "label": "xã hội",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8751",
-          "label": "xã hội",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8799",
-          "label": "đủ 15 năm làm",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8766",
-          "label": "được hưởng lương hưu",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_8724",
-          "label": "15 năm",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_8780",
-          "label": "có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8763",
-          "label": "xã hội",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8725",
-          "label": "20 năm",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_8750",
-          "label": "xã hội",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8757",
-          "label": "xã hội",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8788",
-          "label": "có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8814",
-          "label": "đủ tuổi nghỉ hưu",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8728",
-          "label": "01 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_8805",
-          "label": "đủ 20 năm đóng bảo hiểm xã hội trở lên",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8787",
-          "label": "trường hợp sau đây",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8833",
-          "label": "bảo hiểm xã hội",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_8777",
-          "label": "trường hợp sau đây",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8769",
-          "label": "được hưởng lương hưu",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_8809",
-          "label": "từ đủ 15 năm đến dưới 20 năm đóng bảo hiểm xã hội",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8779",
-          "label": "luật sĩ quan quân đội nhân dân việt nam, luật công an nhân dân, luật cơ yếu, luật quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng có quy định khác",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8825",
-          "label": "làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do bộ lao động - thương binh và xã hội ban hành hoặc có đủ 15 năm làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_8806",
-          "label": "đủ 20 năm đóng bảo hiểm xã hội trở lên",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8812",
-          "label": "đủ 15 năm trở lên",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8773",
-          "label": "khi thực hiện nhiệm vụ được giao",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8719",
-          "label": "20 năm",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_8808",
-          "label": "đủ 20 năm đóng bảo hiểm xã hội trở lên",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8758",
-          "label": "xã hội",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8818",
-          "label": "đủ tuổi",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8820",
-          "label": "thực hiện nhiệm vụ được giao",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_8822",
-          "label": "làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_8744",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8791",
-          "label": "luật sĩ quan quân đội nhân dân việt nam, luật công an nhân dân, luật cơ yếu, luật quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng có quy định khác",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8765",
-          "label": "thì được hưởng lương hưu",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_8768",
-          "label": "có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_8775",
-          "label": "người lao động",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8764",
-          "label": "thì được hưởng lương hưu",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_8753",
-          "label": "xã hội",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8798",
-          "label": "có tuổi thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8755",
-          "label": "xã hội",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8727",
-          "label": "15 năm",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_8741",
-          "label": "chính phủ",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8759",
-          "label": "xã hội",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8830",
-          "label": "nghỉ việc",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_8810",
-          "label": "từ 61% trở lên",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8729",
-          "label": "01 năm",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_8817",
-          "label": "đủ tuổi",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8794",
-          "label": "đối với một số trường hợp đặc biệt",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_8770",
-          "label": "được hưởng lương hưu với mức thấp hơn so với người đủ điều kiện hưởng lương hưu",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_8722",
-          "label": "01 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_8730",
-          "label": "15 năm",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        }
-      ],
-      "rels": [
-        [
-          "15 năm",
-          "has_condition",
-          "đủ tuổi"
-        ],
-        [
-          "15 năm",
-          "applies_to",
-          "làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do bộ lao động - thương binh và xã hội ban hành hoặc có đủ 15 năm làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021"
-        ],
-        [
-          "15 năm",
-          "has_condition",
-          "khoản 3 điều 169 của bộ luật lao động"
-        ],
-        [
-          "15 năm",
-          "applies_to",
-          "làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do bộ lao động - thương binh và xã hội ban hành hoặc có đủ 15 năm làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021"
-        ],
-        [
-          "15 năm",
-          "has_condition",
-          "khoản 3 điều 169 của bộ luật lao động"
-        ],
-        [
-          "người lao động",
-          "regulates",
-          "điểm a khoản 1 điều 2 của luật này"
-        ],
-        [
-          "người lao động",
-          "involves",
-          "người lao động"
-        ],
-        [
-          "người lao động",
-          "involves",
-          "người lao động"
-        ],
-        [
-          "người lao động",
-          "applies_to",
-          "khoản 2 điều 169 của bộ luật lao động"
-        ],
-        [
-          "người lao động",
-          "has_condition",
-          "đủ 15 năm làm"
-        ],
-        [
-          "người lao động",
-          "regulates",
-          "điểm a khoản 1 điều 2 của luật này"
-        ],
-        [
-          "người lao động",
-          "has_condition",
-          "nghỉ việc"
-        ],
-        [
-          "người lao động",
-          "applies_to",
-          "điểm đ khoản 1 điều 2 của luật này"
-        ],
-        [
-          "người lao động",
-          "involves",
-          "lương hưu"
-        ],
-        [
-          "lao động nữ",
-          "defines",
-          "bảo hiểm xã hội"
-        ],
-        [
-          "thì được hưởng lương hưu",
-          "has_condition",
-          "nếu thuộc một trong các trường hợp sau đây"
-        ],
-        [
-          "thì được hưởng lương hưu",
-          "regulates",
-          "bộ luật lao động"
-        ],
-        [
-          "thì được hưởng lương hưu",
-          "enables",
-          "khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên"
-        ],
-        [
-          "thì được hưởng lương hưu",
-          "defines",
-          "khoản 2 điều 169 của bộ luật lao động"
-        ],
-        [
-          "được hưởng lương hưu khi thuộc một trong các trường hợp sau đây",
-          "regulates",
-          "bộ luật lao động"
-        ],
-        [
-          "được hưởng lương hưu khi thuộc một trong các trường hợp sau đây",
-          "enables",
-          "đủ 20 năm đóng bảo hiểm xã hội trở lên"
-        ],
-        [
-          "được hưởng lương hưu với mức thấp hơn so với người đủ điều kiện hưởng lương hưu",
-          "regulates",
-          "trường hợp sau đây"
-        ],
-        [
-          "được hưởng lương hưu với mức thấp hơn so với người đủ điều kiện hưởng lương hưu",
-          "enables",
-          "đủ 20 năm đóng bảo hiểm xã hội trở lên"
-        ],
-        [
-          "được hưởng lương hưu với mức thấp hơn so với người đủ điều kiện hưởng lương hưu",
-          "regulates",
-          "trường hợp sau đây"
-        ],
-        [
-          "được hưởng lương hưu với mức thấp hơn so với người đủ điều kiện hưởng lương hưu",
-          "enables",
-          "từ 61% trở lên"
-        ],
-        [
-          "khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên",
-          "enables",
-          "thì được hưởng lương hưu"
-        ],
-        [
-          "khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên",
-          "regulates",
-          "trường hợp"
-        ],
-        [
-          "trường hợp",
-          "regulates",
-          "khi nghỉ việc có đủ 20 năm đóng bảo hiểm xã hội trở lên"
-        ],
-        [
-          "trường hợp",
-          "has_exception",
-          "điểm a khoản 1 điều 2 của luật này"
-        ],
-        [
-          "luật sĩ quan quân đội nhân dân việt nam, luật công an nhân dân, luật cơ yếu, luật quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng có quy định khác",
-          "has_condition",
-          "bộ luật lao động"
-        ],
-        [
-          "nếu thuộc một trong các trường hợp sau đây",
-          "has_condition",
-          "thì được hưởng lương hưu"
-        ],
-        [
-          "nếu thuộc một trong các trường hợp sau đây",
-          "regulates",
-          "bộ luật lao động"
-        ],
-        [
-          "trường hợp sau đây",
-          "regulates",
-          "đủ 20 năm đóng bảo hiểm xã hội trở lên"
-        ],
-        [
-          "trường hợp sau đây",
-          "regulates",
-          "được hưởng lương hưu với mức thấp hơn so với người đủ điều kiện hưởng lương hưu"
-        ],
-        [
-          "trường hợp sau đây",
-          "cites",
-          "khoản 2 điều 169 của bộ luật lao động"
-        ],
-        [
-          "trường hợp sau đây",
-          "regulates",
-          "được hưởng lương hưu với mức thấp hơn so với người đủ điều kiện hưởng lương hưu"
-        ],
-        [
-          "trường hợp sau đây",
-          "regulates",
-          "bộ luật lao động"
-        ],
-        [
-          "trường hợp sau đây",
-          "regulates",
-          "từ 61% trở lên"
-        ],
-        [
-          "đối với một số trường hợp đặc biệt",
-          "has_condition",
-          "lương hưu"
-        ],
-        [
-          "đối với một số trường hợp đặc biệt",
-          "cites",
-          "theo quy định của chính phủ"
-        ],
-        [
-          "đủ 15 năm làm",
-          "has_condition",
-          "khoản 2 điều 169 của bộ luật lao động"
-        ],
-        [
-          "đủ 15 năm làm",
-          "involves",
-          "công việc khai thác than trong hầm lò"
-        ],
-        [
-          "đủ 15 năm làm",
-          "has_condition",
-          "người lao động"
-        ],
-        [
-          "đủ 20 năm đóng bảo hiểm xã hội trở lên",
-          "enables",
-          "được hưởng lương hưu khi thuộc một trong các trường hợp sau đây"
-        ],
-        [
-          "đủ 20 năm đóng bảo hiểm xã hội trở lên",
-          "has_condition",
-          "nghỉ việc"
-        ],
-        [
-          "đủ 20 năm đóng bảo hiểm xã hội trở lên",
-          "regulates",
-          "bộ luật lao động"
-        ],
-        [
-          "đủ 20 năm đóng bảo hiểm xã hội trở lên",
-          "regulates",
-          "trường hợp sau đây"
-        ],
-        [
-          "đủ 20 năm đóng bảo hiểm xã hội trở lên",
-          "has_condition",
-          "nghỉ việc"
-        ],
-        [
-          "đủ 20 năm đóng bảo hiểm xã hội trở lên",
-          "enables",
-          "được hưởng lương hưu với mức thấp hơn so với người đủ điều kiện hưởng lương hưu"
-        ],
-        [
-          "đủ 20 năm đóng bảo hiểm xã hội trở lên",
-          "has_condition",
-          "nghỉ việc"
-        ],
-        [
-          "đủ 20 năm đóng bảo hiểm xã hội trở lên",
-          "results_in",
-          "từ 61% trở lên"
-        ],
-        [
-          "từ đủ 15 năm đến dưới 20 năm đóng bảo hiểm xã hội",
-          "has_condition",
-          "nghỉ việc"
-        ],
-        [
-          "từ đủ 15 năm đến dưới 20 năm đóng bảo hiểm xã hội",
-          "related_to",
-          "đủ tuổi nghỉ hưu"
-        ],
-        [
-          "từ 61% trở lên",
-          "results_in",
-          "nghỉ việc"
-        ],
-        [
-          "từ 61% trở lên",
-          "results_in",
-          "đủ 20 năm đóng bảo hiểm xã hội trở lên"
-        ],
-        [
-          "từ 61% trở lên",
-          "enables",
-          "được hưởng lương hưu với mức thấp hơn so với người đủ điều kiện hưởng lương hưu"
-        ],
-        [
-          "từ 61% trở lên",
-          "regulates",
-          "trường hợp sau đây"
-        ],
-        [
-          "đủ 15 năm trở lên",
-          "applies_to",
-          "làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do bộ lao động - thương binh và xã hội ban hành và bị suy giảm khả năng lao động từ 61% trở lên"
-        ],
-        [
-          "đủ 15 năm trở lên",
-          "applies_to",
-          "làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do bộ lao động - thương binh và xã hội ban hành"
-        ],
-        [
-          "đủ tuổi nghỉ hưu",
-          "cites",
-          "khoản 2 điều 169 của bộ luật lao động"
-        ],
-        [
-          "đủ tuổi nghỉ hưu",
-          "related_to",
-          "từ đủ 15 năm đến dưới 20 năm đóng bảo hiểm xã hội"
-        ],
-        [
-          "đủ tuổi nghỉ hưu",
-          "has_condition",
-          "lương hưu"
-        ],
-        [
-          "đủ tuổi nghỉ hưu",
-          "cites",
-          "khoản 2 điều 169 của bộ luật lao động"
-        ],
-        [
-          "đủ tuổi",
-          "has_condition",
-          "15 năm"
-        ],
-        [
-          "đủ tuổi",
-          "cites",
-          "khoản 3 điều 169 của bộ luật lao động"
-        ],
-        [
-          "làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do bộ lao động - thương binh và xã hội ban hành hoặc có đủ 15 năm làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021",
-          "applies_to",
-          "15 năm"
-        ],
-        [
-          "làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do bộ lao động - thương binh và xã hội ban hành hoặc có đủ 15 năm làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01 tháng 01 năm 2021",
-          "applies_to",
-          "15 năm"
-        ],
-        [
-          "làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do bộ lao động - thương binh và xã hội ban hành và bị suy giảm khả năng lao động từ 61% trở lên",
-          "applies_to",
-          "đủ 15 năm trở lên"
-        ],
-        [
-          "làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm thuộc danh mục do bộ lao động - thương binh và xã hội ban hành",
-          "applies_to",
-          "đủ 15 năm trở lên"
-        ],
-        [
-          "nghỉ việc",
-          "has_condition",
-          "đủ 20 năm đóng bảo hiểm xã hội trở lên"
-        ],
-        [
-          "nghỉ việc",
-          "defines",
-          "điểm đ khoản 1 điều 2 của luật này"
-        ],
-        [
-          "nghỉ việc",
-          "has_condition",
-          "từ đủ 15 năm đến dưới 20 năm đóng bảo hiểm xã hội"
-        ],
-        [
-          "nghỉ việc",
-          "has_condition",
-          "bảo hiểm xã hội"
-        ],
-        [
-          "nghỉ việc",
-          "has_condition",
-          "đủ 20 năm đóng bảo hiểm xã hội trở lên"
-        ],
-        [
-          "nghỉ việc",
-          "has_condition",
-          "điểm a khoản 1 điều 2 của luật này"
-        ],
-        [
-          "nghỉ việc",
-          "has_condition",
-          "người lao động"
-        ],
-        [
-          "nghỉ việc",
-          "has_condition",
-          "điểm đ khoản 1 điều 2 của luật này"
-        ],
-        [
-          "nghỉ việc",
-          "results_in",
-          "từ 61% trở lên"
-        ],
-        [
-          "nghỉ việc",
-          "has_condition",
-          "đủ 20 năm đóng bảo hiểm xã hội trở lên"
-        ],
-        [
-          "bảo hiểm xã hội",
-          "defines",
-          "lao động nữ"
-        ],
-        [
-          "bảo hiểm xã hội",
-          "has_condition",
-          "nghỉ việc"
-        ],
-        [
-          "lương hưu",
-          "has_condition",
-          "đối với một số trường hợp đặc biệt"
-        ],
-        [
-          "lương hưu",
-          "has_condition",
-          "đủ tuổi nghỉ hưu"
-        ],
-        [
-          "lương hưu",
-          "involves",
-          "người lao động"
-        ],
-        [
-          "công việc khai thác than trong hầm lò",
-          "involves",
-          "đủ 15 năm làm"
-        ],
-        [
-          "khoản 2 điều 169 của bộ luật lao động",
-          "has_condition",
-          "đủ 15 năm làm"
-        ],
-        [
-          "khoản 2 điều 169 của bộ luật lao động",
-          "applies_to",
-          "người lao động"
-        ],
-        [
-          "điểm đ khoản 1 điều 2 của luật này",
-          "defines",
-          "nghỉ việc"
-        ],
-        [
-          "khoản 3 điều 169 của bộ luật lao động",
-          "has_condition",
-          "15 năm"
-        ],
-        [
-          "khoản 2 điều 169 của bộ luật lao động",
-          "defines",
-          "thì được hưởng lương hưu"
-        ],
-        [
-          "khoản 2 điều 169 của bộ luật lao động",
-          "cites",
-          "đủ tuổi nghỉ hưu"
-        ],
-        [
-          "khoản 2 điều 169 của bộ luật lao động",
-          "cites",
-          "trường hợp sau đây"
-        ],
-        [
-          "điểm đ khoản 1 điều 2 của luật này",
-          "has_condition",
-          "nghỉ việc"
-        ],
-        [
-          "điểm đ khoản 1 điều 2 của luật này",
-          "applies_to",
-          "người lao động"
-        ],
-        [
-          "khoản 3 điều 169 của bộ luật lao động",
-          "has_condition",
-          "15 năm"
-        ],
-        [
-          "khoản 3 điều 169 của bộ luật lao động",
-          "cites",
-          "đủ tuổi"
-        ],
-        [
-          "theo quy định của chính phủ",
-          "cites",
-          "đối với một số trường hợp đặc biệt"
-        ],
-        [
-          "khoản 2 điều 169 của bộ luật lao động",
-          "cites",
-          "đủ tuổi nghỉ hưu"
-        ],
-        [
-          "điều 54",
-          "related_to",
-          "luật bảo hiểm xã hội số 58/2014/qh13"
-        ],
-        [
-          "điểm a khoản 1 điều 2 của luật này",
-          "regulates",
-          "người lao động"
-        ],
-        [
-          "điểm a khoản 1 điều 2 của luật này",
-          "has_exception",
-          "trường hợp"
-        ],
-        [
-          "điểm a khoản 1 điều 2 của luật này",
-          "regulates",
-          "người lao động"
-        ],
-        [
-          "điểm a khoản 1 điều 2 của luật này",
-          "has_condition",
-          "nghỉ việc"
-        ],
-        [
-          "bộ luật lao động",
-          "regulates",
-          "thì được hưởng lương hưu"
-        ],
-        [
-          "bộ luật lao động",
-          "regulates",
-          "nếu thuộc một trong các trường hợp sau đây"
-        ],
-        [
-          "bộ luật lao động",
-          "regulates",
-          "được hưởng lương hưu khi thuộc một trong các trường hợp sau đây"
-        ],
-        [
-          "bộ luật lao động",
-          "has_condition",
-          "luật sĩ quan quân đội nhân dân việt nam, luật công an nhân dân, luật cơ yếu, luật quân nhân chuyên nghiệp, công nhân và viên chức quốc phòng có quy định khác"
-        ],
-        [
-          "bộ luật lao động",
-          "regulates",
-          "đủ 20 năm đóng bảo hiểm xã hội trở lên"
-        ],
-        [
-          "bộ luật lao động",
-          "regulates",
-          "trường hợp sau đây"
-        ],
-        [
-          "luật bảo hiểm xã hội số 58/2014/qh13",
-          "related_to",
-          "điều 54"
-        ]
-      ]
-    }
-  },
-  {
-    "chunk_id": "chunk_00419",
-    "chunk_type": "clause",
-    "content_with_context": "Chương 10, Điều 137:\nLao động nữ trong thời gian hành kinh được nghỉ mỗi ngày 30 phút, trong thời gian nuôi con dưới 12 tháng tuổi được nghỉ mỗi ngày 60 phút trong thời gian làm việc. Thời gian nghỉ vẫn được hưởng đủ tiền lương theo hợp đồng lao động.",
-    "rrf_score": 0.026992753623188405,
-    "graph": {
-      "article_id": "ch10_d137",
-      "article_title": "Bảo vệ thai sản",
-      "clause_id": "ch10_d137_k4",
-      "entities": [
-        {
-          "id": "ent_5653",
-          "label": "nuôi con dưới 12 tháng tuổi",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_5654",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_5655",
-          "label": "tiền lương",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_5651",
-          "label": "được nghỉ mỗi ngày 30 phút, trong thời gian nuôi con dưới 12 tháng tuổi được nghỉ mỗi ngày 60 phút trong thời gian làm việc",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_5649",
-          "label": "60 phút",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_5650",
-          "label": "lao động nữ",
-          "attributes": "[\"nữ\"]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_5652",
-          "label": "được hưởng đủ tiền lương theo hợp đồng lao động",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_5648",
-          "label": "12 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_5647",
-          "label": "30 phút",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        }
-      ],
-      "rels": [
-        [
-          "lao động nữ",
-          "has_condition",
-          "được nghỉ mỗi ngày 30 phút, trong thời gian nuôi con dưới 12 tháng tuổi được nghỉ mỗi ngày 60 phút trong thời gian làm việc"
-        ],
-        [
-          "được nghỉ mỗi ngày 30 phút, trong thời gian nuôi con dưới 12 tháng tuổi được nghỉ mỗi ngày 60 phút trong thời gian làm việc",
-          "has_condition",
-          "lao động nữ"
-        ]
-      ]
-    }
-  },
-  {
-    "chunk_id": "chunk_00453",
-    "chunk_type": "clause",
-    "content_with_context": "Chương 11, Mục 2, Điều 149:\nKhông được sử dụng người lao động cao tuổi làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm có ảnh hưởng xấu tới sức khỏe người lao động cao tuổi, trừ trường hợp bảo đảm các điều kiện làm việc an toàn.",
-    "rrf_score": 0.02603002235707442,
-    "graph": {
-      "article_id": "ch11_muc2_d149",
-      "article_title": "Sử dụng người lao động cao tuổi",
-      "clause_id": "ch11_muc2_d149_k3",
-      "entities": [
-        {
-          "id": "ent_6009",
-          "label": "trường hợp bảo đảm các điều kiện làm việc an toàn",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_6015",
-          "label": "đặc biệt nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_6019",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_6014",
-          "label": "nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_6006",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_6018",
-          "label": "công việc nặng",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_6010",
-          "label": "bảo đảm các điều kiện làm việc an toàn",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_6004",
-          "label": "người lao động cao tuổi",
-          "attributes": "[\"cao tuổi\"]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_6012",
-          "label": "làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm có ảnh hưởng xấu tới sức khỏe người lao động cao tuổi",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_6016",
-          "label": "nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_6008",
-          "label": "không được sử dụng người lao động cao tuổi làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm có ảnh hưởng xấu tới sức khỏe người lao động cao tuổi",
-          "attributes": {},
-          "type": "PROHIBITION"
-        },
-        {
-          "id": "ent_6005",
-          "label": "người lao động cao tuổi",
-          "attributes": "[\"cao tuổi\"]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_6007",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_6017",
-          "label": "nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_6011",
-          "label": "bảo đảm các điều kiện làm việc an toàn",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_6013",
-          "label": "điều kiện làm việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        }
-      ],
-      "rels": [
-        [
-          "không được sử dụng người lao động cao tuổi làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm có ảnh hưởng xấu tới sức khỏe người lao động cao tuổi",
-          "has_exception",
-          "trường hợp bảo đảm các điều kiện làm việc an toàn"
-        ],
-        [
-          "trường hợp bảo đảm các điều kiện làm việc an toàn",
-          "has_exception",
-          "không được sử dụng người lao động cao tuổi làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm có ảnh hưởng xấu tới sức khỏe người lao động cao tuổi"
-        ]
-      ]
     }
   },
   {
     "chunk_id": "chunk_00323",
     "chunk_type": "clause",
     "content_with_context": "Chương 7, Mục 1, Điều 105:\nNgười sử dụng lao động có quyền quy định thời giờ làm việc theo ngày hoặc tuần nhưng phải thông báo cho người lao động biết; trường hợp theo tuần thì thời giờ làm việc bình thường không quá 10 giờ trong 01 ngày và không quá 48 giờ trong 01 tuần. Nhà nước khuyến khích người sử dụng lao động thực hiện tuần làm việc 40 giờ đối với người lao động.",
-    "rrf_score": 0.025816993464052286,
+    "rrf_score": 0.02819138376017471,
     "graph": {
       "article_id": "ch7_muc1_d105",
       "article_title": "Thời giờ làm việc bình thường",
       "clause_id": "ch7_muc1_d105_k2",
       "entities": [
         {
-          "id": "ent_4611",
-          "label": "40 giờ",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4620",
-          "label": "đối với người lao động",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_4612",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4625",
-          "label": "thời giờ làm việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_4613",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4617",
-          "label": "có quyền quy định thời giờ làm việc theo ngày hoặc tuần nhưng phải thông báo cho người lao động biết",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_4607",
-          "label": "10 giờ",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4609",
-          "label": "48 giờ",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4624",
-          "label": "thời giờ làm việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_4606",
-          "label": "không quá 48 giờ",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4616",
-          "label": "không quá 10 giờ trong 01 ngày và không quá 48 giờ trong 01 tuần",
-          "attributes": {},
-          "type": "PROHIBITION"
-        },
-        {
-          "id": "ent_4614",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4619",
-          "label": "trường hợp theo tuần thì thời giờ làm việc bình thường không quá 10 giờ trong 01 ngày và không quá 48 giờ trong 01 tuần",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_4605",
-          "label": "không quá 10 giờ",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4608",
-          "label": "01 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4615",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4626",
+          "id": "ent_4693",
           "label": "phải thông báo cho người lao động biết",
           "attributes": {},
           "type": "OBLIGATION"
         },
         {
-          "id": "ent_4623",
-          "label": "thời giờ làm việc bình thường",
+          "id": "ent_4673",
+          "label": "không quá 48 giờ",
           "attributes": {},
-          "type": "LEGAL_CONCEPT"
+          "type": "TIME_PERIOD"
         },
         {
-          "id": "ent_4610",
+          "id": "ent_4677",
           "label": "01 tuần",
           "attributes": {},
           "type": "TIME_PERIOD"
         },
         {
-          "id": "ent_4621",
+          "id": "ent_4674",
+          "label": "10 giờ",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_4681",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_4692",
+          "label": "thời giờ làm việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4688",
           "label": "thực hiện tuần làm việc 40 giờ đối với người lao động",
           "attributes": {},
           "type": "ACTION"
         },
         {
-          "id": "ent_4622",
-          "label": "thông báo cho người lao động biết",
-          "attributes": {},
-          "type": "ACTION"
+          "id": "ent_4680",
+          "label": "người sử dụng lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
         },
         {
-          "id": "ent_4618",
+          "id": "ent_4684",
+          "label": "có quyền quy định thời giờ làm việc theo ngày hoặc tuần nhưng phải thông báo cho người lao động biết",
+          "attributes": {},
+          "type": "RIGHT"
+        },
+        {
+          "id": "ent_4678",
+          "label": "40 giờ",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_4691",
+          "label": "thời giờ làm việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4683",
+          "label": "không quá 10 giờ trong 01 ngày và không quá 48 giờ trong 01 tuần",
+          "attributes": {},
+          "type": "PROHIBITION"
+        },
+        {
+          "id": "ent_4672",
+          "label": "không quá 10 giờ",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_4682",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_4687",
+          "label": "đối với người lao động",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_4690",
+          "label": "thời giờ làm việc bình thường",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4675",
+          "label": "01 ngày",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_4686",
+          "label": "trường hợp theo tuần thì thời giờ làm việc bình thường không quá 10 giờ trong 01 ngày và không quá 48 giờ trong 01 tuần",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_4679",
+          "label": "người sử dụng lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_4685",
           "label": "trường hợp theo tuần",
           "attributes": {},
           "type": "CONDITION"
+        },
+        {
+          "id": "ent_4676",
+          "label": "48 giờ",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_4689",
+          "label": "thông báo cho người lao động biết",
+          "attributes": {},
+          "type": "ACTION"
         }
       ],
       "rels": [
@@ -3204,6 +511,733 @@
           "thực hiện tuần làm việc 40 giờ đối với người lao động",
           "involves",
           "người sử dụng lao động"
+        ]
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_00393",
+    "chunk_type": "clause",
+    "content_with_context": "Chương 8, Mục 1, Điều 128:\nThời hạn tạm đình chỉ công việc không được quá 15 ngày, trường hợp đặc biệt không được quá 90 ngày. Trong thời gian bị tạm đình chỉ công việc, người lao động được tạm ứng 50% tiền lương trước khi bị đình chỉ công việc. Hết thời hạn tạm đình chỉ công việc, người sử dụng lao động phải nhận người lao động trở lại làm việc.",
+    "rrf_score": 0.027579737335834898,
+    "graph": {
+      "article_id": "ch8_muc1_d128",
+      "article_title": "Tạm đình chỉ công việc",
+      "clause_id": "ch8_muc1_d128_k2",
+      "entities": [
+        {
+          "id": "ent_5479",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_5485",
+          "label": "tạm đình chỉ công việc",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5496",
+          "label": "công việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5480",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_5481",
+          "label": "không được quá 15 ngày, trường hợp đặc biệt không được quá 90 ngày",
+          "attributes": {},
+          "type": "PROHIBITION"
+        },
+        {
+          "id": "ent_5499",
+          "label": "phải nhận người lao động trở lại làm việc",
+          "attributes": {},
+          "type": "OBLIGATION"
+        },
+        {
+          "id": "ent_5491",
+          "label": "tạm đình chỉ công việc không được quá 15 ngày, trường hợp đặc biệt không được quá 90 ngày",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5500",
+          "label": "bị tạm đình chỉ công việc",
+          "attributes": {},
+          "type": "PENALTY"
+        },
+        {
+          "id": "ent_5482",
+          "label": "trường hợp đặc biệt không được quá 90 ngày",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5477",
+          "label": "90 ngày",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_5495",
+          "label": "công việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5494",
+          "label": "tiền lương",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5487",
+          "label": "đình chỉ công việc không được quá 15 ngày",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5474",
+          "label": "không được quá 15 ngày",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_5488",
+          "label": "đình chỉ công việc",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5484",
+          "label": "tạm đình chỉ công việc không được quá 15 ngày",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5478",
+          "label": "người sử dụng lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_5498",
+          "label": "công việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5486",
+          "label": "tạm đình chỉ công việc",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5483",
+          "label": "trước khi bị đình chỉ công việc",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5497",
+          "label": "công việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5493",
+          "label": "tạm đình chỉ công việc, người sử dụng lao động phải nhận người lao động trở lại làm việc",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5489",
+          "label": "đình chỉ công việc",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5490",
+          "label": "đình chỉ công việc",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5492",
+          "label": "tạm đình chỉ công việc, người lao động được tạm ứng 50% tiền lương trước khi bị đình chỉ công việc",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5475",
+          "label": "không được quá 90 ngày",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_5476",
+          "label": "15 ngày",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        }
+      ],
+      "rels": []
+    }
+  },
+  {
+    "chunk_id": "chunk_00343",
+    "chunk_type": "clause",
+    "content_with_context": "Chương 7, Mục 2, Điều 113:\nNgười lao động làm việc chưa đủ 12 tháng cho một người sử dụng lao động thì số ngày nghỉ hằng năm theo tỷ lệ tương ứng với số tháng làm việc.",
+    "rrf_score": 0.026973565905412694,
+    "graph": {
+      "article_id": "ch7_muc2_d113",
+      "article_title": "Nghỉ hằng năm",
+      "clause_id": "ch7_muc2_d113_k2",
+      "entities": [
+        {
+          "id": "ent_5015",
+          "label": "người sử dụng lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_5018",
+          "label": "số tháng làm việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5016",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_5017",
+          "label": "số ngày nghỉ",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5014",
+          "label": "hằng năm",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_5013",
+          "label": "12 tháng",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        }
+      ],
+      "rels": [
+        [
+          "12 tháng",
+          "defines",
+          "người lao động"
+        ],
+        [
+          "12 tháng",
+          "applies_to",
+          "người sử dụng lao động"
+        ],
+        [
+          "hằng năm",
+          "has_condition",
+          "số tháng làm việc"
+        ],
+        [
+          "hằng năm",
+          "applies_to",
+          "số ngày nghỉ"
+        ],
+        [
+          "người sử dụng lao động",
+          "involves",
+          "số ngày nghỉ"
+        ],
+        [
+          "người sử dụng lao động",
+          "applies_to",
+          "12 tháng"
+        ],
+        [
+          "người lao động",
+          "defines",
+          "12 tháng"
+        ],
+        [
+          "số ngày nghỉ",
+          "applies_to",
+          "hằng năm"
+        ],
+        [
+          "số ngày nghỉ",
+          "involves",
+          "người sử dụng lao động"
+        ],
+        [
+          "số ngày nghỉ",
+          "has_condition",
+          "số tháng làm việc"
+        ],
+        [
+          "số tháng làm việc",
+          "has_condition",
+          "hằng năm"
+        ],
+        [
+          "số tháng làm việc",
+          "has_condition",
+          "số ngày nghỉ"
+        ]
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_00314",
+    "chunk_type": "clause",
+    "content_with_context": "Chương 6, Điều 101:\nNgười sử dụng lao động phải cho người lao động tạm ứng tiền lương tương ứng với số ngày người lao động tạm thời nghỉ việc để thực hiện nghĩa vụ công dân từ 01 tuần trở lên nhưng tối đa không quá 01 tháng tiền lương theo hợp đồng lao động và người lao động phải hoàn trả số tiền đã tạm ứng. Người lao động nhập ngũ theo quy định của Luật Nghĩa vụ quân sự thì không được tạm ứng tiền lương.",
+    "rrf_score": 0.02649122807017544,
+    "graph": {
+      "article_id": "ch6_d101",
+      "article_title": "Tạm ứng tiền lương",
+      "clause_id": "ch6_d101_k2",
+      "entities": [
+        {
+          "id": "ent_4591",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_4604",
+          "label": "nghĩa vụ",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4601",
+          "label": "tiền lương",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4602",
+          "label": "tiền lương",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4590",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_4582",
+          "label": "từ 01 tuần trở lên",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_4607",
+          "label": "phải hoàn trả số tiền đã tạm ứng",
+          "attributes": {},
+          "type": "PENALTY"
+        },
+        {
+          "id": "ent_4588",
+          "label": "người sử dụng lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_4596",
+          "label": "thực hiện nghĩa vụ công dân từ 01 tuần trở lên nhưng tối đa không quá 01 tháng tiền lương theo hợp đồng lao động và người lao động phải hoàn trả số tiền đã tạm ứng",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_4595",
+          "label": "không quá 01 tháng tiền lương theo hợp đồng lao động và người lao động phải hoàn trả số tiền đã tạm ứng",
+          "attributes": {},
+          "type": "PROHIBITION"
+        },
+        {
+          "id": "ent_4593",
+          "label": "thì không được tạm ứng tiền lương",
+          "attributes": {},
+          "type": "PROHIBITION"
+        },
+        {
+          "id": "ent_4583",
+          "label": "tối đa không quá 01 tháng",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_4584",
+          "label": "không quá 01 tháng",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_4589",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_4600",
+          "label": "tiền lương",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4606",
+          "label": "phải cho người lao động tạm ứng tiền lương tương ứng với số ngày người lao động tạm thời nghỉ việc để thực hiện nghĩa vụ công dân từ 01 tuần trở lên nhưng tối đa không quá 01 tháng tiền lương theo hợp đồng lao động và người lao động phải hoàn trả số tiền đã tạm ứng",
+          "attributes": {},
+          "type": "OBLIGATION"
+        },
+        {
+          "id": "ent_4597",
+          "label": "nghỉ việc",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_4599",
+          "label": "hợp đồng lao động",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4586",
+          "label": "01 tháng",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_4603",
+          "label": "nghĩa vụ",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4592",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_4605",
+          "label": "theo quy định của luật nghĩa vụ quân sự",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_4598",
+          "label": "trả",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_4594",
+          "label": "không được tạm ứng tiền lương",
+          "attributes": {},
+          "type": "PROHIBITION"
+        },
+        {
+          "id": "ent_4585",
+          "label": "01 tuần",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_4587",
+          "label": "người lao động nhập ngũ",
+          "attributes": "[\"nhập ngũ\"]",
+          "type": "LEGAL_ROLE"
+        }
+      ],
+      "rels": [
+        [
+          "người lao động nhập ngũ",
+          "applies_to",
+          "theo quy định của luật nghĩa vụ quân sự"
+        ],
+        [
+          "người sử dụng lao động",
+          "requires",
+          "phải cho người lao động tạm ứng tiền lương tương ứng với số ngày người lao động tạm thời nghỉ việc để thực hiện nghĩa vụ công dân từ 01 tuần trở lên nhưng tối đa không quá 01 tháng tiền lương theo hợp đồng lao động và người lao động phải hoàn trả số tiền đã tạm ứng"
+        ],
+        [
+          "thì không được tạm ứng tiền lương",
+          "prohibits",
+          "theo quy định của luật nghĩa vụ quân sự"
+        ],
+        [
+          "theo quy định của luật nghĩa vụ quân sự",
+          "prohibits",
+          "thì không được tạm ứng tiền lương"
+        ],
+        [
+          "theo quy định của luật nghĩa vụ quân sự",
+          "applies_to",
+          "người lao động nhập ngũ"
+        ],
+        [
+          "phải cho người lao động tạm ứng tiền lương tương ứng với số ngày người lao động tạm thời nghỉ việc để thực hiện nghĩa vụ công dân từ 01 tuần trở lên nhưng tối đa không quá 01 tháng tiền lương theo hợp đồng lao động và người lao động phải hoàn trả số tiền đã tạm ứng",
+          "requires",
+          "người sử dụng lao động"
+        ]
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_00337",
+    "chunk_type": "clause",
+    "content_with_context": "Chương 7, Mục 2, Điều 111:\nNgười sử dụng lao động có quyền quyết định sắp xếp ngày nghỉ hằng tuần vào ngày Chủ nhật hoặc ngày xác định khác trong tuần nhưng phải ghi vào nội quy lao động.",
+    "rrf_score": 0.025914384123339348,
+    "graph": {
+      "article_id": "ch7_muc2_d111",
+      "article_title": "Nghỉ hằng tuần",
+      "clause_id": "ch7_muc2_d111_k2",
+      "entities": [
+        {
+          "id": "ent_4880",
+          "label": "người sử dụng lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_4882",
+          "label": "nội quy lao động",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4881",
+          "label": "có quyền quyết định sắp xếp ngày nghỉ hằng tuần vào ngày chủ nhật hoặc ngày xác định khác trong tuần nhưng phải ghi vào nội quy lao động",
+          "attributes": {},
+          "type": "RIGHT"
+        },
+        {
+          "id": "ent_4883",
+          "label": "phải ghi vào nội quy lao động",
+          "attributes": {},
+          "type": "OBLIGATION"
+        }
+      ],
+      "rels": [
+        [
+          "người sử dụng lao động",
+          "enables",
+          "có quyền quyết định sắp xếp ngày nghỉ hằng tuần vào ngày chủ nhật hoặc ngày xác định khác trong tuần nhưng phải ghi vào nội quy lao động"
+        ],
+        [
+          "có quyền quyết định sắp xếp ngày nghỉ hằng tuần vào ngày chủ nhật hoặc ngày xác định khác trong tuần nhưng phải ghi vào nội quy lao động",
+          "enables",
+          "người sử dụng lao động"
+        ]
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_00338",
+    "chunk_type": "clause",
+    "content_with_context": "Chương 7, Mục 2, Điều 111:\nNếu ngày nghỉ hằng tuần trùng với ngày nghỉ lễ, tết quy định tại khoản 1 Điều 112 của Bộ luật này thì người lao động được nghỉ bù ngày nghỉ hằng tuần vào ngày làm việc kế tiếp.",
+    "rrf_score": 0.025793650793650792,
+    "graph": {
+      "article_id": "ch7_muc2_d111",
+      "article_title": "Nghỉ hằng tuần",
+      "clause_id": "ch7_muc2_d111_k3",
+      "entities": [
+        {
+          "id": "ent_4884",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_4885",
+          "label": "được nghỉ bù ngày nghỉ hằng tuần vào ngày làm việc kế tiếp",
+          "attributes": {},
+          "type": "RIGHT"
+        },
+        {
+          "id": "ent_4887",
+          "label": "nghỉ lễ",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4886",
+          "label": "nếu ngày nghỉ hằng tuần trùng với ngày nghỉ lễ, tết",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_4891",
+          "label": "bộ luật lao động",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_4890",
+          "label": "điều 112 của bộ luật lao động",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_4888",
+          "label": "khoản 1 điều 112 của bộ luật lao động",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_4889",
+          "label": "khoản 1 điều 112 của bộ luật lao động",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        }
+      ],
+      "rels": [
+        [
+          "người lao động",
+          "enables",
+          "được nghỉ bù ngày nghỉ hằng tuần vào ngày làm việc kế tiếp"
+        ],
+        [
+          "người lao động",
+          "regulates",
+          "khoản 1 điều 112 của bộ luật lao động"
+        ],
+        [
+          "được nghỉ bù ngày nghỉ hằng tuần vào ngày làm việc kế tiếp",
+          "enables",
+          "người lao động"
+        ],
+        [
+          "nếu ngày nghỉ hằng tuần trùng với ngày nghỉ lễ, tết",
+          "cites",
+          "khoản 1 điều 112 của bộ luật lao động"
+        ],
+        [
+          "khoản 1 điều 112 của bộ luật lao động",
+          "regulates",
+          "người lao động"
+        ],
+        [
+          "khoản 1 điều 112 của bộ luật lao động",
+          "cites",
+          "nếu ngày nghỉ hằng tuần trùng với ngày nghỉ lễ, tết"
+        ]
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_00386",
+    "chunk_type": "clause",
+    "content_with_context": "Chương 8, Mục 1, Điều 125:\nNgười lao động tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày hoặc 20 ngày cộng dồn trong thời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng. Trường hợp được coi là có lý do chính đáng bao gồm thiên tai, hỏa hoạn, bản thân, thân nhân bị ốm có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền và trường hợp khác được quy định trong nội quy lao động.",
+    "rrf_score": 0.025694893341952164,
+    "graph": {
+      "article_id": "ch8_muc1_d125",
+      "article_title": "Áp dụng hình thức xử lý kỷ luật sa thải Hình thức xử lý kỷ luật sa thải được người sử dụng lao động áp dụng trong trường hợp sau đây:",
+      "clause_id": "ch8_muc1_d125_k4",
+      "entities": [
+        {
+          "id": "ent_5404",
+          "label": "trong thời hạn 30 ngày",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_5407",
+          "label": "30 ngày",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_5411",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_5415",
+          "label": "nội quy lao động",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5414",
+          "label": "tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày hoặc 20 ngày cộng dồn trong thời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5413",
+          "label": "trong thời hạn 30 ngày hoặc 20 ngày cộng dồn trong thời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5406",
+          "label": "05 ngày",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_5405",
+          "label": "trong thời hạn 365 ngày",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_5408",
+          "label": "20 ngày",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_5410",
+          "label": "cơ sở khám bệnh, chữa bệnh có thẩm quyền",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_5409",
+          "label": "365 ngày",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_5412",
+          "label": "trường hợp được coi là có lý do chính đáng bao gồm thiên tai, hỏa hoạn, bản thân, thân nhân bị ốm có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền và trường hợp khác được quy định trong nội quy lao động",
+          "attributes": {},
+          "type": "CONDITION"
+        }
+      ],
+      "rels": [
+        [
+          "người lao động",
+          "involves",
+          "tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày hoặc 20 ngày cộng dồn trong thời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng"
+        ],
+        [
+          "tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày hoặc 20 ngày cộng dồn trong thời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng",
+          "involves",
+          "người lao động"
         ]
       ]
     }

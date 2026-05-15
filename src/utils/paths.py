@@ -24,3 +24,13 @@ TEST_DIR = ROOT_DIR / "test"
 TEST_DIR1 = ROOT_DIR / "test1"
 
 
+NER_RE = SRC_DIR / "ner_re"
+PROPERTY_ENTITES_JSON = NER_RE/ 'property_entities.json'
+
+STRUCTURAL_NODES_JSON = 'data/graph/structural_nodes.json'
+
+
+
+
+
+

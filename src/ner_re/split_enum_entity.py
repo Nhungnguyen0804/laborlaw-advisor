@@ -1,6 +1,6 @@
 import re
 from copy import deepcopy
-
+from src.ner_re.common import get_article_number_from_node_id
 def save_current_ref(results, diem_list, khoan, dieu, suffix):
     if diem_list:
         for d in diem_list:
@@ -23,7 +23,7 @@ def save_current_ref(results, diem_list, khoan, dieu, suffix):
             s += f" {suffix}"
         results.append(s)
 
-def expand_legal_refs(text):
+def expand_legal_refs(text,node_id=None):
     """
     Mở rộng các tham chiếu pháp luật có enumeration
     VD: 'điểm đ và điểm e khoản 1 điều 2 của luật này'
@@ -85,76 +85,6 @@ def expand_legal_refs(text):
     return results 
 
 
-
-# def expand_legal_references(text):
-#     """
-#     Mở rộng các tham chiếu pháp luật có enumeration
-#     VD: 'điểm đ và điểm e khoản 1 điều 2 của luật này'
-#     => ['điểm đ khoản 1 điều 2 của luật này', 'điểm e khoản 1 điều 2 của luật này']
-#     """
-#     # Tách suffix (của ... cuối câu)
-#     suffix_match = re.search(r'(của\s+.+?)$', text)
-#     suffix = suffix_match.group(1) if suffix_match else ""
-    
-#     # Phần chính (loại bỏ suffix)
-#     main_text = text[:text.rfind(suffix)].strip() if suffix else text.strip()
-    
-#     # Tách theo dấu phẩy và "và"
-#     parts = re.split(r',\s*(?:và\s+)?|\s+và\s+', main_text)
-    
-#     # Tìm template đầy đủ nhất (có nhiều từ khóa nhất)
-#     # VD: "điểm đ" vs "điểm e khoản 1 điều 2" => chọn cái sau làm template
-#     template = max(parts, key=lambda p: len(re.findall(r'(điều|khoản|điểm)', p)))
-    
-#     # Parse template để lấy cấu trúc đầy đủ
-#     structure = parse_legal_structure(template)
-    
-#     results = []
-#     for part in parts:
-#         part = part.strip()
-#         if not part:
-#             continue
-        
-#         # Parse phần hiện tại
-#         current_structure = parse_legal_structure(part)
-        
-#         # Merge với template để tạo tham chiếu đầy đủ
-#         full_ref = build_full_reference(current_structure, structure)
-        
-#         # Thêm suffix
-#         if suffix:
-#             full_ref += " " + suffix
-        
-#         results.append(full_ref)
-    
-#     return results if len(results) > 1 else [text]
-
-
-# def parse_legal_structure(text):
-#     """
-#     Parse cấu trúc tham chiếu pháp luật
-#     VD: 'điểm e khoản 1 điều 2' => {'diem': 'e', 'khoan': '1', 'dieu': '2'}
-#     """
-#     structure = {}
-    
-#     # Tìm điều
-#     dieu_match = re.search(r'điều\s+(\d+[a-z]?)', text)
-#     if dieu_match:
-#         structure['dieu'] = dieu_match.group(1)
-    
-#     # Tìm khoản
-#     khoan_match = re.search(r'khoản\s+(\d+[a-z]?)', text)
-#     if khoan_match:
-#         structure['khoan'] = khoan_match.group(1)
-    
-#     # Tìm điểm
-#     diem_match = re.search(r'điểm\s+([a-zđ])', text)
-#     if diem_match:
-#         structure['diem'] = diem_match.group(1)
-    
-#     return structure
-
-
 def build_full_reference(current, template):
     """
     Xây dựng tham chiếu đầy đủ bằng cách merge current với template
@@ -208,6 +138,16 @@ def split_non_legal_entity(text):
     
     return result
 
+def normalize_legalref_text(text,node_id):
+    # "Điều này" => Điều hiện tại = get từ node id 
+    current_article = get_article_number_from_node_id(node_id) if node_id else None
+
+    # thay "Điều này" bằng số điều thực tế trước khi parse
+    if current_article:
+        text = re.sub(r'điều\s+này', f'điều {current_article}', text)
+        
+    text = re.sub(r'bộ\s+luật\s+này', 'bộ luật lao động', text, flags=re.I)
+    return text
 
 
 def split_enum_entities(raw_entities):
@@ -215,17 +155,20 @@ def split_enum_entities(raw_entities):
     
     for node in splited_entities:
         new_entities = []
+        node_id = node.get("node_id", "") 
         original_sentence = node.get("sentence", "")
         for ent in node["entities"]:
 
             original_text = ent["text"]
+
+            normalize_text = normalize_legalref_text(original_text,node_id)
             
             # Kiểm tra có phải legal reference không
-            is_legal_ref = (ent["type"] == "LEGAL_REF" and re.search(r'(điều|khoản|điểm)\s+[\w\dđ]+', original_text))
+            is_legal_ref = (ent["type"] == "LEGAL_REF" and re.search(r'(điều|khoản|điểm)\s+[\w\dđ]+', normalize_text))
             
             if is_legal_ref:
                 # Expand legal references
-                expanded_refs = expand_legal_refs(original_text)
+                expanded_refs = expand_legal_refs(normalize_text,node_id)
                 
                 # Tạo entity mới cho mỗi reference
                 for ref in expanded_refs:
@@ -238,7 +181,7 @@ def split_enum_entities(raw_entities):
                     new_entities.append(new_ent)
             else:
                 # Split non-legal entities theo enumeration pattern
-                sub_texts = split_non_legal_entity(original_text)
+                sub_texts = split_non_legal_entity(normalize_text)
                 
                 for sub_text in sub_texts:
                     # Tìm vị trí của sub_text trong sentence gốc

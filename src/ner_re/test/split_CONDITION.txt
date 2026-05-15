@@ -10,7 +10,7 @@ chính phủ quy định chi tiết về tiêu chuẩn, điều kiện, trình t
 chính phủ quy định tiêu chuẩn, trình tự, thủ tục bổ nhiệm, chế độ, điều kiện hoạt động và việc quản lý hòa giải viên lao động
 chỉ những doanh nghiệp có trên 50% số người được lấy ý kiến biểu quyết tán thành mới tham gia ký kết thỏa ước lao động tập thể có nhiều doanh nghiệp
 các bên có thỏa thuận khác
-các bên có thỏa thuận về việc sửa đổi, bổ sung để phù hợp và để áp dụng quy định của bộ luật này
+các bên có thỏa thuận về việc sửa đổi, bổ sung để phù hợp và để áp dụng quy định của bộ luật lao động
 các quyền khác
 có giá trị góp vốn
 có khó khăn đặc biệt trong hoạt động sản xuất, kinh doanh
@@ -74,8 +74,8 @@ kể từ ngày báo cho cơ quan chuyên môn về lao động thuộc ủy ban
 kể từ ngày bắt đầu hoạt động, định kỳ báo cáo tình hình thay đổi về lao động trong quá trình hoạt động với cơ quan chuyên môn về lao động thuộc ủy ban nhân dân cấp tỉnh và thông báo cho cơ quan bảo hiểm xã hội
 kể từ ngày bắt đầu thương lượng, trừ trường hợp các bên có thỏa thuận khác
 kể từ ngày bị xử lý, nếu không tiếp tục vi phạm kỷ luật lao động thì đương nhiên được xóa kỷ luật
-kể từ ngày bộ luật này có hiệu lực
-kể từ ngày bộ luật này có hiệu lực thi hành, hợp đồng lao động, thỏa ước lao động tập thể, các thỏa thuận hợp pháp đã giao kết có nội dung không trái hoặc bảo đảm cho người lao động có quyền và điều kiện thuận lợi hơn so với quy định của bộ luật này được tiếp tục thực hiện, trừ trường hợp các bên có thỏa thuận về việc sửa đổi, bổ sung để phù hợp và để áp dụng quy định của bộ luật này
+kể từ ngày bộ luật lao động có hiệu lực
+kể từ ngày bộ luật lao động có hiệu lực thi hành, hợp đồng lao động, thỏa ước lao động tập thể, các thỏa thuận hợp pháp đã giao kết có nội dung không trái hoặc bảo đảm cho người lao động có quyền và điều kiện thuận lợi hơn so với quy định của bộ luật lao động được tiếp tục thực hiện, trừ trường hợp các bên có thỏa thuận về việc sửa đổi, bổ sung để phù hợp và để áp dụng quy định của bộ luật lao động
 kể từ ngày chấm dứt hợp đồng lao động, hai bên có trách nhiệm thanh toán đầy đủ các khoản tiền có liên quan đến quyền lợi của mỗi bên, trừ trường hợp sau đây có thể kéo dài nhưng không được quá 30 ngày
 kể từ ngày hòa giải viên lao động nhận được yêu cầu từ bên yêu cầu giải quyết tranh chấp hoặc từ cơ quan
 kể từ ngày hết thời gian nêu trên
@@ -270,7 +270,7 @@ trường hợp cuộc đình công là bất hợp pháp mà gây thiệt hại
 trường hợp các bên chấp nhận phương án hòa giải
 trường hợp các bên chấp nhận phương án hòa giải thì hòa giải viên lao động lập biên bản hòa giải thành
 trường hợp các bên có thỏa thuận khác
-trường hợp các bên có thỏa thuận về việc sửa đổi, bổ sung để phù hợp và để áp dụng quy định của bộ luật này
+trường hợp các bên có thỏa thuận về việc sửa đổi, bổ sung để phù hợp và để áp dụng quy định của bộ luật lao động
 trường hợp các bên không thỏa thuận ngày có hiệu lực
 trường hợp các bên không thỏa thuận ngày có hiệu lực thì thỏa ước lao động tập thể có hiệu lực kể từ ngày ký kết
 trường hợp các bên không thỏa thuận được, hòa giải viên lao động đưa ra phương án hòa giải để các bên xem xét
@@ -494,7 +494,7 @@ yêu cầu tổ chức đại diện người lao động thương lượng vớ
 đối với các doanh nghiệp cùng ngành, nghề, lĩnh vực trong khu công nghiệp, khu kinh tế, khu chế xuất, khu công nghệ cao
 đối với các nội dung của thỏa ước lao động tập thể
 đối với các trình độ thuộc giáo dục nghề nghiệp
-đối với cán bộ, công chức, viên chức, người thuộc lực lượng quân đội nhân dân, công an nhân dân, tổ chức xã hội, xã viên hợp tác xã, người làm việc không có quan hệ lao động do các văn bản pháp luật khác quy định nhưng tùy từng đối tượng mà được áp dụng một số quy định trong bộ luật này
+đối với cán bộ, công chức, viên chức, người thuộc lực lượng quân đội nhân dân, công an nhân dân, tổ chức xã hội, xã viên hợp tác xã, người làm việc không có quan hệ lao động do các văn bản pháp luật khác quy định nhưng tùy từng đối tượng mà được áp dụng một số quy định trong bộ luật lao động
 đối với công việc có chức danh nghề nghiệp cần trình độ chuyên môn, kỹ thuật trung cấp, công nhân kỹ thuật, nhân viên nghiệp vụ
 đối với công việc có chức danh nghề nghiệp cần trình độ chuyên môn, kỹ thuật từ cao đẳng trở lên
 đối với công việc của người quản lý doanh nghiệp

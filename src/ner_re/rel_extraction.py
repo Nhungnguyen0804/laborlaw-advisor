@@ -1,17 +1,5 @@
-import re
-def get_article_id(node_id) :
-    """
-    ch1_d2_k1 -> ch1_d2
-    ch1_m1_d2_k1 -> ch1_m1_d2
-    """
-    m = re.match(r"(.+_d\d+)", node_id)
-    return m.group(1) if m else node_id
-
-
-def get_chapter_id(node_id):
-    return node_id.split("_")[0]
-
-
+from src.ner_re.common import get_article_id,get_chapter_id
+from src.ner_re.process_legal_ref import expand_cites_edges_from_legal_refs
 def build_mention_edges(property_entities):
     edges = []
 
@@ -405,8 +393,6 @@ def run_re(property_entities, structural_nodes):
         if node_id not in groups:
             groups[node_id] = []
         
-        node_texts = {}  # Lưu text của mỗi node
-
         article_id = get_article_id(node_id)
 
         # nếu chưa có key thì tạo list rỗng
@@ -512,7 +498,12 @@ def run_re(property_entities, structural_nodes):
     export_indirect_edges(map_indirect_edges, 'src/ner_re/test/indirect_edges.txt')
 
     semantic_edges = extract_edges(map_indirect_edges)
-    all_semantic_edges = mention_edges + semantic_edges
+
+    cites_edges_from_legal_refs = expand_cites_edges_from_legal_refs(property_entities,structural_nodes)
+    save_json(cites_edges_from_legal_refs,'src/ner_re/test/cites_edges_from_legal_refs.txt')
+    print('Số cạnh cites edges mới thêm là: ',len(cites_edges_from_legal_refs))
+    
+    all_semantic_edges = mention_edges + semantic_edges + cites_edges_from_legal_refs
 
     # THÊM ID CHO TOÀN BỘ CẠNH
     for idx, edge in enumerate(all_semantic_edges, start=1):

@@ -2,7 +2,7 @@
   "edges": [
     {
       "id": "e_1",
-      "source": "45_2019_QH14",
+      "source": "laborlaw_45_2019_QH14",
       "target": "ch1",
       "type": "has_chapter"
     },
@@ -386,7 +386,7 @@
     },
     {
       "id": "e_65",
-      "source": "45_2019_QH14",
+      "source": "laborlaw_45_2019_QH14",
       "target": "ch2",
       "type": "has_chapter"
     },
@@ -470,7 +470,7 @@
     },
     {
       "id": "e_79",
-      "source": "45_2019_QH14",
+      "source": "laborlaw_45_2019_QH14",
       "target": "ch3",
       "type": "has_chapter"
     },
@@ -2084,7 +2084,7 @@
     },
     {
       "id": "e_348",
-      "source": "45_2019_QH14",
+      "source": "laborlaw_45_2019_QH14",
       "target": "ch4",
       "type": "has_chapter"
     },
@@ -2240,7 +2240,7 @@
     },
     {
       "id": "e_374",
-      "source": "45_2019_QH14",
+      "source": "laborlaw_45_2019_QH14",
       "target": "ch5",
       "type": "has_chapter"
     },
@@ -2942,7 +2942,7 @@
     },
     {
       "id": "e_491",
-      "source": "45_2019_QH14",
+      "source": "laborlaw_45_2019_QH14",
       "target": "ch6",
       "type": "has_chapter"
     },
@@ -3320,7 +3320,7 @@
     },
     {
       "id": "e_554",
-      "source": "45_2019_QH14",
+      "source": "laborlaw_45_2019_QH14",
       "target": "ch7",
       "type": "has_chapter"
     },
@@ -3704,7 +3704,7 @@
     },
     {
       "id": "e_618",
-      "source": "45_2019_QH14",
+      "source": "laborlaw_45_2019_QH14",
       "target": "ch8",
       "type": "has_chapter"
     },
@@ -4178,7 +4178,7 @@
     },
     {
       "id": "e_697",
-      "source": "45_2019_QH14",
+      "source": "laborlaw_45_2019_QH14",
       "target": "ch9",
       "type": "has_chapter"
     },
@@ -4226,7 +4226,7 @@
     },
     {
       "id": "e_705",
-      "source": "45_2019_QH14",
+      "source": "laborlaw_45_2019_QH14",
       "target": "ch10",
       "type": "has_chapter"
     },
@@ -4430,7 +4430,7 @@
     },
     {
       "id": "e_739",
-      "source": "45_2019_QH14",
+      "source": "laborlaw_45_2019_QH14",
       "target": "ch11",
       "type": "has_chapter"
     },
@@ -5198,7 +5198,7 @@
     },
     {
       "id": "e_867",
-      "source": "45_2019_QH14",
+      "source": "laborlaw_45_2019_QH14",
       "target": "ch12",
       "type": "has_chapter"
     },
@@ -5264,7 +5264,7 @@
     },
     {
       "id": "e_878",
-      "source": "45_2019_QH14",
+      "source": "laborlaw_45_2019_QH14",
       "target": "ch13",
       "type": "has_chapter"
     },
@@ -5606,7 +5606,7 @@
     },
     {
       "id": "e_935",
-      "source": "45_2019_QH14",
+      "source": "laborlaw_45_2019_QH14",
       "target": "ch14",
       "type": "has_chapter"
     },
@@ -6746,7 +6746,7 @@
     },
     {
       "id": "e_1125",
-      "source": "45_2019_QH14",
+      "source": "laborlaw_45_2019_QH14",
       "target": "ch15",
       "type": "has_chapter"
     },
@@ -6824,7 +6824,7 @@
     },
     {
       "id": "e_1138",
-      "source": "45_2019_QH14",
+      "source": "laborlaw_45_2019_QH14",
       "target": "ch16",
       "type": "has_chapter"
     },
@@ -6914,7 +6914,7 @@
     },
     {
       "id": "e_1153",
-      "source": "45_2019_QH14",
+      "source": "laborlaw_45_2019_QH14",
       "target": "ch17",
       "type": "has_chapter"
     },

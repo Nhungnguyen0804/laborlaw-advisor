@@ -1,5 +1,5 @@
 ﻿edge_id,source_id,target_id,relation_type,graph_type
-e_1,45_2019_QH14,ch1,has_chapter,structural
+e_1,laborlaw_45_2019_QH14,ch1,has_chapter,structural
 e_2,ch1,ch1_d1,has_article,structural
 e_3,ch1,ch1_d2,has_article,structural
 e_4,ch1_d2,ch1_d2_k1,has_clause,structural
@@ -63,7 +63,7 @@ e_61,ch1_d8,ch1_d8_k4,has_clause,structural
 e_62,ch1_d8,ch1_d8_k5,has_clause,structural
 e_63,ch1_d8,ch1_d8_k6,has_clause,structural
 e_64,ch1_d8,ch1_d8_k7,has_clause,structural
-e_65,45_2019_QH14,ch2,has_chapter,structural
+e_65,laborlaw_45_2019_QH14,ch2,has_chapter,structural
 e_66,ch2,ch2_d9,has_article,structural
 e_67,ch2_d9,ch2_d9_k1,has_clause,structural
 e_68,ch2_d9,ch2_d9_k2,has_clause,structural
@@ -77,7 +77,7 @@ e_75,ch2,ch2_d12,has_article,structural
 e_76,ch2_d12,ch2_d12_k1,has_clause,structural
 e_77,ch2_d12,ch2_d12_k2,has_clause,structural
 e_78,ch2_d12,ch2_d12_k3,has_clause,structural
-e_79,45_2019_QH14,ch3,has_chapter,structural
+e_79,laborlaw_45_2019_QH14,ch3,has_chapter,structural
 e_80,ch3,ch3_muc1,has_section,structural
 e_81,ch3_muc1,ch3_muc1_d13,has_article,structural
 e_82,ch3_muc1_d13,ch3_muc1_d13_k1,has_clause,structural
@@ -346,7 +346,7 @@ e_344,ch3_muc5_d58,ch3_muc5_d58_k2,has_clause,structural
 e_345,ch3_muc5_d58,ch3_muc5_d58_k3,has_clause,structural
 e_346,ch3_muc5_d58,ch3_muc5_d58_k4,has_clause,structural
 e_347,ch3_muc5_d58,ch3_muc5_d58_k5,has_clause,structural
-e_348,45_2019_QH14,ch4,has_chapter,structural
+e_348,laborlaw_45_2019_QH14,ch4,has_chapter,structural
 e_349,ch4,ch4_d59,has_article,structural
 e_350,ch4_d59,ch4_d59_k1,has_clause,structural
 e_351,ch4_d59,ch4_d59_k2,has_clause,structural
@@ -372,7 +372,7 @@ e_370,ch4_d62_k2,ch4_d62_k2_d,has_point,structural
 e_371,ch4_d62_k2,ch4_d62_k2_đ,has_point,structural
 e_372,ch4_d62_k2,ch4_d62_k2_e,has_point,structural
 e_373,ch4_d62,ch4_d62_k3,has_clause,structural
-e_374,45_2019_QH14,ch5,has_chapter,structural
+e_374,laborlaw_45_2019_QH14,ch5,has_chapter,structural
 e_375,ch5,ch5_muc1,has_section,structural
 e_376,ch5_muc1,ch5_muc1_d63,has_article,structural
 e_377,ch5_muc1_d63,ch5_muc1_d63_k1,has_clause,structural
@@ -489,7 +489,7 @@ e_487,ch5_muc3_d86_k2,ch5_muc3_d86_k2_c,has_point,structural
 e_488,ch5_muc3,ch5_muc3_d87,has_article,structural
 e_489,ch5_muc3,ch5_muc3_d88,has_article,structural
 e_490,ch5_muc3,ch5_muc3_d89,has_article,structural
-e_491,45_2019_QH14,ch6,has_chapter,structural
+e_491,laborlaw_45_2019_QH14,ch6,has_chapter,structural
 e_492,ch6,ch6_d90,has_article,structural
 e_493,ch6_d90,ch6_d90_k1,has_clause,structural
 e_494,ch6_d90,ch6_d90_k2,has_clause,structural
@@ -552,7 +552,7 @@ e_550,ch6,ch6_d103,has_article,structural
 e_551,ch6,ch6_d104,has_article,structural
 e_552,ch6_d104,ch6_d104_k1,has_clause,structural
 e_553,ch6_d104,ch6_d104_k2,has_clause,structural
-e_554,45_2019_QH14,ch7,has_chapter,structural
+e_554,laborlaw_45_2019_QH14,ch7,has_chapter,structural
 e_555,ch7,ch7_muc1,has_section,structural
 e_556,ch7_muc1,ch7_muc1_d105,has_article,structural
 e_557,ch7_muc1_d105,ch7_muc1_d105_k1,has_clause,structural
@@ -616,7 +616,7 @@ e_614,ch7_muc2_d115,ch7_muc2_d115_k2,has_clause,structural
 e_615,ch7_muc2_d115,ch7_muc2_d115_k3,has_clause,structural
 e_616,ch7,ch7_muc3,has_section,structural
 e_617,ch7_muc3,ch7_muc3_d116,has_article,structural
-e_618,45_2019_QH14,ch8,has_chapter,structural
+e_618,laborlaw_45_2019_QH14,ch8,has_chapter,structural
 e_619,ch8,ch8_muc1,has_section,structural
 e_620,ch8_muc1,ch8_muc1_d117,has_article,structural
 e_621,ch8_muc1,ch8_muc1_d118,has_article,structural
@@ -695,7 +695,7 @@ e_693,ch8_muc2,ch8_muc2_d130,has_article,structural
 e_694,ch8_muc2_d130,ch8_muc2_d130_k1,has_clause,structural
 e_695,ch8_muc2_d130,ch8_muc2_d130_k2,has_clause,structural
 e_696,ch8_muc2,ch8_muc2_d131,has_article,structural
-e_697,45_2019_QH14,ch9,has_chapter,structural
+e_697,laborlaw_45_2019_QH14,ch9,has_chapter,structural
 e_698,ch9,ch9_d132,has_article,structural
 e_699,ch9,ch9_d133,has_article,structural
 e_700,ch9_d133,ch9_d133_k1,has_clause,structural
@@ -703,7 +703,7 @@ e_701,ch9_d133,ch9_d133_k2,has_clause,structural
 e_702,ch9,ch9_d134,has_article,structural
 e_703,ch9_d134,ch9_d134_k1,has_clause,structural
 e_704,ch9_d134,ch9_d134_k2,has_clause,structural
-e_705,45_2019_QH14,ch10,has_chapter,structural
+e_705,laborlaw_45_2019_QH14,ch10,has_chapter,structural
 e_706,ch10,ch10_d135,has_article,structural
 e_707,ch10_d135,ch10_d135_k1,has_clause,structural
 e_708,ch10_d135,ch10_d135_k2,has_clause,structural
@@ -737,7 +737,7 @@ e_735,ch10,ch10_d141,has_article,structural
 e_736,ch10,ch10_d142,has_article,structural
 e_737,ch10_d142,ch10_d142_k1,has_clause,structural
 e_738,ch10_d142,ch10_d142_k2,has_clause,structural
-e_739,45_2019_QH14,ch11,has_chapter,structural
+e_739,laborlaw_45_2019_QH14,ch11,has_chapter,structural
 e_740,ch11,ch11_muc1,has_section,structural
 e_741,ch11_muc1,ch11_muc1_d143,has_article,structural
 e_742,ch11_muc1_d143,ch11_muc1_d143_k1,has_clause,structural
@@ -865,7 +865,7 @@ e_863,ch11_muc5_d165,ch11_muc5_d165_k3,has_clause,structural
 e_864,ch11,ch11_muc6,has_section,structural
 e_865,ch11_muc6,ch11_muc6_d166,has_article,structural
 e_866,ch11_muc6,ch11_muc6_d167,has_article,structural
-e_867,45_2019_QH14,ch12,has_chapter,structural
+e_867,laborlaw_45_2019_QH14,ch12,has_chapter,structural
 e_868,ch12,ch12_d168,has_article,structural
 e_869,ch12_d168,ch12_d168_k1,has_clause,structural
 e_870,ch12_d168,ch12_d168_k2,has_clause,structural
@@ -876,7 +876,7 @@ e_874,ch12_d169,ch12_d169_k2,has_clause,structural
 e_875,ch12_d169,ch12_d169_k3,has_clause,structural
 e_876,ch12_d169,ch12_d169_k4,has_clause,structural
 e_877,ch12_d169,ch12_d169_k5,has_clause,structural
-e_878,45_2019_QH14,ch13,has_chapter,structural
+e_878,laborlaw_45_2019_QH14,ch13,has_chapter,structural
 e_879,ch13,ch13_d170,has_article,structural
 e_880,ch13_d170,ch13_d170_k1,has_clause,structural
 e_881,ch13_d170,ch13_d170_k2,has_clause,structural
@@ -933,7 +933,7 @@ e_931,ch13_d178,ch13_d178_k5,has_clause,structural
 e_932,ch13_d178,ch13_d178_k6,has_clause,structural
 e_933,ch13_d178,ch13_d178_k7,has_clause,structural
 e_934,ch13_d178,ch13_d178_k8,has_clause,structural
-e_935,45_2019_QH14,ch14,has_chapter,structural
+e_935,laborlaw_45_2019_QH14,ch14,has_chapter,structural
 e_936,ch14,ch14_muc1,has_section,structural
 e_937,ch14_muc1,ch14_muc1_d179,has_article,structural
 e_938,ch14_muc1_d179,ch14_muc1_d179_k1,has_clause,structural
@@ -1123,7 +1123,7 @@ e_1121,ch14_muc5,ch14_muc5_d210,has_article,structural
 e_1122,ch14_muc5_d210,ch14_muc5_d210_k1,has_clause,structural
 e_1123,ch14_muc5_d210,ch14_muc5_d210_k2,has_clause,structural
 e_1124,ch14_muc5,ch14_muc5_d211,has_article,structural
-e_1125,45_2019_QH14,ch15,has_chapter,structural
+e_1125,laborlaw_45_2019_QH14,ch15,has_chapter,structural
 e_1126,ch15,ch15_d212,has_article,structural
 e_1127,ch15_d212,ch15_d212_k1,has_clause,structural
 e_1128,ch15_d212,ch15_d212_k2,has_clause,structural
@@ -1136,7 +1136,7 @@ e_1134,ch15_d213,ch15_d213_k1,has_clause,structural
 e_1135,ch15_d213,ch15_d213_k2,has_clause,structural
 e_1136,ch15_d213,ch15_d213_k3,has_clause,structural
 e_1137,ch15_d213,ch15_d213_k4,has_clause,structural
-e_1138,45_2019_QH14,ch16,has_chapter,structural
+e_1138,laborlaw_45_2019_QH14,ch16,has_chapter,structural
 e_1139,ch16,ch16_d214,has_article,structural
 e_1140,ch16_d214,ch16_d214_k1,has_clause,structural
 e_1141,ch16_d214,ch16_d214_k2,has_clause,structural
@@ -1151,7 +1151,7 @@ e_1149,ch16,ch16_d217,has_article,structural
 e_1150,ch16_d217,ch16_d217_k1,has_clause,structural
 e_1151,ch16_d217,ch16_d217_k2,has_clause,structural
 e_1152,ch16_d217,ch16_d217_k3,has_clause,structural
-e_1153,45_2019_QH14,ch17,has_chapter,structural
+e_1153,laborlaw_45_2019_QH14,ch17,has_chapter,structural
 e_1154,ch17,ch17_d218,has_article,structural
 e_1155,ch17,ch17_d219,has_article,structural
 e_1156,ch17_d219,ch17_d219_k1,has_clause,structural
