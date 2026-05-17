@@ -101,3 +101,22 @@ def run_retrieval(driver,question,query_entities):
     save_json(chunk_with_ents_rels,'test/chunk_with_ents_rels.json')
     return chunk_with_ents_rels
     
+
+
+
+def run_retrieval_rag(driver,question):  
+    semantic_results = semantic_search(question,semantic_topk)
+    #enrich vs graph context (chunk với ents)
+    chunks_res = []
+    for doc in semantic_results:
+        chunks_res.append({
+            "chunk_id": doc["chunk_id"],
+         
+            "score": doc["score"],
+            "content": doc["content"],
+            "article": doc["article"],
+            "chapter": doc["chapter"],
+        })
+        
+    return chunks_res
+    

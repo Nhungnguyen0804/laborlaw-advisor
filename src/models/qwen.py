@@ -59,34 +59,38 @@ def format_relations(relations):
     return "\n".join(formatted)
 
 
-def format_context_for_llm(chunks):
+def format_context_for_llm(chunks, is_rag = False):
     chunks = chunks[:3]  # top 3cai thien toc do
     context_parts = []
     for i, chunk in enumerate(chunks, 1):
         # Lấy nội dung chính
-        content = chunk.get("content_with_context", "")
         
         # Lấy metadata
-        article_title = chunk["graph"].get("article_title", "")
-        entities = [e.get("label", "") for e in chunk["graph"].get("entities", [])]
-        relations = chunk["graph"].get("rels", [])
+        if is_rag:
+            content = chunk.get("content", "")
+            context_parts.append(content)
+        else:
+            content = chunk.get("content_with_context", "")
+            article_title = chunk["graph"].get("article_title", "")
+            entities = [e.get("label", "") for e in chunk["graph"].get("entities", [])]
+            relations = chunk["graph"].get("rels", [])
         
-        # Format thành text
-        part = f"""
-        [Đoạn {i}] {article_title}
-        Nội dung: {content}
-        Entities liên quan: {', '.join(entities)}
-        """
-        if relations:
-            part += f"Quan hệ:\n{format_relations(relations)}\n"
-        
-        context_parts.append(part)
+            # Format thành text
+            part = f"""
+            [Đoạn {i}] {article_title}
+            Nội dung: {content}
+            Entities liên quan: {', '.join(entities)}
+            """
+            if relations:
+                part += f"Quan hệ:\n{format_relations(relations)}\n"
+            
+            context_parts.append(part)
     
     return "\n---\n".join(context_parts)
 
-def build_messages(question, chunks):
+def build_messages(question, chunks,is_rag):
 
-    context_text = format_context_for_llm(chunks)
+    context_text = format_context_for_llm(chunks,is_rag)
 
     system_prompt = """
 You are a Vietnamese labor law assistant.
@@ -111,7 +115,7 @@ LOGIC RULES (IMPORTANT):
 
 """
 
-    return [
+    return context_text, [
         {
             "role": "system",
             "content": system_prompt
@@ -128,9 +132,9 @@ LOGIC RULES (IMPORTANT):
         }
     ]
 
-def generate_answer(question, chunks):
+def generate_answer(question, chunks,is_rag=False):
 
-    messages = build_messages(question, chunks)
+    context_text,messages = build_messages(question, chunks,is_rag)
 
     prompt = tokenizer.apply_chat_template(
         messages,
@@ -156,4 +160,4 @@ def generate_answer(question, chunks):
 
     answer = raw
 
-    return answer
+    return context_text,answer

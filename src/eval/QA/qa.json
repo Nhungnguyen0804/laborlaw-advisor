@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "question": "điều 40 có khoản nào",
+    "answer": "",
+    "question_type": "structural"
+  },
+  {
+    "id": 2,
+    "question": "điều 70 gồm khoản nào",
+    "answer": "",
+    "question_type": "structural"
+  },
+  {
+    "id": 3,
+    "question": "liệt kê khoản của điều 84",
+    "answer": "",
+    "question_type": "structural"
+  },
+  {
+    "id": 4,
+    "question": "điều 220 có mấy khoản",
+    "answer": "",
+    "question_type": "structural"
+  },
+  {
+    "id": 5,
+    "question": "điều 46 gồm khoản nào",
+    "answer": "",
+    "question_type": "structural"
+  },
+  {
+    "id": 6,
+    "question": "các khoản của điều 169",
+    "answer": "",
+    "question_type": "structural"
+  },
+  {
+    "id": 7,
+    "question": "khoản nào trong điều 25",
+    "answer": "",
+    "question_type": "structural"
+  },
+  {
+    "id": 8,
+    "question": "liệt kê khoản của điều 21",
+    "answer": "",
+    "question_type": "structural"
+  },
+  {
+    "id": 9,
+    "question": "khoản 1 điều 20 có điểm nào",
+    "answer": "",
+    "question_type": "structural"
+  },
+  {
+    "id": 10,
+    "question": "các điểm của khoản 2 điều 20",
+    "answer": "",
+    "question_type": "structural"
+  },
+  {
+    "id": 11,
+    "question": "điểm nào thuộc khoản 1 điều 219",
+    "answer": "",
+    "question_type": "structural"
+  },
+  {
+    "id": 12,
+    "question": "liệt kê điểm trong khoản 3 điều 18",
+    "answer": "",
+    "question_type": "structural"
+  },
+  {
+    "id": 13,
+    "question": "khoản 4 điều 18 có điểm nào",
+    "answer": "",
+    "question_type": "structural"
+  },
+  {
+    "id": 14,
+    "question": "các điểm của khoản 1 điều 5",
+    "answer": "",
+    "question_type": "structural"
+  },
+  {
+    "id": 15,
+    "question": "điểm nào thuộc khoản 2 điều 5",
+    "answer": "",
+    "question_type": "structural"
+  },
+  {
+    "id": 16,
+    "question": "khoản 1 điều 6 gồm điểm nào",
+    "answer": "",
+    "question_type": "structural"
+  },
+  {
+    "id": 17,
+    "question": "liệt kê điểm trong khoản 2 điều 6",
+    "answer": "",
+    "question_type": "structural"
+  },
+  {
+    "id": 18,
+    "question": "khoản 1 và khoản 2 điều 14 là gì",
+    "answer": "",
+    "question_type": "structural"
+  },
+  {
+    "id": 19,
+    "question": "điều 20 và điều 21 quy định gì",
+    "answer": "",
+    "question_type": "structural"
+  },
+  {
+    "id": 20,
+    "question": "điểm a khoản 1 điều 219 và điểm b khoản 2 điều 219 là gì",
+    "answer": "",
+    "question_type": "structural"
+  },
+  {
+    "id": 21,
+    "question": "Thời giờ làm việc bình thường trong một tuần là bao nhiêu?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 22,
+    "question": "Người lao động được nghỉ lễ tết bao nhiêu ngày trong năm?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 23,
+    "question": "Quy định về giờ làm việc ban đêm là như thế nào?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 24,
+    "question": "Người lao động được nghỉ phép hàng năm bao nhiêu ngày?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 25,
+    "question": "Thời gian nghỉ giữa ca tối thiểu là bao lâu?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 26,
+    "question": "Nghỉ hằng tuần được quy định như thế nào?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 27,
+    "question": "Thời gian nghỉ thai sản của lao động nữ là bao lâu?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 28,
+    "question": "Người lao động được nghỉ bao nhiêu ngày khi kết hôn?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 29,
+    "question": "Có mấy loại hợp đồng lao động?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 30,
+    "question": "Thời hạn tối đa của hợp đồng lao động xác định thời hạn là bao nhiêu?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 31,
+    "question": "Thời gian thử việc tối đa đối với trình độ cao đẳng là bao lâu?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 32,
+    "question": "Người sử dụng lao động phải báo trước bao lâu khi đơn phương chấm dứt hợp đồng?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 33,
+    "question": "Tiền lương thử việc tối thiểu phải bằng bao nhiêu phần trăm tiền lương chính thức?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 34,
+    "question": "Người lao động phải báo trước bao lâu khi đơn phương chấm dứt hợp đồng không xác định thời hạn?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 35,
+    "question": "Tiền lương làm thêm giờ ngày thường được tính như thế nào?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 36,
+    "question": "Tiền lương làm thêm giờ ngày nghỉ lễ tối thiểu bằng bao nhiêu phần trăm?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 37,
+    "question": "Mức lương tối thiểu được xác định như thế nào?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 38,
+    "question": "Tiền lương làm việc ban đêm được trả thêm bao nhiêu?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 39,
+    "question": "Khấu trừ tiền lương hàng tháng tối đa là bao nhiêu phần trăm?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 40,
+    "question": "Làm thêm giờ vào ban đêm được trả lương như thế nào?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 41,
+    "question": "Lao động nam được nghỉ bao nhiêu ngày khi vợ sinh con?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 42,
+    "question": "Người sử dụng lao động có được sa thải lao động nữ mang thai không?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 43,
+    "question": "Các hình thức xử lý kỷ luật lao động gồm những gì?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 44,
+    "question": "Thời hiệu xử lý kỷ luật lao động là bao lâu?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 45,
+    "question": "Trường hợp nào người lao động bị sa thải?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 46,
+    "question": "Không được xử lý kỷ luật lao động trong những trường hợp nào?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 47,
+    "question": "Trợ cấp thôi việc được tính như thế nào?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 48,
+    "question": "Các trường hợp chấm dứt hợp đồng lao động gồm những gì?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 49,
+    "question": "Tuổi lao động tối thiểu là bao nhiêu?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 50,
+    "question": "Điều kiện để tổ chức đình công hợp pháp là gì?",
+    "answer": "",
+    "question_type": "content"
+  },
+  {
+    "id": 51,
+    "question": "So sánh thời hạn báo trước khi đơn phương chấm dứt hợp đồng giữa người lao động và người sử dụng lao động với hợp đồng không xác định thời hạn",
+    "answer": "",
+    "question_type": "rel"
+  },
+  {
+    "id": 52,
+    "question": "Mối quan hệ giữa thời gian thử việc và loại công việc theo quy định tại Điều 25 là gì",
+    "answer": "",
+    "question_type": "rel"
+  },
+  {
+    "id": 53,
+    "question": "So sánh quyền nghỉ thai sản giữa lao động nữ sinh con thường và sinh đôi",
+    "answer": "",
+    "question_type": "rel"
+  },
+  {
+    "id": 54,
+    "question": "Mối liên hệ giữa tuổi nghỉ hưu và giới tính theo lộ trình đến năm 2035",
+    "answer": "",
+    "question_type": "rel"
+  },
+  {
+    "id": 55,
+    "question": "So sánh thời hiệu yêu cầu giải quyết tranh chấp lao động cá nhân giữa hòa giải viên và Tòa án",
+    "answer": "",
+    "question_type": "rel"
+  },
+  {
+    "id": 56,
+    "question": "Phân biệt giữa hợp đồng lao động xác định thời hạn và không xác định thời hạn về điều kiện chuyển đổi",
+    "answer": "",
+    "question_type": "rel"
+  },
+  {
+    "id": 57,
+    "question": "So sánh mức lương tối thiểu phải trả trong thời gian thử việc và thời gian làm việc chính thức",
+    "answer": "",
+    "question_type": "rel"
+  },
+  {
+    "id": 58,
+    "question": "So sánh số ngày nghỉ hằng năm giữa lao động thường và lao động làm công việc độc hại nguy hiểm",
+    "answer": "",
+    "question_type": "rel"
+  },
+  {
+    "id": 59,
+    "question": "Phân tích sự khác biệt về quyền đơn phương chấm dứt hợp đồng giữa Điều 35 và Điều 36",
+    "answer": "",
+    "question_type": "rel"
+  },
+  {
+    "id": 60,
+    "question": "Mối liên hệ giữa thời gian đóng bảo hiểm xã hội và quyền hưởng lương hưu theo Điều 169",
+    "answer": "",
+    "question_type": "rel"
+  },
+  {
+    "id": 61,
+    "question": "Phân biệt giữa tạm hoãn thực hiện hợp đồng và đơn phương chấm dứt hợp đồng về hậu quả pháp lý",
+    "answer": "",
+    "question_type": "rel"
+  },
+  {
+    "id": 62,
+    "question": "So sánh tiền lương làm thêm giờ giữa ngày thường, ngày nghỉ hằng tuần và ngày lễ tết",
+    "answer": "",
+    "question_type": "rel"
+  },
+  {
+    "id": 63,
+    "question": "Phân biệt giữa trợ cấp thôi việc và trợ cấp mất việc làm về điều kiện hưởng và cách tính",
+    "answer": "",
+    "question_type": "rel"
+  },
+  {
+    "id": 64,
+    "question": "So sánh quyền thương lượng tập thể giữa công đoàn cơ sở và tổ chức của người lao động tại doanh nghiệp",
+    "answer": "",
+    "question_type": "rel"
+  },
+  {
+    "id": 65,
+    "question": "Mối quan hệ giữa tỷ lệ thành viên tổ chức đại diện và quyền yêu cầu thương lượng tập thể theo Điều 68",
+    "answer": "",
+    "question_type": "rel"
+  },
+  {
+    "id": 66,
+    "question": "So sánh điều kiện hưởng lương hưu sớm giữa người làm nghề nặng nhọc độc hại và người suy giảm khả năng lao động",
+    "answer": "",
+    "question_type": "rel"
+  },
+  {
+    "id": 67,
+    "question": "Phân biệt giữa thời hiệu xử lý kỷ luật đối với vi phạm thông thường và vi phạm liên quan tài chính bí mật",
+    "answer": "",
+    "question_type": "rel"
+  },
+  {
+    "id": 68,
+    "question": "Mối liên hệ giữa thời gian tạm đình chỉ công việc và mức lương tạm ứng theo Điều 128",
+    "answer": "",
+    "question_type": "rel"
+  },
+  {
+    "id": 69,
+    "question": "So sánh quyền nghỉ việc của lao động nữ mang thai và người lao động bị ốm đau",
+    "answer": "",
+    "question_type": "rel"
+  },
+  {
+    "id": 70,
+    "question": "Phân biệt giữa nghỉ việc riêng có hưởng lương và nghỉ không hưởng lương theo Bộ luật Lao động",
+    "answer": "",
+    "question_type": "rel"
+  },
+  {
+    "id": 71,
+    "question": "So sánh quyền nghỉ việc của lao động nữ mang thai với quyền nghỉ việc của người lao động bị ốm đau theo quy định của Bộ luật",
+    "answer": "",
+    "question_type": "composite"
+  },
+  {
+    "id": 72,
+    "question": "Phân tích mối liên hệ giữa tuổi nghỉ hưu và thời gian đóng bảo hiểm xã hội đối với các nhóm lao động khác nhau",
+    "answer": "",
+    "question_type": "composite"
+  },
+  {
+    "id": 73,
+    "question": "Tổng hợp các trường hợp người sử dụng lao động được đơn phương chấm dứt hợp đồng mà không cần báo trước",
+    "answer": "",
+    "question_type": "composite"
+  },
+  {
+    "id": 74,
+    "question": "So sánh thời hạn hợp đồng lao động xác định thời hạn giữa lao động thông thường và lao động nước ngoài",
+    "answer": "",
+    "question_type": "composite"
+  },
+  {
+    "id": 75,
+    "question": "Phân tích sự khác biệt về chế độ thử việc giữa các loại công việc có yêu cầu trình độ khác nhau",
+    "answer": "",
+    "question_type": "composite"
+  },
+  {
+    "id": 76,
+    "question": "Tổng hợp các hình thức xử lý kỷ luật lao động và điều kiện áp dụng từng hình thức",
+    "answer": "",
+    "question_type": "composite"
+  },
+  {
+    "id": 77,
+    "question": "So sánh quyền lợi của người lao động làm thêm giờ vào ngày thường, ngày nghỉ hằng tuần và ngày lễ tết",
+    "answer": "",
+    "question_type": "composite"
+  },
+  {
+    "id": 78,
+    "question": "Phân tích mối quan hệ giữa thương lượng tập thể, thỏa ước lao động tập thể và quyền đình công",
+    "answer": "",
+    "question_type": "composite"
+  },
+  {
+    "id": 79,
+    "question": "Tổng hợp các trường hợp tranh chấp lao động bắt buộc phải qua hòa giải và không bắt buộc qua hòa giải",
+    "answer": "",
+    "question_type": "composite"
+  },
+  {
+    "id": 80,
+    "question": "So sánh thời giờ làm việc tối đa giữa người lao động chưa đủ 15 tuổi, từ 15-18 tuổi và người trưởng thành",
+    "answer": "",
+    "question_type": "composite"
+  },
+  {
+    "id": 81,
+    "question": "So sánh quyền đơn phương chấm dứt hợp đồng của người lao động và người sử dụng lao động",
+    "answer": "",
+    "question_type": "composite"
+  },
+  {
+    "id": 82,
+    "question": "Phân tích mối liên hệ giữa nội quy lao động, thỏa ước lao động tập thể và hợp đồng lao động trong việc điều chỉnh quan hệ lao động",
+    "answer": "",
+    "question_type": "composite"
+  },
+  {
+    "id": 83,
+    "question": "Tổng hợp các trường hợp người lao động được nghỉ việc có hưởng lương theo quy định",
+    "answer": "",
+    "question_type": "composite"
+  },
+  {
+    "id": 84,
+    "question": "Phân tích sự khác biệt về chế độ thai sản giữa lao động nữ sinh con, lao động nam có vợ sinh con và người nhận con nuôi",
+    "answer": "",
+    "question_type": "composite"
+  },
+  {
+    "id": 85,
+    "question": "So sánh chế độ nghỉ hằng năm giữa người làm công việc bình thường, nặng nhọc và đặc biệt nặng nhọc",
+    "answer": "",
+    "question_type": "composite"
+  },
+  {
+    "id": 86,
+    "question": "Trình bày khái niệm Luật Lao động.",
+    "answer": "",
+    "question_type": "real"
+  },
+  {
+    "id": 87,
+    "question": "Các hình thức xử lý vi phạm pháp luật Lao động gồm những gì?",
+    "answer": "",
+    "question_type": "real"
+  },
+  {
+    "id": 88,
+    "question": "Nhiệm vụ của thanh tra Nhà nước về lao động là gì?",
+    "answer": "",
+    "question_type": "real"
+  },
+  {
+    "id": 89,
+    "question": "Thanh tra Nhà nước về lao động gồm mấy loại?",
+    "answer": "",
+    "question_type": "real"
+  },
+  {
+    "id": 90,
+    "question": "Những cuộc đình công nào bị coi là bất hợp pháp?",
+    "answer": "",
+    "question_type": "real"
+  },
+  {
+    "id": 91,
+    "question": "Người lao động có quyền đình công không? Trường hợp nào không được đình công?",
+    "answer": "",
+    "question_type": "real"
+  },
+  {
+    "id": 92,
+    "question": "Thẩm quyền giải quyết tranh chấp lao động của Toà án nhân dân cấp huyện là gì?",
+    "answer": "",
+    "question_type": "real"
+  },
+  {
+    "id": 93,
+    "question": "Hội đồng trọng tài lao động cấp tỉnh được thành lập như thế nào?",
+    "answer": "",
+    "question_type": "real"
+  },
+  {
+    "id": 94,
+    "question": "Hội đồng hoà giải lao động ở cơ sở được thành lập như thế nào?",
+    "answer": "",
+    "question_type": "real"
+  },
+  {
+    "id": 95,
+    "question": "Cơ quan, tổ chức nào giải quyết tranh chấp lao động cá nhân?",
+    "answer": "",
+    "question_type": "real"
+  },
+  {
+    "id": 96,
+    "question": "Nghĩa vụ của người lao động và người sử dụng lao động trong việc giải quyết tranh chấp lao động là gì?",
+    "answer": "",
+    "question_type": "real"
+  },
+  {
+    "id": 97,
+    "question": "Quyền của người lao động và người sử dụng lao động trong việc giải quyết tranh chấp lao động là gì?",
+    "answer": "",
+    "question_type": "real"
+  },
+  {
+    "id": 98,
+    "question": "Thế nào là bệnh nghề nghiệp?",
+    "answer": "",
+    "question_type": "real"
+  },
+  {
+    "id": 99,
+    "question": "Thế nào là tai nạn lao động?",
+    "answer": "",
+    "question_type": "real"
+  },
+  {
+    "id": 100,
+    "question": "Hình thức sa thải người lao động chỉ được áp dụng trong trường hợp nào?",
+    "answer": "",
+    "question_type": "real"
+  }
+]

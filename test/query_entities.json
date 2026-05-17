@@ -1,19 +1,28 @@
 [
   {
-    "type": "LEGAL_ROLE",
-    "text": "Người lao động",
+    "type": "LEGAL_REF",
+    "text": "điểm b thuộc khoản nào trong điều 20",
     "span": [
       0,
-      14
+      36
     ],
     "source": "pattern"
   },
   {
-    "type": "RIGHT",
-    "text": "được nghỉ phép bao nhiêu ngày",
+    "type": "LEGAL_REF",
+    "text": "khoản nào trong điều 20",
     "span": [
-      15,
-      44
+      13,
+      36
+    ],
+    "source": "pattern"
+  },
+  {
+    "type": "LEGAL_REF",
+    "text": "điều 20",
+    "span": [
+      29,
+      36
     ],
     "source": "pattern"
   }
