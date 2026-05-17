@@ -1,7 +1,4 @@
-
-
-
-
+from src.ner_re.common import node_id_to_text
 def extract_structural_nodes(law):
     nodes = []
 
@@ -10,6 +7,7 @@ def extract_structural_nodes(law):
     nodes.append({
         "id": f'laborlaw_{law_id}',
         "type": "LAW",
+        "text": 'Luật lao động',
         "properties": {
             "law_code": law.get("law_code"),
             "law_name": law.get("law_name"),
@@ -26,6 +24,7 @@ def extract_structural_nodes(law):
         nodes.append({
             "id": chap_id,
             "type": "CHAPTER",
+            "text": node_id_to_text(chap_id),
             "properties": {
                 "chapter_id": chap_id,
                 "chapter_num": chapter.get("chapter_num"),
@@ -42,6 +41,7 @@ def extract_structural_nodes(law):
                 nodes.append({
                     "id": sec_id,
                     "type": "SECTION",
+                    'text':node_id_to_text(sec_id),
                     "properties": {
                         "section_id": sec_id,
                         "section_num": section.get("section_num"),
@@ -65,6 +65,7 @@ def extract_articles(nodes, articles):
         nodes.append({
             "id": art_id,
             "type": "ARTICLE",
+            'text':node_id_to_text(art_id),
             "properties": {
                 "article_id": art_id,
                 "article_num": article.get("article_num"),
@@ -83,6 +84,7 @@ def extract_clauses(nodes, clauses):
         nodes.append({
             "id": cls_id,
             "type": "CLAUSE",
+            'text':node_id_to_text(cls_id),
             "properties": {
                 "clause_id": cls_id,
                 "clause_num": clause.get("clause_num"),
@@ -100,6 +102,7 @@ def extract_points(nodes, points):
         nodes.append({
             "id": pt_id,
             "type": "POINT",
+            'text':node_id_to_text(pt_id),
             "properties": {
                 "point_id": pt_id,
                 "point_label": point.get("point_label"),

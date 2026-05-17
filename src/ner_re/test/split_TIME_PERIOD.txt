@@ -89,9 +89,11 @@ không được quá 30 ngày kể từ ngày
 không được quá 60 ngày
 không được quá 90 ngày
 không được quá 90 ngày kể từ ngày
+ngày 01 tháng 01 năm 2021
 ngày 01 tháng 5 dương lịch
 ngày 02 tháng 9 dương lịch
 ngày 10 tháng 3 âm lịch
+ngày 20 tháng 11 năm 2019
 ngày 30 tháng 4 dương lịch
 sau 03 năm kể từ ngày
 sau 03 tháng
@@ -115,6 +117,8 @@ trong thời hạn 30 ngày
 trong thời hạn 30 ngày kể từ ngày
 trong thời hạn 30 ngày làm việc
 trong thời hạn 365 ngày
+trước 12 giờ
+trước 30 ngày
 tối đa không quá 01 tháng
 từ 01 năm đến 03 năm
 từ 01 tuần trở lên

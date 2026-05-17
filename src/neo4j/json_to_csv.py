@@ -12,20 +12,20 @@ SEMANTIC_EDGES_PATH   = "data/graph/all_semantic_edges.json"
 OUTPUT_DIR = "data/graph/import_neo4j"
 
 def get_structural_label(node):
-    properties = node.get("properties", {})
-    sentences = node.get("sentences", [])
+    # properties = node.get("properties", {})
+    # sentences = node.get("sentences", [])
 
-    priority_fields = ["point_content","clause_content", "article_title","section_title","chapter_title"]
+    # priority_fields = ["point_content","clause_content", "article_title","section_title","chapter_title"]
 
-    for field in priority_fields:
-        value = properties.get(field)
-        if value:
-            return value
-    # k co title /content 
-    if sentences:
-        s = sentences[0]
-        return s
-    return node.get("type", "")
+    # for field in priority_fields:
+    #     value = properties.get(field)
+    #     if value:
+    #         return value
+    # # k co title /content 
+    # if sentences:
+    #     s = sentences[0]
+    #     return s
+    return node.get("text", "")
   
 def process_structural_nodes(data):
 

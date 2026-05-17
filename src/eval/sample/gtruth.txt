@@ -1,882 +1,939 @@
 Tổ chức đại diện người lao động tại cơ sở là tổ chức được thành lập trên cơ sở tự nguyện của người lao động tại một đơn vị sử dụng lao động nhằm mục đích bảo vệ quyền và lợi ích hợp pháp, chính đáng của người lao động trong quan hệ lao động thông qua thương lượng tập thể hoặc các hình thức khác theo quy định của pháp luật về lao động. Tổ chức đại diện người lao động tại cơ sở bao gồm công đoàn cơ sở và tổ chức của người lao động tại doanh nghiệp.
 Các thực thể:
-(Tổ chức đại diện người lao động tại cơ sở, LEGAL_ROLE)
-(người lao động, LEGAL_ROLE)
-(đơn vị sử dụng lao động, LEGAL_ROLE)
-(bảo vệ quyền và lợi ích hợp pháp, chính đáng, RIGHT)
-(quan hệ lao động, LEGAL_CONCEPT)
-(thương lượng tập thể, PROCEDURE)
-(pháp luật về lao động, LEGAL_CONCEPT)
-(công đoàn cơ sở, LEGAL_ROLE)
-(tổ chức của người lao động tại doanh nghiệp, LEGAL_ROLE)
+(Tổ chức đại diện người lao động tại cơ sở | LEGAL_ROLE)
+(người lao động | LEGAL_ROLE)
+(đơn vị sử dụng lao động | LEGAL_ROLE)
+(bảo vệ quyền và lợi ích hợp pháp, chính đáng | RIGHT)
+(quan hệ lao động | LEGAL_CONCEPT)
+(thương lượng tập thể | LEGAL_CONCEPT)
+(thương lượng tập thể | ACTION)
+(pháp luật về lao động | LEGAL_CONCEPT)
+(công đoàn cơ sở | LEGAL_ROLE)
+(tổ chức của người lao động tại doanh nghiệp | LEGAL_ROLE)
+(theo quy định của pháp luật | LEGAL_REF)
+
+
 Các cạnh:
-(Tổ chức đại diện người lao động tại cơ sở, involves, người lao động)
-(Tổ chức đại diện người lao động tại cơ sở, applies_to, đơn vị sử dụng lao động)
-(Tổ chức đại diện người lao động tại cơ sở, has_purpose, bảo vệ quyền và lợi ích hợp pháp, chính đáng)
-(Tổ chức đại diện người lao động tại cơ sở, involves, thương lượng tập thể)
-(Tổ chức đại diện người lao động tại cơ sở, defines, công đoàn cơ sở)
-(Tổ chức đại diện người lao động tại cơ sở, defines, tổ chức của người lao động tại doanh nghiệp)
-(pháp luật về lao động, regulates, Tổ chức đại diện người lao động tại cơ sở)
-(bảo vệ quyền và lợi ích hợp pháp, chính đáng, applies_to, người lao động)
-(người lao động, related_to, quan hệ lao động)
-(thương lượng tập thể, related_to, quan hệ lao động)
+(Tổ chức đại diện người lao động tại cơ sở | involves | người lao động)
+(Tổ chức đại diện người lao động tại cơ sở | applies_to | đơn vị sử dụng lao động)
+(Tổ chức đại diện người lao động tại cơ sở | has_purpose | bảo vệ quyền và lợi ích hợp pháp, chính đáng)
+(Tổ chức đại diện người lao động tại cơ sở | involves | thương lượng tập thể)
+(Tổ chức đại diện người lao động tại cơ sở | defines | công đoàn cơ sở)
+(Tổ chức đại diện người lao động tại cơ sở | defines | tổ chức của người lao động tại doanh nghiệp)
+(pháp luật về lao động | regulates | Tổ chức đại diện người lao động tại cơ sở)
+(bảo vệ quyền và lợi ích hợp pháp, chính đáng | applies_to | người lao động)
+(người lao động | related_to | quan hệ lao động)
+(thương lượng tập thể | related_to | quan hệ lao động)
 
 ==================================================
 Hưởng lương phù hợp với trình độ, kỹ năng nghề trên cơ sở thỏa thuận với người sử dụng lao động; được bảo hộ lao động, làm việc trong điều kiện bảo đảm về an toàn, vệ sinh lao động; nghỉ theo chế độ, nghỉ hằng năm có hưởng lương và được hưởng phúc lợi tập thể;
 Các thực thể:
-(Hưởng lương, RIGHT)
-(thỏa thuận, ACTION)
-(người sử dụng lao động, LEGAL_ROLE)
-(được bảo hộ lao động, RIGHT)
-(an toàn, vệ sinh lao động, LEGAL_CONCEPT)
-(nghỉ theo chế độ, RIGHT)
-(nghỉ hằng năm có hưởng lương, RIGHT)
-(được hưởng phúc lợi tập thể, RIGHT)
+(Hưởng lương | RIGHT)
+(lương | LEGAL_CONCEPT)
+(thỏa thuận | ACTION)
+(người sử dụng lao động | LEGAL_ROLE)
+(được bảo hộ lao động | RIGHT)
+(an toàn, vệ sinh lao động | LEGAL_CONCEPT)
+(nghỉ theo chế độ | RIGHT)
+(nghỉ hằng năm có hưởng lương | RIGHT)
+(được hưởng phúc lợi tập thể | RIGHT)
+(bảo đảm về an toàn, vệ sinh lao động | ACTION)
+(phù hợp với trình độ, kỹ năng nghề trên cơ sở thỏa thuận | CONDITION)
+(trong điều kiện | CONDITION)
+(theo chế độ | CONDITION)
 Các cạnh:
-(Hưởng lương, has_condition, thỏa thuận)
-(thỏa thuận, involves, người sử dụng lao động)
-(được bảo hộ lao động, related_to, an toàn, vệ sinh lao động)
+(Hưởng lương | has_condition | thỏa thuận)
+(thỏa thuận | involves | người sử dụng lao động)
+(được bảo hộ lao động | related_to | an toàn, vệ sinh lao động)
 ==================================================
 Đơn phương chấm dứt hợp đồng lao động;
 Các thực thể:
-(Đơn phương chấm dứt, ACTION)
-(hợp đồng lao động, LEGAL_CONCEPT)
+(Đơn phương chấm dứt | ACTION)
+(hợp đồng lao động | LEGAL_CONCEPT)
 Các cạnh:
-(Đơn phương chấm dứt, involves, hợp đồng lao động)
+(Đơn phương chấm dứt | involves | hợp đồng lao động)
 ==================================================
 Đình công;
 Các thực thể:
-(Đình công, LEGAL_CONCEPT)
+(Đình công | LEGAL_CONCEPT)
 Các cạnh:
 ==================================================
 Yêu cầu tổ chức đại diện người lao động thương lượng với mục đích ký kết thỏa ước lao động tập thể; tham gia giải quyết tranh chấp lao động, đình công; đối thoại, trao đổi với tổ chức đại diện người lao động về các vấn đề trong quan hệ lao động, cải thiện đời sống vật chất và tinh thần của người lao động;
 Các thực thể:
-(Yêu cầu, ACTION)
-(tổ chức đại diện người lao động, LEGAL_ROLE)
-(thương lượng, ACTION)
-(ký kết, ACTION)
-(thỏa ước lao động tập thể, LEGAL_CONCEPT)
-(tham gia, ACTION)
-(giải quyết tranh chấp lao động, PROCEDURE)
-(đình công, LEGAL_CONCEPT)
-(đối thoại, ACTION)
-(trao đổi, ACTION)
-(quan hệ lao động, LEGAL_CONCEPT)
-(người lao động, LEGAL_ROLE)
+(Yêu cầu | ACTION)
+(tổ chức đại diện người lao động | LEGAL_ROLE)
+(thương lượng | ACTION)
+(ký kết | ACTION)
+(thỏa ước lao động tập thể | LEGAL_CONCEPT)
+(tham gia | ACTION)
+(giải quyết tranh chấp lao động | ACTION)
+(giải quyết | ACTION)
+(đình công | LEGAL_CONCEPT)
+(đối thoại | ACTION)
+(trao đổi | ACTION)
+(quan hệ lao động | LEGAL_CONCEPT)
+(người lao động | LEGAL_ROLE)
+(cải thiện đời sống vật chất và tinh thần | ACTION)
 Các cạnh:
-(Yêu cầu, involves, tổ chức đại diện người lao động)
-(Yêu cầu, involves, thương lượng)
-(thương lượng, has_purpose, ký kết)
-(ký kết, involves, thỏa ước lao động tập thể)
-(tham gia, involves, giải quyết tranh chấp lao động)
-(tham gia, involves, đình công)
-(đối thoại, involves, tổ chức đại diện người lao động)
-(trao đổi, involves, tổ chức đại diện người lao động)
-(đối thoại, related_to, quan hệ lao động)
-(trao đổi, related_to, quan hệ lao động)
-(quan hệ lao động, involves, người lao động)
+(Yêu cầu | involves | tổ chức đại diện người lao động)
+(Yêu cầu | involves | thương lượng)
+(thương lượng | has_purpose | ký kết)
+(ký kết | involves | thỏa ước lao động tập thể)
+(tham gia | involves | giải quyết tranh chấp lao động)
+(tham gia | involves | đình công)
+(đối thoại | involves | tổ chức đại diện người lao động)
+(trao đổi | involves | tổ chức đại diện người lao động)
+(đối thoại | related_to | quan hệ lao động)
+(trao đổi | related_to | quan hệ lao động)
+(quan hệ lao động | involves | người lao động)
 ==================================================
 Các quyền khác theo quy định của pháp luật.
 Các thực thể:
+(theo quy định của pháp luật | LEGAL_REF)
+
 Các cạnh:
 ==================================================
 Đào tạo, đào tạo lại, bồi dưỡng nâng cao trình độ, kỹ năng nghề nhằm duy trì, chuyển đổi nghề nghiệp, việc làm cho người lao động;
 Các thực thể:
-(Đào tạo, ACTION)
-(đào tạo lại, ACTION)
-(bồi dưỡng nâng cao trình độ, kỹ năng nghề, ACTION)
-(duy trì, chuyển đổi nghề nghiệp, việc làm, ACTION)
-(người lao động, LEGAL_ROLE)
+(Đào tạo | ACTION)
+(đào tạo lại | ACTION)
+(bồi dưỡng nâng cao trình độ, kỹ năng nghề | ACTION)
+(duy trì, chuyển đổi nghề nghiệp, việc làm | ACTION)
+(việc làm | LEGAL_CONCEPT)
+(người lao động | LEGAL_ROLE)
 Các cạnh:
-(Đào tạo, has_purpose, duy trì, chuyển đổi nghề nghiệp, việc làm)
-(đào tạo lại, has_purpose, duy trì, chuyển đổi nghề nghiệp, việc làm)
-(bồi dưỡng nâng cao trình độ, kỹ năng nghề, has_purpose, duy trì, chuyển đổi nghề nghiệp, việc làm)
-(duy trì, chuyển đổi nghề nghiệp, việc làm, applies_to, người lao động)
+(Đào tạo | has_purpose | duy trì, chuyển đổi nghề nghiệp, việc làm)
+(đào tạo lại | has_purpose | duy trì, chuyển đổi nghề nghiệp, việc làm)
+(bồi dưỡng nâng cao trình độ, kỹ năng nghề | has_purpose | duy trì, chuyển đổi nghề nghiệp, việc làm)
+(duy trì, chuyển đổi nghề nghiệp, việc làm | applies_to | người lao động)
 ==================================================
 Quấy rối tình dục tại nơi làm việc.
 Các thực thể:
-(Quấy rối tình dục tại nơi làm việc, PROHIBITION)
+(Quấy rối tình dục tại nơi làm việc | PROHIBITION)
+(nơi làm việc | LEGAL_CONCEPT)
 Các cạnh:
 ==================================================
 Chính phủ quy định chi tiết Điều này.
 Các thực thể:
-(Chính phủ, LEGAL_ROLE)
-(quy định chi tiết, ACTION)
+(Chính phủ | LEGAL_ROLE)
+(quy định chi tiết | ACTION)
 Các cạnh:
-(Chính phủ, regulates, quy định chi tiết)
+(Chính phủ | regulates | quy định chi tiết)
 ==================================================
 Người sử dụng lao động phải cung cấp thông tin trung thực cho người lao động về công việc, địa điểm làm việc, điều kiện làm việc, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn, vệ sinh lao động, tiền lương, hình thức trả lương, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, quy định về bảo vệ bí mật kinh doanh, bảo vệ bí mật công nghệ và vấn đề khác liên quan trực tiếp đến việc giao kết hợp đồng lao động mà người lao động yêu cầu.
 Các thực thể:
-(Người sử dụng lao động, LEGAL_ROLE)
-(phải cung cấp thông tin trung thực, OBLIGATION)
-(người lao động, LEGAL_ROLE)
-(thời giờ làm việc, LEGAL_CONCEPT)
-(thời giờ nghỉ ngơi, LEGAL_CONCEPT)
-(an toàn, vệ sinh lao động, LEGAL_CONCEPT)
-(tiền lương, LEGAL_CONCEPT)
-(hình thức trả lương, LEGAL_CONCEPT)
-(bảo hiểm xã hội, LEGAL_CONCEPT)
-(bảo hiểm y tế, LEGAL_CONCEPT)
-(bảo hiểm thất nghiệp, LEGAL_CONCEPT)
-(giao kết hợp đồng lao động, ACTION)
-(yêu cầu, ACTION)
+(Người sử dụng lao động | LEGAL_ROLE)
+(phải cung cấp thông tin trung thực | OBLIGATION)
+(người lao động | LEGAL_ROLE)
+(thời giờ làm việc | LEGAL_CONCEPT)
+(thời giờ nghỉ ngơi | LEGAL_CONCEPT)
+(an toàn, vệ sinh lao động | LEGAL_CONCEPT)
+(tiền lương | LEGAL_CONCEPT)
+(hình thức trả lương | LEGAL_CONCEPT)
+(bảo hiểm xã hội | LEGAL_CONCEPT)
+(bảo hiểm y tế | LEGAL_CONCEPT)
+(bảo hiểm thất nghiệp | LEGAL_CONCEPT)
+(giao kết hợp đồng lao động | ACTION)
+(bảo vệ tài sản | ACTION)
+(yêu cầu | ACTION)
 Các cạnh:
-(phải cung cấp thông tin trung thực, involves, Người sử dụng lao động)
-(phải cung cấp thông tin trung thực, applies_to, người lao động)
-(phải cung cấp thông tin trung thực, related_to, thời giờ làm việc)
-(phải cung cấp thông tin trung thực, related_to, thời giờ nghỉ ngơi)
-(phải cung cấp thông tin trung thực, related_to, an toàn, vệ sinh lao động)
-(phải cung cấp thông tin trung thực, related_to, tiền lương)
-(phải cung cấp thông tin trung thực, related_to, hình thức trả lương)
-(phải cung cấp thông tin trung thực, related_to, bảo hiểm xã hội)
-(phải cung cấp thông tin trung thực, related_to, bảo hiểm y tế)
-(phải cung cấp thông tin trung thực, related_to, bảo hiểm thất nghiệp)
-(phải cung cấp thông tin trung thực, has_purpose, giao kết hợp đồng lao động)
-(phải cung cấp thông tin trung thực, has_condition, yêu cầu)
-(yêu cầu, involves, người lao động)
-
+(phải cung cấp thông tin trung thực | involves | Người sử dụng lao động)
+(phải cung cấp thông tin trung thực | applies_to | người lao động)
+(phải cung cấp thông tin trung thực | related_to | thời giờ làm việc)
+(phải cung cấp thông tin trung thực | related_to | thời giờ nghỉ ngơi)
+(phải cung cấp thông tin trung thực | related_to | an toàn, vệ sinh lao động)
+(phải cung cấp thông tin trung thực | related_to | tiền lương)
+(phải cung cấp thông tin trung thực | related_to | hình thức trả lương)
+(phải cung cấp thông tin trung thực | related_to | bảo hiểm xã hội)
+(phải cung cấp thông tin trung thực | related_to | bảo hiểm y tế)
+(phải cung cấp thông tin trung thực | related_to | bảo hiểm thất nghiệp)
+(phải cung cấp thông tin trung thực | has_purpose | giao kết hợp đồng lao động)
+(phải cung cấp thông tin trung thực | has_condition | yêu cầu)
+(yêu cầu | involves | người lao động)
 ==================================================
 Người giao kết hợp đồng lao động bên phía người sử dụng lao động là người thuộc một trong các trường hợp sau đây: a) Người đại diện theo pháp luật của doanh nghiệp hoặc người được ủy quyền theo quy định của pháp luật; b) Người đứng đầu cơ quan, tổ chức có tư cách pháp nhân theo quy định của pháp luật hoặc người được ủy quyền theo quy định của pháp luật; c) Người đại diện của hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân hoặc người được ủy quyền theo quy định của pháp luật; d) Cá nhân trực tiếp sử dụng lao động.
 Các thực thể:
-(Người giao kết hợp đồng lao động, LEGAL_ROLE)
-(người sử dụng lao động, LEGAL_ROLE)
-(Người đại diện theo pháp luật, LEGAL_ROLE)
-(người được ủy quyền, LEGAL_ROLE)
-(Người đứng đầu cơ quan, tổ chức, LEGAL_ROLE)
-(Người đại diện của hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân, LEGAL_ROLE)
-(Cá nhân trực tiếp sử dụng lao động, LEGAL_ROLE)
+(Người giao kết hợp đồng lao động | LEGAL_ROLE)
+(người sử dụng lao động | LEGAL_ROLE)
+(Người đại diện theo pháp luật | LEGAL_ROLE)
+(người được ủy quyền | LEGAL_ROLE)
+(doanh nghiệp | LEGAL_ROLE)
+(Người đứng đầu cơ quan, tổ chức | LEGAL_ROLE)
+(Người đại diện của hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân | LEGAL_ROLE)
+(Cá nhân trực tiếp sử dụng lao động | LEGAL_ROLE)
+(theo quy định của pháp luật | LEGAL_REF)
+(trường hợp | CONDITION)
 Các cạnh:
-(Người giao kết hợp đồng lao động, related_to, người sử dụng lao động)
-(Người đại diện theo pháp luật, defines, Người giao kết hợp đồng lao động)
-(người được ủy quyền, defines, Người giao kết hợp đồng lao động)
-(Người đứng đầu cơ quan, tổ chức, defines, Người giao kết hợp đồng lao động)
-(Người đại diện của hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân, defines, Người giao kết hợp đồng lao động)
-(Cá nhân trực tiếp sử dụng lao động, defines, Người giao kết hợp đồng lao động)
+(Người giao kết hợp đồng lao động | related_to | người sử dụng lao động)
+(Người đại diện theo pháp luật | defines | Người giao kết hợp đồng lao động)
+(người được ủy quyền | defines | Người giao kết hợp đồng lao động)
+(Người đứng đầu cơ quan, tổ chức | defines | Người giao kết hợp đồng lao động)
+(Người đại diện của hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân | defines | Người giao kết hợp đồng lao động)
+(Cá nhân trực tiếp sử dụng lao động | defines | Người giao kết hợp đồng lao động)
 ==================================================
 Trong thời hạn 30 ngày kể từ ngày hợp đồng lao động hết hạn, hai bên phải ký kết hợp đồng lao động mới; trong thời gian chưa ký kết hợp đồng lao động mới thì quyền, nghĩa vụ và lợi ích của hai bên được thực hiện theo hợp đồng đã giao kết;
 Các thực thể:
-(30 ngày, TIME_PERIOD)
-(hợp đồng lao động hết hạn, CONDITION)
-(phải ký kết hợp đồng lao động mới, OBLIGATION)
-(chưa ký kết hợp đồng lao động mới, CONDITION)
-(hợp đồng đã giao kết, LEGAL_CONCEPT)
+(30 ngày | TIME_PERIOD)
+(hợp đồng lao động hết hạn | CONDITION)
+(phải ký kết hợp đồng lao động mới | OBLIGATION)
+(chưa ký kết hợp đồng lao động mới | CONDITION)
+(hợp đồng đã giao kết | LEGAL_CONCEPT)
+(thực hiện | ACTION)
 Các cạnh:
-(phải ký kết hợp đồng lao động mới, has_condition, 30 ngày)
-(phải ký kết hợp đồng lao động mới, has_condition, hợp đồng lao động hết hạn)
-(hợp đồng đã giao kết, regulates, chưa ký kết hợp đồng lao động mới)
+(phải ký kết hợp đồng lao động mới | has_condition | 30 ngày)
+(phải ký kết hợp đồng lao động mới | has_condition | hợp đồng lao động hết hạn)
+(hợp đồng đã giao kết | regulates | chưa ký kết hợp đồng lao động mới)
 ==================================================
 Hợp đồng lao động phải có những nội dung chủ yếu sau đây: a) Tên, địa chỉ của người sử dụng lao động và họ tên, chức danh của người giao kết hợp đồng lao động bên phía người sử dụng lao động; b) Họ tên, ngày tháng năm sinh, giới tính, nơi cư trú, số thẻ Căn cước công dân, Chứng minh nhân dân hoặc hộ chiếu của người giao kết hợp đồng lao động bên phía người lao động; c) Công việc và địa điểm làm việc; d) Thời hạn của hợp đồng lao động; đ) Mức lương theo công việc hoặc chức danh, hình thức trả lương, thời hạn trả lương, phụ cấp lương và các khoản bổ sung khác; e) Chế độ nâng bậc, nâng lương; g) Thời giờ làm việc, thời giờ nghỉ ngơi; h) Trang bị bảo hộ lao động cho người lao động; i) Bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp; k) Đào tạo, bồi dưỡng, nâng cao trình độ, kỹ năng nghề.
 Các thực thể:
-(Hợp đồng lao động, LEGAL_CONCEPT)
-(người sử dụng lao động, LEGAL_ROLE)
-(Người giao kết hợp đồng lao động, LEGAL_ROLE)
-(người lao động, LEGAL_ROLE)
-(Thời hạn của hợp đồng lao động, LEGAL_CONCEPT)
-(Mức lương, LEGAL_CONCEPT)
-(hình thức trả lương, LEGAL_CONCEPT)
-(thời hạn trả lương, LEGAL_CONCEPT)
-(phụ cấp lương, LEGAL_CONCEPT)
-(Chế độ nâng bậc, nâng lương, LEGAL_CONCEPT)
-(Thời giờ làm việc, LEGAL_CONCEPT)
-(Thời giờ nghỉ ngơi, LEGAL_CONCEPT)
-(bảo hộ lao động, LEGAL_CONCEPT)
-(Bảo hiểm xã hội, LEGAL_CONCEPT)
-(bảo hiểm y tế, LEGAL_CONCEPT)
-(bảo hiểm thất nghiệp, LEGAL_CONCEPT)
-(Đào tạo, bồi dưỡng, nâng cao trình độ, kỹ năng nghề, ACTION)
+(Hợp đồng lao động | LEGAL_CONCEPT)
+(người sử dụng lao động | LEGAL_ROLE)
+(Người giao kết hợp đồng lao động | LEGAL_ROLE)
+(người lao động | LEGAL_ROLE)
+(Thời hạn của hợp đồng lao động | LEGAL_CONCEPT)
+(Mức lương | LEGAL_CONCEPT)
+(hình thức trả lương | LEGAL_CONCEPT)
+(thời hạn trả lương | LEGAL_CONCEPT)
+(phụ cấp lương | LEGAL_CONCEPT)
+(Chế độ nâng bậc, nâng lương | LEGAL_CONCEPT)
+(Thời giờ làm việc | LEGAL_CONCEPT)
+(Thời giờ nghỉ ngơi | LEGAL_CONCEPT)
+(bảo hộ lao động | LEGAL_CONCEPT)
+(Bảo hiểm xã hội | LEGAL_CONCEPT)
+(bảo hiểm y tế | LEGAL_CONCEPT)
+(bảo hiểm thất nghiệp | LEGAL_CONCEPT)
+(Đào tạo, bồi dưỡng, nâng cao trình độ, kỹ năng nghề | ACTION)
 Các cạnh:
-(Hợp đồng lao động, involves, người sử dụng lao động)
-(Hợp đồng lao động, involves, người lao động)
-(Hợp đồng lao động, mentions, Mức lương)
-(Hợp đồng lao động, mentions, Thời giờ làm việc)
-(Hợp đồng lao động, mentions, Bảo hiểm xã hội)
+(Hợp đồng lao động | involves | người sử dụng lao động)
+(Hợp đồng lao động | involves | người lao động)
+(Hợp đồng lao động | mentions | Mức lương)
+(Hợp đồng lao động | mentions | Thời giờ làm việc)
+(Hợp đồng lao động | mentions | Bảo hiểm xã hội)
 ==================================================
 Tên, địa chỉ của người sử dụng lao động và họ tên, chức danh của người giao kết hợp đồng lao động bên phía người sử dụng lao động;
 Các thực thể:
-(người sử dụng lao động, LEGAL_ROLE)
-(người giao kết hợp đồng lao động, LEGAL_ROLE)
+(người sử dụng lao động | LEGAL_ROLE)
+(người giao kết hợp đồng lao động | LEGAL_ROLE)
 Các cạnh:
-(người giao kết hợp đồng lao động, related_to, người sử dụng lao động)
-
+(người giao kết hợp đồng lao động | related_to | người sử dụng lao động)
 ==================================================
 Không quá 30 ngày đối với công việc có chức danh nghề nghiệp cần trình độ chuyên môn, kỹ thuật trung cấp, công nhân kỹ thuật, nhân viên nghiệp vụ;
 Các thực thể:
-(Không quá 30 ngày, TIME_PERIOD)
-Các cạnh:
+(Không quá 30 ngày | TIME_PERIOD)
+(đối với công việc có chức danh nghề nghiệp cần trình độ | CONDITION)
 
+Các cạnh:
 ==================================================
 Người lao động làm việc không trọn thời gian được hưởng lương; bình đẳng trong thực hiện quyền và nghĩa vụ với người lao động làm việc trọn thời gian; bình đẳng về cơ hội, không bị phân biệt đối xử, bảo đảm an toàn, vệ sinh lao động.
 Các thực thể:
-(Người lao động làm việc không trọn thời gian, LEGAL_ROLE)
-(được hưởng lương, RIGHT)
-(không bị phân biệt đối xử, RIGHT)
-(bảo đảm an toàn, vệ sinh lao động, RIGHT)
-(người lao động làm việc trọn thời gian, LEGAL_ROLE)
+(Người lao động làm việc không trọn thời gian | LEGAL_ROLE)
+(được hưởng lương | RIGHT)
+(không bị phân biệt đối xử | RIGHT)
+(bảo đảm an toàn, vệ sinh lao động | RIGHT)
+(người lao động làm việc trọn thời gian | LEGAL_ROLE)
+(thực hiện | ACTION)
 Các cạnh:
-(được hưởng lương, applies_to, Người lao động làm việc không trọn thời gian)
-(không bị phân biệt đối xử, applies_to, Người lao động làm việc không trọn thời gian)
-(bảo đảm an toàn, vệ sinh lao động, applies_to, Người lao động làm việc không trọn thời gian)
-(Người lao động làm việc không trọn thời gian, related_to, người lao động làm việc trọn thời gian)
-
+(được hưởng lương | applies_to | Người lao động làm việc không trọn thời gian)
+(không bị phân biệt đối xử | applies_to | Người lao động làm việc không trọn thời gian)
+(bảo đảm an toàn, vệ sinh lao động | applies_to | Người lao động làm việc không trọn thời gian)
+(Người lao động làm việc không trọn thời gian | related_to | người lao động làm việc trọn thời gian)
 ==================================================
 Trường hợp hai bên không thỏa thuận được việc sửa đổi, bổ sung nội dung hợp đồng lao động thì tiếp tục thực hiện hợp đồng lao động đã giao kết.
 Các thực thể:
-(không thỏa thuận được việc sửa đổi, bổ sung nội dung hợp đồng lao động, CONDITION)
-(tiếp tục thực hiện hợp đồng lao động đã giao kết, ACTION)
+(không thỏa thuận được việc sửa đổi, bổ sung nội dung hợp đồng lao động | CONDITION)
+(tiếp tục thực hiện hợp đồng lao động đã giao kết | ACTION)
 Các cạnh:
-(tiếp tục thực hiện hợp đồng lao động đã giao kết, has_condition, không thỏa thuận được việc sửa đổi, bổ sung nội dung hợp đồng lao động)
-
+(tiếp tục thực hiện hợp đồng lao động đã giao kết | has_condition | không thỏa thuận được việc sửa đổi, bổ sung nội dung hợp đồng lao động)
 ==================================================
 Đã hoàn thành công việc theo hợp đồng lao động.
 Các thực thể:
-(hoàn thành công việc, ACTION)
-(hợp đồng lao động, LEGAL_CONCEPT)
+(hoàn thành công việc | ACTION)
+(hợp đồng lao động | LEGAL_CONCEPT)
 Các cạnh:
-(hoàn thành công việc, related_to, hợp đồng lao động)
-
+(hoàn thành công việc | related_to | hợp đồng lao động)
 ==================================================
 Người sử dụng lao động cho người lao động thôi việc theo quy định tại Điều 42 và Điều 43 của Bộ luật này.
 Các thực thể:
-(Người sử dụng lao động, LEGAL_ROLE)
-(người lao động, LEGAL_ROLE)
-(thôi việc, ACTION)
-(Điều 42, LEGAL_REF)
-(Điều 43, LEGAL_REF)
+(Người sử dụng lao động | LEGAL_ROLE)
+(người lao động | LEGAL_ROLE)
+(thôi việc | ACTION)
+(Điều 42 | LEGAL_REF)
+(Điều 43 | LEGAL_REF)
+(bộ luật lao động | LEGAL_REF)
 Các cạnh:
-(thôi việc, involves, Người sử dụng lao động)
-(thôi việc, applies_to, người lao động)
-(thôi việc, cites, Điều 42)
-(thôi việc, cites, Điều 43)
-
+(thôi việc | involves | Người sử dụng lao động)
+(thôi việc | applies_to | người lao động)
+(thôi việc | cites | Điều 42)
+(thôi việc | cites | Điều 43)
 ==================================================
 Người sử dụng lao động cung cấp thông tin không trung thực theo quy định tại khoản 1 Điều 16 của Bộ luật này làm ảnh hưởng đến việc thực hiện hợp đồng lao động.
 Các thực thể:
-(Người sử dụng lao động, LEGAL_ROLE)
-(cung cấp thông tin không trung thực, ACTION)
-(khoản 1 Điều 16, LEGAL_REF)
-(thực hiện hợp đồng lao động, ACTION)
+(Người sử dụng lao động | LEGAL_ROLE)
+(cung cấp thông tin không trung thực | ACTION)
+(bộ luật lao động | LEGAL_REF)
+(khoản 1 Điều 16 | LEGAL_REF)
+(thực hiện hợp đồng lao động | ACTION)
 Các cạnh:
-(cung cấp thông tin không trung thực, involves, Người sử dụng lao động)
-(cung cấp thông tin không trung thực, cites, khoản 1 Điều 16)
-(cung cấp thông tin không trung thực, results_in, thực hiện hợp đồng lao động)
-
+(cung cấp thông tin không trung thực | involves | Người sử dụng lao động)
+(cung cấp thông tin không trung thực | cites | khoản 1 Điều 16)
+(cung cấp thông tin không trung thực | results_in | thực hiện hợp đồng lao động)
 ==================================================
 Người lao động bị ốm đau, tai nạn đã điều trị 12 tháng liên tục đối với người làm việc theo hợp đồng lao động không xác định thời hạn hoặc đã điều trị 06 tháng liên tục đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng hoặc quá nửa thời hạn hợp đồng lao động đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng mà khả năng lao động chưa hồi phục. Khi sức khỏe của người lao động bình phục thì người sử dụng lao động xem xét để tiếp tục giao kết hợp đồng lao động với người lao động;
 Các thực thể:
-(người lao động, LEGAL_ROLE)
-(điều trị, ACTION)
-(12 tháng liên tục, TIME_PERIOD)
-(hợp đồng lao động không xác định thời hạn, LEGAL_CONCEPT)
-(06 tháng liên tục, TIME_PERIOD)
-(hợp đồng lao động xác định thời hạn, LEGAL_CONCEPT)
-(12 tháng đến 36 tháng, TIME_PERIOD)
-(dưới 12 tháng, TIME_PERIOD)
-(sức khỏe của người lao động bình phục, CONDITION)
-(người sử dụng lao động, LEGAL_ROLE)
-(giao kết, ACTION)
-(hợp đồng lao động, LEGAL_CONCEPT)
+(người lao động | LEGAL_ROLE)
+(điều trị | ACTION)
+(12 tháng liên tục | TIME_PERIOD)
+(hợp đồng lao động không xác định thời hạn | LEGAL_CONCEPT)
+(06 tháng liên tục | TIME_PERIOD)
+(hợp đồng lao động xác định thời hạn | LEGAL_CONCEPT)
+(12 tháng đến 36 tháng | TIME_PERIOD)
+(dưới 12 tháng | TIME_PERIOD)
+(sức khỏe của người lao động bình phục | CONDITION)
+(người sử dụng lao động | LEGAL_ROLE)
+(giao kết | ACTION)
+(hợp đồng lao động | LEGAL_CONCEPT)
 Các cạnh:
-(điều trị, involves, người lao động)
-(điều trị, has_condition, 12 tháng liên tục)
-(giao kết, involves, người sử dụng lao động)
-(giao kết, regulates, hợp đồng lao động)
-(giao kết, has_condition, sức khỏe của người lao động bình phục)
+(điều trị | involves | người lao động)
+(điều trị | has_condition | 12 tháng liên tục)
+(giao kết | involves | người sử dụng lao động)
+(giao kết | regulates | hợp đồng lao động)
+(giao kết | has_condition | sức khỏe của người lao động bình phục)
 ==================================================
 Không được trợ cấp thôi việc.
 Các thực thể:
-(không được trợ cấp thôi việc, PROHIBITION)
+(không được trợ cấp thôi việc | PROHIBITION)
+(trợ cấp thôi việc | LEGAL_CONCEPT)
 Các cạnh:
 ==================================================
 Phải bồi thường cho người sử dụng lao động nửa tháng tiền lương theo hợp đồng lao động và một khoản tiền tương ứng với tiền lương theo hợp đồng lao động trong những ngày không báo trước.
 Các thực thể:
-(Phải bồi thường, OBLIGATION)
-(người sử dụng lao động, LEGAL_ROLE)
-(hợp đồng lao động, LEGAL_CONCEPT)
+(Phải bồi thường | OBLIGATION)
+(người sử dụng lao động | LEGAL_ROLE)
+(hợp đồng lao động | LEGAL_CONCEPT)
+(tiền lương | LEGAL_CONCEPT)
 Các cạnh:
-(Phải bồi thường, involves, người sử dụng lao động)
-(Phải bồi thường, related_to, hợp đồng lao động)
+(Phải bồi thường | involves | người sử dụng lao động)
+(Phải bồi thường | related_to | hợp đồng lao động)
 ==================================================
 Phải hoàn trả cho người sử dụng lao động chi phí đào tạo quy định tại Điều 62 của Bộ luật này.
 Các thực thể:
-(Phải hoàn trả, OBLIGATION)
-(người sử dụng lao động, LEGAL_ROLE)
-(Điều 62, LEGAL_REF)
+(Phải hoàn trả | OBLIGATION)
+(người sử dụng lao động | LEGAL_ROLE)
+(bộ luật lao động | LEGAL_REF)
+(Điều 62 | LEGAL_REF)
 Các cạnh:
-(Phải hoàn trả, involves, người sử dụng lao động)
-(Phải hoàn trả, cites, Điều 62)
+(Phải hoàn trả | involves | người sử dụng lao động)
+(Phải hoàn trả | cites | Điều 62)
 ==================================================
 Phải nhận người lao động trở lại làm việc theo hợp đồng lao động đã giao kết; phải trả tiền lương, đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp trong những ngày người lao động không được làm việc và phải trả thêm cho người lao động một khoản tiền ít nhất bằng 02 tháng tiền lương theo hợp đồng lao động. Sau khi được nhận lại làm việc, người lao động hoàn trả cho người sử dụng lao động các khoản tiền trợ cấp thôi việc, trợ cấp mất việc làm nếu đã nhận của người sử dụng lao động. Trường hợp không còn vị trí, công việc đã giao kết trong hợp đồng lao động mà người lao động vẫn muốn làm việc thì hai bên thỏa thuận để sửa đổi, bổ sung hợp đồng lao động. Trường hợp vi phạm quy định về thời hạn báo trước quy định tại khoản 2 Điều 36 của Bộ luật này thì phải trả một khoản tiền tương ứng với tiền lương theo hợp đồng lao động trong những ngày không báo trước.
 Các thực thể:
-(Phải nhận, OBLIGATION)
-(người lao động, LEGAL_ROLE)
-(hợp đồng lao động, LEGAL_CONCEPT)
-(phải trả tiền lương, OBLIGATION)
-(bảo hiểm xã hội, LEGAL_CONCEPT)
-(bảo hiểm y tế, LEGAL_CONCEPT)
-(bảo hiểm thất nghiệp, LEGAL_CONCEPT)
-(không được làm việc, PROHIBITION)
-(phải trả thêm, OBLIGATION)
-(02 tháng, TIME_PERIOD)
-(người sử dụng lao động, LEGAL_ROLE)
-(trợ cấp thôi việc, LEGAL_CONCEPT)
-(trợ cấp mất việc làm, LEGAL_CONCEPT)
-(hai bên, LEGAL_ROLE)
-(sửa đổi, bổ sung, ACTION)
-(khoản 2 Điều 36, LEGAL_REF)
-(phải trả, OBLIGATION)
+(Phải nhận | OBLIGATION)
+(người lao động | LEGAL_ROLE)
+(hợp đồng lao động | LEGAL_CONCEPT)
+(phải trả tiền lương | OBLIGATION)
+(bảo hiểm xã hội | LEGAL_CONCEPT)
+(bảo hiểm y tế | LEGAL_CONCEPT)
+(bảo hiểm thất nghiệp | LEGAL_CONCEPT)
+(không được làm việc | PROHIBITION)
+(phải trả thêm | OBLIGATION)
+(02 tháng | TIME_PERIOD)
+(người sử dụng lao động | LEGAL_ROLE)
+(trợ cấp thôi việc | LEGAL_CONCEPT)
+(trợ cấp mất việc làm | LEGAL_CONCEPT)
+(hai bên | LEGAL_ROLE)
+(bộ luật lao động | LEGAL_REF)
+(sửa đổi, bổ sung | ACTION)
+(khoản 2 Điều 36 | LEGAL_REF)
+(phải trả | OBLIGATION)
+(bộ luật lao động | LEGAL_REF)
+(tiền lương | LEGAL_CONCEPT)
 Các cạnh:
-(Phải nhận, applies_to, người lao động)
-(Phải nhận, related_to, hợp đồng lao động)
-(phải trả tiền lương, applies_to, người lao động)
-(phải trả thêm, applies_to, người lao động)
-(phải trả thêm, has_condition, 02 tháng)
-(sửa đổi, bổ sung, involves, hai bên)
-(sửa đổi, bổ sung, regulates, hợp đồng lao động)
-(phải trả, cites, khoản 2 Điều 36)
+(Phải nhận | applies_to | người lao động)
+(Phải nhận | related_to | hợp đồng lao động)
+(phải trả tiền lương | applies_to | người lao động)
+(phải trả thêm | applies_to | người lao động)
+(phải trả thêm | has_condition | 02 tháng)
+(sửa đổi, bổ sung | involves | hai bên)
+(sửa đổi, bổ sung | regulates | hợp đồng lao động)
+(phải trả | cites | khoản 2 Điều 36)
 ==================================================
 Thực hiện chính sách, pháp luật của Nhà nước khi cơ cấu lại nền kinh tế hoặc thực hiện cam kết quốc tế.
 Các thực thể:
-(Thực hiện, ACTION)
-(cơ cấu lại nền kinh tế, PROCEDURE)
+(Thực hiện | ACTION)
+(cơ cấu lại nền kinh tế | ACTION)
 Các cạnh:
-(Thực hiện, has_condition, cơ cấu lại nền kinh tế)
+(Thực hiện | has_condition | cơ cấu lại nền kinh tế)
 ==================================================
 Khi xây dựng phương án sử dụng lao động, người sử dụng lao động phải trao đổi ý kiến với tổ chức đại diện người lao động tại cơ sở đối với nơi có tổ chức đại diện người lao động tại cơ sở. Phương án sử dụng lao động phải được thông báo công khai cho người lao động biết trong thời hạn 15 ngày kể từ ngày được thông qua.
 Các thực thể:
-(xây dựng phương án sử dụng lao động, CONDITION)
-(người sử dụng lao động, LEGAL_ROLE)
-(phải trao đổi ý kiến, OBLIGATION)
-(tổ chức đại diện người lao động tại cơ sở, LEGAL_ROLE)
-(phương án sử dụng lao động, LEGAL_CONCEPT)
-(thông báo công khai, ACTION)
-(người lao động, LEGAL_ROLE)
-(15 ngày, TIME_PERIOD)
+(xây dựng phương án sử dụng lao động | CONDITION)
+(người sử dụng lao động | LEGAL_ROLE)
+(phải trao đổi ý kiến | OBLIGATION)
+(tổ chức đại diện người lao động tại cơ sở | LEGAL_ROLE)
+(phương án sử dụng lao động | LEGAL_CONCEPT)
+(thông báo công khai | ACTION)
+(người lao động | LEGAL_ROLE)
+(15 ngày | TIME_PERIOD)
 Các cạnh:
-(phải trao đổi ý kiến, has_condition, xây dựng phương án sử dụng lao động)
-(phải trao đổi ý kiến, involves, người sử dụng lao động)
-(phải trao đổi ý kiến, involves, tổ chức đại diện người lao động tại cơ sở)
-(thông báo công khai, regulates, phương án sử dụng lao động)
-(thông báo công khai, involves, người lao động)
-(thông báo công khai, has_condition, 15 ngày)
+(phải trao đổi ý kiến | has_condition | xây dựng phương án sử dụng lao động)
+(phải trao đổi ý kiến | involves | người sử dụng lao động)
+(phải trao đổi ý kiến | involves | tổ chức đại diện người lao động tại cơ sở)
+(thông báo công khai | regulates | phương án sử dụng lao động)
+(thông báo công khai | involves | người lao động)
+(thông báo công khai | has_condition | 15 ngày)
 ==================================================
 Thời gian làm việc để tính trợ cấp mất việc làm là tổng thời gian người lao động đã làm việc thực tế cho người sử dụng lao động trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật về bảo hiểm thất nghiệp và thời gian làm việc đã được người sử dụng lao động chi trả trợ cấp thôi việc, trợ cấp mất việc làm.
 Các thực thể:
-(trợ cấp mất việc làm, LEGAL_CONCEPT)
-(người lao động, LEGAL_ROLE)
-(người sử dụng lao động, LEGAL_ROLE)
-(bảo hiểm thất nghiệp, LEGAL_CONCEPT)
-(trợ cấp thôi việc, LEGAL_CONCEPT)
+(trợ cấp mất việc làm | LEGAL_CONCEPT)
+(người lao động | LEGAL_ROLE)
+(người sử dụng lao động | LEGAL_ROLE)
+(bảo hiểm thất nghiệp | LEGAL_CONCEPT)
+(trợ cấp thôi việc | LEGAL_CONCEPT)
+(theo quy định của pháp luật | LEGAL_REF)
+
 Các cạnh:
-(trợ cấp mất việc làm, involves, người lao động)
-(trợ cấp mất việc làm, involves, người sử dụng lao động)
-(bảo hiểm thất nghiệp, applies_to, người lao động)
-(trợ cấp thôi việc, involves, người sử dụng lao động)
+(trợ cấp mất việc làm | involves | người lao động)
+(trợ cấp mất việc làm | involves | người sử dụng lao động)
+(bảo hiểm thất nghiệp | applies_to | người lao động)
+(trợ cấp thôi việc | involves | người sử dụng lao động)
 ==================================================
 Khi hợp đồng lao động bị tuyên bố vô hiệu toàn bộ thì quyền, nghĩa vụ và lợi ích của người lao động được giải quyết theo quy định của pháp luật; trường hợp do ký sai thẩm quyền thì hai bên ký lại.
 Các thực thể:
-(hợp đồng lao động bị tuyên bố vô hiệu toàn bộ, CONDITION)
-(người lao động, LEGAL_ROLE)
-(ký sai thẩm quyền, CONDITION)
-(hai bên, LEGAL_ROLE)
-(ký lại, ACTION)
+(hợp đồng lao động bị tuyên bố vô hiệu toàn bộ | CONDITION)
+(người lao động | LEGAL_ROLE)
+(ký sai thẩm quyền | CONDITION)
+(hai bên | LEGAL_ROLE)
+(ký lại | ACTION)
+(theo quy định của pháp luật | LEGAL_REF)
+
 Các cạnh:
-(ký lại, involves, hai bên)
-(ký lại, has_condition, ký sai thẩm quyền)
-(hợp đồng lao động bị tuyên bố vô hiệu toàn bộ, involves, người lao động)
+(ký lại | involves | hai bên)
+(ký lại | has_condition | ký sai thẩm quyền)
+(hợp đồng lao động bị tuyên bố vô hiệu toàn bộ | involves | người lao động)
 ==================================================
 Thay thế người lao động trong thời gian nghỉ thai sản, bị tai nạn lao động, bệnh nghề nghiệp hoặc phải thực hiện các nghĩa vụ công dân;
 Các thực thể:
-(Thay thế, ACTION)
-(người lao động, LEGAL_ROLE)
-(nghỉ thai sản, LEGAL_CONCEPT)
-(tai nạn lao động, LEGAL_CONCEPT)
-(bệnh nghề nghiệp, LEGAL_CONCEPT)
-(phải thực hiện các nghĩa vụ công dân, OBLIGATION)
+(Thay thế | ACTION)
+(người lao động | LEGAL_ROLE)
+(nghỉ thai sản | LEGAL_CONCEPT)
+(tai nạn lao động | LEGAL_CONCEPT)
+(bệnh nghề nghiệp | LEGAL_CONCEPT)
+(phải thực hiện các nghĩa vụ công dân | OBLIGATION)
 Các cạnh:
-(Thay thế, involves, người lao động)
-(Thay thế, has_condition, nghỉ thai sản)
-(Thay thế, has_condition, tai nạn lao động)
-(Thay thế, has_condition, bệnh nghề nghiệp)
-(Thay thế, has_condition, phải thực hiện các nghĩa vụ công dân)
-
+(Thay thế | involves | người lao động)
+(Thay thế | has_condition | nghỉ thai sản)
+(Thay thế | has_condition | tai nạn lao động)
+(Thay thế | has_condition | bệnh nghề nghiệp)
+(Thay thế | has_condition | phải thực hiện các nghĩa vụ công dân)
 ==================================================
 Bên thuê lại lao động không được sử dụng lao động thuê lại trong trường hợp sau đây: a) Để thay thế người lao động đang trong thời gian thực hiện quyền đình công, giải quyết tranh chấp lao động; b) Không có thỏa thuận cụ thể về trách nhiệm bồi thường tai nạn lao động, bệnh nghề nghiệp của người lao động thuê lại với doanh nghiệp cho thuê lại lao động; c) Thay thế người lao động bị cho thôi việc do thay đổi cơ cấu, công nghệ, vì lý do kinh tế hoặc chia, tách, hợp nhất, sáp nhập.
 Các thực thể:
-(Bên thuê lại lao động, LEGAL_ROLE)
-(không được sử dụng lao động thuê lại, PROHIBITION)
-(người lao động, LEGAL_ROLE)
-(đình công, LEGAL_CONCEPT)
-(giải quyết tranh chấp lao động, PROCEDURE)
-(tai nạn lao động, LEGAL_CONCEPT)
-(bệnh nghề nghiệp, LEGAL_CONCEPT)
-(doanh nghiệp cho thuê lại lao động, LEGAL_ROLE)
+(Bên thuê lại lao động | LEGAL_ROLE)
+(không được sử dụng lao động thuê lại | PROHIBITION)
+(người lao động | LEGAL_ROLE)
+(đình công | LEGAL_CONCEPT)
+(giải quyết tranh chấp lao động | ACTION)
+(giải quyết | ACTION)
+(tai nạn lao động | LEGAL_CONCEPT)
+(bệnh nghề nghiệp | LEGAL_CONCEPT)
+(doanh nghiệp cho thuê lại lao động | LEGAL_ROLE)
+(thực hiện | ACTION)
 Các cạnh:
-(không được sử dụng lao động thuê lại, applies_to, Bên thuê lại lao động)
-(không được sử dụng lao động thuê lại, has_condition, đình công)
-(không được sử dụng lao động thuê lại, has_condition, giải quyết tranh chấp lao động)
-(giải quyết tranh chấp lao động, involves, người lao động)
-(tai nạn lao động, involves, người lao động)
-(bệnh nghề nghiệp, involves, người lao động)
+(không được sử dụng lao động thuê lại | applies_to | Bên thuê lại lao động)
+(không được sử dụng lao động thuê lại | has_condition | đình công)
+(không được sử dụng lao động thuê lại | has_condition | giải quyết tranh chấp lao động)
+(giải quyết tranh chấp lao động | involves | người lao động)
+(tai nạn lao động | involves | người lao động)
+(bệnh nghề nghiệp | involves | người lao động)
 ==================================================
 Không có thỏa thuận cụ thể về trách nhiệm bồi thường tai nạn lao động, bệnh nghề nghiệp của người lao động thuê lại với doanh nghiệp cho thuê lại lao động;
 Các thực thể:
-(tai nạn lao động, LEGAL_CONCEPT)
-(bệnh nghề nghiệp, LEGAL_CONCEPT)
-(người lao động, LEGAL_ROLE)
-(doanh nghiệp cho thuê lại lao động, LEGAL_ROLE)
+(tai nạn lao động | LEGAL_CONCEPT)
+(bệnh nghề nghiệp | LEGAL_CONCEPT)
+(người lao động | LEGAL_ROLE)
+(doanh nghiệp cho thuê lại lao động | LEGAL_ROLE)
 Các cạnh:
-(tai nạn lao động, involves, người lao động)
-(bệnh nghề nghiệp, involves, người lao động)
+(tai nạn lao động | involves | người lao động)
+(bệnh nghề nghiệp | involves | người lao động)
 ==================================================
 Doanh nghiệp cho thuê lại lao động phải ký quỹ và được cấp Giấy phép hoạt động cho thuê lại lao động.
 Các thực thể:
-(Doanh nghiệp cho thuê lại lao động, LEGAL_ROLE)
-(phải ký quỹ, OBLIGATION)
-(được cấp Giấy phép hoạt động cho thuê lại lao động, RIGHT)
+(Doanh nghiệp cho thuê lại lao động | LEGAL_ROLE)
+(phải ký quỹ | OBLIGATION)
+(được cấp Giấy phép hoạt động cho thuê lại lao động | RIGHT)
 Các cạnh:
-(phải ký quỹ, involves, Doanh nghiệp cho thuê lại lao động)
-(được cấp Giấy phép hoạt động cho thuê lại lao động, applies_to, Doanh nghiệp cho thuê lại lao động)
+(phải ký quỹ | involves | Doanh nghiệp cho thuê lại lao động)
+(được cấp Giấy phép hoạt động cho thuê lại lao động | applies_to | Doanh nghiệp cho thuê lại lao động)
 ==================================================
 Nghĩa vụ của mỗi bên đối với người lao động.
 Các thực thể:
-(mỗi bên, LEGAL_ROLE)
-(người lao động, LEGAL_ROLE)
+(mỗi bên | LEGAL_ROLE)
+(người lao động | LEGAL_ROLE)
 Các cạnh:
-(mỗi bên, related_to, người lao động)
+(mỗi bên | related_to | người lao động)
 ==================================================
-Bảo đảm đưa người lao động có trình độ phù hợp with những yêu cầu của bên thuê lại lao động và nội dung của hợp đồng lao động đã ký với người lao động;
+Bảo đảm đưa người lao động có trình độ phù hợp với những yêu cầu của bên thuê lại lao động và nội dung của hợp đồng lao động đã ký với người lao động;
 Các thực thể:
-(người lao động, LEGAL_ROLE)
-(bên thuê lại lao động, LEGAL_ROLE)
-(hợp đồng lao động, LEGAL_CONCEPT)
+(người lao động | LEGAL_ROLE)
+(bên thuê lại lao động | LEGAL_ROLE)
+(hợp đồng lao động | LEGAL_CONCEPT)
 Các cạnh:
-(hợp đồng lao động, involves, người lao động)
+(hợp đồng lao động | involves | người lao động)
 ==================================================
 Thông báo, hướng dẫn cho người lao động thuê lại biết nội quy lao động và các quy chế khác của mình.
 Các thực thể:
-(Thông báo, hướng dẫn, ACTION)
-(người lao động, LEGAL_ROLE)
-(nội quy lao động, LEGAL_CONCEPT)
+(Thông báo, hướng dẫn | ACTION)
+(người lao động | LEGAL_ROLE)
+(nội quy lao động | LEGAL_CONCEPT)
 Các cạnh:
-(Thông báo, hướng dẫn, involves, người lao động)
-(Thông báo, hướng dẫn, regulates, nội quy lao động)
+(Thông báo, hướng dẫn | involves | người lao động)
+(Thông báo, hướng dẫn | regulates | nội quy lao động)
 ==================================================
 Không được phân biệt đối xử về điều kiện lao động đối với người lao động thuê lại so với người lao động của mình.
 Các thực thể:
-(Không được phân biệt đối xử, PROHIBITION)
-(người lao động, LEGAL_ROLE)
+(Không được phân biệt đối xử | PROHIBITION)
+(người lao động | LEGAL_ROLE)
 Các cạnh:
-(Không được phân biệt đối xử, applies_to, người lao động)
+(Không được phân biệt đối xử | applies_to | người lao động)
 ==================================================
 Người lao động được tự do lựa chọn đào tạo nghề nghiệp, tham gia đánh giá, công nhận kỹ năng nghề quốc gia, phát triển năng lực nghề nghiệp phù hợp với nhu cầu việc làm và khả năng của mình.
 Các thực thể:
-(Người lao động, LEGAL_ROLE)
-(được tự do lựa chọn, RIGHT)
+(Người lao động | LEGAL_ROLE)
+(được tự do lựa chọn | RIGHT)
 Các cạnh:
-(được tự do lựa chọn, applies_to, Người lao động)
+(được tự do lựa chọn | applies_to | Người lao động)
 ==================================================
 Học nghề để làm việc cho người sử dụng lao động là việc người sử dụng lao động tuyển người vào để đào tạo nghề nghiệp tại nơi làm việc. Thời gian học nghề theo chương trình đào tạo của từng trình độ theo quy định của Luật Giáo dục nghề nghiệp.
 Các thực thể:
-(Học nghề, LEGAL_CONCEPT)
-(người sử dụng lao động, LEGAL_ROLE)
-(tuyển, ACTION)
-(Thời gian học nghề, TIME_PERIOD)
-(Luật Giáo dục nghề nghiệp, LEGAL_REF)
+(Học nghề | LEGAL_CONCEPT)
+(người sử dụng lao động | LEGAL_ROLE)
+(tuyển | ACTION)
+(Thời gian học nghề | TIME_PERIOD)
+(Luật Giáo dục nghề nghiệp | LEGAL_REF)
+(nơi làm việc | LEGAL_CONCEPT)
 Các cạnh:
-(Học nghề, involves, người sử dụng lao động)
-(tuyển, involves, người sử dụng lao động)
-(Thời gian học nghề, cites, Luật Giáo dục nghề nghiệp)
+(Học nghề | involves | người sử dụng lao động)
+(tuyển | involves | người sử dụng lao động)
+(Thời gian học nghề | cites | Luật Giáo dục nghề nghiệp)
 ==================================================
 Hết thời hạn học nghề, tập nghề, hai bên phải ký kết hợp đồng lao động khi đủ các điều kiện theo quy định của Bộ luật này.
 Các thực thể:
-(Hết thời hạn học nghề, tập nghề, CONDITION)
-(hai bên, LEGAL_ROLE)
-(phải ký kết, OBLIGATION)
-(hợp đồng lao động, LEGAL_CONCEPT)
-(Bộ luật này, LEGAL_REF)
+(Hết thời hạn học nghề, tập nghề | CONDITION)
+(hai bên | LEGAL_ROLE)
+(phải ký kết | OBLIGATION)
+(hợp đồng lao động | LEGAL_CONCEPT)
+(Bộ luật lao động | LEGAL_REF)
 Các cạnh:
-(phải ký kết, has_condition, Hết thời hạn học nghề, tập nghề)
-(phải ký kết, involves, hai bên)
-(phải ký kết, regulates, hợp đồng lao động)
-(phải ký kết, cites, Bộ luật này)
-
+(phải ký kết | has_condition | Hết thời hạn học nghề, tập nghề)
+(phải ký kết | involves | hai bên)
+(phải ký kết | regulates | hợp đồng lao động)
+(phải ký kết | cites | Bộ luật lao động)
 ==================================================
 Chi phí đào tạo bao gồm các khoản chi có chứng từ hợp lệ về chi phí trả cho người dạy, tài liệu học tập, trường, lớp, máy, thiết bị, vật liệu thực hành, các chi phí khác hỗ trợ cho người học và tiền lương, tiền đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp cho người học trong thời gian đi học. Trường hợp người lao động được gửi đi đào tạo ở nước ngoài thì chi phí đào tạo còn bao gồm chi phí đi lại, chi phí sinh hoạt trong thời gian đào tạo.
 Các thực thể:
-(chi phí đào tạo, LEGAL_CONCEPT)
-(bảo hiểm xã hội, LEGAL_CONCEPT)
-(bảo hiểm y tế, LEGAL_CONCEPT)
-(bảo hiểm thất nghiệp, LEGAL_CONCEPT)
-(người lao động, LEGAL_ROLE)
+(chi phí đào tạo | LEGAL_CONCEPT)
+(bảo hiểm xã hội | LEGAL_CONCEPT)
+(bảo hiểm y tế | LEGAL_CONCEPT)
+(bảo hiểm thất nghiệp | LEGAL_CONCEPT)
+(người lao động | LEGAL_ROLE)
+(tiền lương | LEGAL_CONCEPT)
 Các cạnh:
-(chi phí đào tạo, related_to, bảo hiểm xã hội)
-(chi phí đào tạo, related_to, bảo hiểm y tế)
-(chi phí đào tạo, related_to, bảo hiểm thất nghiệp)
-(chi phí đào tạo, applies_to, người lao động)
+(chi phí đào tạo | related_to | bảo hiểm xã hội)
+(chi phí đào tạo | related_to | bảo hiểm y tế)
+(chi phí đào tạo | related_to | bảo hiểm thất nghiệp)
+(chi phí đào tạo | applies_to | người lao động)
 ==================================================
 Việc thực hiện hợp đồng lao động, thỏa ước lao động tập thể, nội quy lao động, quy chế và cam kết, thỏa thuận khác tại nơi làm việc;
 Các thực thể:
-(thực hiện, ACTION)
-(hợp đồng lao động, LEGAL_CONCEPT)
-(thỏa ước lao động tập thể, LEGAL_CONCEPT)
-(nội quy lao động, LEGAL_CONCEPT)
+(thực hiện | ACTION)
+(hợp đồng lao động | LEGAL_CONCEPT)
+(thỏa ước lao động tập thể | LEGAL_CONCEPT)
+(nội quy lao động | LEGAL_CONCEPT)
+(nơi làm việc | LEGAL_CONCEPT)
 Các cạnh:
-(thực hiện, regulates, hợp đồng lao động)
-(thực hiện, regulates, thỏa ước lao động tập thể)
-(thực hiện, regulates, nội quy lao động)
+(thực hiện | regulates | hợp đồng lao động)
+(thực hiện | regulates | thỏa ước lao động tập thể)
+(thực hiện | regulates | nội quy lao động)
 ==================================================
 Tiền lương, trợ cấp, nâng lương, thưởng, bữa ăn và các chế độ khác;
 Các thực thể:
-(Tiền lương, LEGAL_CONCEPT)
-(trợ cấp, LEGAL_CONCEPT)
-(nâng lương, ACTION)
-(thưởng, LEGAL_CONCEPT)
+(Tiền lương | LEGAL_CONCEPT)
+(trợ cấp | LEGAL_CONCEPT)
+(nâng lương | ACTION)
+(thưởng | LEGAL_CONCEPT)
 Các cạnh:
 ==================================================
 Trường hợp doanh nghiệp có nhiều tổ chức đại diện người lao động tại cơ sở đáp ứng quy định tại khoản 1 Điều này thì tổ chức có quyền yêu cầu thương lượng là tổ chức có số thành viên nhiều nhất trong doanh nghiệp. Các tổ chức đại diện người lao động tại cơ sở khác có thể tham gia thương lượng tập thể khi được tổ chức đại diện người lao động có quyền yêu cầu thương lượng tập thể đồng ý.
 Các thực thể:
-(tổ chức đại diện người lao động tại cơ sở, LEGAL_ROLE)
-(khoản 1, LEGAL_REF)
-(có quyền yêu cầu thương lượng, RIGHT)
-(thương lượng tập thể, PROCEDURE)
+(tổ chức đại diện người lao động tại cơ sở | LEGAL_ROLE)
+(doanh nghiệp | LEGAL_ROLE)
+(khoản 1 | LEGAL_REF)
+(có quyền yêu cầu thương lượng | RIGHT)
+(thương lượng tập thể | ACTION)
+
 Các cạnh:
-(có quyền yêu cầu thương lượng, applies_to, tổ chức đại diện người lao động tại cơ sở)
-(thương lượng tập thể, involves, tổ chức đại diện người lao động tại cơ sở)
-(có quyền yêu cầu thương lượng, cites, khoản 1)
+(có quyền yêu cầu thương lượng | applies_to | tổ chức đại diện người lao động tại cơ sở)
+(thương lượng tập thể | involves | tổ chức đại diện người lao động tại cơ sở)
+(có quyền yêu cầu thương lượng | cites | khoản 1)
 ==================================================
 Khi có yêu cầu thương lượng tập thể của tổ chức đại diện người lao động tại cơ sở có quyền yêu cầu thương lượng tập thể theo quy định tại Điều 68 của Bộ luật này hoặc yêu cầu của người sử dụng lao động thì bên nhận được yêu cầu không được từ chối việc thương lượng. Trong thời hạn 07 ngày làm việc kể từ ngày nhận được yêu cầu và nội dung thương lượng, các bên thỏa thuận về địa điểm, thời gian bắt đầu thương lượng. Người sử dụng lao động có trách nhiệm bố trí thời gian, địa điểm và các điều kiện cần thiết để tổ chức các phiên họp thương lượng tập thể. Thời gian bắt đầu thương lượng không được quá 30 ngày kể từ ngày nhận được yêu cầu thương lượng tập thể.
 Các thực thể:
-(thương lượng tập thể, PROCEDURE)
-(tổ chức đại diện người lao động tại cơ sở, LEGAL_ROLE)
-(Điều 68 của Bộ luật này, LEGAL_REF)
-(người sử dụng lao động, LEGAL_ROLE)
-(không được từ chối, PROHIBITION)
-(07 ngày làm việc, TIME_PERIOD)
-(các bên, LEGAL_ROLE)
-(thỏa thuận, ACTION)
-(có trách nhiệm bố trí, OBLIGATION)
-(30 ngày, TIME_PERIOD)
+(thương lượng tập thể | ACTION)
+(tổ chức đại diện người lao động tại cơ sở | LEGAL_ROLE)
+(Điều 68 | LEGAL_REF)
+(bộ luật lao động | LEGAL_REF)
+(người sử dụng lao động | LEGAL_ROLE)
+(không được từ chối | PROHIBITION)
+(07 ngày làm việc | TIME_PERIOD)
+(các bên | LEGAL_ROLE)
+(thỏa thuận | ACTION)
+(có trách nhiệm bố trí | OBLIGATION)
+(30 ngày | TIME_PERIOD)
+(được yêu cầu không được từ chối việc thương lượng | RIGHT)
+(có quyền yêu cầu thương lượng tập thể | right)
 Các cạnh:
-(thương lượng tập thể, involves, tổ chức đại diện người lao động tại cơ sở)
-(thương lượng tập thể, involves, người sử dụng lao động)
-(không được từ chối, cites, Điều 68 của Bộ luật này)
-(thỏa thuận, involves, các bên)
-(thỏa thuận, has_condition, 07 ngày làm việc)
-(có trách nhiệm bố trí, involves, người sử dụng lao động)
-(có trách nhiệm bố trí, related_to, thương lượng tập thể)
+(thương lượng tập thể | involves | tổ chức đại diện người lao động tại cơ sở)
+(thương lượng tập thể | involves | người sử dụng lao động)
+(không được từ chối | cites | Điều 68)
+(thỏa thuận | involves | các bên)
+(thỏa thuận | has_condition | 07 ngày làm việc)
+(có trách nhiệm bố trí | involves | người sử dụng lao động)
+(có trách nhiệm bố trí | related_to | thương lượng tập thể)
 ==================================================
 Trong quá trình thương lượng tập thể, nếu có yêu cầu của bên đại diện người lao động thì trong thời hạn 10 ngày kể từ ngày nhận được yêu cầu, bên người sử dụng lao động có trách nhiệm cung cấp thông tin về tình hình hoạt động sản xuất, kinh doanh và nội dung khác liên quan trực tiếp đến nội dung thương lượng trong phạm vi doanh nghiệp nhằm tạo điều kiện thuận lợi cho thương lượng tập thể, trừ thông tin về bí mật kinh doanh, bí mật công nghệ của người sử dụng lao động.
 Các thực thể:
-(thương lượng tập thể, PROCEDURE)
-(10 ngày, TIME_PERIOD)
-(người sử dụng lao động, LEGAL_ROLE)
-(có trách nhiệm cung cấp thông tin, OBLIGATION)
-(bí mật kinh doanh, LEGAL_CONCEPT)
-(bí mật công nghệ, LEGAL_CONCEPT)
+(thương lượng tập thể | ACTION)
+(10 ngày | TIME_PERIOD)
+(người sử dụng lao động | LEGAL_ROLE)
+(có trách nhiệm cung cấp thông tin | OBLIGATION)
+(bí mật kinh doanh | LEGAL_CONCEPT)
+(bí mật công nghệ | LEGAL_CONCEPT)
+(doanh nghiệp | LEGAL_ROLE)
 Các cạnh:
-(có trách nhiệm cung cấp thông tin, involves, người sử dụng lao động)
-(có trách nhiệm cung cấp thông tin, has_condition, 10 ngày)
-(có trách nhiệm cung cấp thông tin, related_to, thương lượng tập thể)
-(có trách nhiệm cung cấp thông tin, has_exception, bí mật kinh doanh)
-(có trách nhiệm cung cấp thông tin, has_exception, bí mật công nghệ)
+(có trách nhiệm cung cấp thông tin | involves | người sử dụng lao động)
+(có trách nhiệm cung cấp thông tin | has_condition | 10 ngày)
+(có trách nhiệm cung cấp thông tin | related_to | thương lượng tập thể)
+(có trách nhiệm cung cấp thông tin | has_exception | bí mật kinh doanh)
+(có trách nhiệm cung cấp thông tin | has_exception | bí mật công nghệ)
 ==================================================
 Đại diện Ủy ban nhân dân cấp tỉnh.
 Các thực thể:
-(Ủy ban nhân dân cấp tỉnh, LEGAL_ROLE)
+(Ủy ban nhân dân cấp tỉnh | LEGAL_ROLE)
 Các cạnh:
 ==================================================
 Thỏa ước lao động tập thể là thỏa thuận đạt được thông qua thương lượng tập thể và được các bên ký kết bằng văn bản. Thỏa ước lao động tập thể bao gồm thỏa ước lao động tập thể doanh nghiệp, thỏa ước lao động tập thể ngành, thỏa ước lao động tập thể có nhiều doanh nghiệp và các thỏa ước lao động tập thể khác.
 Các thực thể:
-(Thỏa ước lao động tập thể, LEGAL_CONCEPT)
-(thương lượng tập thể, PROCEDURE)
-(các bên, LEGAL_ROLE)
-(ký kết, ACTION)
-(thỏa ước lao động tập thể doanh nghiệp, LEGAL_CONCEPT)
-(thỏa ước lao động tập thể ngành, LEGAL_CONCEPT)
-(thỏa ước lao động tập thể có nhiều doanh nghiệp, LEGAL_CONCEPT)
+(Thỏa ước lao động tập thể | LEGAL_CONCEPT)
+(thương lượng tập thể | ACTION)
+(các bên | LEGAL_ROLE)
+(ký kết | ACTION)
+(thỏa ước lao động tập thể doanh nghiệp | LEGAL_CONCEPT)
+(thỏa ước lao động tập thể ngành | LEGAL_CONCEPT)
+(thỏa ước lao động tập thể có nhiều doanh nghiệp | LEGAL_CONCEPT)
+
 Các cạnh:
-(Thỏa ước lao động tập thể, related_to, thương lượng tập thể)
-(ký kết, involves, các bên)
-(ký kết, regulates, Thỏa ước lao động tập thể)
-(Thỏa ước lao động tập thể, defines, thỏa ước lao động tập thể doanh nghiệp)
-(Thỏa ước lao động tập thể, defines, thỏa ước lao động tập thể ngành)
-(Thỏa ước lao động tập thể, defines, thỏa ước lao động tập thể có nhiều doanh nghiệp)
+(Thỏa ước lao động tập thể | related_to | thương lượng tập thể)
+(ký kết | involves | các bên)
+(ký kết | regulates | Thỏa ước lao động tập thể)
+(Thỏa ước lao động tập thể | defines | thỏa ước lao động tập thể doanh nghiệp)
+(Thỏa ước lao động tập thể | defines | thỏa ước lao động tập thể ngành)
+(Thỏa ước lao động tập thể | defines | thỏa ước lao động tập thể có nhiều doanh nghiệp)
 ==================================================
 Chính phủ quy định chi tiết Điều này.
 Các thực thể:
-(Chính phủ, LEGAL_ROLE)
-(quy định chi tiết, ACTION)
+(Chính phủ | LEGAL_ROLE)
+(quy định chi tiết | ACTION)
 Các cạnh:
-(quy định chi tiết, involves, Chính phủ)
+(quy định chi tiết | involves | Chính phủ)
 ==================================================
 Toàn bộ nội dung thỏa ước lao động tập thể vi phạm pháp luật;
 Các thực thể:
-(thỏa ước lao động tập thể, LEGAL_CONCEPT)
+(thỏa ước lao động tập thể | LEGAL_CONCEPT)
 Các cạnh:
-
 ==================================================
 Chính phủ quy định chi tiết Điều này; quyết định và công bố mức lương tối thiểu trên cơ sở khuyến nghị của Hội đồng tiền lương quốc gia.
 Các thực thể:
-(Chính phủ, LEGAL_ROLE)
-(quy định chi tiết, ACTION)
-(Điều này, LEGAL_REF)
-(quyết định và công bố, ACTION)
-(mức lương tối thiểu, LEGAL_CONCEPT)
-(Hội đồng tiền lương quốc gia, LEGAL_ROLE)
+(Chính phủ | LEGAL_ROLE)
+(quy định chi tiết | ACTION)
+(Điều này | LEGAL_REF)
+(quyết định và công bố | ACTION)
+(mức lương tối thiểu | LEGAL_CONCEPT)
+(Hội đồng tiền lương quốc gia | LEGAL_ROLE)
 Các cạnh:
-(quy định chi tiết, involves, Chính phủ)
-(quy định chi tiết, cites, Điều này)
-(quyết định và công bố, involves, Chính phủ)
-(quyết định và công bố, regulates, mức lương tối thiểu)
-(quyết định và công bố, related_to, Hội đồng tiền lương quốc gia)
+(quy định chi tiết | involves | Chính phủ)
+(quy định chi tiết | cites | Điều này)
+(quyết định và công bố | involves | Chính phủ)
+(quyết định và công bố | regulates | mức lương tối thiểu)
+(quyết định và công bố | related_to | Hội đồng tiền lương quốc gia)
 ==================================================
 Hội đồng tiền lương quốc gia là cơ quan tư vấn cho Chính phủ về mức lương tối thiểu và chính sách tiền lương đối với người lao động.
 Các thực thể:
-(Hội đồng tiền lương quốc gia, LEGAL_ROLE)
-(Chính phủ, LEGAL_ROLE)
-(mức lương tối thiểu, LEGAL_CONCEPT)
-(chính sách tiền lương, LEGAL_CONCEPT)
-(người lao động, LEGAL_ROLE)
+(Hội đồng tiền lương quốc gia | LEGAL_ROLE)
+(Chính phủ | LEGAL_ROLE)
+(mức lương tối thiểu | LEGAL_CONCEPT)
+(chính sách tiền lương | LEGAL_CONCEPT)
+(người lao động | LEGAL_ROLE)
 Các cạnh:
-(Hội đồng tiền lương quốc gia, related_to, Chính phủ)
-(Hội đồng tiền lương quốc gia, regulates, mức lương tối thiểu)
-(Hội đồng tiền lương quốc gia, regulates, chính sách tiền lương)
-(chính sách tiền lương, applies_to, người lao động)
+(Hội đồng tiền lương quốc gia | related_to | Chính phủ)
+(Hội đồng tiền lương quốc gia | regulates | mức lương tối thiểu)
+(Hội đồng tiền lương quốc gia | regulates | chính sách tiền lương)
+(chính sách tiền lương | applies_to | người lao động)
 ==================================================
 Nơi nào sử dụng người cai thầu hoặc người có vai trò trung gian tương tự thì người sử dụng lao động là chủ chính phải có danh sách và địa chỉ của những người này kèm theo danh sách những người lao động làm việc với họ và phải bảo đảm việc họ tuân thủ quy định của pháp luật về trả lương, an toàn, vệ sinh lao động.
 Các thực thể:
-(người sử dụng lao động, LEGAL_ROLE)
-(phải có danh sách và địa chỉ, OBLIGATION)
-(người lao động, LEGAL_ROLE)
-(phải bảo đảm, OBLIGATION)
-(trả lương, ACTION)
-(an toàn, vệ sinh lao động, LEGAL_CONCEPT)
+(người sử dụng lao động | LEGAL_ROLE)
+(phải có danh sách và địa chỉ | OBLIGATION)
+(người lao động | LEGAL_ROLE)
+(phải bảo đảm | OBLIGATION)
+(trả lương | ACTION)
+(an toàn, vệ sinh lao động | LEGAL_CONCEPT)
 Các cạnh:
-(phải có danh sách và địa chỉ, involves, người sử dụng lao động)
-(phải có danh sách và địa chỉ, related_to, người lao động)
-(phải bảo đảm, involves, người sử dụng lao động)
-(phải bảo đảm, regulates, trả lương)
-(phải bảo đảm, regulates, an toàn, vệ sinh lao động)
+(phải có danh sách và địa chỉ | involves | người sử dụng lao động)
+(phải có danh sách và địa chỉ | related_to | người lao động)
+(phải bảo đảm | involves | người sử dụng lao động)
+(phải bảo đảm | regulates | trả lương)
+(phải bảo đảm | regulates | an toàn, vệ sinh lao động)
 ==================================================
 Chính phủ quy định chi tiết Điều này.
 Các thực thể:
-(Chính phủ, LEGAL_ROLE)
-(quy định chi tiết, ACTION)
-(Điều này, LEGAL_REF)
+(Chính phủ | LEGAL_ROLE)
+(quy định chi tiết | ACTION)
+(Điều này | LEGAL_REF)
 Các cạnh:
-(quy định chi tiết, involves, Chính phủ)
-(quy định chi tiết, cites, Điều này)
+(quy định chi tiết | involves | Chính phủ)
+(quy định chi tiết | cites | Điều này)
 ==================================================
 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường;
 Các thực thể:
-(12 ngày làm việc, TIME_PERIOD)
+(12 ngày làm việc | TIME_PERIOD)
 Các cạnh:
 ==================================================
 Nội quy lao động phải được thông báo đến người lao động và những nội dung chính phải được niêm yết ở những nơi cần thiết tại nơi làm việc.
 Các thực thể:
-(Nội quy lao động, LEGAL_CONCEPT)
-(phải được thông báo, OBLIGATION)
-(người lao động, LEGAL_ROLE)
-(phải được niêm yết, OBLIGATION)
+(Nội quy lao động | LEGAL_CONCEPT)
+(phải được thông báo | OBLIGATION)
+(người lao động | LEGAL_ROLE)
+(phải được niêm yết | OBLIGATION)
+(nơi làm việc | LEGAL_CONCEPT)
 Các cạnh:
-(phải được thông báo, regulates, Nội quy lao động)
-(phải được thông báo, applies_to, người lao động)
-(phải được niêm yết, regulates, Nội quy lao động)
+(phải được thông báo | regulates | Nội quy lao động)
+(phải được thông báo | applies_to | người lao động)
+(phải được niêm yết | regulates | Nội quy lao động)
 ==================================================
 Nghỉ ốm đau, điều dưỡng; nghỉ việc được sự đồng ý của người sử dụng lao động;
 Các thực thể:
-(Nghỉ ốm đau, điều dưỡng, LEGAL_CONCEPT)
-(nghỉ việc được sự đồng ý, RIGHT)
-(người sử dụng lao động, LEGAL_ROLE)
+(Nghỉ ốm đau, điều dưỡng | LEGAL_CONCEPT)
+(nghỉ việc được sự đồng ý | RIGHT)
+(người sử dụng lao động | LEGAL_ROLE)
 Các cạnh:
-(nghỉ việc được sự đồng ý, involves, người sử dụng lao động)
+(nghỉ việc được sự đồng ý | involves | người sử dụng lao động)
 ==================================================
 Người lao động tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày hoặc 20 ngày cộng dồn trong thời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng. Trường hợp được coi là có lý do chính đáng bao gồm thiên tai, hỏa hoạn, bản thân, thân nhân bị ốm có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền và trường hợp khác được quy định trong nội quy lao động.
 Các thực thể:
-(Người lao động, LEGAL_ROLE)
-(tự ý bỏ việc, ACTION)
-(05 ngày, TIME_PERIOD)
-(30 ngày, TIME_PERIOD)
-(20 ngày, TIME_PERIOD)
-(365 ngày, TIME_PERIOD)
-(nội quy lao động, LEGAL_CONCEPT)
+(Người lao động | LEGAL_ROLE)
+(tự ý bỏ việc | ACTION)
+(05 ngày | TIME_PERIOD)
+(30 ngày | TIME_PERIOD)
+(20 ngày | TIME_PERIOD)
+(365 ngày | TIME_PERIOD)
+(nội quy lao động | LEGAL_CONCEPT)
+(trường hợp khác | CONDITION)
 Các cạnh:
-(tự ý bỏ việc, involves, Người lao động)
-(tự ý bỏ việc, has_condition, 05 ngày)
-(tự ý bỏ việc, has_condition, 30 ngày)
-(tự ý bỏ việc, has_condition, 20 ngày)
-(tự ý bỏ việc, has_condition, 365 ngày)
-(tự ý bỏ việc, related_to, nội quy lao động)
+(tự ý bỏ việc | involves | Người lao động)
+(tự ý bỏ việc | has_condition | 05 ngày)
+(tự ý bỏ việc | has_condition | 30 ngày)
+(tự ý bỏ việc | has_condition | 20 ngày)
+(tự ý bỏ việc | has_condition | 365 ngày)
+(tự ý bỏ việc | related_to | nội quy lao động)
 ==================================================
 Người lao động bị khiển trách sau 03 tháng hoặc bị xử lý kỷ luật kéo dài thời hạn nâng lương sau 06 tháng hoặc bị xử lý kỷ luật cách chức sau 03 năm kể từ ngày bị xử lý, nếu không tiếp tục vi phạm kỷ luật lao động thì đương nhiên được xóa kỷ luật.
+
 Các thực thể:
-(Người lao động, LEGAL_ROLE)
-(bị khiển trách, PENALTY)
-(03 tháng, TIME_PERIOD)
-(bị xử lý kỷ luật kéo dài thời hạn nâng lương, PENALTY)
-(06 tháng, TIME_PERIOD)
-(bị xử lý kỷ luật cách chức, PENALTY)
-(03 năm, TIME_PERIOD)
-(không tiếp tục vi phạm kỷ luật lao động, CONDITION)
-(đương nhiên được xóa kỷ luật, RIGHT)
+(Người lao động | LEGAL_ROLE)
+(bị khiển trách | PENALTY)
+(03 tháng | TIME_PERIOD)
+(06 tháng | TIME_PERIOD)
+(bị xử lý kỷ luật kéo dài thời hạn nâng lương | PENALTY)
+(06 tháng | TIME_PERIOD)
+(bị xử lý kỷ luật cách chức | PENALTY)
+(03 năm | TIME_PERIOD)
+(không tiếp tục vi phạm kỷ luật lao động | CONDITION)
+(đương nhiên được xóa kỷ luật | RIGHT)
 Các cạnh:
-(bị khiển trách, applies_to, Người lao động)
-(bị khiển trách, has_condition, 03 tháng)
-(bị xử lý kỷ luật kéo dài thời hạn nâng lương, applies_to, Người lao động)
-(bị xử lý kỷ luật kéo dài thời hạn nâng lương, has_condition, 06 tháng)
-(bị xử lý kỷ luật cách chức, applies_to, Người lao động)
-(bị xử lý kỷ luật cách chức, has_condition, 03 năm)
-(đương nhiên được xóa kỷ luật, applies_to, Người lao động)
-(đương nhiên được xóa kỷ luật, has_condition, không tiếp tục vi phạm kỷ luật lao động)
+(bị khiển trách | applies_to | Người lao động)
+(bị khiển trách | has_condition | 03 tháng)
+(bị xử lý kỷ luật kéo dài thời hạn nâng lương | applies_to | Người lao động)
+(bị xử lý kỷ luật kéo dài thời hạn nâng lương | has_condition | 06 tháng)
+(bị xử lý kỷ luật cách chức | applies_to | Người lao động)
+(bị xử lý kỷ luật cách chức | has_condition | 03 năm)
+(đương nhiên được xóa kỷ luật | applies_to | Người lao động)
+(đương nhiên được xóa kỷ luật | has_condition | không tiếp tục vi phạm kỷ luật lao động)
 ==================================================
 Khuyến khích người sử dụng lao động tạo điều kiện để lao động nữ, lao động nam có việc làm thường xuyên, áp dụng rộng rãi chế độ làm việc theo thời gian biểu linh hoạt, làm việc không trọn thời gian, giao việc làm tại nhà.
-Các thực thể:
-(người sử dụng lao động, LEGAL_ROLE)
-(lao động nữ, LEGAL_ROLE)
-(lao động nam, LEGAL_ROLE)
-Các cạnh:
-(người sử dụng lao động, related_to, lao động nữ)
-(người sử dụng lao động, related_to, lao động nam)
 
+Các thực thể:
+(người sử dụng lao động | LEGAL_ROLE)
+(lao động nữ | LEGAL_ROLE)
+(lao động nam | LEGAL_ROLE)
+Các cạnh:
+(người sử dụng lao động | related_to | lao động nữ)
+(người sử dụng lao động | related_to | lao động nam)
 ==================================================
-
 Bảo đảm thực hiện bình đẳng giới và các biện pháp thúc đẩy bình đẳng giới trong tuyển dụng, bố trí, sắp xếp việc làm, đào tạo, thời giờ làm việc, thời giờ nghỉ ngơi, tiền lương và các chế độ khác.
+
 Các thực thể:
-(bình đẳng giới, LEGAL_CONCEPT)
-(tuyển dụng, ACTION)
-(thời giờ làm việc, LEGAL_CONCEPT)
-(thời giờ nghỉ ngơi, LEGAL_CONCEPT)
-(tiền lương, LEGAL_CONCEPT)
+(bình đẳng giới | LEGAL_CONCEPT)
+(tuyển dụng | ACTION)
+(thời giờ làm việc | LEGAL_CONCEPT)
+(thời giờ nghỉ ngơi | LEGAL_CONCEPT)
+(tiền lương | LEGAL_CONCEPT)
+(thực hiện | ACTION)
 Các cạnh:
-(tuyển dụng, related_to, bình đẳng giới)
+(tuyển dụng | related_to | bình đẳng giới)
 ==================================================
 Trường hợp tạm hoãn thực hiện hợp đồng lao động, thời gian tạm hoãn do người lao động thỏa thuận với người sử dụng lao động nhưng tối thiểu phải bằng thời gian do cơ sở khám bệnh, chữa bệnh có thẩm quyền chỉ định tạm nghỉ. Trường hợp không có chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền về thời gian tạm nghỉ thì hai bên thỏa thuận về thời gian tạm hoãn thực hiện hợp đồng lao động.
+
 Các thực thể:
-(hợp đồng lao động, LEGAL_CONCEPT)
-(người lao động, LEGAL_ROLE)
-(thỏa thuận, ACTION)
-(người sử dụng lao động, LEGAL_ROLE)
-(hai bên, LEGAL_ROLE)
+(hợp đồng lao động | LEGAL_CONCEPT)
+(người lao động | LEGAL_ROLE)
+(thỏa thuận | ACTION)
+(người sử dụng lao động | LEGAL_ROLE)
+(hai bên | LEGAL_ROLE)
+(thực hiện | ACTION)
+
 Các cạnh:
-(thỏa thuận, involves, người lao động)
-(thỏa thuận, involves, người sử dụng lao động)
-(thỏa thuận, regulates, hợp đồng lao động)
-(thỏa thuận, involves, hai bên)
+(thỏa thuận | involves | người lao động)
+(thỏa thuận | involves | người sử dụng lao động)
+(thỏa thuận | regulates | hợp đồng lao động)
+(thỏa thuận | involves | hai bên)
 ==================================================
 Người sử dụng lao động phải cung cấp đầy đủ thông tin về tính chất nguy hiểm, nguy cơ, yêu cầu của công việc để người lao động lựa chọn và phải bảo đảm điều kiện an toàn, vệ sinh lao động cho người lao động theo quy định khi sử dụng họ làm công việc thuộc danh mục quy định tại khoản 1 Điều này.
 Các thực thể:
-(Người sử dụng lao động, LEGAL_ROLE)
-(phải cung cấp đầy đủ thông tin, OBLIGATION)
-(người lao động, LEGAL_ROLE)
-(phải bảo đảm điều kiện an toàn, vệ sinh lao động, OBLIGATION)
-(khoản 1 Điều này, LEGAL_REF)
+(Người sử dụng lao động | LEGAL_ROLE)
+(phải cung cấp đầy đủ thông tin | OBLIGATION)
+(người lao động | LEGAL_ROLE)
+(phải bảo đảm điều kiện an toàn, vệ sinh lao động | OBLIGATION)
+(khoản 1 Điều này | LEGAL_REF)
+(lựa chọn | ACTION)
 Các cạnh:
-(phải cung cấp đầy đủ thông tin, involves, Người sử dụng lao động)
-(phải cung cấp đầy đủ thông tin, applies_to, người lao động)
-(phải bảo đảm điều kiện an toàn, vệ sinh lao động, involves, Người sử dụng lao động)
-(phải bảo đảm điều kiện an toàn, vệ sinh lao động, applies_to, người lao động)
-(phải bảo đảm điều kiện an toàn, vệ sinh lao động, cites, khoản 1 Điều này)
+(phải cung cấp đầy đủ thông tin | involves | Người sử dụng lao động)
+(phải cung cấp đầy đủ thông tin | applies_to | người lao động)
+(phải bảo đảm điều kiện an toàn, vệ sinh lao động | involves | Người sử dụng lao động)
+(phải bảo đảm điều kiện an toàn, vệ sinh lao động | applies_to | người lao động)
+(phải bảo đảm điều kiện an toàn, vệ sinh lao động | cites | khoản 1 Điều này)
 ==================================================
 Bố trí giờ làm việc không ảnh hưởng đến thời gian học tập của người chưa đủ 15 tuổi;
 Các thực thể:
-(Bố trí giờ làm việc, ACTION)
-(người chưa đủ 15 tuổi, LEGAL_ROLE)
+(Bố trí giờ làm việc | ACTION)
+(người chưa đủ 15 tuổi | LEGAL_ROLE)
 Các cạnh:
-(Bố trí giờ làm việc, applies_to, người chưa đủ 15 tuổi)
+(Bố trí giờ làm việc | applies_to | người chưa đủ 15 tuổi)
 ==================================================
 Sản xuất, sử dụng hoặc vận chuyển hóa chất, khí gas, chất nổ;
 Các thực thể:
-(Sản xuất, sử dụng hoặc vận chuyển, ACTION)
+(Sản xuất, sử dụng hoặc vận chuyển | ACTION)
+(vận chuyển hóa chất, khí gas, chất nổ | PROHIBITION)
 Các cạnh:
 ==================================================
 Nơi làm việc khác gây tổn hại đến sự phát triển thể lực, trí lực, nhân cách của người chưa thành niên.
 Các thực thể:
-(người chưa thành niên, LEGAL_ROLE)
+(người chưa thành niên | LEGAL_ROLE)
+(nơi làm việc | LEGAL_CONCEPT)
+(gây tổn hại | PROHIBITION)
 Các cạnh:
 ==================================================
 Đủ 18 tuổi trở lên và có năng lực hành vi dân sự đầy đủ;
 Các thực thể:
-(Đủ 18 tuổi trở lên, CONDITION)
-(có năng lực hành vi dân sự đầy đủ, CONDITION)
+(Đủ 18 tuổi trở lên | CONDITION)
+(có năng lực hành vi dân sự đầy đủ | CONDITION)
+(năng lực hành vi dân sự đầy đủ | LEGAL_CONCEPT)
 Các cạnh:
 ==================================================
 Không phải là người đang trong thời gian chấp hành hình phạt hoặc chưa được xóa án tích hoặc đang trong thời gian bị truy cứu trách nhiệm hình sự theo quy định của pháp luật nước ngoài hoặc pháp luật Việt Nam;
 Các thực thể:
-(chấp hành hình phạt, PENALTY)
-(chưa được xóa án tích, PENALTY)
-(bị truy cứu trách nhiệm hình sự, PENALTY)
+(chấp hành hình phạt | PENALTY)
+(chưa được xóa án tích | PENALTY)
+(bị truy cứu trách nhiệm hình sự | PENALTY)
+(theo quy định của pháp luật | LEGAL_REF)
+
 Các cạnh:
 ==================================================
 Thời hạn của hợp đồng lao động đối với người lao động nước ngoài làm việc tại Việt Nam không được vượt quá thời hạn của Giấy phép lao động. Khi sử dụng người lao động nước ngoài làm việc tại Việt Nam, hai bên có thể thỏa thuận giao kết nhiều lần hợp đồng lao động xác định thời hạn.
 Các thực thể:
-(hợp đồng lao động, LEGAL_CONCEPT)
-(người lao động nước ngoài, LEGAL_ROLE)
-(không được vượt quá, PROHIBITION)
-(Giấy phép lao động, LEGAL_CONCEPT)
-(hai bên, LEGAL_ROLE)
-(thỏa thuận giao kết, ACTION)
-(hợp đồng lao động xác định thời hạn, LEGAL_CONCEPT)
+(hợp đồng lao động | LEGAL_CONCEPT)
+(người lao động nước ngoài | LEGAL_ROLE)
+(không được vượt quá | PROHIBITION)
+(Giấy phép lao động | LEGAL_CONCEPT)
+(hai bên | LEGAL_ROLE)
+(thỏa thuận giao kết | ACTION)
+(hợp đồng lao động xác định thời hạn | LEGAL_CONCEPT)
 Các cạnh:
-(không được vượt quá, applies_to, hợp đồng lao động)
-(không được vượt quá, related_to, Giấy phép lao động)
-(hợp đồng lao động, applies_to, người lao động nước ngoài)
-(thỏa thuận giao kết, involves, hai bên)
-(thỏa thuận giao kết, regulates, hợp đồng lao động xác định thời hạn)
+(không được vượt quá | applies_to | hợp đồng lao động)
+(không được vượt quá | related_to | Giấy phép lao động)
+(hợp đồng lao động | applies_to | người lao động nước ngoài)
+(thỏa thuận giao kết | involves | hai bên)
+(thỏa thuận giao kết | regulates | hợp đồng lao động xác định thời hạn)
 ==================================================
 Doanh nghiệp, cơ quan, tổ chức, cá nhân, nhà thầu chỉ được tuyển dụng người lao động nước ngoài vào làm vị trí công việc quản lý, điều hành, chuyên gia và lao động kỹ thuật mà người lao động Việt Nam chưa đáp ứng được theo nhu cầu sản xuất, kinh doanh.
 Các thực thể:
-(tuyển dụng, ACTION)
-(người lao động nước ngoài, LEGAL_ROLE)
-(người lao động Việt Nam, LEGAL_ROLE)
+(tuyển dụng | ACTION)
+(người lao động nước ngoài | LEGAL_ROLE)
+(người lao động Việt Nam | LEGAL_ROLE)
+(doanh nghiệp | LEGAL_ROLE)
+(cơ quan | LEGAL_ROLE)
+(tổ chức | LEGAL_ROLE)
+(cá nhân | LEGAL_ROLE)
+(nhà thầu | LEGAL_ROLE)
 Các cạnh:
-(tuyển dụng, applies_to, người lao động nước ngoài)
-(tuyển dụng, related_to, người lao động Việt Nam)
+(tuyển dụng | applies_to | người lao động nước ngoài)
+(tuyển dụng | related_to | người lao động Việt Nam)
 
 ==================================================
 Vào Việt Nam với thời hạn dưới 03 tháng để thực hiện chào bán dịch vụ.
 Các thực thể:
-(dưới 03 tháng, TIME_PERIOD)
-(chào bán dịch vụ, ACTION)
+(dưới 03 tháng | TIME_PERIOD)
+(chào bán dịch vụ | ACTION)
+(thực hiện | ACTION)
 Các cạnh:
 ==================================================
 Vào Việt Nam với thời hạn dưới 03 tháng để xử lý sự cố, tình huống kỹ thuật, công nghệ phức tạp nảy sinh làm ảnh hưởng hoặc có nguy cơ ảnh hưởng tới sản xuất, kinh doanh mà các chuyên gia Việt Nam và các chuyên gia nước ngoài hiện đang ở Việt Nam không xử lý được.
 Các thực thể:
-(dưới 03 tháng, TIME_PERIOD)
-(xử lý sự cố, ACTION)
+(dưới 03 tháng | TIME_PERIOD)
+(xử lý sự cố | ACTION)
 Các cạnh:
 ==================================================
 Người nước ngoài kết hôn với người Việt Nam và sinh sống trên lãnh thổ Việt Nam.
 Các thực thể:
-(Người nước ngoài, LEGAL_ROLE)
-(người Việt Nam, LEGAL_ROLE)
+(Người nước ngoài | LEGAL_ROLE)
+(người Việt Nam | LEGAL_ROLE)
 Các cạnh:
 ==================================================
 Trường hợp khác theo quy định của Chính phủ.
 Các thực thể:
-(Chính phủ, LEGAL_ROLE)
+(Chính phủ | LEGAL_ROLE)
 Các cạnh:
 ==================================================
 Làm việc không đúng với nội dung trong giấy phép lao động đã được cấp.
 Các thực thể:
-(Làm việc, ACTION)
-(giấy phép lao động, LEGAL_CONCEPT)
+(Làm việc | ACTION)
+(giấy phép lao động | LEGAL_CONCEPT)
 Các cạnh:
-(Làm việc, violates, giấy phép lao động)
+(Làm việc | violates | giấy phép lao động)
 ==================================================
 Thực hiện đầy đủ thỏa thuận đã giao kết trong hợp đồng lao động.
 Các thực thể:
-(Thực hiện, ACTION)
-(hợp đồng lao động, LEGAL_CONCEPT)
+(Thực hiện | ACTION)
+(hợp đồng lao động | LEGAL_CONCEPT)
 Các cạnh:
-(Thực hiện, involves, hợp đồng lao động)
+(Thực hiện | involves | hợp đồng lao động)
 ==================================================
 Công đoàn cơ sở thuộc hệ thống tổ chức Công đoàn Việt Nam được thành lập ở các cơ quan, tổ chức, đơn vị, doanh nghiệp.
 Các thực thể:
-(Công đoàn cơ sở, LEGAL_ROLE)
-(Công đoàn Việt Nam, LEGAL_ROLE)
-(doanh nghiệp, LEGAL_ROLE)
+(Công đoàn cơ sở | LEGAL_ROLE)
+(Công đoàn Việt Nam | LEGAL_ROLE)
+(doanh nghiệp | LEGAL_ROLE)
 Các cạnh:
-(Công đoàn cơ sở, related_to, Công đoàn Việt Nam)
+(Công đoàn cơ sở | related_to | Công đoàn Việt Nam)
 ==================================================
 Tên, địa chỉ tổ chức; biểu tượng (nếu có);
 Các thực thể:
@@ -884,201 +941,243 @@ Các cạnh:
 ==================================================
 Cản trở, gây khó khăn liên quan đến công việc nhằm làm suy yếu hoạt động của tổ chức đại diện người lao động tại cơ sở.
 Các thực thể:
-(Cản trở, ACTION)
-(gây khó khăn, ACTION)
-(tổ chức đại diện người lao động tại cơ sở, LEGAL_ROLE)
+(Cản trở | ACTION)
+(gây khó khăn | ACTION)
+(tổ chức đại diện người lao động tại cơ sở | LEGAL_ROLE)
+(cản trở, gây khó khăn liên quan đến công việc nhằm làm suy yếu hoạt động của tổ chức đại diện người lao động tại cơ sở | OBLIGATION)
 Các cạnh:
-(Cản trở, involves, tổ chức đại diện người lao động tại cơ sở)
-(gây khó khăn, involves, tổ chức đại diện người lao động tại cơ sở)
+(Cản trở | involves | tổ chức đại diện người lao động tại cơ sở)
+(gây khó khăn | involves | tổ chức đại diện người lao động tại cơ sở)
 ==================================================
 Phải gia hạn hợp đồng lao động đã giao kết đến hết nhiệm kỳ cho người lao động là thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở đang trong nhiệm kỳ mà hết hạn hợp đồng lao động.
 Các thực thể:
-(Phải gia hạn, OBLIGATION)
-(hợp đồng lao động, LEGAL_CONCEPT)
-(người lao động, LEGAL_ROLE)
-(tổ chức đại diện người lao động tại cơ sở, LEGAL_ROLE)
-(hết hạn hợp đồng lao động, CONDITION)
+(Phải gia hạn | OBLIGATION)
+(hợp đồng lao động | LEGAL_CONCEPT)
+(người lao động | LEGAL_ROLE)
+(tổ chức đại diện người lao động tại cơ sở | LEGAL_ROLE)
+(hết hạn hợp đồng lao động | CONDITION)
 Các cạnh:
-(Phải gia hạn, involves, hợp đồng lao động)
-(Phải gia hạn, applies_to, người lao động)
-(Phải gia hạn, involves, tổ chức đại diện người lao động tại cơ sở)
-(Phải gia hạn, has_condition, hết hạn hợp đồng lao động)
+(Phải gia hạn | involves | hợp đồng lao động)
+(Phải gia hạn | applies_to | người lao động)
+(Phải gia hạn | involves | tổ chức đại diện người lao động tại cơ sở)
+(Phải gia hạn | has_condition | hết hạn hợp đồng lao động)
 ==================================================
-
 Đối thoại tại nơi làm việc theo quy định của Bộ luật này.
 Các thực thể:
-(Đối thoại tại nơi làm việc, LEGAL_CONCEPT)
+(Đối thoại tại nơi làm việc | ACTION)
+(bộ luật lao động | LEGAL_REF)
+(nơi làm việc | LEGAL_CONCEPT)
 Các cạnh:
 ==================================================
 Khi một bên từ chối thương lượng hoặc không tiến hành thương lượng trong thời hạn theo quy định của pháp luật.
 Các thực thể:
-(từ chối thương lượng, CONDITION)
-(không tiến hành thương lượng, CONDITION)
+(từ chối thương lượng | CONDITION)
+(không tiến hành thương lượng | CONDITION)
+(theo quy định của pháp luật | LEGAL_REF)
+(không tiến hành thương lượng trong thời hạn | ACTION)
+(trong thời hạn | CONDITION)
 Các cạnh:
 ==================================================
 Bảo đảm sự tham gia của đại diện các bên trong quá trình giải quyết tranh chấp lao động.
 Các thực thể:
-(giải quyết tranh chấp lao động, PROCEDURE)
+(giải quyết tranh chấp lao động | ACTION)
+(các bên | LEGAL_ROLE)
+(giải quyết | ACTION)
 Các cạnh:
 ==================================================
 Cơ quan quản lý nhà nước về lao động có trách nhiệm phối hợp với tổ chức đại diện người lao động, tổ chức đại diện người sử dụng lao động hướng dẫn, hỗ trợ và giúp đỡ các bên trong giải quyết tranh chấp lao động.
 Các thực thể:
-(Cơ quan quản lý nhà nước về lao động, LEGAL_ROLE)
-(có trách nhiệm phối hợp, OBLIGATION)
-(tổ chức đại diện người lao động, LEGAL_ROLE)
-(tổ chức đại diện người sử dụng lao động, LEGAL_ROLE)
-(giải quyết tranh chấp lao động, PROCEDURE)
+(Cơ quan quản lý nhà nước về lao động | LEGAL_ROLE)
+(có trách nhiệm phối hợp | OBLIGATION)
+(tổ chức đại diện người lao động | LEGAL_ROLE)
+(tổ chức đại diện người sử dụng lao động | LEGAL_ROLE)
+(giải quyết tranh chấp lao động | ACTION)
+(giải quyết | ACTION)
 Các cạnh:
-(có trách nhiệm phối hợp, involves, Cơ quan quản lý nhà nước về lao động)
-(có trách nhiệm phối hợp, involves, tổ chức đại diện người lao động)
-(có trách nhiệm phối hợp, involves, tổ chức đại diện người sử dụng lao động)
-(có trách nhiệm phối hợp, involves, giải quyết tranh chấp lao động)
+(có trách nhiệm phối hợp | involves | Cơ quan quản lý nhà nước về lao động)
+(có trách nhiệm phối hợp | involves | tổ chức đại diện người lao động)
+(có trách nhiệm phối hợp | involves | tổ chức đại diện người sử dụng lao động)
+(có trách nhiệm phối hợp | involves | giải quyết tranh chấp lao động)
 ==================================================
 Yêu cầu thay đổi người tiến hành giải quyết tranh chấp lao động nếu có lý do cho rằng người đó có thể không vô tư hoặc không khách quan.
 Các thực thể:
-(Yêu cầu thay đổi, ACTION)
-(người tiến hành giải quyết tranh chấp lao động, LEGAL_ROLE)
-(có lý do cho rằng người đó có thể không vô tư hoặc không khách quan, CONDITION)
+(Yêu cầu thay đổi | ACTION)
+(người tiến hành giải quyết tranh chấp lao động | LEGAL_ROLE)
+(có lý do cho rằng người đó có thể không vô tư hoặc không khách quan | CONDITION)
+(giải quyết | ACTION)
+(giải quyết tranh chấp lao động | ACTION)
 Các cạnh:
-(Yêu cầu thay đổi, involves, người tiến hành giải quyết tranh chấp lao động)
-(Yêu cầu thay đổi, has_condition, có lý do cho rằng người đó có thể không vô tư hoặc không khách quan)
+(Yêu cầu thay đổi | involves | người tiến hành giải quyết tranh chấp lao động)
+(Yêu cầu thay đổi | has_condition | có lý do cho rằng người đó có thể không vô tư hoặc không khách quan)
 ==================================================
 Số lượng trọng tài viên lao động của Hội đồng trọng tài lao động do Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định, ít nhất là 15 người, bao gồm số lượng ngang nhau do các bên đề cử, cụ thể như sau: a) Tối thiểu 05 thành viên do cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh đề cử, trong đó có Chủ tịch Hội đồng là đại diện lãnh đạo và thư ký Hội đồng là công chức của cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh; b) Tối thiểu 05 thành viên do công đoàn cấp tỉnh đề cử; c) Tối thiểu 05 thành viên do các tổ chức đại diện của người sử dụng lao động trên địa bàn tỉnh thống nhất đề cử.
 Các thực thể:
-(trọng tài viên lao động, LEGAL_ROLE)
-(Hội đồng trọng tài lao động, LEGAL_ROLE)
-(Chủ tịch Ủy ban nhân dân cấp tỉnh, LEGAL_ROLE)
-(quyết định, ACTION)
-(cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh, LEGAL_ROLE)
-(Chủ tịch Hội đồng, LEGAL_ROLE)
-(thư ký Hội đồng, LEGAL_ROLE)
-(công đoàn cấp tỉnh, LEGAL_ROLE)
-(tổ chức đại diện của người sử dụng lao động, LEGAL_ROLE)
+(trọng tài viên lao động | LEGAL_ROLE)
+(Hội đồng trọng tài lao động | LEGAL_ROLE)
+(Chủ tịch Ủy ban nhân dân cấp tỉnh | LEGAL_ROLE)
+(quyết định | ACTION)
+(cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh | LEGAL_ROLE)
+(Chủ tịch Hội đồng | LEGAL_ROLE)
+(thư ký Hội đồng | LEGAL_ROLE)
+(công đoàn cấp tỉnh | LEGAL_ROLE)
+(tổ chức đại diện của người sử dụng lao động | LEGAL_ROLE)
 Các cạnh:
-(trọng tài viên lao động, related_to, Hội đồng trọng tài lao động)
-(quyết định, involves, Chủ tịch Ủy ban nhân dân cấp tỉnh)
+(trọng tài viên lao động | related_to | Hội đồng trọng tài lao động)
+(quyết định | involves | Chủ tịch Ủy ban nhân dân cấp tỉnh)
 ==================================================
 Tối thiểu 05 thành viên do công đoàn cấp tỉnh đề cử;
 Các thực thể:
-(công đoàn cấp tỉnh, LEGAL_ROLE)
-(đề cử, ACTION)
+(công đoàn cấp tỉnh | LEGAL_ROLE)
+(đề cử | ACTION)
 Các cạnh:
-(đề cử, involves, công đoàn cấp tỉnh)
+(đề cử | involves | công đoàn cấp tỉnh)
 ==================================================
 Về bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội, về bảo hiểm y tế theo quy định của pháp luật về bảo hiểm y tế, về bảo hiểm thất nghiệp theo quy định của pháp luật về việc làm, về bảo hiểm tai nạn lao động, bệnh nghề nghiệp theo quy định của pháp luật về an toàn, vệ sinh lao động;
 Các thực thể:
-(bảo hiểm xã hội, LEGAL_CONCEPT)
-(bảo hiểm y tế, LEGAL_CONCEPT)
-(bảo hiểm thất nghiệp, LEGAL_CONCEPT)
-(bảo hiểm tai nạn lao động, bệnh nghề nghiệp, LEGAL_CONCEPT)
+(bảo hiểm xã hội | LEGAL_CONCEPT)
+(bảo hiểm y tế | LEGAL_CONCEPT)
+(bảo hiểm thất nghiệp | LEGAL_CONCEPT)
+(bảo hiểm tai nạn lao động, bệnh nghề nghiệp | LEGAL_CONCEPT)
+(theo quy định của pháp luật | LEGAL_REF)
+
 Các cạnh:
 ==================================================
 Thời hiệu yêu cầu Tòa án giải quyết tranh chấp lao động cá nhân là 01 năm kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền và lợi ích hợp pháp của mình bị vi phạm.
 Các thực thể:
-(Tòa án, LEGAL_ROLE)
-(tranh chấp lao động cá nhân, LEGAL_CONCEPT)
-(01 năm, TIME_PERIOD)
+(Tòa án | LEGAL_ROLE)
+(tranh chấp lao động cá nhân | LEGAL_CONCEPT)
+(01 năm | TIME_PERIOD)
+(giải quyết tranh chấp lao động | ACTION)
+(bên tranh chấp | LEGAL_ROLE)
+(kể từ ngày phát hiện ra hành vi | CONDITION)
 Các cạnh:
 ==================================================
 Hội đồng trọng tài lao động;
 Các thực thể:
-(Hội đồng trọng tài lao động, LEGAL_ROLE)
+(Hội đồng trọng tài lao động | LEGAL_ROLE)
 Các cạnh:
 
 ==================================================
 Trường hợp hòa giải thành, biên bản hòa giải thành phải bao gồm đầy đủ nội dung các bên đã đạt được thỏa thuận, có chữ ký của các bên tranh chấp và hòa giải viên lao động. Biên bản hòa giải thành có giá trị pháp lý như thỏa ước lao động tập thể của doanh nghiệp.
 Các thực thể:
-(hòa giải thành, CONDITION)
-(biên bản hòa giải thành, LEGAL_CONCEPT)
-(phải bao gồm, OBLIGATION)
-(hòa giải viên lao động, LEGAL_ROLE)
-(thỏa ước lao động tập thể, LEGAL_CONCEPT)
-(doanh nghiệp, LEGAL_ROLE)
+(hòa giải thành | CONDITION)
+(biên bản hòa giải thành | LEGAL_CONCEPT)
+(phải bao gồm | OBLIGATION)
+(hòa giải viên lao động | LEGAL_ROLE)
+(thỏa ước lao động tập thể | LEGAL_CONCEPT)
+(doanh nghiệp | LEGAL_ROLE)
+(bên tranh chấp | LEGAL_ROLE)
 Các cạnh:
-(phải bao gồm, involves, biên bản hòa giải thành)
-(phải bao gồm, has_condition, hòa giải thành)
+(phải bao gồm | involves | biên bản hòa giải thành)
+(phải bao gồm | has_condition | hòa giải thành)
 ==================================================
 Tổ chức đại diện người lao động có quyền tiến hành thủ tục quy định tại các điều 200, 201 và 202 của Bộ luật này để đình công.
 Các thực thể:
-(Tổ chức đại diện người lao động, LEGAL_ROLE)
-(có quyền tiến hành thủ tục, RIGHT)
-(các điều 200, 201 và 202, LEGAL_REF)
-(đình công, LEGAL_CONCEPT)
+(Tổ chức đại diện người lao động | LEGAL_ROLE)
+(có quyền tiến hành thủ tục | RIGHT)
+(bộ luật lao động | LEGAL_REF)
+(Điều 200 | LEGAL_REF)
+(Điều 201 | LEGAL_REF)
+(Điều 202 | LEGAL_REF)
+(đình công | LEGAL_CONCEPT)
+(thủ tục | PROCEDURE)
+(bộ luật lao động | LEGAL_REF)
 Các cạnh:
-(có quyền tiến hành thủ tục, applies_to, Tổ chức đại diện người lao động)
-(có quyền tiến hành thủ tục, cites, các điều 200, 201 và 202)
-(có quyền tiến hành thủ tục, has_purpose, đình công)
+(có quyền tiến hành thủ tục | applies_to | Tổ chức đại diện người lao động)
+(có quyền tiến hành thủ tục | cites | các điều 200, 201 và 202)
+(có quyền tiến hành thủ tục | has_purpose | đình công)
 ==================================================
 Hòa giải không thành hoặc hết thời hạn hòa giải quy định tại khoản 2 Điều 188 của Bộ luật này mà hòa giải viên lao động không tiến hành hòa giải;
 Các thực thể:
-(Hòa giải không thành, CONDITION)
-(hết thời hạn hòa giải, CONDITION)
-(khoản 2 Điều 188, LEGAL_REF)
-(hòa giải viên lao động, LEGAL_ROLE)
-(không tiến hành hòa giải, CONDITION)
+(Hòa giải không thành | CONDITION)
+(hết thời hạn hòa giải | CONDITION)
+(khoản 2 Điều 188 | LEGAL_REF)
+(hòa giải viên lao động | LEGAL_ROLE)
+(không tiến hành hòa giải | CONDITION)
+(bộ luật lao động | LEGAL_REF)
 Các cạnh:
-(hết thời hạn hòa giải, cites, khoản 2 Điều 188)
-(không tiến hành hòa giải, involves, hòa giải viên lao động)
+(hết thời hạn hòa giải | cites | khoản 2 Điều 188)
+(không tiến hành hòa giải | involves | hòa giải viên lao động)
 ==================================================
 Nội dung lấy ý kiến bao gồm: a) Đồng ý hay không đồng ý đình công; b) Phương án của tổ chức đại diện người lao động về nội dung quy định tại các điểm b, c và d khoản 2 Điều 202 của Bộ luật này.
 Các thực thể:
-(đình công, LEGAL_CONCEPT)
-(tổ chức đại diện người lao động, LEGAL_ROLE)
-(các điểm b, c và d khoản 2 Điều 202, LEGAL_REF)
+(đình công | LEGAL_CONCEPT)
+(tổ chức đại diện người lao động | LEGAL_ROLE)
+(điểm b khoản 2 Điều 202 | LEGAL_REF)
+(điểm c khoản 2 Điều 202 | LEGAL_REF)
+(điểm d khoản 2 Điều 202 | LEGAL_REF)
+(bộ luật lao động | LEGAL_REF)
+(lấy ý kiến | ACTION)
+(Đồng ý hay không đồng ý đình công | ACTION)
+
 Các cạnh:
 ==================================================
 Tổ chức đại diện người lao động có quyền tổ chức và lãnh đạo đình công theo quy định tại Điều 198 của Bộ luật này có quyền sau đây: a) Rút quyết định đình công nếu chưa đình công hoặc chấm dứt đình công nếu đang đình công; b) Yêu cầu Tòa án tuyên bố cuộc đình công là hợp pháp.
 Các thực thể:
-(Tổ chức đại diện người lao động, LEGAL_ROLE)
-(có quyền tổ chức và lãnh đạo đình công, RIGHT)
-(Điều 198, LEGAL_REF)
-(Rút quyết định đình công, ACTION)
-(chưa đình công, CONDITION)
-(chấm dứt đình công, ACTION)
-(đang đình công, CONDITION)
-(Tòa án, LEGAL_ROLE)
+(Tổ chức đại diện người lao động | LEGAL_ROLE)
+(tổ chức đại diện | LEGAL_ROLE)
+(người lao động | LEGAL_ROLE)
+(có quyền tổ chức và lãnh đạo đình công | RIGHT)
+(Điều 198 | LEGAL_REF)
+(Rút quyết định đình công | ACTION)
+(chưa đình công | CONDITION)
+(chấm dứt đình công | ACTION)
+(đang đình công | CONDITION)
+(Tòa án | LEGAL_ROLE)
+(bộ luật lao động |LEGAL_REF)
+(Yêu cầu Tòa án tuyên bố cuộc đình công là hợp pháp | ACTION)
+
 Các cạnh:
-(có quyền tổ chức và lãnh đạo đình công, applies_to, Tổ chức đại diện người lao động)
-(có quyền tổ chức và lãnh đạo đình công, cites, Điều 198)
-(Rút quyết định đình công, has_condition, chưa đình công)
-(chấm dứt đình công, has_condition, đang đình công)
+(có quyền tổ chức và lãnh đạo đình công | applies_to | Tổ chức đại diện người lao động)
+(có quyền tổ chức và lãnh đạo đình công | cites | Điều 198)
+(Rút quyết định đình công | has_condition | chưa đình công)
+(chấm dứt đình công | has_condition | đang đình công)
 ==================================================
 Đóng cửa tạm thời nơi làm việc trong thời gian đình công do không đủ điều kiện để duy trì hoạt động bình thường hoặc để bảo vệ tài sản;
 Các thực thể:
-(Đóng cửa tạm thời nơi làm việc, ACTION)
-(đình công, LEGAL_CONCEPT)
-(không đủ điều kiện để duy trì hoạt động bình thường, CONDITION)
+(Đóng cửa tạm thời nơi làm việc | ACTION)
+(nơi làm việc | LEGAL_CONCEPT)
+(đình công | LEGAL_CONCEPT)
+(không đủ điều kiện để duy trì hoạt động bình thường | CONDITION)
+(bảo vệ tài sản | ACTION)
 Các cạnh:
-(Đóng cửa tạm thời nơi làm việc, involves, đình công)
-(Đóng cửa tạm thời nơi làm việc, has_condition, không đủ điều kiện để duy trì hoạt động bình thường)
+(Đóng cửa tạm thời nơi làm việc | involves | đình công)
+(Đóng cửa tạm thời nơi làm việc | has_condition | không đủ điều kiện để duy trì hoạt động bình thường)
 ==================================================
 Chính phủ quy định danh mục nơi sử dụng lao động không được đình công và việc giải quyết tranh chấp lao động tại nơi sử dụng lao động không được đình công quy định tại khoản 1 Điều này.
 Các thực thể:
-(Chính phủ, LEGAL_ROLE)
-(không được đình công, PROHIBITION)
-(giải quyết tranh chấp lao động, PROCEDURE)
+(Chính phủ | LEGAL_ROLE)
+(không được đình công | PROHIBITION)
+(giải quyết tranh chấp lao động | ACTION)
+(giải quyết tranh chấp | LEGAL_CONCEPT)
+(điều 209 |LEGAL_REF)
+(khoản 1 điều 209 |LEGAL_REF)
 Các cạnh:
-(Chính phủ, involves, giải quyết tranh chấp lao động)
+(Chính phủ | involves | giải quyết tranh chấp lao động)
 ==================================================
 Chính phủ quy định chi tiết việc hoãn, ngừng đình công và giải quyết quyền lợi của người lao động.
 Các thực thể:
-(Chính phủ, LEGAL_ROLE)
-(hoãn, ngừng đình công, ACTION)
-(người lao động, LEGAL_ROLE)
+(Chính phủ | LEGAL_ROLE)
+(hoãn, ngừng đình công | ACTION)
+(người lao động | LEGAL_ROLE)
+(giải quyết | ACTION)
+(quyền lợi | LEGAL_CONCEPT)
 Các cạnh:
-(Chính phủ, involves, hoãn, ngừng đình công)
+(Chính phủ | involves || hoãn, ngừng đình công)
 ==================================================
 Ban hành và tổ chức thực hiện văn bản quy phạm pháp luật về lao động.
 Các thực thể:
-(Ban hành, ACTION)
-(tổ chức thực hiện, ACTION)
-(văn bản quy phạm pháp luật về lao động, LEGAL_CONCEPT)
+(Ban hành | ACTION)
+(tổ chức thực hiện | ACTION)
+(văn bản quy phạm pháp luật về lao động | LEGAL_CONCEPT)
 Các cạnh:
-(Ban hành, involves, văn bản quy phạm pháp luật về lao động)
-(tổ chức thực hiện, involves, văn bản quy phạm pháp luật về lao động)
+(Ban hành | involves | văn bản quy phạm pháp luật về lao động)
+(tổ chức thực hiện | involves | văn bản quy phạm pháp luật về lao động)
 ==================================================
 Bộ luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2021. Bộ luật Lao động số 10/2012/QH13 hết hiệu lực thi hành kể từ ngày Bộ luật này có hiệu lực.
 Các thực thể:
-(ngày 01 tháng 01 năm 2021, TIME_PERIOD)
-(Bộ luật Lao động số 10/2012/QH13, LEGAL_REF)
+(ngày 01 tháng 01 năm 2021 | TIME_PERIOD)
+(Bộ luật Lao động số 10/2012/QH13 | LEGAL_REF)
+(bộ luật lao động | LEGAL_REF)
+(kể từ ngày bộ luật lao động có hiệu lực | TIME_PERIOD)
 Các cạnh:

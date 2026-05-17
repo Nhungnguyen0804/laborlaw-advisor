@@ -1,0 +1,2665 @@
+[
+  {
+    "node_id": "ch1_d3_k3",
+    "text": "Tổ chức đại diện người lao động tại cơ sở là tổ chức được thành lập trên cơ sở tự nguyện của người lao động tại một đơn vị sử dụng lao động nhằm mục đích bảo vệ quyền và lợi ích hợp pháp, chính đáng của người lao động trong quan hệ lao động thông qua thương lượng tập thể hoặc các hình thức khác theo quy định của pháp luật về lao động. Tổ chức đại diện người lao động tại cơ sở bao gồm công đoàn cơ sở và tổ chức của người lao động tại doanh nghiệp.",
+    "entities": [
+      {
+        "text": "Tổ chức đại diện người lao động tại cơ sở",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "đơn vị sử dụng lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "bảo vệ quyền và lợi ích hợp pháp, chính đáng",
+        "type": "RIGHT"
+      },
+      {
+        "text": "quan hệ lao động",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "thương lượng tập thể",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "thương lượng tập thể",
+        "type": "ACTION"
+      },
+      {
+        "text": "pháp luật về lao động",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "công đoàn cơ sở",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "tổ chức của người lao động tại doanh nghiệp",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "theo quy định của pháp luật",
+        "type": "LEGAL_REF"
+      }
+    ]
+  },
+  {
+    "node_id": "ch1_d5_k1_b",
+    "text": "Hưởng lương phù hợp với trình độ, kỹ năng nghề trên cơ sở thỏa thuận với người sử dụng lao động; được bảo hộ lao động, làm việc trong điều kiện bảo đảm về an toàn, vệ sinh lao động; nghỉ theo chế độ, nghỉ hằng năm có hưởng lương và được hưởng phúc lợi tập thể;",
+    "entities": [
+      {
+        "text": "Hưởng lương",
+        "type": "RIGHT"
+      },
+      {
+        "text": "lương",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "thỏa thuận",
+        "type": "ACTION"
+      },
+      {
+        "text": "người sử dụng lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "được bảo hộ lao động",
+        "type": "RIGHT"
+      },
+      {
+        "text": "an toàn, vệ sinh lao động",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "nghỉ theo chế độ",
+        "type": "RIGHT"
+      },
+      {
+        "text": "nghỉ hằng năm có hưởng lương",
+        "type": "RIGHT"
+      },
+      {
+        "text": "được hưởng phúc lợi tập thể",
+        "type": "RIGHT"
+      },
+      {
+        "text": "bảo đảm về an toàn, vệ sinh lao động",
+        "type": "ACTION"
+      },
+      {
+        "text": "phù hợp với trình độ, kỹ năng nghề trên cơ sở thỏa thuận",
+        "type": "CONDITION"
+      },
+      {
+        "text": "trong điều kiện",
+        "type": "CONDITION"
+      },
+      {
+        "text": "theo chế độ",
+        "type": "CONDITION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch1_d5_k1_đ",
+    "text": "Đơn phương chấm dứt hợp đồng lao động;",
+    "entities": [
+      {
+        "text": "Đơn phương chấm dứt",
+        "type": "ACTION"
+      },
+      {
+        "text": "hợp đồng lao động",
+        "type": "LEGAL_CONCEPT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch1_d5_k1_e",
+    "text": "Đình công;",
+    "entities": [
+      {
+        "text": "Đình công",
+        "type": "LEGAL_CONCEPT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch1_d6_k1_c",
+    "text": "Yêu cầu tổ chức đại diện người lao động thương lượng với mục đích ký kết thỏa ước lao động tập thể; tham gia giải quyết tranh chấp lao động, đình công; đối thoại, trao đổi với tổ chức đại diện người lao động về các vấn đề trong quan hệ lao động, cải thiện đời sống vật chất và tinh thần của người lao động;",
+    "entities": [
+      {
+        "text": "Yêu cầu",
+        "type": "ACTION"
+      },
+      {
+        "text": "tổ chức đại diện người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "thương lượng",
+        "type": "ACTION"
+      },
+      {
+        "text": "ký kết",
+        "type": "ACTION"
+      },
+      {
+        "text": "thỏa ước lao động tập thể",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "tham gia",
+        "type": "ACTION"
+      },
+      {
+        "text": "giải quyết tranh chấp lao động",
+        "type": "ACTION"
+      },
+      {
+        "text": "giải quyết",
+        "type": "ACTION"
+      },
+      {
+        "text": "đình công",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "đối thoại",
+        "type": "ACTION"
+      },
+      {
+        "text": "trao đổi",
+        "type": "ACTION"
+      },
+      {
+        "text": "quan hệ lao động",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "cải thiện đời sống vật chất và tinh thần",
+        "type": "ACTION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch1_d5_k1_g",
+    "text": "Các quyền khác theo quy định của pháp luật.",
+    "entities": [
+      {
+        "text": "theo quy định của pháp luật",
+        "type": "LEGAL_REF"
+      }
+    ]
+  },
+  {
+    "node_id": "ch1_d6_k2_c",
+    "text": "Đào tạo, đào tạo lại, bồi dưỡng nâng cao trình độ, kỹ năng nghề nhằm duy trì, chuyển đổi nghề nghiệp, việc làm cho người lao động;",
+    "entities": [
+      {
+        "text": "Đào tạo",
+        "type": "ACTION"
+      },
+      {
+        "text": "đào tạo lại",
+        "type": "ACTION"
+      },
+      {
+        "text": "bồi dưỡng nâng cao trình độ, kỹ năng nghề",
+        "type": "ACTION"
+      },
+      {
+        "text": "duy trì, chuyển đổi nghề nghiệp, việc làm",
+        "type": "ACTION"
+      },
+      {
+        "text": "việc làm",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      }
+    ]
+  },
+  {
+    "node_id": "ch1_d8_k3",
+    "text": "Quấy rối tình dục tại nơi làm việc.",
+    "entities": [
+      {
+        "text": "Quấy rối tình dục tại nơi làm việc",
+        "type": "PROHIBITION"
+      },
+      {
+        "text": "nơi làm việc",
+        "type": "LEGAL_CONCEPT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch2_d12_k3",
+    "text": "Chính phủ quy định chi tiết Điều này.",
+    "entities": [
+      {
+        "text": "Chính phủ",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "quy định chi tiết",
+        "type": "ACTION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc1_d16_k1",
+    "text": "Người sử dụng lao động phải cung cấp thông tin trung thực cho người lao động về công việc, địa điểm làm việc, điều kiện làm việc, thời giờ làm việc, thời giờ nghỉ ngơi, an toàn, vệ sinh lao động, tiền lương, hình thức trả lương, bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, quy định về bảo vệ bí mật kinh doanh, bảo vệ bí mật công nghệ và vấn đề khác liên quan trực tiếp đến việc giao kết hợp đồng lao động mà người lao động yêu cầu.",
+    "entities": [
+      {
+        "text": "Người sử dụng lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "phải cung cấp thông tin trung thực",
+        "type": "OBLIGATION"
+      },
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "thời giờ làm việc",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "thời giờ nghỉ ngơi",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "an toàn, vệ sinh lao động",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "tiền lương",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "hình thức trả lương",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "bảo hiểm xã hội",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "bảo hiểm y tế",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "bảo hiểm thất nghiệp",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "giao kết hợp đồng lao động",
+        "type": "ACTION"
+      },
+      {
+        "text": "bảo vệ tài sản",
+        "type": "ACTION"
+      },
+      {
+        "text": "yêu cầu",
+        "type": "ACTION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc1_d18_k3",
+    "text": "Người giao kết hợp đồng lao động bên phía người sử dụng lao động là người thuộc một trong các trường hợp sau đây: a) Người đại diện theo pháp luật của doanh nghiệp hoặc người được ủy quyền theo quy định của pháp luật; b) Người đứng đầu cơ quan, tổ chức có tư cách pháp nhân theo quy định của pháp luật hoặc người được ủy quyền theo quy định của pháp luật; c) Người đại diện của hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân hoặc người được ủy quyền theo quy định của pháp luật; d) Cá nhân trực tiếp sử dụng lao động.",
+    "entities": [
+      {
+        "text": "Người giao kết hợp đồng lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "người sử dụng lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "Người đại diện theo pháp luật",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "người được ủy quyền",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "doanh nghiệp",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "Người đứng đầu cơ quan, tổ chức",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "Người đại diện của hộ gia đình, tổ hợp tác, tổ chức khác không có tư cách pháp nhân",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "Cá nhân trực tiếp sử dụng lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "theo quy định của pháp luật",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "trường hợp",
+        "type": "CONDITION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc1_d20_k2_a",
+    "text": "Trong thời hạn 30 ngày kể từ ngày hợp đồng lao động hết hạn, hai bên phải ký kết hợp đồng lao động mới; trong thời gian chưa ký kết hợp đồng lao động mới thì quyền, nghĩa vụ và lợi ích của hai bên được thực hiện theo hợp đồng đã giao kết;",
+    "entities": [
+      {
+        "text": "30 ngày",
+        "type": "TIME_PERIOD"
+      },
+      {
+        "text": "hợp đồng lao động hết hạn",
+        "type": "CONDITION"
+      },
+      {
+        "text": "phải ký kết hợp đồng lao động mới",
+        "type": "OBLIGATION"
+      },
+      {
+        "text": "chưa ký kết hợp đồng lao động mới",
+        "type": "CONDITION"
+      },
+      {
+        "text": "hợp đồng đã giao kết",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "thực hiện",
+        "type": "ACTION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc1_d21_k1",
+    "text": "Hợp đồng lao động phải có những nội dung chủ yếu sau đây: a) Tên, địa chỉ của người sử dụng lao động và họ tên, chức danh của người giao kết hợp đồng lao động bên phía người sử dụng lao động; b) Họ tên, ngày tháng năm sinh, giới tính, nơi cư trú, số thẻ Căn cước công dân, Chứng minh nhân dân hoặc hộ chiếu của người giao kết hợp đồng lao động bên phía người lao động; c) Công việc và địa điểm làm việc; d) Thời hạn của hợp đồng lao động; đ) Mức lương theo công việc hoặc chức danh, hình thức trả lương, thời hạn trả lương, phụ cấp lương và các khoản bổ sung khác; e) Chế độ nâng bậc, nâng lương; g) Thời giờ làm việc, thời giờ nghỉ ngơi; h) Trang bị bảo hộ lao động cho người lao động; i) Bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp; k) Đào tạo, bồi dưỡng, nâng cao trình độ, kỹ năng nghề.",
+    "entities": [
+      {
+        "text": "Hợp đồng lao động",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "người sử dụng lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "Người giao kết hợp đồng lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "Thời hạn của hợp đồng lao động",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "Mức lương",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "hình thức trả lương",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "thời hạn trả lương",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "phụ cấp lương",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "Chế độ nâng bậc, nâng lương",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "Thời giờ làm việc",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "Thời giờ nghỉ ngơi",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "bảo hộ lao động",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "Bảo hiểm xã hội",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "bảo hiểm y tế",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "bảo hiểm thất nghiệp",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "Đào tạo, bồi dưỡng, nâng cao trình độ, kỹ năng nghề",
+        "type": "ACTION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc1_d21_k1_a",
+    "text": "Tên, địa chỉ của người sử dụng lao động và họ tên, chức danh của người giao kết hợp đồng lao động bên phía người sử dụng lao động;",
+    "entities": [
+      {
+        "text": "người sử dụng lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "người giao kết hợp đồng lao động",
+        "type": "LEGAL_ROLE"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc1_d25_k3",
+    "text": "Không quá 30 ngày đối với công việc có chức danh nghề nghiệp cần trình độ chuyên môn, kỹ thuật trung cấp, công nhân kỹ thuật, nhân viên nghiệp vụ;",
+    "entities": [
+      {
+        "text": "Không quá 30 ngày",
+        "type": "TIME_PERIOD"
+      },
+      {
+        "text": "đối với công việc có chức danh nghề nghiệp cần trình độ",
+        "type": "CONDITION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc2_d32_k3",
+    "text": "Người lao động làm việc không trọn thời gian được hưởng lương; bình đẳng trong thực hiện quyền và nghĩa vụ với người lao động làm việc trọn thời gian; bình đẳng về cơ hội, không bị phân biệt đối xử, bảo đảm an toàn, vệ sinh lao động.",
+    "entities": [
+      {
+        "text": "Người lao động làm việc không trọn thời gian",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "được hưởng lương",
+        "type": "RIGHT"
+      },
+      {
+        "text": "không bị phân biệt đối xử",
+        "type": "RIGHT"
+      },
+      {
+        "text": "bảo đảm an toàn, vệ sinh lao động",
+        "type": "RIGHT"
+      },
+      {
+        "text": "người lao động làm việc trọn thời gian",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "thực hiện",
+        "type": "ACTION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc2_d33_k3",
+    "text": "Trường hợp hai bên không thỏa thuận được việc sửa đổi, bổ sung nội dung hợp đồng lao động thì tiếp tục thực hiện hợp đồng lao động đã giao kết.",
+    "entities": [
+      {
+        "text": "không thỏa thuận được việc sửa đổi, bổ sung nội dung hợp đồng lao động",
+        "type": "CONDITION"
+      },
+      {
+        "text": "tiếp tục thực hiện hợp đồng lao động đã giao kết",
+        "type": "ACTION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc3_d34_k2",
+    "text": "Đã hoàn thành công việc theo hợp đồng lao động.",
+    "entities": [
+      {
+        "text": "hoàn thành công việc",
+        "type": "ACTION"
+      },
+      {
+        "text": "hợp đồng lao động",
+        "type": "LEGAL_CONCEPT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc3_d34_k11",
+    "text": "Người sử dụng lao động cho người lao động thôi việc theo quy định tại Điều 42 và Điều 43 của Bộ luật này.",
+    "entities": [
+      {
+        "text": "Người sử dụng lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "thôi việc",
+        "type": "ACTION"
+      },
+      {
+        "text": "Điều 42",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "Điều 43",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "bộ luật lao động",
+        "type": "LEGAL_REF"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc3_d35_k2_g",
+    "text": "Người sử dụng lao động cung cấp thông tin không trung thực theo quy định tại khoản 1 Điều 16 của Bộ luật này làm ảnh hưởng đến việc thực hiện hợp đồng lao động.",
+    "entities": [
+      {
+        "text": "Người sử dụng lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "cung cấp thông tin không trung thực",
+        "type": "ACTION"
+      },
+      {
+        "text": "bộ luật lao động",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "khoản 1 Điều 16",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "thực hiện hợp đồng lao động",
+        "type": "ACTION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc3_d36_k1_b",
+    "text": "Người lao động bị ốm đau, tai nạn đã điều trị 12 tháng liên tục đối với người làm việc theo hợp đồng lao động không xác định thời hạn hoặc đã điều trị 06 tháng liên tục đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng hoặc quá nửa thời hạn hợp đồng lao động đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng mà khả năng lao động chưa hồi phục. Khi sức khỏe của người lao động bình phục thì người sử dụng lao động xem xét để tiếp tục giao kết hợp đồng lao động với người lao động;",
+    "entities": [
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "điều trị",
+        "type": "ACTION"
+      },
+      {
+        "text": "12 tháng liên tục",
+        "type": "TIME_PERIOD"
+      },
+      {
+        "text": "hợp đồng lao động không xác định thời hạn",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "06 tháng liên tục",
+        "type": "TIME_PERIOD"
+      },
+      {
+        "text": "hợp đồng lao động xác định thời hạn",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "12 tháng đến 36 tháng",
+        "type": "TIME_PERIOD"
+      },
+      {
+        "text": "dưới 12 tháng",
+        "type": "TIME_PERIOD"
+      },
+      {
+        "text": "sức khỏe của người lao động bình phục",
+        "type": "CONDITION"
+      },
+      {
+        "text": "người sử dụng lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "giao kết",
+        "type": "ACTION"
+      },
+      {
+        "text": "hợp đồng lao động",
+        "type": "LEGAL_CONCEPT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc3_d40_k1",
+    "text": "Không được trợ cấp thôi việc.",
+    "entities": [
+      {
+        "text": "không được trợ cấp thôi việc",
+        "type": "PROHIBITION"
+      },
+      {
+        "text": "trợ cấp thôi việc",
+        "type": "LEGAL_CONCEPT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc3_d40_k2",
+    "text": "Phải bồi thường cho người sử dụng lao động nửa tháng tiền lương theo hợp đồng lao động và một khoản tiền tương ứng với tiền lương theo hợp đồng lao động trong những ngày không báo trước.",
+    "entities": [
+      {
+        "text": "Phải bồi thường",
+        "type": "OBLIGATION"
+      },
+      {
+        "text": "người sử dụng lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "hợp đồng lao động",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "tiền lương",
+        "type": "LEGAL_CONCEPT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc3_d40_k3",
+    "text": "Phải hoàn trả cho người sử dụng lao động chi phí đào tạo quy định tại Điều 62 của Bộ luật này.",
+    "entities": [
+      {
+        "text": "Phải hoàn trả",
+        "type": "OBLIGATION"
+      },
+      {
+        "text": "người sử dụng lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "bộ luật lao động",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "Điều 62",
+        "type": "LEGAL_REF"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc3_d41_k1",
+    "text": "Phải nhận người lao động trở lại làm việc theo hợp đồng lao động đã giao kết; phải trả tiền lương, đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp trong những ngày người lao động không được làm việc và phải trả thêm cho người lao động một khoản tiền ít nhất bằng 02 tháng tiền lương theo hợp đồng lao động. Sau khi được nhận lại làm việc, người lao động hoàn trả cho người sử dụng lao động các khoản tiền trợ cấp thôi việc, trợ cấp mất việc làm nếu đã nhận của người sử dụng lao động. Trường hợp không còn vị trí, công việc đã giao kết trong hợp đồng lao động mà người lao động vẫn muốn làm việc thì hai bên thỏa thuận để sửa đổi, bổ sung hợp đồng lao động. Trường hợp vi phạm quy định về thời hạn báo trước quy định tại khoản 2 Điều 36 của Bộ luật này thì phải trả một khoản tiền tương ứng với tiền lương theo hợp đồng lao động trong những ngày không báo trước.",
+    "entities": [
+      {
+        "text": "Phải nhận",
+        "type": "OBLIGATION"
+      },
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "hợp đồng lao động",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "phải trả tiền lương",
+        "type": "OBLIGATION"
+      },
+      {
+        "text": "bảo hiểm xã hội",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "bảo hiểm y tế",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "bảo hiểm thất nghiệp",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "không được làm việc",
+        "type": "PROHIBITION"
+      },
+      {
+        "text": "phải trả thêm",
+        "type": "OBLIGATION"
+      },
+      {
+        "text": "02 tháng",
+        "type": "TIME_PERIOD"
+      },
+      {
+        "text": "người sử dụng lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "trợ cấp thôi việc",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "trợ cấp mất việc làm",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "hai bên",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "bộ luật lao động",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "sửa đổi, bổ sung",
+        "type": "ACTION"
+      },
+      {
+        "text": "khoản 2 Điều 36",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "phải trả",
+        "type": "OBLIGATION"
+      },
+      {
+        "text": "bộ luật lao động",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "tiền lương",
+        "type": "LEGAL_CONCEPT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc3_d42_k2_b",
+    "text": "Thực hiện chính sách, pháp luật của Nhà nước khi cơ cấu lại nền kinh tế hoặc thực hiện cam kết quốc tế.",
+    "entities": [
+      {
+        "text": "Thực hiện",
+        "type": "ACTION"
+      },
+      {
+        "text": "cơ cấu lại nền kinh tế",
+        "type": "ACTION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc3_d44_k2",
+    "text": "Khi xây dựng phương án sử dụng lao động, người sử dụng lao động phải trao đổi ý kiến với tổ chức đại diện người lao động tại cơ sở đối với nơi có tổ chức đại diện người lao động tại cơ sở. Phương án sử dụng lao động phải được thông báo công khai cho người lao động biết trong thời hạn 15 ngày kể từ ngày được thông qua.",
+    "entities": [
+      {
+        "text": "xây dựng phương án sử dụng lao động",
+        "type": "CONDITION"
+      },
+      {
+        "text": "người sử dụng lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "phải trao đổi ý kiến",
+        "type": "OBLIGATION"
+      },
+      {
+        "text": "tổ chức đại diện người lao động tại cơ sở",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "phương án sử dụng lao động",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "thông báo công khai",
+        "type": "ACTION"
+      },
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "15 ngày",
+        "type": "TIME_PERIOD"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc3_d47_k2",
+    "text": "Thời gian làm việc để tính trợ cấp mất việc làm là tổng thời gian người lao động đã làm việc thực tế cho người sử dụng lao động trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật về bảo hiểm thất nghiệp và thời gian làm việc đã được người sử dụng lao động chi trả trợ cấp thôi việc, trợ cấp mất việc làm.",
+    "entities": [
+      {
+        "text": "trợ cấp mất việc làm",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "người sử dụng lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "bảo hiểm thất nghiệp",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "trợ cấp thôi việc",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "theo quy định của pháp luật",
+        "type": "LEGAL_REF"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc4_d51_k2",
+    "text": "Khi hợp đồng lao động bị tuyên bố vô hiệu toàn bộ thì quyền, nghĩa vụ và lợi ích của người lao động được giải quyết theo quy định của pháp luật; trường hợp do ký sai thẩm quyền thì hai bên ký lại.",
+    "entities": [
+      {
+        "text": "hợp đồng lao động bị tuyên bố vô hiệu toàn bộ",
+        "type": "CONDITION"
+      },
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "ký sai thẩm quyền",
+        "type": "CONDITION"
+      },
+      {
+        "text": "hai bên",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "ký lại",
+        "type": "ACTION"
+      },
+      {
+        "text": "theo quy định của pháp luật",
+        "type": "LEGAL_REF"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc5_d53_k2_b",
+    "text": "Thay thế người lao động trong thời gian nghỉ thai sản, bị tai nạn lao động, bệnh nghề nghiệp hoặc phải thực hiện các nghĩa vụ công dân;",
+    "entities": [
+      {
+        "text": "Thay thế",
+        "type": "ACTION"
+      },
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "nghỉ thai sản",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "tai nạn lao động",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "bệnh nghề nghiệp",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "phải thực hiện các nghĩa vụ công dân",
+        "type": "OBLIGATION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc5_d53_k3",
+    "text": "Bên thuê lại lao động không được sử dụng lao động thuê lại trong trường hợp sau đây: a) Để thay thế người lao động đang trong thời gian thực hiện quyền đình công, giải quyết tranh chấp lao động; b) Không có thỏa thuận cụ thể về trách nhiệm bồi thường tai nạn lao động, bệnh nghề nghiệp của người lao động thuê lại với doanh nghiệp cho thuê lại lao động; c) Thay thế người lao động bị cho thôi việc do thay đổi cơ cấu, công nghệ, vì lý do kinh tế hoặc chia, tách, hợp nhất, sáp nhập.",
+    "entities": [
+      {
+        "text": "Bên thuê lại lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "không được sử dụng lao động thuê lại",
+        "type": "PROHIBITION"
+      },
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "đình công",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "giải quyết tranh chấp lao động",
+        "type": "ACTION"
+      },
+      {
+        "text": "giải quyết",
+        "type": "ACTION"
+      },
+      {
+        "text": "tai nạn lao động",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "bệnh nghề nghiệp",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "doanh nghiệp cho thuê lại lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "thực hiện",
+        "type": "ACTION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc5_d53_k3_b",
+    "text": "Không có thỏa thuận cụ thể về trách nhiệm bồi thường tai nạn lao động, bệnh nghề nghiệp của người lao động thuê lại với doanh nghiệp cho thuê lại lao động;",
+    "entities": [
+      {
+        "text": "tai nạn lao động",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "bệnh nghề nghiệp",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "doanh nghiệp cho thuê lại lao động",
+        "type": "LEGAL_ROLE"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc5_d54_k1",
+    "text": "Doanh nghiệp cho thuê lại lao động phải ký quỹ và được cấp Giấy phép hoạt động cho thuê lại lao động.",
+    "entities": [
+      {
+        "text": "Doanh nghiệp cho thuê lại lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "phải ký quỹ",
+        "type": "OBLIGATION"
+      },
+      {
+        "text": "được cấp Giấy phép hoạt động cho thuê lại lao động",
+        "type": "RIGHT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc5_d55_k2_đ",
+    "text": "Nghĩa vụ của mỗi bên đối với người lao động.",
+    "entities": [
+      {
+        "text": "mỗi bên",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc5_d56_k1",
+    "text": "Bảo đảm đưa người lao động có trình độ phù hợp với những yêu cầu của bên thuê lại lao động và nội dung của hợp đồng lao động đã ký với người lao động;",
+    "entities": [
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "bên thuê lại lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "hợp đồng lao động",
+        "type": "LEGAL_CONCEPT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc5_d57_k1",
+    "text": "Thông báo, hướng dẫn cho người lao động thuê lại biết nội quy lao động và các quy chế khác của mình.",
+    "entities": [
+      {
+        "text": "Thông báo, hướng dẫn",
+        "type": "ACTION"
+      },
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "nội quy lao động",
+        "type": "LEGAL_CONCEPT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch3_muc5_d57_k2",
+    "text": "Không được phân biệt đối xử về điều kiện lao động đối với người lao động thuê lại so với người lao động của mình.",
+    "entities": [
+      {
+        "text": "Không được phân biệt đối xử",
+        "type": "PROHIBITION"
+      },
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      }
+    ]
+  },
+  {
+    "node_id": "ch4_d59_k1",
+    "text": "Người lao động được tự do lựa chọn đào tạo nghề nghiệp, tham gia đánh giá, công nhận kỹ năng nghề quốc gia, phát triển năng lực nghề nghiệp phù hợp với nhu cầu việc làm và khả năng của mình.",
+    "entities": [
+      {
+        "text": "Người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "được tự do lựa chọn",
+        "type": "RIGHT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch4_d61_k1",
+    "text": "Học nghề để làm việc cho người sử dụng lao động là việc người sử dụng lao động tuyển người vào để đào tạo nghề nghiệp tại nơi làm việc. Thời gian học nghề theo chương trình đào tạo của từng trình độ theo quy định của Luật Giáo dục nghề nghiệp.",
+    "entities": [
+      {
+        "text": "Học nghề",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "người sử dụng lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "tuyển",
+        "type": "ACTION"
+      },
+      {
+        "text": "Thời gian học nghề",
+        "type": "TIME_PERIOD"
+      },
+      {
+        "text": "Luật Giáo dục nghề nghiệp",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "nơi làm việc",
+        "type": "LEGAL_CONCEPT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch4_d61_k6",
+    "text": "Hết thời hạn học nghề, tập nghề, hai bên phải ký kết hợp đồng lao động khi đủ các điều kiện theo quy định của Bộ luật này.",
+    "entities": [
+      {
+        "text": "Hết thời hạn học nghề, tập nghề",
+        "type": "CONDITION"
+      },
+      {
+        "text": "hai bên",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "phải ký kết",
+        "type": "OBLIGATION"
+      },
+      {
+        "text": "hợp đồng lao động",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "Bộ luật lao động",
+        "type": "LEGAL_REF"
+      }
+    ]
+  },
+  {
+    "node_id": "ch4_d62_k3",
+    "text": "Chi phí đào tạo bao gồm các khoản chi có chứng từ hợp lệ về chi phí trả cho người dạy, tài liệu học tập, trường, lớp, máy, thiết bị, vật liệu thực hành, các chi phí khác hỗ trợ cho người học và tiền lương, tiền đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp cho người học trong thời gian đi học. Trường hợp người lao động được gửi đi đào tạo ở nước ngoài thì chi phí đào tạo còn bao gồm chi phí đi lại, chi phí sinh hoạt trong thời gian đào tạo.",
+    "entities": [
+      {
+        "text": "chi phí đào tạo",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "bảo hiểm xã hội",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "bảo hiểm y tế",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "bảo hiểm thất nghiệp",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "tiền lương",
+        "type": "LEGAL_CONCEPT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch5_muc1_d64_k2_b",
+    "text": "Việc thực hiện hợp đồng lao động, thỏa ước lao động tập thể, nội quy lao động, quy chế và cam kết, thỏa thuận khác tại nơi làm việc;",
+    "entities": [
+      {
+        "text": "thực hiện",
+        "type": "ACTION"
+      },
+      {
+        "text": "hợp đồng lao động",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "thỏa ước lao động tập thể",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "nội quy lao động",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "nơi làm việc",
+        "type": "LEGAL_CONCEPT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch5_muc2_d67_k1",
+    "text": "Tiền lương, trợ cấp, nâng lương, thưởng, bữa ăn và các chế độ khác;",
+    "entities": [
+      {
+        "text": "Tiền lương",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "trợ cấp",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "nâng lương",
+        "type": "ACTION"
+      },
+      {
+        "text": "thưởng",
+        "type": "LEGAL_CONCEPT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch5_muc2_d68_k2",
+    "text": "Trường hợp doanh nghiệp có nhiều tổ chức đại diện người lao động tại cơ sở đáp ứng quy định tại khoản 1 Điều này thì tổ chức có quyền yêu cầu thương lượng là tổ chức có số thành viên nhiều nhất trong doanh nghiệp. Các tổ chức đại diện người lao động tại cơ sở khác có thể tham gia thương lượng tập thể khi được tổ chức đại diện người lao động có quyền yêu cầu thương lượng tập thể đồng ý.",
+    "entities": [
+      {
+        "text": "tổ chức đại diện người lao động tại cơ sở",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "doanh nghiệp",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "khoản 1",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "có quyền yêu cầu thương lượng",
+        "type": "RIGHT"
+      },
+      {
+        "text": "thương lượng tập thể",
+        "type": "ACTION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch5_muc2_d70_k1",
+    "text": "Khi có yêu cầu thương lượng tập thể của tổ chức đại diện người lao động tại cơ sở có quyền yêu cầu thương lượng tập thể theo quy định tại Điều 68 của Bộ luật này hoặc yêu cầu của người sử dụng lao động thì bên nhận được yêu cầu không được từ chối việc thương lượng. Trong thời hạn 07 ngày làm việc kể từ ngày nhận được yêu cầu và nội dung thương lượng, các bên thỏa thuận về địa điểm, thời gian bắt đầu thương lượng. Người sử dụng lao động có trách nhiệm bố trí thời gian, địa điểm và các điều kiện cần thiết để tổ chức các phiên họp thương lượng tập thể. Thời gian bắt đầu thương lượng không được quá 30 ngày kể từ ngày nhận được yêu cầu thương lượng tập thể.",
+    "entities": [
+      {
+        "text": "thương lượng tập thể",
+        "type": "ACTION"
+      },
+      {
+        "text": "tổ chức đại diện người lao động tại cơ sở",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "Điều 68",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "bộ luật lao động",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "người sử dụng lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "không được từ chối",
+        "type": "PROHIBITION"
+      },
+      {
+        "text": "07 ngày làm việc",
+        "type": "TIME_PERIOD"
+      },
+      {
+        "text": "các bên",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "thỏa thuận",
+        "type": "ACTION"
+      },
+      {
+        "text": "có trách nhiệm bố trí",
+        "type": "OBLIGATION"
+      },
+      {
+        "text": "30 ngày",
+        "type": "TIME_PERIOD"
+      },
+      {
+        "text": "được yêu cầu không được từ chối việc thương lượng",
+        "type": "RIGHT"
+      },
+      {
+        "text": "có quyền yêu cầu thương lượng tập thể",
+        "type": "right"
+      }
+    ]
+  },
+  {
+    "node_id": "ch5_muc2_d70_k3",
+    "text": "Trong quá trình thương lượng tập thể, nếu có yêu cầu của bên đại diện người lao động thì trong thời hạn 10 ngày kể từ ngày nhận được yêu cầu, bên người sử dụng lao động có trách nhiệm cung cấp thông tin về tình hình hoạt động sản xuất, kinh doanh và nội dung khác liên quan trực tiếp đến nội dung thương lượng trong phạm vi doanh nghiệp nhằm tạo điều kiện thuận lợi cho thương lượng tập thể, trừ thông tin về bí mật kinh doanh, bí mật công nghệ của người sử dụng lao động.",
+    "entities": [
+      {
+        "text": "thương lượng tập thể",
+        "type": "ACTION"
+      },
+      {
+        "text": "10 ngày",
+        "type": "TIME_PERIOD"
+      },
+      {
+        "text": "người sử dụng lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "có trách nhiệm cung cấp thông tin",
+        "type": "OBLIGATION"
+      },
+      {
+        "text": "bí mật kinh doanh",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "bí mật công nghệ",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "doanh nghiệp",
+        "type": "LEGAL_ROLE"
+      }
+    ]
+  },
+  {
+    "node_id": "ch5_muc2_d73_k2_c",
+    "text": "Đại diện Ủy ban nhân dân cấp tỉnh.",
+    "entities": [
+      {
+        "text": "Ủy ban nhân dân cấp tỉnh",
+        "type": "LEGAL_ROLE"
+      }
+    ]
+  },
+  {
+    "node_id": "ch5_muc3_d75_k1",
+    "text": "Thỏa ước lao động tập thể là thỏa thuận đạt được thông qua thương lượng tập thể và được các bên ký kết bằng văn bản. Thỏa ước lao động tập thể bao gồm thỏa ước lao động tập thể doanh nghiệp, thỏa ước lao động tập thể ngành, thỏa ước lao động tập thể có nhiều doanh nghiệp và các thỏa ước lao động tập thể khác.",
+    "entities": [
+      {
+        "text": "Thỏa ước lao động tập thể",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "thương lượng tập thể",
+        "type": "ACTION"
+      },
+      {
+        "text": "các bên",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "ký kết",
+        "type": "ACTION"
+      },
+      {
+        "text": "thỏa ước lao động tập thể doanh nghiệp",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "thỏa ước lao động tập thể ngành",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "thỏa ước lao động tập thể có nhiều doanh nghiệp",
+        "type": "LEGAL_CONCEPT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch2_d12_k3",
+    "text": "Chính phủ quy định chi tiết Điều này.",
+    "entities": [
+      {
+        "text": "Chính phủ",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "quy định chi tiết",
+        "type": "ACTION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch5_muc3_d86_k2_a",
+    "text": "Toàn bộ nội dung thỏa ước lao động tập thể vi phạm pháp luật;",
+    "entities": [
+      {
+        "text": "thỏa ước lao động tập thể",
+        "type": "LEGAL_CONCEPT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch6_d91_k4",
+    "text": "Chính phủ quy định chi tiết Điều này; quyết định và công bố mức lương tối thiểu trên cơ sở khuyến nghị của Hội đồng tiền lương quốc gia.",
+    "entities": [
+      {
+        "text": "Chính phủ",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "quy định chi tiết",
+        "type": "ACTION"
+      },
+      {
+        "text": "Điều này",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "quyết định và công bố",
+        "type": "ACTION"
+      },
+      {
+        "text": "mức lương tối thiểu",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "Hội đồng tiền lương quốc gia",
+        "type": "LEGAL_ROLE"
+      }
+    ]
+  },
+  {
+    "node_id": "ch6_d92_k1",
+    "text": "Hội đồng tiền lương quốc gia là cơ quan tư vấn cho Chính phủ về mức lương tối thiểu và chính sách tiền lương đối với người lao động.",
+    "entities": [
+      {
+        "text": "Hội đồng tiền lương quốc gia",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "Chính phủ",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "mức lương tối thiểu",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "chính sách tiền lương",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      }
+    ]
+  },
+  {
+    "node_id": "ch6_d100_k1",
+    "text": "Nơi nào sử dụng người cai thầu hoặc người có vai trò trung gian tương tự thì người sử dụng lao động là chủ chính phải có danh sách và địa chỉ của những người này kèm theo danh sách những người lao động làm việc với họ và phải bảo đảm việc họ tuân thủ quy định của pháp luật về trả lương, an toàn, vệ sinh lao động.",
+    "entities": [
+      {
+        "text": "người sử dụng lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "phải có danh sách và địa chỉ",
+        "type": "OBLIGATION"
+      },
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "phải bảo đảm",
+        "type": "OBLIGATION"
+      },
+      {
+        "text": "trả lương",
+        "type": "ACTION"
+      },
+      {
+        "text": "an toàn, vệ sinh lao động",
+        "type": "LEGAL_CONCEPT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch2_d12_k3",
+    "text": "Chính phủ quy định chi tiết Điều này.",
+    "entities": [
+      {
+        "text": "Chính phủ",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "quy định chi tiết",
+        "type": "ACTION"
+      },
+      {
+        "text": "Điều này",
+        "type": "LEGAL_REF"
+      }
+    ]
+  },
+  {
+    "node_id": "ch7_muc2_d113_k1_a",
+    "text": "12 ngày làm việc đối với người làm công việc trong điều kiện bình thường;",
+    "entities": [
+      {
+        "text": "12 ngày làm việc",
+        "type": "TIME_PERIOD"
+      }
+    ]
+  },
+  {
+    "node_id": "ch8_muc1_d118_k4",
+    "text": "Nội quy lao động phải được thông báo đến người lao động và những nội dung chính phải được niêm yết ở những nơi cần thiết tại nơi làm việc.",
+    "entities": [
+      {
+        "text": "Nội quy lao động",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "phải được thông báo",
+        "type": "OBLIGATION"
+      },
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "phải được niêm yết",
+        "type": "OBLIGATION"
+      },
+      {
+        "text": "nơi làm việc",
+        "type": "LEGAL_CONCEPT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch8_muc1_d122_k4_a",
+    "text": "Nghỉ ốm đau, điều dưỡng; nghỉ việc được sự đồng ý của người sử dụng lao động;",
+    "entities": [
+      {
+        "text": "Nghỉ ốm đau, điều dưỡng",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "nghỉ việc được sự đồng ý",
+        "type": "RIGHT"
+      },
+      {
+        "text": "người sử dụng lao động",
+        "type": "LEGAL_ROLE"
+      }
+    ]
+  },
+  {
+    "node_id": "ch8_muc1_d125_k4",
+    "text": "Người lao động tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày hoặc 20 ngày cộng dồn trong thời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng. Trường hợp được coi là có lý do chính đáng bao gồm thiên tai, hỏa hoạn, bản thân, thân nhân bị ốm có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền và trường hợp khác được quy định trong nội quy lao động.",
+    "entities": [
+      {
+        "text": "Người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "tự ý bỏ việc",
+        "type": "ACTION"
+      },
+      {
+        "text": "05 ngày",
+        "type": "TIME_PERIOD"
+      },
+      {
+        "text": "30 ngày",
+        "type": "TIME_PERIOD"
+      },
+      {
+        "text": "20 ngày",
+        "type": "TIME_PERIOD"
+      },
+      {
+        "text": "365 ngày",
+        "type": "TIME_PERIOD"
+      },
+      {
+        "text": "nội quy lao động",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "trường hợp khác",
+        "type": "CONDITION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch8_muc1_d126_k1",
+    "text": "Người lao động bị khiển trách sau 03 tháng hoặc bị xử lý kỷ luật kéo dài thời hạn nâng lương sau 06 tháng hoặc bị xử lý kỷ luật cách chức sau 03 năm kể từ ngày bị xử lý, nếu không tiếp tục vi phạm kỷ luật lao động thì đương nhiên được xóa kỷ luật.",
+    "entities": [
+      {
+        "text": "Người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "bị khiển trách",
+        "type": "PENALTY"
+      },
+      {
+        "text": "03 tháng",
+        "type": "TIME_PERIOD"
+      },
+      {
+        "text": "06 tháng",
+        "type": "TIME_PERIOD"
+      },
+      {
+        "text": "bị xử lý kỷ luật kéo dài thời hạn nâng lương",
+        "type": "PENALTY"
+      },
+      {
+        "text": "06 tháng",
+        "type": "TIME_PERIOD"
+      },
+      {
+        "text": "bị xử lý kỷ luật cách chức",
+        "type": "PENALTY"
+      },
+      {
+        "text": "03 năm",
+        "type": "TIME_PERIOD"
+      },
+      {
+        "text": "không tiếp tục vi phạm kỷ luật lao động",
+        "type": "CONDITION"
+      },
+      {
+        "text": "đương nhiên được xóa kỷ luật",
+        "type": "RIGHT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch10_d135_k2",
+    "text": "Khuyến khích người sử dụng lao động tạo điều kiện để lao động nữ, lao động nam có việc làm thường xuyên, áp dụng rộng rãi chế độ làm việc theo thời gian biểu linh hoạt, làm việc không trọn thời gian, giao việc làm tại nhà.",
+    "entities": [
+      {
+        "text": "người sử dụng lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "lao động nữ",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "lao động nam",
+        "type": "LEGAL_ROLE"
+      }
+    ]
+  },
+  {
+    "node_id": "ch10_d136_k1",
+    "text": "Bảo đảm thực hiện bình đẳng giới và các biện pháp thúc đẩy bình đẳng giới trong tuyển dụng, bố trí, sắp xếp việc làm, đào tạo, thời giờ làm việc, thời giờ nghỉ ngơi, tiền lương và các chế độ khác.",
+    "entities": [
+      {
+        "text": "bình đẳng giới",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "tuyển dụng",
+        "type": "ACTION"
+      },
+      {
+        "text": "thời giờ làm việc",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "thời giờ nghỉ ngơi",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "tiền lương",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "thực hiện",
+        "type": "ACTION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch10_d138_k2",
+    "text": "Trường hợp tạm hoãn thực hiện hợp đồng lao động, thời gian tạm hoãn do người lao động thỏa thuận với người sử dụng lao động nhưng tối thiểu phải bằng thời gian do cơ sở khám bệnh, chữa bệnh có thẩm quyền chỉ định tạm nghỉ. Trường hợp không có chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền về thời gian tạm nghỉ thì hai bên thỏa thuận về thời gian tạm hoãn thực hiện hợp đồng lao động.",
+    "entities": [
+      {
+        "text": "hợp đồng lao động",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "thỏa thuận",
+        "type": "ACTION"
+      },
+      {
+        "text": "người sử dụng lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "hai bên",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "thực hiện",
+        "type": "ACTION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch10_d142_k2",
+    "text": "Người sử dụng lao động phải cung cấp đầy đủ thông tin về tính chất nguy hiểm, nguy cơ, yêu cầu của công việc để người lao động lựa chọn và phải bảo đảm điều kiện an toàn, vệ sinh lao động cho người lao động theo quy định khi sử dụng họ làm công việc thuộc danh mục quy định tại khoản 1 Điều này.",
+    "entities": [
+      {
+        "text": "Người sử dụng lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "phải cung cấp đầy đủ thông tin",
+        "type": "OBLIGATION"
+      },
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "phải bảo đảm điều kiện an toàn, vệ sinh lao động",
+        "type": "OBLIGATION"
+      },
+      {
+        "text": "khoản 1 Điều này",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "lựa chọn",
+        "type": "ACTION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch11_muc1_d145_k1_b",
+    "text": "Bố trí giờ làm việc không ảnh hưởng đến thời gian học tập của người chưa đủ 15 tuổi;",
+    "entities": [
+      {
+        "text": "Bố trí giờ làm việc",
+        "type": "ACTION"
+      },
+      {
+        "text": "người chưa đủ 15 tuổi",
+        "type": "LEGAL_ROLE"
+      }
+    ]
+  },
+  {
+    "node_id": "ch11_muc1_d147_k1_c",
+    "text": "Sản xuất, sử dụng hoặc vận chuyển hóa chất, khí gas, chất nổ;",
+    "entities": [
+      {
+        "text": "Sản xuất, sử dụng hoặc vận chuyển",
+        "type": "ACTION"
+      },
+      {
+        "text": "vận chuyển hóa chất, khí gas, chất nổ",
+        "type": "PROHIBITION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch11_muc1_d147_k2_đ",
+    "text": "Nơi làm việc khác gây tổn hại đến sự phát triển thể lực, trí lực, nhân cách của người chưa thành niên.",
+    "entities": [
+      {
+        "text": "người chưa thành niên",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "nơi làm việc",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "gây tổn hại",
+        "type": "PROHIBITION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch11_muc3_d151_k1_a",
+    "text": "Đủ 18 tuổi trở lên và có năng lực hành vi dân sự đầy đủ;",
+    "entities": [
+      {
+        "text": "Đủ 18 tuổi trở lên",
+        "type": "CONDITION"
+      },
+      {
+        "text": "có năng lực hành vi dân sự đầy đủ",
+        "type": "CONDITION"
+      },
+      {
+        "text": "năng lực hành vi dân sự đầy đủ",
+        "type": "LEGAL_CONCEPT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch11_muc3_d151_k1_c",
+    "text": "Không phải là người đang trong thời gian chấp hành hình phạt hoặc chưa được xóa án tích hoặc đang trong thời gian bị truy cứu trách nhiệm hình sự theo quy định của pháp luật nước ngoài hoặc pháp luật Việt Nam;",
+    "entities": [
+      {
+        "text": "chấp hành hình phạt",
+        "type": "PENALTY"
+      },
+      {
+        "text": "chưa được xóa án tích",
+        "type": "PENALTY"
+      },
+      {
+        "text": "bị truy cứu trách nhiệm hình sự",
+        "type": "PENALTY"
+      },
+      {
+        "text": "theo quy định của pháp luật",
+        "type": "LEGAL_REF"
+      }
+    ]
+  },
+  {
+    "node_id": "ch11_muc3_d151_k2",
+    "text": "Thời hạn của hợp đồng lao động đối với người lao động nước ngoài làm việc tại Việt Nam không được vượt quá thời hạn của Giấy phép lao động. Khi sử dụng người lao động nước ngoài làm việc tại Việt Nam, hai bên có thể thỏa thuận giao kết nhiều lần hợp đồng lao động xác định thời hạn.",
+    "entities": [
+      {
+        "text": "hợp đồng lao động",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "người lao động nước ngoài",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "không được vượt quá",
+        "type": "PROHIBITION"
+      },
+      {
+        "text": "Giấy phép lao động",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "hai bên",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "thỏa thuận giao kết",
+        "type": "ACTION"
+      },
+      {
+        "text": "hợp đồng lao động xác định thời hạn",
+        "type": "LEGAL_CONCEPT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch11_muc3_d152_k1",
+    "text": "Doanh nghiệp, cơ quan, tổ chức, cá nhân, nhà thầu chỉ được tuyển dụng người lao động nước ngoài vào làm vị trí công việc quản lý, điều hành, chuyên gia và lao động kỹ thuật mà người lao động Việt Nam chưa đáp ứng được theo nhu cầu sản xuất, kinh doanh.",
+    "entities": [
+      {
+        "text": "tuyển dụng",
+        "type": "ACTION"
+      },
+      {
+        "text": "người lao động nước ngoài",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "người lao động Việt Nam",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "doanh nghiệp",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "cơ quan",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "tổ chức",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "cá nhân",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "nhà thầu",
+        "type": "LEGAL_ROLE"
+      }
+    ]
+  },
+  {
+    "node_id": "ch11_muc3_d154_k4",
+    "text": "Vào Việt Nam với thời hạn dưới 03 tháng để thực hiện chào bán dịch vụ.",
+    "entities": [
+      {
+        "text": "dưới 03 tháng",
+        "type": "TIME_PERIOD"
+      },
+      {
+        "text": "chào bán dịch vụ",
+        "type": "ACTION"
+      },
+      {
+        "text": "thực hiện",
+        "type": "ACTION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch11_muc3_d154_k5",
+    "text": "Vào Việt Nam với thời hạn dưới 03 tháng để xử lý sự cố, tình huống kỹ thuật, công nghệ phức tạp nảy sinh làm ảnh hưởng hoặc có nguy cơ ảnh hưởng tới sản xuất, kinh doanh mà các chuyên gia Việt Nam và các chuyên gia nước ngoài hiện đang ở Việt Nam không xử lý được.",
+    "entities": [
+      {
+        "text": "dưới 03 tháng",
+        "type": "TIME_PERIOD"
+      },
+      {
+        "text": "xử lý sự cố",
+        "type": "ACTION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch11_muc3_d154_k8",
+    "text": "Người nước ngoài kết hôn với người Việt Nam và sinh sống trên lãnh thổ Việt Nam.",
+    "entities": [
+      {
+        "text": "Người nước ngoài",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "người Việt Nam",
+        "type": "LEGAL_ROLE"
+      }
+    ]
+  },
+  {
+    "node_id": "ch11_muc3_d154_k9",
+    "text": "Trường hợp khác theo quy định của Chính phủ.",
+    "entities": [
+      {
+        "text": "Chính phủ",
+        "type": "LEGAL_ROLE"
+      }
+    ]
+  },
+  {
+    "node_id": "ch11_muc3_d156_k4",
+    "text": "Làm việc không đúng với nội dung trong giấy phép lao động đã được cấp.",
+    "entities": [
+      {
+        "text": "Làm việc",
+        "type": "ACTION"
+      },
+      {
+        "text": "giấy phép lao động",
+        "type": "LEGAL_CONCEPT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch11_muc5_d163_k1",
+    "text": "Thực hiện đầy đủ thỏa thuận đã giao kết trong hợp đồng lao động.",
+    "entities": [
+      {
+        "text": "Thực hiện",
+        "type": "ACTION"
+      },
+      {
+        "text": "hợp đồng lao động",
+        "type": "LEGAL_CONCEPT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch13_d171_k1",
+    "text": "Công đoàn cơ sở thuộc hệ thống tổ chức Công đoàn Việt Nam được thành lập ở các cơ quan, tổ chức, đơn vị, doanh nghiệp.",
+    "entities": [
+      {
+        "text": "Công đoàn cơ sở",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "Công đoàn Việt Nam",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "doanh nghiệp",
+        "type": "LEGAL_ROLE"
+      }
+    ]
+  },
+  {
+    "node_id": "ch13_d174_k1_a",
+    "text": "Tên, địa chỉ tổ chức; biểu tượng (nếu có);",
+    "entities": []
+  },
+  {
+    "node_id": "ch13_d175_k1_d",
+    "text": "Cản trở, gây khó khăn liên quan đến công việc nhằm làm suy yếu hoạt động của tổ chức đại diện người lao động tại cơ sở.",
+    "entities": [
+      {
+        "text": "Cản trở",
+        "type": "ACTION"
+      },
+      {
+        "text": "gây khó khăn",
+        "type": "ACTION"
+      },
+      {
+        "text": "tổ chức đại diện người lao động tại cơ sở",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "cản trở, gây khó khăn liên quan đến công việc nhằm làm suy yếu hoạt động của tổ chức đại diện người lao động tại cơ sở",
+        "type": "OBLIGATION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch13_d177_k4",
+    "text": "Phải gia hạn hợp đồng lao động đã giao kết đến hết nhiệm kỳ cho người lao động là thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở đang trong nhiệm kỳ mà hết hạn hợp đồng lao động.",
+    "entities": [
+      {
+        "text": "Phải gia hạn",
+        "type": "OBLIGATION"
+      },
+      {
+        "text": "hợp đồng lao động",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "tổ chức đại diện người lao động tại cơ sở",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "hết hạn hợp đồng lao động",
+        "type": "CONDITION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch13_d178_k2",
+    "text": "Đối thoại tại nơi làm việc theo quy định của Bộ luật này.",
+    "entities": [
+      {
+        "text": "Đối thoại tại nơi làm việc",
+        "type": "ACTION"
+      },
+      {
+        "text": "bộ luật lao động",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "nơi làm việc",
+        "type": "LEGAL_CONCEPT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch14_muc1_d179_k3_b",
+    "text": "Khi một bên từ chối thương lượng hoặc không tiến hành thương lượng trong thời hạn theo quy định của pháp luật.",
+    "entities": [
+      {
+        "text": "từ chối thương lượng",
+        "type": "CONDITION"
+      },
+      {
+        "text": "không tiến hành thương lượng",
+        "type": "CONDITION"
+      },
+      {
+        "text": "theo quy định của pháp luật",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "không tiến hành thương lượng trong thời hạn",
+        "type": "ACTION"
+      },
+      {
+        "text": "trong thời hạn",
+        "type": "CONDITION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch14_muc1_d180_k4",
+    "text": "Bảo đảm sự tham gia của đại diện các bên trong quá trình giải quyết tranh chấp lao động.",
+    "entities": [
+      {
+        "text": "giải quyết tranh chấp lao động",
+        "type": "ACTION"
+      },
+      {
+        "text": "các bên",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "giải quyết",
+        "type": "ACTION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch14_muc1_d181_k1",
+    "text": "Cơ quan quản lý nhà nước về lao động có trách nhiệm phối hợp với tổ chức đại diện người lao động, tổ chức đại diện người sử dụng lao động hướng dẫn, hỗ trợ và giúp đỡ các bên trong giải quyết tranh chấp lao động.",
+    "entities": [
+      {
+        "text": "Cơ quan quản lý nhà nước về lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "có trách nhiệm phối hợp",
+        "type": "OBLIGATION"
+      },
+      {
+        "text": "tổ chức đại diện người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "tổ chức đại diện người sử dụng lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "giải quyết tranh chấp lao động",
+        "type": "ACTION"
+      },
+      {
+        "text": "giải quyết",
+        "type": "ACTION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch14_muc1_d182_k1_c",
+    "text": "Yêu cầu thay đổi người tiến hành giải quyết tranh chấp lao động nếu có lý do cho rằng người đó có thể không vô tư hoặc không khách quan.",
+    "entities": [
+      {
+        "text": "Yêu cầu thay đổi",
+        "type": "ACTION"
+      },
+      {
+        "text": "người tiến hành giải quyết tranh chấp lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "có lý do cho rằng người đó có thể không vô tư hoặc không khách quan",
+        "type": "CONDITION"
+      },
+      {
+        "text": "giải quyết",
+        "type": "ACTION"
+      },
+      {
+        "text": "giải quyết tranh chấp lao động",
+        "type": "ACTION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch14_muc1_d185_k2",
+    "text": "Số lượng trọng tài viên lao động của Hội đồng trọng tài lao động do Chủ tịch Ủy ban nhân dân cấp tỉnh quyết định, ít nhất là 15 người, bao gồm số lượng ngang nhau do các bên đề cử, cụ thể như sau: a) Tối thiểu 05 thành viên do cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh đề cử, trong đó có Chủ tịch Hội đồng là đại diện lãnh đạo và thư ký Hội đồng là công chức của cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh; b) Tối thiểu 05 thành viên do công đoàn cấp tỉnh đề cử; c) Tối thiểu 05 thành viên do các tổ chức đại diện của người sử dụng lao động trên địa bàn tỉnh thống nhất đề cử.",
+    "entities": [
+      {
+        "text": "trọng tài viên lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "Hội đồng trọng tài lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "Chủ tịch Ủy ban nhân dân cấp tỉnh",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "quyết định",
+        "type": "ACTION"
+      },
+      {
+        "text": "cơ quan chuyên môn về lao động thuộc Ủy ban nhân dân cấp tỉnh",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "Chủ tịch Hội đồng",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "thư ký Hội đồng",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "công đoàn cấp tỉnh",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "tổ chức đại diện của người sử dụng lao động",
+        "type": "LEGAL_ROLE"
+      }
+    ]
+  },
+  {
+    "node_id": "ch14_muc1_d185_k2_b",
+    "text": "Tối thiểu 05 thành viên do công đoàn cấp tỉnh đề cử;",
+    "entities": [
+      {
+        "text": "công đoàn cấp tỉnh",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "đề cử",
+        "type": "ACTION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch14_muc2_d188_k1_d",
+    "text": "Về bảo hiểm xã hội theo quy định của pháp luật về bảo hiểm xã hội, về bảo hiểm y tế theo quy định của pháp luật về bảo hiểm y tế, về bảo hiểm thất nghiệp theo quy định của pháp luật về việc làm, về bảo hiểm tai nạn lao động, bệnh nghề nghiệp theo quy định của pháp luật về an toàn, vệ sinh lao động;",
+    "entities": [
+      {
+        "text": "bảo hiểm xã hội",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "bảo hiểm y tế",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "bảo hiểm thất nghiệp",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "bảo hiểm tai nạn lao động, bệnh nghề nghiệp",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "theo quy định của pháp luật",
+        "type": "LEGAL_REF"
+      }
+    ]
+  },
+  {
+    "node_id": "ch14_muc2_d190_k3",
+    "text": "Thời hiệu yêu cầu Tòa án giải quyết tranh chấp lao động cá nhân là 01 năm kể từ ngày phát hiện ra hành vi mà bên tranh chấp cho rằng quyền và lợi ích hợp pháp của mình bị vi phạm.",
+    "entities": [
+      {
+        "text": "Tòa án",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "tranh chấp lao động cá nhân",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "01 năm",
+        "type": "TIME_PERIOD"
+      },
+      {
+        "text": "giải quyết tranh chấp lao động",
+        "type": "ACTION"
+      },
+      {
+        "text": "bên tranh chấp",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "kể từ ngày phát hiện ra hành vi",
+        "type": "CONDITION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch14_muc2_d187_k2",
+    "text": "Hội đồng trọng tài lao động;",
+    "entities": [
+      {
+        "text": "Hội đồng trọng tài lao động",
+        "type": "LEGAL_ROLE"
+      }
+    ]
+  },
+  {
+    "node_id": "ch14_muc4_d196_k2",
+    "text": "Trường hợp hòa giải thành, biên bản hòa giải thành phải bao gồm đầy đủ nội dung các bên đã đạt được thỏa thuận, có chữ ký của các bên tranh chấp và hòa giải viên lao động. Biên bản hòa giải thành có giá trị pháp lý như thỏa ước lao động tập thể của doanh nghiệp.",
+    "entities": [
+      {
+        "text": "hòa giải thành",
+        "type": "CONDITION"
+      },
+      {
+        "text": "biên bản hòa giải thành",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "phải bao gồm",
+        "type": "OBLIGATION"
+      },
+      {
+        "text": "hòa giải viên lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "thỏa ước lao động tập thể",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "doanh nghiệp",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "bên tranh chấp",
+        "type": "LEGAL_ROLE"
+      }
+    ]
+  },
+  {
+    "node_id": "ch14_muc4_d196_k3_b",
+    "text": "Tổ chức đại diện người lao động có quyền tiến hành thủ tục quy định tại các điều 200, 201 và 202 của Bộ luật này để đình công.",
+    "entities": [
+      {
+        "text": "Tổ chức đại diện người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "có quyền tiến hành thủ tục",
+        "type": "RIGHT"
+      },
+      {
+        "text": "bộ luật lao động",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "Điều 200",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "Điều 201",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "Điều 202",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "đình công",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "thủ tục",
+        "type": "PROCEDURE"
+      },
+      {
+        "text": "bộ luật lao động",
+        "type": "LEGAL_REF"
+      }
+    ]
+  },
+  {
+    "node_id": "ch14_muc5_d199_k1",
+    "text": "Hòa giải không thành hoặc hết thời hạn hòa giải quy định tại khoản 2 Điều 188 của Bộ luật này mà hòa giải viên lao động không tiến hành hòa giải;",
+    "entities": [
+      {
+        "text": "Hòa giải không thành",
+        "type": "CONDITION"
+      },
+      {
+        "text": "hết thời hạn hòa giải",
+        "type": "CONDITION"
+      },
+      {
+        "text": "khoản 2 Điều 188",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "hòa giải viên lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "không tiến hành hòa giải",
+        "type": "CONDITION"
+      },
+      {
+        "text": "bộ luật lao động",
+        "type": "LEGAL_REF"
+      }
+    ]
+  },
+  {
+    "node_id": "ch14_muc5_d201_k2",
+    "text": "Nội dung lấy ý kiến bao gồm: a) Đồng ý hay không đồng ý đình công; b) Phương án của tổ chức đại diện người lao động về nội dung quy định tại các điểm b, c và d khoản 2 Điều 202 của Bộ luật này.",
+    "entities": [
+      {
+        "text": "đình công",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "tổ chức đại diện người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "điểm b khoản 2 Điều 202",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "điểm c khoản 2 Điều 202",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "điểm d khoản 2 Điều 202",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "bộ luật lao động",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "lấy ý kiến",
+        "type": "ACTION"
+      },
+      {
+        "text": "Đồng ý hay không đồng ý đình công",
+        "type": "ACTION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch14_muc5_d203_k2",
+    "text": "Tổ chức đại diện người lao động có quyền tổ chức và lãnh đạo đình công theo quy định tại Điều 198 của Bộ luật này có quyền sau đây: a) Rút quyết định đình công nếu chưa đình công hoặc chấm dứt đình công nếu đang đình công; b) Yêu cầu Tòa án tuyên bố cuộc đình công là hợp pháp.",
+    "entities": [
+      {
+        "text": "Tổ chức đại diện người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "tổ chức đại diện",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "có quyền tổ chức và lãnh đạo đình công",
+        "type": "RIGHT"
+      },
+      {
+        "text": "Điều 198",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "Rút quyết định đình công",
+        "type": "ACTION"
+      },
+      {
+        "text": "chưa đình công",
+        "type": "CONDITION"
+      },
+      {
+        "text": "chấm dứt đình công",
+        "type": "ACTION"
+      },
+      {
+        "text": "đang đình công",
+        "type": "CONDITION"
+      },
+      {
+        "text": "Tòa án",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "bộ luật lao động",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "Yêu cầu Tòa án tuyên bố cuộc đình công là hợp pháp",
+        "type": "ACTION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch14_muc5_d203_k3_b",
+    "text": "Đóng cửa tạm thời nơi làm việc trong thời gian đình công do không đủ điều kiện để duy trì hoạt động bình thường hoặc để bảo vệ tài sản;",
+    "entities": [
+      {
+        "text": "Đóng cửa tạm thời nơi làm việc",
+        "type": "ACTION"
+      },
+      {
+        "text": "nơi làm việc",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "đình công",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "không đủ điều kiện để duy trì hoạt động bình thường",
+        "type": "CONDITION"
+      },
+      {
+        "text": "bảo vệ tài sản",
+        "type": "ACTION"
+      }
+    ]
+  },
+  {
+    "node_id": "ch14_muc5_d209_k2",
+    "text": "Chính phủ quy định danh mục nơi sử dụng lao động không được đình công và việc giải quyết tranh chấp lao động tại nơi sử dụng lao động không được đình công quy định tại khoản 1 Điều này.",
+    "entities": [
+      {
+        "text": "Chính phủ",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "không được đình công",
+        "type": "PROHIBITION"
+      },
+      {
+        "text": "giải quyết tranh chấp lao động",
+        "type": "ACTION"
+      },
+      {
+        "text": "giải quyết tranh chấp",
+        "type": "LEGAL_CONCEPT"
+      },
+      {
+        "text": "điều 209",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "khoản 1 điều 209",
+        "type": "LEGAL_REF"
+      }
+    ]
+  },
+  {
+    "node_id": "ch14_muc5_d210_k2",
+    "text": "Chính phủ quy định chi tiết việc hoãn, ngừng đình công và giải quyết quyền lợi của người lao động.",
+    "entities": [
+      {
+        "text": "Chính phủ",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "hoãn, ngừng đình công",
+        "type": "ACTION"
+      },
+      {
+        "text": "người lao động",
+        "type": "LEGAL_ROLE"
+      },
+      {
+        "text": "giải quyết",
+        "type": "ACTION"
+      },
+      {
+        "text": "quyền lợi",
+        "type": "LEGAL_CONCEPT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch15_d212_k1",
+    "text": "Ban hành và tổ chức thực hiện văn bản quy phạm pháp luật về lao động.",
+    "entities": [
+      {
+        "text": "Ban hành",
+        "type": "ACTION"
+      },
+      {
+        "text": "tổ chức thực hiện",
+        "type": "ACTION"
+      },
+      {
+        "text": "văn bản quy phạm pháp luật về lao động",
+        "type": "LEGAL_CONCEPT"
+      }
+    ]
+  },
+  {
+    "node_id": "ch17_d220_k1",
+    "text": "Bộ luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2021. Bộ luật Lao động số 10/2012/QH13 hết hiệu lực thi hành kể từ ngày Bộ luật này có hiệu lực.",
+    "entities": [
+      {
+        "text": "ngày 01 tháng 01 năm 2021",
+        "type": "TIME_PERIOD"
+      },
+      {
+        "text": "Bộ luật Lao động số 10/2012/QH13",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "bộ luật lao động",
+        "type": "LEGAL_REF"
+      },
+      {
+        "text": "kể từ ngày bộ luật lao động có hiệu lực",
+        "type": "TIME_PERIOD"
+      }
+    ]
+  }
+]

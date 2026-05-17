@@ -120,8 +120,19 @@ def extract_nodes(data):
 
 all_semantic_nodes = extract_nodes(property_entities)
 print(f'TẤT CẢ SEMANTIC NODES LÀ {len(all_semantic_nodes)} NODE')
-save_json(all_semantic_nodes,'data/graph/all_semantic_nodes.json')
+save_json(all_semantic_nodes,'src/ner_re/all_semantic_nodes.json')
+
+from src.ner_re.dedup import dedup_semantic_nodes,build_ent_id_map,remap_edges,dedup_edges
+deduped_nodes = dedup_semantic_nodes(all_semantic_nodes)
+save_json(deduped_nodes,'data/graph/all_semantic_nodes.json')
+print(f'========> Đã dedup được {len(all_semantic_nodes) - len(deduped_nodes)}')
+
+entity_id_map = build_ent_id_map(deduped_nodes)
 
 all_semantic_edges = run_re(property_entities,structural_nodes)
-save_json(all_semantic_edges,'data/graph/all_semantic_edges.json')
+save_json(all_semantic_edges,'src/ner_re/all_semantic_edges.json')
 
+remapped_edges = remap_edges(all_semantic_edges, entity_id_map)
+deduped_edges = dedup_edges(remapped_edges)
+save_json(deduped_edges,'src/ner_re/deduped_edges.json')
+print(f'========> Đã dedup cạnh {len(all_semantic_edges) - len(deduped_edges)}')

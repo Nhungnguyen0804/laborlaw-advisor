@@ -10,218 +10,200 @@
       "clause_id": "ch7_muc2_d113_k1",
       "entities": [
         {
-          "id": "ent_4991",
-          "label": "nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_4985",
+          "id": "ent_4995",
           "label": "làm nghề, công việc nặng nhọc, độc hại, nguy hiểm",
           "attributes": {},
           "type": "ACTION"
         },
         {
-          "id": "ent_4981",
-          "label": "12 ngày làm việc đối với người làm công việc trong điều kiện bình thường",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_4972",
-          "label": "16 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4993",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_4994",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_4992",
-          "label": "công việc nặng",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_4986",
-          "label": "làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_4974",
-          "label": "người lao động chưa thành niên",
-          "attributes": "[\"chưa thành niên\"]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4990",
-          "label": "nặng nhọc, độc hại, nguy hiểm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_4995",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_4984",
+          "id": "ent_4976",
           "label": "đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm",
           "attributes": {},
           "type": "CONDITION"
         },
         {
-          "id": "ent_4988",
-          "label": "lương",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_4983",
-          "label": "đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm",
+          "id": "ent_4989",
+          "label": "đối với người làm công việc trong điều kiện bình thường",
           "attributes": {},
           "type": "CONDITION"
         },
         {
           "id": "ent_4971",
-          "label": "14 ngày",
+          "label": "12 ngày làm việc đối với người làm công việc trong điều kiện bình thường",
           "attributes": {},
-          "type": "TIME_PERIOD"
+          "type": "RIGHT"
         },
         {
-          "id": "ent_4976",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4977",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4970",
-          "label": "12 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4973",
-          "label": "hằng năm",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4987",
-          "label": "hợp đồng lao động",
+          "id": "ent_4983",
+          "label": "nặng nhọc, độc hại, nguy hiểm",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_4979",
+          "id": "ent_4994",
+          "label": "đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_4985",
+          "label": "công việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4973",
           "label": "12 ngày làm việc đối với người làm công việc trong điều kiện bình thường",
           "attributes": {},
           "type": "RIGHT"
         },
         {
           "id": "ent_4978",
-          "label": "thì được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau",
+          "label": "làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm",
           "attributes": {},
-          "type": "RIGHT"
+          "type": "ACTION"
         },
         {
-          "id": "ent_4975",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4969",
-          "label": "12 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4989",
-          "label": "đặc biệt nặng nhọc, độc hại, nguy hiểm",
+          "id": "ent_4984",
+          "label": "công việc nặng",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_4980",
+          "id": "ent_4972",
           "label": "được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau",
           "attributes": {},
           "type": "RIGHT"
         },
         {
+          "id": "ent_4975",
+          "label": "đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_4977",
+          "label": "làm nghề, công việc nặng nhọc, độc hại, nguy hiểm",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_4988",
+          "label": "12 ngày",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
           "id": "ent_4982",
+          "label": "nặng nhọc, độc hại, nguy hiểm",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4986",
+          "label": "công việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4991",
+          "label": "14 ngày",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_4992",
+          "label": "người lao động chưa thành niên",
+          "attributes": "[\"chưa thành niên\"]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_4980",
+          "label": "lương",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4981",
+          "label": "đặc biệt nặng nhọc, độc hại, nguy hiểm",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4970",
+          "label": "thì được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau",
+          "attributes": {},
+          "type": "RIGHT"
+        },
+        {
+          "id": "ent_4987",
+          "label": "công việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4974",
           "label": "đối với người làm công việc trong điều kiện bình thường",
           "attributes": {},
           "type": "CONDITION"
+        },
+        {
+          "id": "ent_4969",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
         }
       ],
       "rels": [
         [
-          "12 tháng",
+          "người lao động",
           "applies_to",
-          "người sử dụng lao động"
-        ],
-        [
-          "12 tháng",
-          "defines",
-          "người lao động"
-        ],
-        [
-          "14 ngày",
-          "defines",
           "đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm"
-        ],
-        [
-          "16 ngày",
-          "defines",
-          "đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm"
-        ],
-        [
-          "người sử dụng lao động",
-          "enables",
-          "thì được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau"
-        ],
-        [
-          "người sử dụng lao động",
-          "applies_to",
-          "12 tháng"
         ],
         [
           "người lao động",
           "defines",
-          "12 tháng"
+          "đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm"
         ],
         [
-          "thì được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau",
-          "enables",
-          "người sử dụng lao động"
+          "12 ngày làm việc đối với người làm công việc trong điều kiện bình thường",
+          "defines",
+          "nặng nhọc, độc hại, nguy hiểm"
+        ],
+        [
+          "được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau",
+          "defines",
+          "công việc nặng"
         ],
         [
           "đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm",
-          "defines",
-          "14 ngày"
+          "applies_to",
+          "người lao động"
+        ],
+        [
+          "đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm",
+          "enables",
+          "làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm"
         ],
         [
           "đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm",
           "defines",
-          "16 ngày"
+          "người lao động"
+        ],
+        [
+          "làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm",
+          "enables",
+          "đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm"
+        ],
+        [
+          "nặng nhọc, độc hại, nguy hiểm",
+          "defines",
+          "12 ngày làm việc đối với người làm công việc trong điều kiện bình thường"
+        ],
+        [
+          "công việc nặng",
+          "defines",
+          "được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau"
         ]
       ]
     }
@@ -237,102 +219,79 @@
       "clause_id": "ch7_muc2_d111_k1",
       "entities": [
         {
-          "id": "ent_4866",
-          "label": "24 giờ",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4875",
-          "label": "trong trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hằng tuần",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_4874",
-          "label": "trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hằng tuần",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_4868",
-          "label": "04 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4873",
-          "label": "được nghỉ tính bình quân 01 tháng ít nhất 04 ngày",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_4877",
-          "label": "trong trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hằng tuần thì người sử dụng lao động có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít nhất 04 ngày",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_4869",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4871",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4878",
+          "id": "ent_4870",
           "label": "bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít nhất 04 ngày",
           "attributes": {},
           "type": "ACTION"
         },
         {
+          "id": "ent_4868",
+          "label": "trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hằng tuần thì người sử dụng lao động có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít nhất 04 ngày",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_4875",
+          "label": "phải ghi vào nội quy lao động",
+          "attributes": {},
+          "type": "OBLIGATION"
+        },
+        {
+          "id": "ent_4866",
+          "label": "trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hằng tuần",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
           "id": "ent_4879",
+          "label": "nghỉ lễ",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4877",
+          "label": "được nghỉ bù ngày nghỉ hằng tuần vào ngày làm việc kế tiếp",
+          "attributes": {},
+          "type": "RIGHT"
+        },
+        {
+          "id": "ent_4867",
+          "label": "trong trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hằng tuần",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_4878",
+          "label": "nếu ngày nghỉ hằng tuần trùng với ngày nghỉ lễ, tết",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_4869",
+          "label": "trong trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hằng tuần thì người sử dụng lao động có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít nhất 04 ngày",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_4874",
+          "label": "nội quy lao động",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4871",
           "label": "có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít nhất 04 ngày",
           "attributes": {},
           "type": "OBLIGATION"
         },
         {
-          "id": "ent_4870",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4867",
-          "label": "01 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4872",
-          "label": "được nghỉ ít nhất 24 giờ liên tục",
+          "id": "ent_4873",
+          "label": "có quyền quyết định sắp xếp ngày nghỉ hằng tuần vào ngày chủ nhật hoặc ngày xác định khác trong tuần nhưng phải ghi vào nội quy lao động",
           "attributes": {},
           "type": "RIGHT"
-        },
-        {
-          "id": "ent_4876",
-          "label": "trường hợp đặc biệt do chu kỳ lao động không thể nghỉ hằng tuần thì người sử dụng lao động có trách nhiệm bảo đảm cho người lao động được nghỉ tính bình quân 01 tháng ít nhất 04 ngày",
-          "attributes": {},
-          "type": "CONDITION"
         }
       ],
-      "rels": [
-        [
-          "người lao động",
-          "enables",
-          "được nghỉ ít nhất 24 giờ liên tục"
-        ],
-        [
-          "được nghỉ ít nhất 24 giờ liên tục",
-          "enables",
-          "người lao động"
-        ]
-      ]
+      "rels": []
     }
   },
   {
@@ -352,165 +311,147 @@
     "chunk_id": "chunk_00323",
     "chunk_type": "clause",
     "content_with_context": "Chương 7, Mục 1, Điều 105:\nNgười sử dụng lao động có quyền quy định thời giờ làm việc theo ngày hoặc tuần nhưng phải thông báo cho người lao động biết; trường hợp theo tuần thì thời giờ làm việc bình thường không quá 10 giờ trong 01 ngày và không quá 48 giờ trong 01 tuần. Nhà nước khuyến khích người sử dụng lao động thực hiện tuần làm việc 40 giờ đối với người lao động.",
-    "rrf_score": 0.02819138376017471,
+    "rrf_score": 0.027984344422700584,
     "graph": {
       "article_id": "ch7_muc1_d105",
       "article_title": "Thời giờ làm việc bình thường",
       "clause_id": "ch7_muc1_d105_k2",
       "entities": [
         {
-          "id": "ent_4693",
-          "label": "phải thông báo cho người lao động biết",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_4673",
-          "label": "không quá 48 giờ",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4677",
-          "label": "01 tuần",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4674",
-          "label": "10 giờ",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4681",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4692",
-          "label": "thời giờ làm việc",
+          "id": "ent_4691",
+          "label": "nội quy lao động",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
           "id": "ent_4688",
-          "label": "thực hiện tuần làm việc 40 giờ đối với người lao động",
+          "label": "có trách nhiệm bảo đảm giới hạn thời gian làm việc tiếp xúc với yếu tố nguy hiểm, yếu tố có hại đúng theo quy chuẩn kỹ thuật quốc gia và pháp luật có liên quan",
           "attributes": {},
-          "type": "ACTION"
+          "type": "OBLIGATION"
         },
         {
-          "id": "ent_4680",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4684",
+          "id": "ent_4676",
           "label": "có quyền quy định thời giờ làm việc theo ngày hoặc tuần nhưng phải thông báo cho người lao động biết",
           "attributes": {},
           "type": "RIGHT"
         },
         {
-          "id": "ent_4678",
-          "label": "40 giờ",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4691",
-          "label": "thời giờ làm việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_4683",
-          "label": "không quá 10 giờ trong 01 ngày và không quá 48 giờ trong 01 tuần",
-          "attributes": {},
-          "type": "PROHIBITION"
-        },
-        {
-          "id": "ent_4672",
-          "label": "không quá 10 giờ",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4682",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4687",
+          "id": "ent_4679",
           "label": "đối với người lao động",
           "attributes": {},
           "type": "CONDITION"
         },
         {
-          "id": "ent_4690",
-          "label": "thời giờ làm việc bình thường",
+          "id": "ent_4693",
+          "label": "thời giờ làm việc",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_4675",
-          "label": "01 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4686",
-          "label": "trường hợp theo tuần thì thời giờ làm việc bình thường không quá 10 giờ trong 01 ngày và không quá 48 giờ trong 01 tuần",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_4679",
-          "label": "người sử dụng lao động",
+          "id": "ent_4674",
+          "label": "người lao động",
           "attributes": "[]",
           "type": "LEGAL_ROLE"
         },
         {
-          "id": "ent_4685",
+          "id": "ent_4684",
+          "label": "thời giờ làm việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4687",
+          "label": "bảo đảm giới hạn thời gian làm việc tiếp xúc với yếu tố nguy hiểm, yếu tố có hại đúng theo quy chuẩn kỹ thuật quốc gia và pháp luật có liên quan",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_4681",
+          "label": "thông báo cho người lao động biết",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_4675",
+          "label": "không quá 10 giờ trong 01 ngày và không quá 48 giờ trong 01 tuần",
+          "attributes": {},
+          "type": "PROHIBITION"
+        },
+        {
+          "id": "ent_4673",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_4677",
           "label": "trường hợp theo tuần",
           "attributes": {},
           "type": "CONDITION"
         },
         {
-          "id": "ent_4676",
-          "label": "48 giờ",
+          "id": "ent_4680",
+          "label": "thực hiện",
           "attributes": {},
-          "type": "TIME_PERIOD"
+          "type": "ACTION"
         },
         {
           "id": "ent_4689",
-          "label": "thông báo cho người lao động biết",
+          "label": "làm thêm giờ là khoảng thời gian làm việc ngoài thời giờ làm việc bình thường",
           "attributes": {},
           "type": "ACTION"
+        },
+        {
+          "id": "ent_4682",
+          "label": "thời giờ làm việc bình thường",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4685",
+          "label": "phải thông báo cho người lao động biết",
+          "attributes": {},
+          "type": "OBLIGATION"
+        },
+        {
+          "id": "ent_4683",
+          "label": "thời giờ làm việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4678",
+          "label": "trường hợp theo tuần thì thời giờ làm việc bình thường không quá 10 giờ trong 01 ngày và không quá 48 giờ trong 01 tuần",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_4692",
+          "label": "thời giờ làm việc bình thường",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
         }
       ],
       "rels": [
         [
-          "người sử dụng lao động",
+          "đối với người lao động",
           "enables",
-          "có quyền quy định thời giờ làm việc theo ngày hoặc tuần nhưng phải thông báo cho người lao động biết"
+          "thời giờ làm việc"
         ],
         [
-          "người sử dụng lao động",
+          "thực hiện",
           "involves",
-          "thực hiện tuần làm việc 40 giờ đối với người lao động"
+          "có trách nhiệm bảo đảm giới hạn thời gian làm việc tiếp xúc với yếu tố nguy hiểm, yếu tố có hại đúng theo quy chuẩn kỹ thuật quốc gia và pháp luật có liên quan"
         ],
         [
-          "có quyền quy định thời giờ làm việc theo ngày hoặc tuần nhưng phải thông báo cho người lao động biết",
+          "thời giờ làm việc",
           "enables",
-          "người sử dụng lao động"
+          "đối với người lao động"
         ],
         [
-          "thực hiện tuần làm việc 40 giờ đối với người lao động",
+          "có trách nhiệm bảo đảm giới hạn thời gian làm việc tiếp xúc với yếu tố nguy hiểm, yếu tố có hại đúng theo quy chuẩn kỹ thuật quốc gia và pháp luật có liên quan",
           "involves",
-          "người sử dụng lao động"
+          "thực hiện"
         ]
       ]
     }
@@ -519,173 +460,137 @@
     "chunk_id": "chunk_00393",
     "chunk_type": "clause",
     "content_with_context": "Chương 8, Mục 1, Điều 128:\nThời hạn tạm đình chỉ công việc không được quá 15 ngày, trường hợp đặc biệt không được quá 90 ngày. Trong thời gian bị tạm đình chỉ công việc, người lao động được tạm ứng 50% tiền lương trước khi bị đình chỉ công việc. Hết thời hạn tạm đình chỉ công việc, người sử dụng lao động phải nhận người lao động trở lại làm việc.",
-    "rrf_score": 0.027579737335834898,
+    "rrf_score": 0.027884615384615386,
     "graph": {
       "article_id": "ch8_muc1_d128",
       "article_title": "Tạm đình chỉ công việc",
       "clause_id": "ch8_muc1_d128_k2",
       "entities": [
         {
-          "id": "ent_5479",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
+          "id": "ent_5492",
+          "label": "trường hợp người lao động bị xử lý kỷ luật lao động, người lao động cũng không phải trả lại số tiền lương đã tạm ứng",
+          "attributes": {},
+          "type": "CONDITION"
         },
         {
-          "id": "ent_5485",
-          "label": "tạm đình chỉ công việc",
+          "id": "ent_5498",
+          "label": "bị xử lý kỷ luật lao động, người lao động cũng không phải trả lại số tiền lương đã tạm ứng",
+          "attributes": {},
+          "type": "PENALTY"
+        },
+        {
+          "id": "ent_5478",
+          "label": "đình chỉ công việc",
           "attributes": {},
           "type": "ACTION"
         },
         {
-          "id": "ent_5496",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_5480",
+          "id": "ent_5491",
           "label": "người lao động",
           "attributes": "[]",
           "type": "LEGAL_ROLE"
         },
         {
-          "id": "ent_5481",
-          "label": "không được quá 15 ngày, trường hợp đặc biệt không được quá 90 ngày",
-          "attributes": {},
-          "type": "PROHIBITION"
-        },
-        {
-          "id": "ent_5499",
-          "label": "phải nhận người lao động trở lại làm việc",
+          "id": "ent_5496",
+          "label": "phải trả lại số tiền lương đã tạm ứng",
           "attributes": {},
           "type": "OBLIGATION"
         },
         {
-          "id": "ent_5491",
+          "id": "ent_5480",
           "label": "tạm đình chỉ công việc không được quá 15 ngày, trường hợp đặc biệt không được quá 90 ngày",
           "attributes": {},
           "type": "ACTION"
         },
         {
-          "id": "ent_5500",
-          "label": "bị tạm đình chỉ công việc",
-          "attributes": {},
-          "type": "PENALTY"
-        },
-        {
-          "id": "ent_5482",
-          "label": "trường hợp đặc biệt không được quá 90 ngày",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_5477",
-          "label": "90 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_5495",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_5494",
-          "label": "tiền lương",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_5487",
-          "label": "đình chỉ công việc không được quá 15 ngày",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
           "id": "ent_5474",
-          "label": "không được quá 15 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_5488",
-          "label": "đình chỉ công việc",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_5484",
-          "label": "tạm đình chỉ công việc không được quá 15 ngày",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_5478",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_5498",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_5486",
           "label": "tạm đình chỉ công việc",
           "attributes": {},
           "type": "ACTION"
         },
         {
-          "id": "ent_5483",
-          "label": "trước khi bị đình chỉ công việc",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_5497",
+          "id": "ent_5487",
           "label": "công việc",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_5493",
-          "label": "tạm đình chỉ công việc, người sử dụng lao động phải nhận người lao động trở lại làm việc",
+          "id": "ent_5497",
+          "label": "không phải trả lại số tiền lương đã tạm ứng",
+          "attributes": {},
+          "type": "OBLIGATION"
+        },
+        {
+          "id": "ent_5486",
+          "label": "công việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5488",
+          "label": "phải nhận người lao động trở lại làm việc",
+          "attributes": {},
+          "type": "OBLIGATION"
+        },
+        {
+          "id": "ent_5483",
+          "label": "tiền lương",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5477",
+          "label": "đình chỉ công việc",
           "attributes": {},
           "type": "ACTION"
         },
         {
           "id": "ent_5489",
-          "label": "đình chỉ công việc",
+          "label": "bị tạm đình chỉ công việc",
           "attributes": {},
-          "type": "ACTION"
+          "type": "PENALTY"
         },
         {
-          "id": "ent_5490",
-          "label": "đình chỉ công việc",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_5492",
+          "id": "ent_5481",
           "label": "tạm đình chỉ công việc, người lao động được tạm ứng 50% tiền lương trước khi bị đình chỉ công việc",
           "attributes": {},
           "type": "ACTION"
         },
         {
-          "id": "ent_5475",
-          "label": "không được quá 90 ngày",
+          "id": "ent_5482",
+          "label": "tạm đình chỉ công việc, người sử dụng lao động phải nhận người lao động trở lại làm việc",
           "attributes": {},
-          "type": "TIME_PERIOD"
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5475",
+          "label": "tạm đình chỉ công việc",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5495",
+          "label": "tiền lương",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5479",
+          "label": "đình chỉ công việc",
+          "attributes": {},
+          "type": "ACTION"
         },
         {
           "id": "ent_5476",
-          "label": "15 ngày",
+          "label": "đình chỉ công việc không được quá 15 ngày",
           "attributes": {},
-          "type": "TIME_PERIOD"
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5499",
+          "label": "bị xử lý kỷ luật lao động",
+          "attributes": {},
+          "type": "PENALTY"
         }
       ],
       "rels": []
@@ -702,102 +607,76 @@
       "clause_id": "ch7_muc2_d113_k2",
       "entities": [
         {
-          "id": "ent_5015",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_5018",
-          "label": "số tháng làm việc",
+          "id": "ent_5014",
+          "label": "thì được người sử dụng lao động thanh toán tiền lương cho những ngày chưa nghỉ",
           "attributes": {},
-          "type": "LEGAL_CONCEPT"
+          "type": "RIGHT"
         },
         {
           "id": "ent_5016",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
+          "label": "trường hợp do thôi việc, bị mất việc làm mà chưa nghỉ hằng năm hoặc chưa nghỉ hết số ngày nghỉ hằng năm",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5018",
+          "label": "thanh toán tiền lương cho những ngày chưa nghỉ",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5015",
+          "label": "được người sử dụng lao động thanh toán tiền lương cho những ngày chưa nghỉ",
+          "attributes": {},
+          "type": "RIGHT"
         },
         {
           "id": "ent_5017",
-          "label": "số ngày nghỉ",
+          "label": "trường hợp do thôi việc, bị mất việc làm mà chưa nghỉ hằng năm hoặc chưa nghỉ hết số ngày nghỉ hằng năm thì được người sử dụng lao động thanh toán tiền lương cho những ngày chưa nghỉ",
           "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_5014",
-          "label": "hằng năm",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_5013",
-          "label": "12 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
+          "type": "CONDITION"
         }
       ],
       "rels": [
         [
-          "12 tháng",
-          "defines",
-          "người lao động"
-        ],
-        [
-          "12 tháng",
-          "applies_to",
-          "người sử dụng lao động"
-        ],
-        [
-          "hằng năm",
+          "thì được người sử dụng lao động thanh toán tiền lương cho những ngày chưa nghỉ",
           "has_condition",
-          "số tháng làm việc"
+          "thanh toán tiền lương cho những ngày chưa nghỉ"
         ],
         [
-          "hằng năm",
+          "thì được người sử dụng lao động thanh toán tiền lương cho những ngày chưa nghỉ",
           "applies_to",
-          "số ngày nghỉ"
+          "trường hợp do thôi việc, bị mất việc làm mà chưa nghỉ hằng năm hoặc chưa nghỉ hết số ngày nghỉ hằng năm thì được người sử dụng lao động thanh toán tiền lương cho những ngày chưa nghỉ"
         ],
         [
-          "người sử dụng lao động",
+          "được người sử dụng lao động thanh toán tiền lương cho những ngày chưa nghỉ",
           "involves",
-          "số ngày nghỉ"
+          "trường hợp do thôi việc, bị mất việc làm mà chưa nghỉ hằng năm hoặc chưa nghỉ hết số ngày nghỉ hằng năm thì được người sử dụng lao động thanh toán tiền lương cho những ngày chưa nghỉ"
         ],
         [
-          "người sử dụng lao động",
+          "trường hợp do thôi việc, bị mất việc làm mà chưa nghỉ hằng năm hoặc chưa nghỉ hết số ngày nghỉ hằng năm thì được người sử dụng lao động thanh toán tiền lương cho những ngày chưa nghỉ",
+          "has_condition",
+          "thanh toán tiền lương cho những ngày chưa nghỉ"
+        ],
+        [
+          "trường hợp do thôi việc, bị mất việc làm mà chưa nghỉ hằng năm hoặc chưa nghỉ hết số ngày nghỉ hằng năm thì được người sử dụng lao động thanh toán tiền lương cho những ngày chưa nghỉ",
           "applies_to",
-          "12 tháng"
+          "thì được người sử dụng lao động thanh toán tiền lương cho những ngày chưa nghỉ"
         ],
         [
-          "người lao động",
-          "defines",
-          "12 tháng"
-        ],
-        [
-          "số ngày nghỉ",
-          "applies_to",
-          "hằng năm"
-        ],
-        [
-          "số ngày nghỉ",
+          "trường hợp do thôi việc, bị mất việc làm mà chưa nghỉ hằng năm hoặc chưa nghỉ hết số ngày nghỉ hằng năm thì được người sử dụng lao động thanh toán tiền lương cho những ngày chưa nghỉ",
           "involves",
-          "người sử dụng lao động"
+          "được người sử dụng lao động thanh toán tiền lương cho những ngày chưa nghỉ"
         ],
         [
-          "số ngày nghỉ",
+          "thanh toán tiền lương cho những ngày chưa nghỉ",
           "has_condition",
-          "số tháng làm việc"
+          "trường hợp do thôi việc, bị mất việc làm mà chưa nghỉ hằng năm hoặc chưa nghỉ hết số ngày nghỉ hằng năm thì được người sử dụng lao động thanh toán tiền lương cho những ngày chưa nghỉ"
         ],
         [
-          "số tháng làm việc",
+          "thanh toán tiền lương cho những ngày chưa nghỉ",
           "has_condition",
-          "hằng năm"
-        ],
-        [
-          "số tháng làm việc",
-          "has_condition",
-          "số ngày nghỉ"
+          "thì được người sử dụng lao động thanh toán tiền lương cho những ngày chưa nghỉ"
         ]
       ]
     }
@@ -806,199 +685,147 @@
     "chunk_id": "chunk_00314",
     "chunk_type": "clause",
     "content_with_context": "Chương 6, Điều 101:\nNgười sử dụng lao động phải cho người lao động tạm ứng tiền lương tương ứng với số ngày người lao động tạm thời nghỉ việc để thực hiện nghĩa vụ công dân từ 01 tuần trở lên nhưng tối đa không quá 01 tháng tiền lương theo hợp đồng lao động và người lao động phải hoàn trả số tiền đã tạm ứng. Người lao động nhập ngũ theo quy định của Luật Nghĩa vụ quân sự thì không được tạm ứng tiền lương.",
-    "rrf_score": 0.02649122807017544,
+    "rrf_score": 0.02631578947368421,
     "graph": {
       "article_id": "ch6_d101",
       "article_title": "Tạm ứng tiền lương",
       "clause_id": "ch6_d101_k2",
       "entities": [
         {
+          "id": "ent_4593",
+          "label": "tiền lương",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
           "id": "ent_4591",
+          "label": "trả",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_4587",
+          "label": "không được tạm ứng tiền lương",
+          "attributes": {},
+          "type": "PROHIBITION"
+        },
+        {
+          "id": "ent_4602",
           "label": "người lao động",
           "attributes": "[]",
           "type": "LEGAL_ROLE"
         },
         {
-          "id": "ent_4604",
+          "id": "ent_4597",
           "label": "nghĩa vụ",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
           "id": "ent_4601",
-          "label": "tiền lương",
+          "label": "hằng năm",
           "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_4602",
-          "label": "tiền lương",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
+          "type": "TIME_PERIOD"
         },
         {
           "id": "ent_4590",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4582",
-          "label": "từ 01 tuần trở lên",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4607",
-          "label": "phải hoàn trả số tiền đã tạm ứng",
-          "attributes": {},
-          "type": "PENALTY"
-        },
-        {
-          "id": "ent_4588",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4596",
-          "label": "thực hiện nghĩa vụ công dân từ 01 tuần trở lên nhưng tối đa không quá 01 tháng tiền lương theo hợp đồng lao động và người lao động phải hoàn trả số tiền đã tạm ứng",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_4595",
-          "label": "không quá 01 tháng tiền lương theo hợp đồng lao động và người lao động phải hoàn trả số tiền đã tạm ứng",
-          "attributes": {},
-          "type": "PROHIBITION"
-        },
-        {
-          "id": "ent_4593",
-          "label": "thì không được tạm ứng tiền lương",
-          "attributes": {},
-          "type": "PROHIBITION"
-        },
-        {
-          "id": "ent_4583",
-          "label": "tối đa không quá 01 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4584",
-          "label": "không quá 01 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4589",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4600",
-          "label": "tiền lương",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_4606",
-          "label": "phải cho người lao động tạm ứng tiền lương tương ứng với số ngày người lao động tạm thời nghỉ việc để thực hiện nghĩa vụ công dân từ 01 tuần trở lên nhưng tối đa không quá 01 tháng tiền lương theo hợp đồng lao động và người lao động phải hoàn trả số tiền đã tạm ứng",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_4597",
           "label": "nghỉ việc",
           "attributes": {},
           "type": "ACTION"
         },
         {
+          "id": "ent_4600",
+          "label": "phải hoàn trả số tiền đã tạm ứng",
+          "attributes": {},
+          "type": "PENALTY"
+        },
+        {
           "id": "ent_4599",
-          "label": "hợp đồng lao động",
+          "label": "phải cho người lao động tạm ứng tiền lương tương ứng với số ngày người lao động tạm thời nghỉ việc để thực hiện nghĩa vụ công dân từ 01 tuần trở lên nhưng tối đa không quá 01 tháng tiền lương theo hợp đồng lao động và người lao động phải hoàn trả số tiền đã tạm ứng",
           "attributes": {},
-          "type": "LEGAL_CONCEPT"
+          "type": "OBLIGATION"
         },
         {
-          "id": "ent_4586",
-          "label": "01 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_4603",
-          "label": "nghĩa vụ",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_4592",
+          "id": "ent_4582",
           "label": "người lao động",
           "attributes": "[]",
           "type": "LEGAL_ROLE"
         },
         {
-          "id": "ent_4605",
+          "id": "ent_4598",
           "label": "theo quy định của luật nghĩa vụ quân sự",
           "attributes": {},
           "type": "LEGAL_REF"
         },
         {
-          "id": "ent_4598",
-          "label": "trả",
+          "id": "ent_4595",
+          "label": "tiền lương",
           "attributes": {},
-          "type": "ACTION"
+          "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_4594",
-          "label": "không được tạm ứng tiền lương",
+          "id": "ent_4607",
+          "label": "tiền lương",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4596",
+          "label": "nghĩa vụ",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4586",
+          "label": "thì không được tạm ứng tiền lương",
           "attributes": {},
           "type": "PROHIBITION"
         },
         {
-          "id": "ent_4585",
-          "label": "01 tuần",
-          "attributes": {},
-          "type": "TIME_PERIOD"
+          "id": "ent_4605",
+          "label": "người sử dụng lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
         },
         {
-          "id": "ent_4587",
-          "label": "người lao động nhập ngũ",
-          "attributes": "[\"nhập ngũ\"]",
-          "type": "LEGAL_ROLE"
+          "id": "ent_4588",
+          "label": "không quá 01 tháng tiền lương theo hợp đồng lao động và người lao động phải hoàn trả số tiền đã tạm ứng",
+          "attributes": {},
+          "type": "PROHIBITION"
+        },
+        {
+          "id": "ent_4592",
+          "label": "hợp đồng lao động",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_4594",
+          "label": "tiền lương",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
         }
       ],
       "rels": [
         [
-          "người lao động nhập ngũ",
+          "không được tạm ứng tiền lương",
           "applies_to",
-          "theo quy định của luật nghĩa vụ quân sự"
+          "người sử dụng lao động"
+        ],
+        [
+          "tiền lương",
+          "prohibits",
+          "người sử dụng lao động"
         ],
         [
           "người sử dụng lao động",
-          "requires",
-          "phải cho người lao động tạm ứng tiền lương tương ứng với số ngày người lao động tạm thời nghỉ việc để thực hiện nghĩa vụ công dân từ 01 tuần trở lên nhưng tối đa không quá 01 tháng tiền lương theo hợp đồng lao động và người lao động phải hoàn trả số tiền đã tạm ứng"
-        ],
-        [
-          "thì không được tạm ứng tiền lương",
           "prohibits",
-          "theo quy định của luật nghĩa vụ quân sự"
+          "tiền lương"
         ],
         [
-          "theo quy định của luật nghĩa vụ quân sự",
-          "prohibits",
-          "thì không được tạm ứng tiền lương"
-        ],
-        [
-          "theo quy định của luật nghĩa vụ quân sự",
+          "người sử dụng lao động",
           "applies_to",
-          "người lao động nhập ngũ"
-        ],
-        [
-          "phải cho người lao động tạm ứng tiền lương tương ứng với số ngày người lao động tạm thời nghỉ việc để thực hiện nghĩa vụ công dân từ 01 tuần trở lên nhưng tối đa không quá 01 tháng tiền lương theo hợp đồng lao động và người lao động phải hoàn trả số tiền đã tạm ứng",
-          "requires",
-          "người sử dụng lao động"
+          "không được tạm ứng tiền lương"
         ]
       ]
     }
@@ -1014,40 +841,40 @@
       "clause_id": "ch7_muc2_d111_k2",
       "entities": [
         {
-          "id": "ent_4880",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
           "id": "ent_4882",
-          "label": "nội quy lao động",
+          "label": "điều 112 của bộ luật lao động",
           "attributes": {},
-          "type": "LEGAL_CONCEPT"
+          "type": "LEGAL_REF"
         },
         {
           "id": "ent_4881",
-          "label": "có quyền quyết định sắp xếp ngày nghỉ hằng tuần vào ngày chủ nhật hoặc ngày xác định khác trong tuần nhưng phải ghi vào nội quy lao động",
+          "label": "khoản 1 điều 112 của bộ luật lao động",
           "attributes": {},
-          "type": "RIGHT"
+          "type": "LEGAL_REF"
         },
         {
           "id": "ent_4883",
-          "label": "phải ghi vào nội quy lao động",
+          "label": "bộ luật lao động",
           "attributes": {},
-          "type": "OBLIGATION"
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_4880",
+          "label": "khoản 1 điều 112 của bộ luật lao động",
+          "attributes": {},
+          "type": "LEGAL_REF"
         }
       ],
       "rels": [
         [
-          "người sử dụng lao động",
+          "khoản 1 điều 112 của bộ luật lao động",
           "enables",
-          "có quyền quyết định sắp xếp ngày nghỉ hằng tuần vào ngày chủ nhật hoặc ngày xác định khác trong tuần nhưng phải ghi vào nội quy lao động"
+          "khoản 1 điều 112 của bộ luật lao động"
         ],
         [
-          "có quyền quyết định sắp xếp ngày nghỉ hằng tuần vào ngày chủ nhật hoặc ngày xác định khác trong tuần nhưng phải ghi vào nội quy lao động",
+          "khoản 1 điều 112 của bộ luật lao động",
           "enables",
-          "người sử dụng lao động"
+          "khoản 1 điều 112 của bộ luật lao động"
         ]
       ]
     }
@@ -1063,84 +890,84 @@
       "clause_id": "ch7_muc2_d111_k3",
       "entities": [
         {
+          "id": "ent_4888",
+          "label": "01 ngày liền kề trước hoặc sau",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
           "id": "ent_4884",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_4885",
-          "label": "được nghỉ bù ngày nghỉ hằng tuần vào ngày làm việc kế tiếp",
+          "label": "ngày 01 tháng 5 dương lịch",
           "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_4887",
-          "label": "nghỉ lễ",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_4886",
-          "label": "nếu ngày nghỉ hằng tuần trùng với ngày nghỉ lễ, tết",
-          "attributes": {},
-          "type": "CONDITION"
+          "type": "TIME_PERIOD"
         },
         {
           "id": "ent_4891",
-          "label": "bộ luật lao động",
+          "label": "05 ngày",
           "attributes": {},
-          "type": "LEGAL_REF"
+          "type": "TIME_PERIOD"
         },
         {
-          "id": "ent_4890",
-          "label": "điều 112 của bộ luật lao động",
+          "id": "ent_4885",
+          "label": "ngày 02 tháng 9 dương lịch",
           "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_4888",
-          "label": "khoản 1 điều 112 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
+          "type": "TIME_PERIOD"
         },
         {
           "id": "ent_4889",
-          "label": "khoản 1 điều 112 của bộ luật lao động",
+          "label": "01 ngày",
           "attributes": {},
-          "type": "LEGAL_REF"
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_4890",
+          "label": "01 tháng",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_4886",
+          "label": "ngày 10 tháng 3 âm lịch",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_4887",
+          "label": "ngày 30 tháng 4 dương lịch",
+          "attributes": {},
+          "type": "TIME_PERIOD"
         }
       ],
       "rels": [
         [
-          "người lao động",
-          "enables",
-          "được nghỉ bù ngày nghỉ hằng tuần vào ngày làm việc kế tiếp"
-        ],
-        [
-          "người lao động",
+          "ngày 01 tháng 5 dương lịch",
           "regulates",
-          "khoản 1 điều 112 của bộ luật lao động"
+          "01 ngày liền kề trước hoặc sau"
         ],
         [
-          "được nghỉ bù ngày nghỉ hằng tuần vào ngày làm việc kế tiếp",
+          "ngày 01 tháng 5 dương lịch",
           "enables",
-          "người lao động"
+          "ngày 02 tháng 9 dương lịch"
         ],
         [
-          "nếu ngày nghỉ hằng tuần trùng với ngày nghỉ lễ, tết",
+          "ngày 02 tháng 9 dương lịch",
+          "enables",
+          "ngày 01 tháng 5 dương lịch"
+        ],
+        [
+          "ngày 10 tháng 3 âm lịch",
           "cites",
-          "khoản 1 điều 112 của bộ luật lao động"
+          "01 ngày liền kề trước hoặc sau"
         ],
         [
-          "khoản 1 điều 112 của bộ luật lao động",
+          "01 ngày liền kề trước hoặc sau",
+          "cites",
+          "ngày 10 tháng 3 âm lịch"
+        ],
+        [
+          "01 ngày liền kề trước hoặc sau",
           "regulates",
-          "người lao động"
-        ],
-        [
-          "khoản 1 điều 112 của bộ luật lao động",
-          "cites",
-          "nếu ngày nghỉ hằng tuần trùng với ngày nghỉ lễ, tết"
+          "ngày 01 tháng 5 dương lịch"
         ]
       ]
     }
@@ -1156,88 +983,76 @@
       "clause_id": "ch8_muc1_d125_k4",
       "entities": [
         {
-          "id": "ent_5404",
-          "label": "trong thời hạn 30 ngày",
+          "id": "ent_5414",
+          "label": "kể từ ngày bị xử lý, nếu không tiếp tục vi phạm kỷ luật lao động thì đương nhiên được xóa kỷ luật",
           "attributes": {},
-          "type": "TIME_PERIOD"
+          "type": "CONDITION"
         },
         {
-          "id": "ent_5407",
-          "label": "30 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_5411",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_5415",
+          "id": "ent_5405",
           "label": "nội quy lao động",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_5414",
+          "id": "ent_5404",
           "label": "tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày hoặc 20 ngày cộng dồn trong thời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng",
           "attributes": {},
           "type": "ACTION"
         },
         {
-          "id": "ent_5413",
-          "label": "trong thời hạn 30 ngày hoặc 20 ngày cộng dồn trong thời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_5406",
-          "label": "05 ngày",
+          "id": "ent_5409",
+          "label": "03 tháng",
           "attributes": {},
           "type": "TIME_PERIOD"
         },
         {
-          "id": "ent_5405",
-          "label": "trong thời hạn 365 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_5408",
-          "label": "20 ngày",
+          "id": "ent_5411",
+          "label": "03 năm kể từ ngày",
           "attributes": {},
           "type": "TIME_PERIOD"
         },
         {
           "id": "ent_5410",
-          "label": "cơ sở khám bệnh, chữa bệnh có thẩm quyền",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_5409",
-          "label": "365 ngày",
+          "label": "06 tháng",
           "attributes": {},
           "type": "TIME_PERIOD"
         },
         {
-          "id": "ent_5412",
-          "label": "trường hợp được coi là có lý do chính đáng bao gồm thiên tai, hỏa hoạn, bản thân, thân nhân bị ốm có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền và trường hợp khác được quy định trong nội quy lao động",
+          "id": "ent_5406",
+          "label": "sau 03 tháng",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_5413",
+          "label": "nếu không tiếp tục vi phạm kỷ luật lao động",
           "attributes": {},
           "type": "CONDITION"
+        },
+        {
+          "id": "ent_5408",
+          "label": "sau 03 năm kể từ ngày",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_5407",
+          "label": "sau 06 tháng",
+          "attributes": {},
+          "type": "TIME_PERIOD"
         }
       ],
       "rels": [
         [
-          "người lao động",
+          "03 năm kể từ ngày",
           "involves",
-          "tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày hoặc 20 ngày cộng dồn trong thời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng"
+          "kể từ ngày bị xử lý, nếu không tiếp tục vi phạm kỷ luật lao động thì đương nhiên được xóa kỷ luật"
         ],
         [
-          "tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày hoặc 20 ngày cộng dồn trong thời hạn 365 ngày tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng",
+          "kể từ ngày bị xử lý, nếu không tiếp tục vi phạm kỷ luật lao động thì đương nhiên được xóa kỷ luật",
           "involves",
-          "người lao động"
+          "03 năm kể từ ngày"
         ]
       ]
     }

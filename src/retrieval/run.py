@@ -1,8 +1,9 @@
 from src.retrieval.bm25 import bm25_search
 from src.retrieval.semantic import semantic_search
 from src.retrieval.rrf import rrf_fusion
-from src.utils.file_utils import save_json
+from src.utils.file_utils import save_json,load_json
 from src.neo4j.query_neo4j import get_chunk_context_from_graph,query_find_rel_in_ents
+from src.retrieval.graph import run_retrieval_graph
 bm25_topk = 50
 semantic_topk = 50
 rrf_topk = 10
@@ -59,6 +60,7 @@ def get_relations_in_chunk(driver, chunk_data):
     return chunk_data
 
 def run_retrieval(driver,question,query_entities):
+    
     bm25_results = bm25_search(question,bm25_topk)
     semantic_results = semantic_search(question,semantic_topk)
     rrf_results = rrf_fusion(bm25_results, semantic_results,rrf_topk) 

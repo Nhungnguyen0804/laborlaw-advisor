@@ -52,4 +52,73 @@ def get_chunk_context_from_graph(driver, chunk_id):
             return None
         return dict(rec) 
     
+def query_structural_children(driver, parent_id, relation_type):
+    """
+    Query các node con của parent theo relation
     
+    parent_id: 'ch1_d13'
+    relation_type: 'HAS_CLAUSE'
+    
+    Returns: list of child nodes
+    """
+
+    query = f"""
+MATCH (parent {{node_id: $parent_id}})-[r:{relation_type}]->(child)
+RETURN
+    child.node_id AS id,
+    child.node_type AS type,
+    child.label AS text,
+    COALESCE(
+        CASE child.node_type
+            WHEN 'CHAPTER' THEN child.chapter_title
+            WHEN 'ARTICLE' THEN child.article_title
+            WHEN 'CLAUSE'  THEN child.clause_content
+            WHEN 'POINT'   THEN child.point_content
+        END,
+        child.label
+    ) AS content
+ORDER BY
+    CASE
+        WHEN child.chapter_num IS NOT NULL THEN toInteger(child.chapter_num)
+        WHEN child.article_num IS NOT NULL THEN toInteger(child.article_num)
+        WHEN child.clause_num  IS NOT NULL THEN toInteger(child.clause_num)
+        ELSE 0
+    END,
+    child.point_label
+"""
+
+    with driver.session() as session:
+        result = session.run(
+            query, 
+            parent_id=parent_id,
+            rel_type=relation_type
+        )
+        
+        children = []
+        for record in result:
+            children.append({
+                'id': record['id'],
+                'type': record['type'],
+                'text': record['text'],
+                "content": record["content"]
+            })
+        
+        return children
+    
+
+def query_point_node_direct(driver, node_id):
+    query = """
+    MATCH (n {node_id: $node_id})
+    RETURN n.node_id as id, n.label as text, n.point_content as content, n.node_type as type
+    """
+    with driver.session() as session:
+        result = session.run(query, node_id=node_id)
+        record = result.single()
+        if record:
+            return [{
+                'id': record['id'],
+                'text': record['text'],
+                'content': record['content'] if record['content'] else record['text'],
+                'type': record['type']
+            }]
+        return None

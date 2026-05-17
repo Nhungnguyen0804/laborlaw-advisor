@@ -31,3 +31,5 @@ def save_txt(lines, output_path, mode="w"):
             f.write(lines)
 
     print(f"Lưu tại {output_path}")
+
+

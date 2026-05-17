@@ -30,11 +30,10 @@ TYPE_MAP = {
     "DEFINITION_POINT": ("LEGAL_CONCEPT", "by_point_title"),
 }
 
-def extract_entities_from_question(text, COMPILED):
-    
+def extract_entities_from_question(question, COMPILED):
     
 
-    if not text:
+    if not question:
         return []
 
     entities = []
@@ -43,7 +42,7 @@ def extract_entities_from_question(text, COMPILED):
     for entity_type, regex_list in COMPILED.items():
 
         for regex in regex_list:
-            matches = regex.finditer(text)
+            matches = regex.finditer(question)
 
             for match in matches:
                 start = match.start()

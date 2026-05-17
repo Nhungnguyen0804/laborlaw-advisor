@@ -19,6 +19,8 @@ bị xử lý kỷ luật sa thải
 bị xử lý kỷ luật, xử phạt vi phạm hành chính hoặc bị truy cứu trách nhiệm hình sự,
 bị xử phạt vi phạm hành chính hoặc truy cứu trách nhiệm hình sự,
 bồi thường thiệt hại
+chưa được xóa án tích
+chấp hành hình phạt
 cung cấp cho doanh nghiệp cho thuê lại lao động chứng cứ về hành vi vi phạm kỷ luật lao động của người lao động thuê lại để xem xét xử lý kỷ luật lao động
 giải quyết tranh chấp lao động
 hợp đồng lao động vô hiệu từng phần khi nội dung của phần đó vi phạm pháp luật nhưng không ảnh hưởng đến các phần còn lại của hợp đồng

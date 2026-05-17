@@ -74,6 +74,7 @@ LEGAL_ROLE= [
     r"đại\s+diện\s+thương\s+lượng",
 
     r"hội\s+đồng\s+trọng\s+tài\s+lao\s+động",
+    r'hội đồng tiền lương quốc gia',
     r"ban\s+trọng\s+tài\s+lao\s+động",
     r"hòa\s+giải\s+viên\s+lao\s+động",
 
@@ -154,12 +155,19 @@ LEGAL_ROLE= [
     r'hai bên',
     r'bên nhận',
     r'bên gửi',
+    r'nhà thầu',
     
 ]
 
 TIME_PERIOD = [
+    r'ngày 01 tháng 01 năm 2021',
+    r'ngày 01 tháng 5 dương lịch',
+    r'ngày 02 tháng 9 dương lịch',
+    r'ngày 10 tháng 3 âm lịch',
+    r'ngày 30 tháng 4 dương lịch',
+    r"ngày\s+\d{1,2}\s+tháng\s+\d{1,2}\s+năm\s+\d{4}",
     r"sau\s+0*(\d+)\s+(ngày|tháng|năm|giờ|phút|tuần)+(?:\s+kể\s+từ[^.,]*)?",
-    r"trước\s+0*(\d+)\s+(ngày|tháng|năm|giờ|phút|tuần)+(?:\s+kể\s+từ[^.,]*)?"
+    r"trước\s+0*(\d+)\s+(ngày|tháng|năm|giờ|phút|tuần)+(?:\s+kể\s+từ[^.,]*)?",
     r"trong\s+vòng\s+0*(\d+)\s+(ngày|tháng|năm|giờ|phút|tuần)+(?:\s+kể\s+từ[^.,]*)?",
     r"(chậm\s+nhất|muộn\s+nhất)\s+(?:là\s+)?0*(\d+)\s+(ngày|tháng|năm|giờ|phút|tuần)+(?:\s+kể\s+từ[^.,]*)?",
     r"(mỗi|cứ)\s+0*(\d+)\s+(ngày|tháng|năm|tuần)+(?:\s+kể\s+từ[^.,]*)?",
@@ -185,10 +193,6 @@ TIME_PERIOD = [
     r"hàng\s+năm+(?:\s+kể\s+từ[^.,]*)?",
     r"hằng\s+năm+(?:\s+kể\s+từ[^.,]*)?",
 
-    r'ngày 01 tháng 5 dương lịch',
-    r'ngày 02 tháng 9 dương lịch',
-    r'ngày 10 tháng 3 âm lịch',
-    r'ngày 30 tháng 4 dương lịch',
     r'trong một ngày',
     r'hằng tháng',
     r'theo tháng',
@@ -317,7 +321,7 @@ ACTION =[
     r'quan tâm\s+[^.\n;]+',
     r'đơn phương chấm dứt\s+[^.\n;]+',
     r'nâng cao trách nhiệm\s+[^.\n;]+', 
-    r'thực hiện\s+[^.\n;]+', 
+    r'thực hiện', 
     r'thuê mướn[^.\n;]+', 
     r'chấp hành\s+[^.\n;]+',
     r'lợi dụng\s+[^.\n;]+',  
@@ -450,6 +454,7 @@ LEGAL_CONCEPT=[
         r'kế hoạch phát triển kinh tế - xã hội',
         r'quản lý, điều hành, chuyên gia và lao động kỹ thuật',
         r'khung trình độ kỹ năng nghề quốc gia, khung trình độ quốc gia việt nam',
+        r'văn bản quy phạm pháp luật về lao động',
         r'các cơ chế, thiết chế hỗ trợ phát triển',
         r'công việc khai thác than trong hầm lò',
         r'chất lượng thực hiện công việc', 
@@ -479,7 +484,7 @@ LEGAL_CONCEPT=[
         r'công việc',
         r'chức danh',
         r'kế hoạch',
-        r'ý kiến',
+        # r'ý kiến',
         r'trợ cấp',
         r'nâng lương',
         r'tài sản khác',
@@ -564,6 +569,9 @@ PENALTY =[
     r'truy cứu trách nhiệm hình sự',
     r'bị khiển trách+([^.\n;]+)',
     r'bồi thường thiệt hại',
+    r'chấp hành hình phạt',
+    r'chưa được xóa án tích',
+    
 
 ]
 
