@@ -1,3 +1,9 @@
+
+from src.utils.file_utils import save_json,load_json
+import time
+import re 
+from copy import deepcopy
+
 import os
 import time
 import json
@@ -40,57 +46,9 @@ def load_qwen():
     print("Done load Qwen model!")
 
 
-def format_relations(relations):
-    """
-    Convert triples thành câu tự nhiên
-    Input: [["subject", "predicate", "object"], ...]
-    Output: "- subject [predicate] object\n- ..."
-    """
-    if not relations:
-        return ""
-    
-    formatted = []
-    for triple in relations:
-        if len(triple) == 3:
-            subject, predicate, obj = triple
-            # Chuyển thành câu dễ đọc
-            formatted.append(f"- {subject} --> {predicate} --> {obj}")
-    
-    return "\n".join(formatted)
 
+def build_messages(question):
 
-def format_context_for_llm(chunks, is_rag = False):
-    chunks = chunks[:3]  # top 3cai thien toc do
-    context_parts = []
-    for i, chunk in enumerate(chunks, 1):
-        # Lấy nội dung chính
-        
-        # Lấy metadata
-        if is_rag:
-            content = chunk.get("content", "")
-            context_parts.append(content)
-        else:
-            content = chunk.get("content_with_context", "")
-            article_title = chunk["graph"].get("article_title", "")
-            entities = [e.get("label", "") for e in chunk["graph"].get("entities", [])]
-            relations = chunk["graph"].get("rels", [])
-        
-            # Format thành text
-            part = f"""
-            [Đoạn {i}] {article_title}
-            Nội dung: {content}
-            Entities liên quan: {', '.join(entities)}
-            """
-            if relations:
-                part += f"Quan hệ:\n{format_relations(relations)}\n"
-            
-            context_parts.append(part)
-    
-    return "\n---\n".join(context_parts)
-
-def build_messages(question, chunks,is_rag):
-
-    context_text = format_context_for_llm(chunks,is_rag)
 
     system_prompt = """
 You are a Vietnamese labor law assistant.
@@ -115,7 +73,7 @@ LOGIC RULES (IMPORTANT):
 
 """
 
-    return context_text, [
+    return  [
         {
             "role": "system",
             "content": system_prompt
@@ -123,8 +81,6 @@ LOGIC RULES (IMPORTANT):
         {
             "role": "user",
             "content": f"""
-                THÔNG TIN PHÁP LUẬT LAO DỘNG VIỆT NAM:
-                {context_text}
                 CÂU HỎI:
                 {question}
                 TRẢ LỜI:
@@ -132,9 +88,9 @@ LOGIC RULES (IMPORTANT):
         }
     ]
 
-def generate_answer(question, chunks,is_rag=False):
+def generate_answer(question):
 
-    context_text,messages = build_messages(question, chunks,is_rag)
+    messages = build_messages(question)
 
     prompt = tokenizer.apply_chat_template(
         messages,
@@ -160,4 +116,41 @@ def generate_answer(question, chunks,is_rag=False):
 
     answer = raw
 
-    return context_text,answer
+    return answer
+
+def qwen( question):
+    start_time = time.perf_counter()
+    answer = ""
+    context_text = ""
+    try: 
+        load_qwen()
+        answer = generate_answer(question) 
+        end_time = time.perf_counter()
+        totalTime = round(end_time - start_time, 4)
+        print(totalTime)
+        return  answer, totalTime
+    except Exception as e:
+        print(e)
+        return None, None, 0 
+
+def run_eval_qwen(input_file, output_file):
+    qa_dataset =load_json(input_file)
+    qwen_qa = deepcopy(qa_dataset)
+   
+    
+    for index, item in enumerate(qwen_qa):
+        print(f'Câu hỏi {index +1}')
+        question = item["question"]
+        answer, totalTime = qwen(question)
+
+        item["context_text"] = ""
+        item["answer"] = answer if answer else ""
+        item["totalTime"] = totalTime
+        
+    save_json(qwen_qa, output_file)
+   
+
+QA_DATASET = 'src/eval/QA/qa.json'
+qwen_qa = 'src/eval/QA/qwen_qa.json'
+run_eval_qwen(QA_DATASET,qwen_qa)
+

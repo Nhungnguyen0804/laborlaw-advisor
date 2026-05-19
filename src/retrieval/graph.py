@@ -5,7 +5,7 @@ import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
 model = SentenceTransformer('keepitreal/vietnamese-sbert')
 from src.ner_re.common import get_article_id,roman_to_int
-from src.neo4j.query_neo4j import query_structural_children, query_point_node_direct
+from src.neo4j.query_neo4j import query_structural_children, query_point_node_direct,query_node_direct
 
 
 QUES_TEMPLATES = {
@@ -70,7 +70,7 @@ def extract_refs(text):
 
     # regex cho legal refs
     patterns = {
-        "blld":    r"(bộ\s+luật\s+lao\s+động|luật\s+lao\s+động)",
+        "blld":    r"(bllđ|bộ\s+luật\s+lao\s+động)",
         "chương": r"chương\s+([IVXLC]+|\d+)",
         "điều":   r"điều\s+(\d+)",
         "khoản":  r"khoản\s+(\d+)",
@@ -212,7 +212,7 @@ def find_relation_from_query( user_query, entity_type):
     # Kiểm tra threshold
     # Nếu similarity quá thấp
     # -> coi như không match relation nào
-    similarity_threshold = 0.5
+    similarity_threshold = 0.65
     # print('highest_similarity_score',highest_similarity_score)
     # print('best_relation_type',best_relation_type)
     if highest_similarity_score > similarity_threshold:
@@ -235,9 +235,10 @@ def run_retrieval_graph(driver,user_query):
     data = load_json('data/graph/structural_nodes.json')
     nodes = data['nodes']
     entity = find_entity_from_query(user_query, nodes)
+    print('entity: ',entity)
     # entity = {'id': 'ch1_d13', 'type': 'ARTICLE'}
     result = None
-    if entity is None:
+    if not entity:
         print('lỗi run_retrieval_graph: entity none, ko tim thay')
         return None
     else:
@@ -246,13 +247,17 @@ def run_retrieval_graph(driver,user_query):
         else:
             relation = find_relation_from_query(user_query, entity['type'])
             # relation = 'has_clause'
-            if relation is None:
+            if not relation:
                 print('lỗi run_retrieval_graph: rel None , k tim thay rel')
             else:       
                 children = query_structural_children(driver,entity['id'],relation)
+                if not children :
+                    print('k có child, query direct')
+                    children = query_node_direct(driver, entity['id'])
+                    print('node direct: ',children)
                 result = children
 
-    if result is None:
+    if not result:
         return None 
     else :
         return format_graph_result(result)

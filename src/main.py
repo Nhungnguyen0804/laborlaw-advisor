@@ -16,7 +16,8 @@ for entity_type, pattern_list in PATTERNS.items():
 # question = "Điều 113 gồm những khoản nào?"
 # question = 'Người lao động được nghỉ phép bao nhiêu ngày'
 # question ='Nội dung của điều 113'
-question ='điểm a và điểm b khoản 3 điều 18 là gì '
+# question ='điểm a và điểm b khoản 3 điều 18 là gì '
+question = 'khoản 1 và khoản 2 điều 14'
 # question = 'điều 90 thuộc chương nào'
 # question = 'luật lao động gồm bao nhiêu chương'
 

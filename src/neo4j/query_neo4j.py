@@ -122,3 +122,39 @@ def query_point_node_direct(driver, node_id):
                 'type': record['type']
             }]
         return None
+
+
+
+def query_node_direct(driver, node_id, node_type=None):
+
+    query = """
+    MATCH (n {node_id: $node_id})
+    RETURN
+        n.node_id AS id,
+        n.node_type AS type,
+        n.label AS text,
+        COALESCE(
+            CASE n.node_type
+                WHEN 'CHAPTER' THEN n.chapter_title
+                WHEN 'ARTICLE' THEN n.article_title
+                WHEN 'CLAUSE' THEN n.clause_content
+                WHEN 'POINT' THEN n.point_content
+            END,
+            n.label
+        ) AS content
+    """
+
+    with driver.session() as session:
+        result = session.run(query, node_id=node_id)
+        record = result.single()
+
+        if record:
+            resolved_type = node_type if node_type else record['type']
+            return [{
+                'id': record['id'],
+                'type':resolved_type,
+                'text': record['text'],
+                'content': record['content'] if record['content'] else record['text'],
+            }]
+
+        return None

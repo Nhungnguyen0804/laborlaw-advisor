@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "question": "điều 40 có khoản nào",
+    "answer": "",
+    "question_type": "structural",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: điều 40 có khoản nào\n\nTrả lời:",
+    "gemini_answer": "Điều 40 của Bộ luật Lao động 2019 (Luật số: 45/2019/QH14) có **2 khoản**.\n\nĐiều này quy định về việc hủy bỏ giao kết hợp đồng lao động đã có hiệu lực.",
+    "gemini_time": 5.5777
+  },
+  {
+    "id": 2,
+    "question": "điều 70 gồm khoản nào",
+    "answer": "",
+    "question_type": "structural",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: điều 70 gồm khoản nào\n\nTrả lời:",
+    "gemini_answer": "Điều 70 của Bộ luật Lao động năm 2019 (Luật số 45/2019/QH14) có tên gọi **\"Đào tạo, bồi dưỡng nghề nghiệp của người sử dụng lao động\"** và gồm **3 khoản**, cụ thể là:\n\n1.  **Khoản 1:** Quy định người sử dụng lao động tự xây dựng chương trình, tài liệu, tổ chức dạy nghề cho người lao động.\n2.  **Khoản 2:** Quy định người sử dụng lao động được đưa người lao động đi đào tạo ở trong nước hoặc nước ngoài; chi phí đào tạo hai bên tự thỏa thuận.\n3.  **Khoản 3:** Quy định người sử dụng lao động phải thông báo công khai kế hoạch đào tạo hằng năm.",
+    "gemini_time": 7.7309
+  },
+  {
+    "id": 3,
+    "question": "liệt kê khoản của điều 84",
+    "answer": "",
+    "question_type": "structural",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: liệt kê khoản của điều 84\n\nTrả lời:",
+    "gemini_answer": "Điều 84 của Bộ luật Lao động 2019 quy định về **\"Hợp đồng lao động vô hiệu từng phần\"** bao gồm **2 khoản** chính:\n\n1.  **Khoản 1:** Quy định hợp đồng lao động vô hiệu từng phần khi một phần nội dung của hợp đồng lao động vi phạm quy định của pháp luật nhưng không ảnh hưởng đến các phần còn lại.\n2.  **Khoản 2:** Quy định khi phần nội dung bị vô hiệu được xử lý bằng cách áp dụng quy định của pháp luật; quyền, lợi ích và nghĩa vụ của người lao động được giải quyết theo quy định của pháp luật và thỏa ước lao động tập thể đang áp dụng (nếu có).",
+    "gemini_time": 10.5141
+  },
+  {
+    "id": 4,
+    "question": "điều 220 có mấy khoản",
+    "answer": "",
+    "question_type": "structural",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: điều 220 có mấy khoản\n\nTrả lời:",
+    "gemini_answer": "Điều 220 của Bộ luật Lao động 2019 (Luật số 45/2019/QH14) có **5 khoản**.",
+    "gemini_time": 5.0043
+  },
+  {
+    "id": 5,
+    "question": "điều 46 gồm khoản nào",
+    "answer": "",
+    "question_type": "structural",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: điều 46 gồm khoản nào\n\nTrả lời:",
+    "gemini_answer": "Điều 46 của Bộ luật Lao động 2019 quy định về **\"Trợ cấp thôi việc\"**, gồm **3 khoản**:\n\n1.  **Khoản 1:** Quy định người sử dụng lao động có trách nhiệm trả trợ cấp thôi việc cho người lao động đã làm việc thường xuyên từ đủ 12 tháng trở lên khi chấm dứt hợp đồng lao động theo các trường hợp quy định tại khoản 1 Điều 34 của Bộ luật này; mỗi năm làm việc được trợ cấp một nửa tháng tiền lương.\n2.  **Khoản 2:** Quy định thời gian làm việc tính trợ cấp thôi việc là tổng thời gian đã làm việc thực tế trừ đi thời gian đã tham gia bảo hiểm thất nghiệp và thời gian đã được người sử dụng lao động chi trả trợ cấp thôi việc.\n3.  **Khoản 3:** Quy định tiền lương tính trợ cấp thôi việc là tiền lương bình quân của 06 tháng liền kề theo hợp đồng lao động trước khi người lao động thôi việc.",
+    "gemini_time": 5.9268
+  },
+  {
+    "id": 6,
+    "question": "các khoản của điều 169",
+    "answer": "",
+    "question_type": "structural",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: các khoản của điều 169\n\nTrả lời:",
+    "gemini_answer": "Điều 169 của Bộ luật Lao động 2019 quy định về **Tuổi nghỉ hưu** và bao gồm các khoản chính sau:\n\n1.  **Khoản 1: Tuổi nghỉ hưu trong điều kiện lao động bình thường và lộ trình điều chỉnh**\n    *   Quy định tuổi nghỉ hưu của người lao động trong điều kiện bình thường sẽ được điều chỉnh theo lộ trình.\n    *   Từ năm 2021, tuổi nghỉ hưu là **đủ 60 tuổi 03 tháng đối với nam** và **đủ 55 tuổi 04 tháng đối với nữ**.\n    *   Sau đó, cứ mỗi năm tăng thêm **03 tháng đối với nam** cho đến khi đủ 62 tuổi vào năm 2028, và tăng thêm **04 tháng đối với nữ** cho đến khi đủ 60 tuổi vào năm 2035.\n\n2.  **Khoản 2: Nghỉ hưu ở tuổi thấp hơn tuổi nghỉ hưu trong điều kiện lao động bình thường**\n    *   Quy định các trường hợp người lao động có thể nghỉ hưu ở tuổi thấp hơn nhưng không quá 05 tuổi so với tuổi quy định tại Khoản 1.\n    *   Các trường hợp này bao gồm: người bị suy giảm khả năng lao động; người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm; người làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn; một số trường hợp đặc biệt khác do Chính phủ quy định.\n\n3.  **Khoản 3: Nghỉ hưu ở tuổi cao hơn tuổi nghỉ hưu trong điều kiện lao động bình thường**\n    *   Quy định người lao động có trình độ chuyên môn, kỹ thuật cao và một số trường hợp đặc biệt khác có thể nghỉ hưu ở tuổi cao hơn nhưng không quá 05 năm so với tuổi quy định tại Khoản 1, nếu có thỏa thuận với người sử dụng lao động.",
+    "gemini_time": 10.1075
+  },
+  {
+    "id": 7,
+    "question": "khoản nào trong điều 25",
+    "answer": "",
+    "question_type": "structural",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: khoản nào trong điều 25\n\nTrả lời:",
+    "gemini_answer": "Chào bạn,\n\nTrong **Điều 25 của Bộ luật Lao động năm 2019**, quy định về **Thử việc**, có **2 khoản** chính:\n\n1.  **Khoản 1:** Quy định người sử dụng lao động và người lao động có thể thỏa thuận nội dung thử việc ghi trong hợp đồng lao động hoặc thỏa thuận về thử việc bằng việc giao kết hợp đồng thử việc.\n2.  **Khoản 2:** Quy định nội dung chủ yếu của hợp đồng thử việc gồm: thời gian thử việc; công việc và địa điểm làm việc; mức lương thử việc; chế độ làm việc, nghỉ ngơi và các điều kiện khác.",
+    "gemini_time": 5.7284
+  },
+  {
+    "id": 8,
+    "question": "liệt kê khoản của điều 21",
+    "answer": "",
+    "question_type": "structural",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: liệt kê khoản của điều 21\n\nTrả lời:",
+    "gemini_answer": "Điều 21 của Bộ luật Lao động 2019 quy định về **\"Giao kết hợp đồng lao động\"**, bao gồm **3 khoản** sau:\n\n**Khoản 1:** Hợp đồng lao động phải có những nội dung chủ yếu sau đây:\na) Tên, địa chỉ của người sử dụng lao động và họ tên, chức danh của người giao kết hợp đồng bên phía người sử dụng lao động;\nb) Họ tên, ngày tháng năm sinh, giới tính, nơi cư trú, số thẻ Căn cước công dân, Chứng minh nhân dân hoặc hộ chiếu của người giao kết hợp đồng bên phía người lao động;\nc) Công việc và địa điểm làm việc;\nd) Thời hạn của hợp đồng lao động;\ne) Mức lương theo công việc hoặc chức danh, hình thức trả lương, kỳ hạn trả lương, phụ cấp lương và các khoản bổ sung khác;\nf) Chế độ nâng bậc, nâng lương;\ng) Thời giờ làm việc, thời giờ nghỉ ngơi;\nh) Trang bị bảo hộ lao động cho người lao động;\ni) Bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp;\nk) Đào tạo, bồi dưỡng, nâng cao trình độ, kỹ năng nghề.\n\n**Khoản 2:** Đối với người lao động làm việc có liên quan trực tiếp đến bí mật kinh doanh, bí mật công nghệ theo quy định của pháp luật thì người sử dụng lao động có quyền thỏa thuận bằng văn bản với người lao động trong hợp đồng lao động về nội dung, thời hạn bảo vệ bí mật kinh doanh, bảo mật công nghệ, bồi thường thiệt hại trong trường hợp vi phạm.\n\n**Khoản 3:** Đối với người lao động làm công việc đặc thù về nghệ thuật, thể dục, thể thao có thể rút ngắn một số nội dung chủ yếu của hợp đồng lao động theo quy định của Chính phủ.",
+    "gemini_time": 8.6775
+  },
+  {
+    "id": 9,
+    "question": "khoản 1 điều 20 có điểm nào",
+    "answer": "",
+    "question_type": "structural",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: khoản 1 điều 20 có điểm nào\n\nTrả lời:",
+    "gemini_answer": "Khoản 1 Điều 20 Bộ luật Lao động 2019 quy định về các hành vi người sử dụng lao động không được làm khi giao kết, thực hiện hợp đồng lao động.\n\nCụ thể, khoản này nêu rõ: **\"Giữ bản chính giấy tờ tùy thân, văn bằng, chứng chỉ của người lao động.\"**\n\nTức là, người sử dụng lao động bị cấm giữ các giấy tờ gốc của người lao động như CCCD/CMND, bằng cấp, chứng chỉ.",
+    "gemini_time": 4.6503
+  },
+  {
+    "id": 10,
+    "question": "các điểm của khoản 2 điều 20",
+    "answer": "",
+    "question_type": "structural",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: các điểm của khoản 2 điều 20\n\nTrả lời:",
+    "gemini_answer": "Khoản 2 Điều 20 Bộ luật Lao động 2019 quy định về một hành vi mà người sử dụng lao động không được làm khi giao kết, thực hiện hợp đồng lao động. Khoản này không chia thành các điểm nhỏ (a, b, c...), mà là một quy định độc lập, cụ thể như sau:\n\n**\"Người sử dụng lao động không được yêu cầu người lao động nộp tiền bảo đảm thực hiện hợp đồng lao động hoặc tài sản có giá trị đối với việc thực hiện hợp đồng lao động.\"**",
+    "gemini_time": 5.8708
+  },
+  {
+    "id": 11,
+    "question": "điểm nào thuộc khoản 1 điều 219",
+    "answer": "",
+    "question_type": "structural",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: điểm nào thuộc khoản 1 điều 219\n\nTrả lời:",
+    "gemini_answer": "Khoản 1 Điều 219 của Bộ luật Lao động 2019 **không có các điểm (a, b, c...)** mà là một quy định duy nhất.\n\nCụ thể, Khoản 1 Điều 219 quy định như sau:\n\n\"**1. Bộ luật Lao động số 45/2019/QH14 có hiệu lực thi hành từ ngày 01 tháng 01 năm 2021.**\"",
+    "gemini_time": 4.8159
+  },
+  {
+    "id": 12,
+    "question": "liệt kê điểm trong khoản 3 điều 18",
+    "answer": "",
+    "question_type": "structural",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: liệt kê điểm trong khoản 3 điều 18\n\nTrả lời:",
+    "gemini_answer": "Theo Khoản 3 Điều 18 Bộ luật Lao động 2019, người sử dụng lao động có các nghĩa vụ sau:\n\n*   Cung cấp bản sao hợp đồng lao động đã giao kết khi người lao động yêu cầu.\n*   Cung cấp giấy tờ có liên quan đến việc thực hiện hợp đồng lao động theo quy định của pháp luật khi người lao động, cơ quan có thẩm quyền yêu cầu.",
+    "gemini_time": 5.4317
+  },
+  {
+    "id": 13,
+    "question": "khoản 4 điều 18 có điểm nào",
+    "answer": "",
+    "question_type": "structural",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: khoản 4 điều 18 có điểm nào\n\nTrả lời:",
+    "gemini_answer": "Khoản 4 Điều 18 của Bộ luật Lao động 2019 quy định rằng **Bộ trưởng Bộ Lao động - Thương binh và Xã hội quy định chi tiết việc giao kết hợp đồng lao động bằng lời nói và bằng hình thức điện tử.**",
+    "gemini_time": 4.144
+  },
+  {
+    "id": 14,
+    "question": "các điểm của khoản 1 điều 5",
+    "answer": "",
+    "question_type": "structural",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: các điểm của khoản 1 điều 5\n\nTrả lời:",
+    "gemini_answer": "Khoản 1 Điều 5 của Bộ luật Lao động 2019 quy định về quyền của người lao động, bao gồm các điểm sau:\n\n*   **a)** Làm việc; tự do lựa chọn việc làm, nơi làm việc, nghề nghiệp, học nghề, nâng cao trình độ nghề nghiệp; không bị phân biệt đối xử, cưỡng bức lao động, quấy rối tình dục tại nơi làm việc;\n*   **b)** Hưởng lương phù hợp với trình độ, kỹ năng nghề trên cơ sở thỏa thuận với người sử dụng lao động; được bảo hộ lao động, làm việc trong điều kiện bảo đảm về an toàn, vệ sinh lao động; nghỉ theo chế độ, nghỉ hằng năm có hưởng lương và được hưởng phúc lợi tập thể;\n*   **c)** Thành lập, gia nhập, hoạt động công đoàn, tổ chức của người lao động tại doanh nghiệp; yêu cầu và tham gia đối thoại, thương lượng, thỏa ước lao động tập thể với người sử dụng lao động và thực hiện các quyền khác theo quy định của pháp luật;\n*   **d)** Từ chối làm việc nếu có nguy cơ rõ ràng đe dọa trực tiếp đến tính mạng, sức khỏe trong quá trình thực hiện công việc;\n*   **đ)** Đơn phương chấm dứt hợp đồng lao động không cần lý do khi đáp ứng đủ các điều kiện theo quy định của pháp luật;\n*   **e)** Đình công;\n*   **g)** Các quyền khác theo quy định của pháp luật.",
+    "gemini_time": 7.5903
+  },
+  {
+    "id": 15,
+    "question": "điểm nào thuộc khoản 2 điều 5",
+    "answer": "",
+    "question_type": "structural",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: điểm nào thuộc khoản 2 điều 5\n\nTrả lời:",
+    "gemini_answer": "Khoản 2 Điều 5 của Bộ luật Lao động 2019 (Luật số 45/2019/QH14) quy định về các nghĩa vụ của người lao động, bao gồm các điểm sau:\n\n*   **Điểm a:** Thực hiện hợp đồng lao động, thỏa ước lao động tập thể và các thỏa thuận hợp pháp khác.\n*   **Điểm b:** Chấp hành kỷ luật lao động, nội quy lao động; tuân theo sự quản lý, điều hành, giám sát của người sử dụng lao động.\n*   **Điểm c:** Thực hiện các quy định của pháp luật về lao động, việc làm, giáo dục nghề nghiệp và bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp.",
+    "gemini_time": 4.4307
+  },
+  {
+    "id": 16,
+    "question": "khoản 1 điều 6 gồm điểm nào",
+    "answer": "",
+    "question_type": "structural",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: khoản 1 điều 6 gồm điểm nào\n\nTrả lời:",
+    "gemini_answer": "Để có thể trả lời chính xác, bạn vui lòng cho biết **Điều 6 Khoản 1 này thuộc Bộ luật hay Luật nào** (ví dụ: Bộ luật Lao động 2019, Luật Công đoàn, v.v.)?\n\nNội dung của Khoản 1 Điều 6 sẽ khác nhau tùy thuộc vào từng văn bản pháp luật cụ thể.\n\nKhi bạn cung cấp tên văn bản, tôi sẽ tra cứu và cung cấp thông tin chi tiết cho bạn.",
+    "gemini_time": 3.8559
+  },
+  {
+    "id": 17,
+    "question": "liệt kê điểm trong khoản 2 điều 6",
+    "answer": "",
+    "question_type": "structural",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: liệt kê điểm trong khoản 2 điều 6\n\nTrả lời:",
+    "gemini_answer": "Để trả lời chính xác, bạn vui lòng cho biết Điều 6 này thuộc văn bản pháp luật nào (ví dụ: Bộ luật Lao động 2019, Luật Công đoàn, v.v.).\n\nTuy nhiên, với vai trò là trợ lý pháp lý về luật lao động, tôi tạm hiểu bạn đang muốn hỏi về **khoản 2 Điều 6 của Bộ luật Lao động 2019**.\n\n**Khoản 2 Điều 6 Bộ luật Lao động 2019 quy định về nghĩa vụ của người lao động, bao gồm các điểm sau:**\n\n*   **a) Thực hiện hợp đồng lao động, thỏa ước lao động tập thể và các thỏa thuận hợp pháp khác;**\n*   **b) Chấp hành kỷ luật lao động, nội quy lao động; tuân theo sự quản lý, điều hành, giám sát hợp pháp của người sử dụng lao động;**\n*   **c) Thực hiện các quy định của pháp luật về lao động, việc làm, giáo dục nghề nghiệp và an toàn, vệ sinh lao động.**\n\nNếu bạn muốn hỏi về Điều 6 của văn bản khác, vui lòng cho tôi biết tên văn bản đó.",
+    "gemini_time": 6.4313
+  },
+  {
+    "id": 18,
+    "question": "khoản 1 và khoản 2 điều 14 là gì",
+    "answer": "",
+    "question_type": "structural",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: khoản 1 và khoản 2 điều 14 là gì\n\nTrả lời:",
+    "gemini_answer": "Điều 14 của Bộ luật Lao động số 45/2019/QH14 quy định về **Quy định chung về giao kết hợp đồng lao động**.\n\nCụ thể:\n\n*   **Khoản 1 Điều 14** quy định nguyên tắc chung:\n    *   Hợp đồng lao động phải được **giao kết bằng văn bản** (trừ trường hợp quy định tại khoản 2).\n    *   Việc giao kết phải dựa trên các nguyên tắc **tự nguyện, bình đẳng, thiện chí, hợp tác và trung thực** giữa người sử dụng lao động và người lao động.\n\n*   **Khoản 2 Điều 14** quy định trường hợp ngoại lệ:\n    *   Đối với công việc có thời hạn **dưới 01 tháng**, hai bên **có thể giao kết hợp đồng lao động bằng lời nói**.\n    *   Tuy nhiên, quy định này không áp dụng cho một số trường hợp đặc biệt mà pháp luật yêu cầu hợp đồng phải bằng văn bản, dù công việc có thời hạn dưới 01 tháng (ví dụ: lao động chưa thành niên, lao động giúp việc gia đình, hoặc một số công việc đặc thù khác theo quy định tại Điều 18 khoản 2, Điều 145 điểm a khoản 1 và Điều 162 khoản 1 của Bộ luật Lao động).",
+    "gemini_time": 8.5869
+  },
+  {
+    "id": 19,
+    "question": "điều 20 và điều 21 quy định gì",
+    "answer": "",
+    "question_type": "structural",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: điều 20 và điều 21 quy định gì\n\nTrả lời:",
+    "gemini_answer": "Điều 20 và Điều 21 của Bộ luật Lao động 2019 quy định như sau:\n\n1.  **Điều 20: Hợp đồng lao động**\n    *   Định nghĩa: Hợp đồng lao động là sự thỏa thuận giữa người lao động và người sử dụng lao động về việc làm có trả công, tiền lương, điều kiện làm việc, quyền và nghĩa vụ của mỗi bên trong quan hệ lao động.\n    *   Quyền của người sử dụng lao động: Người sử dụng lao động có quyền điều hành, quản lý, giám sát người lao động thực hiện công việc.\n\n2.  **Điều 21: Nội dung chủ yếu của hợp đồng lao động**\n    *   Quy định các nội dung bắt buộc phải có trong hợp đồng lao động, bao gồm:\n        1.  Tên, địa chỉ của người sử dụng lao động và họ tên, ngày sinh, giới tính, địa chỉ, số giấy tờ tùy thân của người lao động.\n        2.  Công việc và địa điểm làm việc.\n        3.  Thời hạn của hợp đồng lao động.\n        4.  Mức lương theo công việc hoặc chức danh, hình thức trả lương, thời hạn trả lương, phụ cấp lương và các khoản bổ sung khác.\n        5.  Chế độ nâng bậc, nâng lương.\n        6.  Thời giờ làm việc, thời giờ nghỉ ngơi.\n        7.  Trang bị bảo hộ lao động cho người lao động.\n        8.  Bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp.\n        9.  Đào tạo, bồi dưỡng, nâng cao trình độ, kỹ năng nghề.",
+    "gemini_time": 9.4942
+  },
+  {
+    "id": 20,
+    "question": "điểm a khoản 1 điều 219 và điểm b khoản 2 điều 219 là gì",
+    "answer": "",
+    "question_type": "structural",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: điểm a khoản 1 điều 219 và điểm b khoản 2 điều 219 là gì\n\nTrả lời:",
+    "gemini_answer": "Chào bạn,\n\nDựa trên Bộ luật Lao động 2019 (Luật số 45/2019/QH14), Điều 219 quy định về Hiệu lực của Bộ luật Lao động và các quy định khác của pháp luật có liên quan. Cụ thể:\n\n1.  **Về điểm a khoản 1 Điều 219:**\n    *   **Khoản 1 Điều 219** quy định: \"Bộ luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2021.\"\n    *   Tuy nhiên, **không có điểm a** trong khoản 1 Điều 219. Khoản 1 là một quy định trực tiếp về hiệu lực thi hành của Bộ luật, không chia thành các điểm nhỏ.\n\n2.  **Về điểm b khoản 2 Điều 219:**\n    *   **Điểm b khoản 2 Điều 219** quy định:\n        \"Hợp đồng lao động, thỏa ước lao động tập thể, các thỏa thuận hợp pháp khác đã giao kết trước ngày Bộ luật này có hiệu lực thì vẫn được tiếp tục thực hiện, trừ trường hợp các bên có thỏa thuận sửa đổi, bổ sung để phù hợp với quy định của Bộ luật này.\"\n\n    *   *Giải thích tóm tắt:* Quy định này có nghĩa là các hợp đồng lao động, thỏa ước lao động tập thể và các thỏa thuận hợp pháp khác đã được ký kết trước ngày Bộ luật Lao động 2019 có hiệu lực (tức trước ngày 01/01/2021) vẫn tiếp tục có giá trị và được thực hiện, trừ khi các bên thỏa thuận sửa đổi, bổ sung để đảm bảo phù hợp với các quy định mới của Bộ luật Lao động 2019.",
+    "gemini_time": 9.3994
+  },
+  {
+    "id": 21,
+    "question": "Thời giờ làm việc bình thường trong một tuần là bao nhiêu?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Thời giờ làm việc bình thường trong một tuần là bao nhiêu?\n\nTrả lời:",
+    "gemini_answer": "Theo Bộ luật Lao động 2019 (Điều 105), thời giờ làm việc bình thường không quá **48 giờ** trong một tuần.\n\nTuy nhiên, người sử dụng lao động có quyền quy định thời giờ làm việc thấp hơn, ví dụ 40 giờ/tuần, và phải thông báo cho người lao động biết.",
+    "gemini_time": 5.5684
+  },
+  {
+    "id": 22,
+    "question": "Người lao động được nghỉ lễ tết bao nhiêu ngày trong năm?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Người lao động được nghỉ lễ tết bao nhiêu ngày trong năm?\n\nTrả lời:",
+    "gemini_answer": "Theo quy định tại **Điều 112 Bộ luật Lao động 2019**, người lao động được nghỉ hưởng nguyên lương **11 ngày lễ, tết** trong năm, cụ thể như sau:\n\n1.  **Tết Dương lịch:** 01 ngày (ngày 01 tháng 01 dương lịch).\n2.  **Tết Âm lịch:** 05 ngày.\n3.  **Giỗ Tổ Hùng Vương:** 01 ngày (ngày 10 tháng 3 âm lịch).\n4.  **Ngày Giải phóng miền Nam:** 01 ngày (ngày 30 tháng 4 dương lịch).\n5.  **Ngày Quốc tế Lao động:** 01 ngày (ngày 01 tháng 5 dương lịch).\n6.  **Quốc khánh:** 02 ngày (ngày 02 tháng 9 dương lịch và 01 ngày liền kề trước hoặc sau).\n\n**Lưu ý:** Nếu các ngày lễ, tết trùng vào ngày nghỉ hằng tuần (Thứ Bảy, Chủ Nhật), người lao động sẽ được nghỉ bù vào ngày làm việc kế tiếp.",
+    "gemini_time": 7.2875
+  },
+  {
+    "id": 23,
+    "question": "Quy định về giờ làm việc ban đêm là như thế nào?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Quy định về giờ làm việc ban đêm là như thế nào?\n\nTrả lời:",
+    "gemini_answer": "Quy định về giờ làm việc ban đêm được xác định như sau:\n\n1.  **Thời gian quy định:** Giờ làm việc ban đêm được tính từ **22 giờ ngày hôm trước đến 6 giờ sáng ngày hôm sau** (Điều 106 Bộ luật Lao động 2019).\n2.  **Giới hạn giờ làm việc:**\n    *   Người lao động làm việc vào ban đêm vẫn phải tuân thủ các quy định chung về giờ làm việc bình thường: không quá 8 giờ trong 01 ngày và không quá 48 giờ trong 01 tuần (Điều 105 Bộ luật Lao động 2019).\n    *   Trường hợp làm thêm giờ vào ban đêm, tổng số giờ làm việc bình thường và số giờ làm thêm không quá 12 giờ trong 01 ngày.\n3.  **Các trường hợp bị hạn chế hoặc cấm làm việc ban đêm:** Pháp luật có những quy định đặc biệt đối với một số đối tượng nhằm bảo vệ sức khỏe và quyền lợi của họ, bao gồm:\n    *   **Lao động nữ mang thai:** Từ tháng thứ 07 hoặc từ tháng thứ 06 nếu làm việc ở vùng cao, vùng sâu, vùng xa, biên giới, hải đảo (Điều 137 Bộ luật Lao động 2019).\n    *   **Người lao động dưới 15 tuổi:** Không được làm việc vào ban đêm (Điều 143 Bộ luật Lao động 2019).\n    *   **Người lao động từ đủ 15 tuổi đến dưới 18 tuổi:** Có hạn chế làm việc ban đêm và chỉ được phép trong một số ngành nghề, công việc nhất định theo quy định của Bộ Lao động - Thương binh và Xã hội (Điều 146 Bộ luật Lao động 2019).\n    *   **Người lao động khuyết tật nặng hoặc đặc biệt nặng:** Không được làm việc ban đêm, trừ trường hợp có sự đồng ý của người lao động (Điều 160 Bộ luật Lao động 2019).\n\nCác quy định chi tiết có thể được tham khảo tại Bộ luật Lao động năm 2019.",
+    "gemini_time": 11.0247
+  },
+  {
+    "id": 24,
+    "question": "Người lao động được nghỉ phép hàng năm bao nhiêu ngày?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Người lao động được nghỉ phép hàng năm bao nhiêu ngày?\n\nTrả lời:",
+    "gemini_answer": "Người lao động được nghỉ phép hàng năm theo quy định của Bộ luật Lao động 2019 như sau:\n\n1.  **12 ngày làm việc** đối với người làm công việc trong điều kiện bình thường.\n2.  **14 ngày làm việc** đối với người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm; người làm việc ở vùng có điều kiện sinh sống khắc nghiệt; người chưa thành niên; người khuyết tật.\n3.  **16 ngày làm việc** đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm.\n\nNgoài ra, cứ đủ 05 năm làm việc cho một người sử dụng lao động thì số ngày nghỉ hằng năm của người lao động được tăng thêm 01 ngày.",
+    "gemini_time": 5.5872
+  },
+  {
+    "id": 25,
+    "question": "Thời gian nghỉ giữa ca tối thiểu là bao lâu?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Thời gian nghỉ giữa ca tối thiểu là bao lâu?\n\nTrả lời:",
+    "gemini_answer": "Căn cứ Điều 109 Bộ luật Lao động 2019, thời gian nghỉ giữa ca tối thiểu được quy định như sau:\n\n*   **30 phút** đối với người làm việc ban ngày từ 06 giờ trở lên.\n*   **45 phút** đối với người làm việc ban đêm từ 06 giờ trở lên.\n\nCả hai trường hợp này đều được **tính vào thời giờ làm việc**.\n\n**Lưu ý:** Đối với người lao động làm các công việc nặng nhọc, độc hại, nguy hiểm (theo danh mục của Bộ Lao động – Thương binh và Xã hội) làm việc liên tục từ 06 giờ trở lên, ngoài các thời gian nghỉ trên còn được nghỉ giải lao giữa ca thêm ít nhất **15 phút** (cũng tính vào giờ làm việc).",
+    "gemini_time": 9.3308
+  },
+  {
+    "id": 26,
+    "question": "Nghỉ hằng tuần được quy định như thế nào?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Nghỉ hằng tuần được quy định như thế nào?\n\nTrả lời:",
+    "gemini_answer": "Nghỉ hằng tuần được quy định tại **Điều 111 Luật Lao động 2019** như sau:\n\n1.  Mỗi tuần, người lao động được nghỉ ít nhất **24 giờ liên tục**.\n2.  Trường hợp không thể bố trí nghỉ hằng tuần thì người sử dụng lao động phải bảo đảm cho người lao động được nghỉ **trung bình ít nhất 04 ngày trong 01 tháng**.\n3.  Thông thường, ngày nghỉ hằng tuần được bố trí vào **ngày Chủ nhật**.\n4.  Nếu không thể bố trí ngày nghỉ hằng tuần vào Chủ nhật do điều kiện sản xuất, kinh doanh, người sử dụng lao động có quyền bố trí ngày nghỉ hằng tuần vào ngày khác của tuần nhưng phải **ghi rõ vào nội quy lao động**.\n5.  Đối với người lao động làm việc ban đêm, ngoài thời gian nghỉ hằng tuần theo quy định, còn được nghỉ thêm ít nhất **12 giờ sau mỗi đợt làm việc ban đêm liên tục từ 06 giờ trở lên**.",
+    "gemini_time": 9.1756
+  },
+  {
+    "id": 27,
+    "question": "Thời gian nghỉ thai sản của lao động nữ là bao lâu?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Thời gian nghỉ thai sản của lao động nữ là bao lâu?\n\nTrả lời:",
+    "gemini_answer": "Thời gian nghỉ thai sản của lao động nữ là **06 tháng**.\n\nTrong trường hợp sinh đôi trở lên, mỗi con từ con thứ hai trở đi, lao động nữ được nghỉ thêm **01 tháng**.",
+    "gemini_time": 4.8964
+  },
+  {
+    "id": 28,
+    "question": "Người lao động được nghỉ bao nhiêu ngày khi kết hôn?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Người lao động được nghỉ bao nhiêu ngày khi kết hôn?\n\nTrả lời:",
+    "gemini_answer": "Người lao động được nghỉ **03 ngày** khi bản thân kết hôn và được hưởng nguyên lương.\n\nCăn cứ theo Điều 118 Bộ luật Lao động 2019.",
+    "gemini_time": 4.5009
+  },
+  {
+    "id": 29,
+    "question": "Có mấy loại hợp đồng lao động?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Có mấy loại hợp đồng lao động?\n\nTrả lời:",
+    "gemini_answer": "Theo quy định của Bộ luật Lao động 2019 (Điều 20), có **02 loại** hợp đồng lao động:\n\n1.  **Hợp đồng lao động không xác định thời hạn:** Là hợp đồng mà trong đó hai bên không xác định thời điểm chấm dứt hiệu lực của hợp đồng.\n2.  **Hợp đồng lao động xác định thời hạn:** Là hợp đồng mà trong đó hai bên xác định thời điểm chấm dứt hiệu lực của hợp đồng trong thời gian không quá 36 tháng kể từ thời điểm có hiệu lực của hợp đồng.",
+    "gemini_time": 5.6196
+  },
+  {
+    "id": 30,
+    "question": "Thời hạn tối đa của hợp đồng lao động xác định thời hạn là bao nhiêu?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Thời hạn tối đa của hợp đồng lao động xác định thời hạn là bao nhiêu?\n\nTrả lời:",
+    "gemini_answer": "Thời hạn tối đa của hợp đồng lao động xác định thời hạn là **36 tháng** (ba mươi sáu tháng) theo quy định của Bộ luật Lao động 2019.",
+    "gemini_time": 3.14
+  },
+  {
+    "id": 31,
+    "question": "Thời gian thử việc tối đa đối với trình độ cao đẳng là bao lâu?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Thời gian thử việc tối đa đối với trình độ cao đẳng là bao lâu?\n\nTrả lời:",
+    "gemini_answer": "Thời gian thử việc tối đa đối với trình độ cao đẳng là **60 ngày**, theo quy định tại điểm c khoản 1 Điều 25 Bộ luật Lao động 2019.",
+    "gemini_time": 4.5239
+  },
+  {
+    "id": 32,
+    "question": "Người sử dụng lao động phải báo trước bao lâu khi đơn phương chấm dứt hợp đồng?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Người sử dụng lao động phải báo trước bao lâu khi đơn phương chấm dứt hợp đồng?\n\nTrả lời:",
+    "gemini_answer": "Theo quy định của Bộ luật Lao động 2019, thời gian báo trước khi người sử dụng lao động (NSDLĐ) đơn phương chấm dứt hợp đồng lao động phụ thuộc vào loại hợp đồng và lý do chấm dứt, cụ thể như sau:\n\n**1. Đối với các trường hợp NSDLĐ phải báo trước:**\n\n*   **Hợp đồng lao động không xác định thời hạn:** Ít nhất **45 ngày**.\n*   **Hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng:** Ít nhất **30 ngày**.\n*   **Hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng:** Ít nhất **03 ngày làm việc**.\n\n**2. Các trường hợp NSDLĐ không cần báo trước:**\n\nNSDLĐ không phải báo trước khi đơn phương chấm dứt hợp đồng lao động trong các trường hợp quy định tại các điểm b, c, h, i và k khoản 1 Điều 36 Bộ luật Lao động 2019, bao gồm:\n\n*   Người lao động thường xuyên không hoàn thành công việc theo hợp đồng lao động.\n*   Người lao động bị ốm đau, tai nạn đã điều trị 12 tháng liên tục đối với hợp đồng không xác định thời hạn, 06 tháng liên tục đối với hợp đồng từ 12 đến 36 tháng, hoặc quá nửa thời hạn hợp đồng đối với hợp đồng dưới 12 tháng mà khả năng làm việc chưa hồi phục.\n*   Do thiên tai, hỏa hoạn, dịch bệnh nguy hiểm, địch họa hoặc di dời, thu hẹp sản xuất, kinh doanh theo yêu cầu của cơ quan nhà nước có thẩm quyền mà người sử dụng lao động đã tìm mọi biện pháp khắc phục nhưng buộc phải cho thôi việc.\n*   Người lao động tự ý bỏ việc mà không có lý do chính đáng từ 05 ngày làm việc liên tục trở lên.\n*   Người lao động đủ tuổi nghỉ hưu, trừ trường hợp có thỏa thuận khác.\n*   Người lao động cung cấp thông tin không trung thực khi giao kết hợp đồng lao động làm ảnh hưởng đến việc tuyển dụng.",
+    "gemini_time": 13.0023
+  },
+  {
+    "id": 33,
+    "question": "Tiền lương thử việc tối thiểu phải bằng bao nhiêu phần trăm tiền lương chính thức?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Tiền lương thử việc tối thiểu phải bằng bao nhiêu phần trăm tiền lương chính thức?\n\nTrả lời:",
+    "gemini_answer": "Theo quy định tại Khoản 2 Điều 26 Bộ luật Lao động 2019, tiền lương thử việc tối thiểu phải bằng **85%** tiền lương của công việc đó (tức là tiền lương chính thức).",
+    "gemini_time": 4.5126
+  },
+  {
+    "id": 34,
+    "question": "Người lao động phải báo trước bao lâu khi đơn phương chấm dứt hợp đồng không xác định thời hạn?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Người lao động phải báo trước bao lâu khi đơn phương chấm dứt hợp đồng không xác định thời hạn?\n\nTrả lời:",
+    "gemini_answer": "Người lao động phải báo trước **ít nhất 45 ngày**.",
+    "gemini_time": 4.0525
+  },
+  {
+    "id": 35,
+    "question": "Tiền lương làm thêm giờ ngày thường được tính như thế nào?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Tiền lương làm thêm giờ ngày thường được tính như thế nào?\n\nTrả lời:",
+    "gemini_answer": "Theo quy định của pháp luật lao động Việt Nam, tiền lương làm thêm giờ vào ngày thường được tính như sau:\n\n**Tiền lương làm thêm giờ ngày thường = Tiền lương giờ thực tế của ngày làm việc bình thường x Tối thiểu 150%.**\n\n(Căn cứ Khoản 1 Điều 98 Bộ luật Lao động 2019).",
+    "gemini_time": 6.7255
+  },
+  {
+    "id": 36,
+    "question": "Tiền lương làm thêm giờ ngày nghỉ lễ tối thiểu bằng bao nhiêu phần trăm?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Tiền lương làm thêm giờ ngày nghỉ lễ tối thiểu bằng bao nhiêu phần trăm?\n\nTrả lời:",
+    "gemini_answer": "Theo quy định tại Khoản 2 Điều 98 Bộ luật Lao động 2019, tiền lương làm thêm giờ vào ngày nghỉ lễ, ngày nghỉ có hưởng lương tối thiểu bằng **300%** so với tiền lương giờ thực trả của ngày làm việc bình thường.\n\nTuy nhiên, cần lưu ý rằng **300% này là chưa bao gồm** tiền lương của ngày nghỉ lễ mà người lao động đã được hưởng (vì ngày nghỉ lễ là ngày có hưởng lương). Do đó, tổng cộng người lao động làm thêm giờ vào ngày nghỉ lễ sẽ được hưởng ít nhất là **400%** tiền lương của ngày làm việc bình thường cho mỗi giờ làm thêm đó (100% tiền lương ngày lễ + 300% tiền lương làm thêm giờ).",
+    "gemini_time": 8.2708
+  },
+  {
+    "id": 37,
+    "question": "Mức lương tối thiểu được xác định như thế nào?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Mức lương tối thiểu được xác định như thế nào?\n\nTrả lời:",
+    "gemini_answer": "Mức lương tối thiểu được xác định như sau:\n\n1.  **Cơ quan quyết định:** Do **Chính phủ** quyết định.\n2.  **Cơ sở:** Quyết định này được đưa ra trên cơ sở khuyến nghị của **Hội đồng Tiền lương Quốc gia**.\n3.  **Các yếu tố xem xét:** Hội đồng Tiền lương Quốc gia xem xét các yếu tố chính sau khi nghiên cứu và thảo luận:\n    *   Mức sống tối thiểu của người lao động và gia đình họ.\n    *   Tương quan giữa mức lương tối thiểu và mức lương bình quân của người lao động trên thị trường.\n    *   Chỉ số giá tiêu dùng, tốc độ tăng trưởng kinh tế.\n    *   Quan hệ cung, cầu lao động, việc làm và năng suất lao động.\n    *   Khả năng chi trả của doanh nghiệp.\n4.  **Hình thức và phạm vi áp dụng:** Mức lương tối thiểu được xác định theo **tháng** và theo **giờ**, áp dụng theo **vùng** (hiện có 4 vùng với các mức lương khác nhau).",
+    "gemini_time": 7.5718
+  },
+  {
+    "id": 38,
+    "question": "Tiền lương làm việc ban đêm được trả thêm bao nhiêu?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Tiền lương làm việc ban đêm được trả thêm bao nhiêu?\n\nTrả lời:",
+    "gemini_answer": "Theo Bộ luật Lao động 2019, tiền lương làm việc ban đêm được trả thêm như sau:\n\n1.  **Đối với công việc làm việc ban đêm (không phải làm thêm giờ):**\n    Người lao động được trả thêm **ít nhất bằng 30%** tiền lương tính theo đơn giá tiền lương hoặc tiền lương thực trả của công việc của ngày làm việc bình thường.\n\n2.  **Đối với công việc làm thêm giờ vào ban đêm:**\n    Ngoài việc được trả tiền lương làm thêm giờ theo quy định (ít nhất 150% đối với ngày thường, 200% đối với ngày nghỉ hằng tuần, 300% đối với ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương), người lao động còn được trả thêm **20%** tiền lương tính theo đơn giá tiền lương hoặc tiền lương thực trả của công việc làm vào ban ngày của ngày làm việc bình thường hoặc của ngày nghỉ hằng tuần hoặc của ngày nghỉ lễ, tết, ngày nghỉ có hưởng lương.\n\n**Căn cứ:** Điều 97 Bộ luật Lao động 2019.",
+    "gemini_time": 7.7573
+  },
+  {
+    "id": 39,
+    "question": "Khấu trừ tiền lương hàng tháng tối đa là bao nhiêu phần trăm?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Khấu trừ tiền lương hàng tháng tối đa là bao nhiêu phần trăm?\n\nTrả lời:",
+    "gemini_answer": "Theo quy định của Bộ luật Lao động 2019 (Điều 129), mức khấu trừ tiền lương hàng tháng tối đa **không được quá 30%** mức tiền lương thực trả hàng tháng của người lao động.\n\n**Lưu ý:** \"Tiền lương thực trả\" ở đây là tiền lương còn lại sau khi đã khấu trừ các khoản bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và thuế thu nhập cá nhân.",
+    "gemini_time": 5.4951
+  },
+  {
+    "id": 40,
+    "question": "Làm thêm giờ vào ban đêm được trả lương như thế nào?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Làm thêm giờ vào ban đêm được trả lương như thế nào?\n\nTrả lời:",
+    "gemini_answer": "Theo Điều 98 của Bộ luật Lao động 2019, tiền lương làm thêm giờ vào ban đêm được trả như sau:\n\nNgười lao động làm thêm giờ vào ban đêm sẽ được hưởng tổng cộng các khoản sau:\n\n1.  **Tiền lương làm thêm giờ ban ngày:**\n    *   Ít nhất bằng **150%** đơn giá tiền lương hoặc tiền lương thực trả theo công việc làm vào ngày thường.\n    *   Ít nhất bằng **200%** đơn giá tiền lương hoặc tiền lương thực trả theo công việc làm vào ngày nghỉ hằng tuần.\n    *   Ít nhất bằng **300%** đơn giá tiền lương hoặc tiền lương thực trả theo công việc làm vào ngày lễ, Tết, ngày nghỉ có hưởng lương (chưa kể tiền lương ngày lễ, Tết, ngày nghỉ có hưởng lương đối với người lao động hưởng lương ngày).\n\n2.  **Tiền lương làm việc vào ban đêm:** Ngoài tiền lương làm thêm giờ nêu trên, người lao động còn được trả thêm ít nhất **30%** tiền lương tính theo đơn giá tiền lương hoặc tiền lương thực trả theo công việc làm vào ban ngày của ngày làm việc đó.\n\n3.  **Tiền lương làm thêm giờ vào ban đêm:** Ngoài các khoản trên, người lao động còn được trả thêm ít nhất **20%** tiền lương tính theo đơn giá tiền lương hoặc tiền lương thực trả theo công việc làm thêm giờ vào ban ngày của ngày làm việc đó.\n\n**Tóm lại các mức tối thiểu (so với đơn giá tiền lương hoặc tiền lương thực trả theo công việc làm vào ban ngày):**\n\n*   **Làm thêm giờ vào ban đêm của ngày làm việc bình thường:** 150% (làm thêm) + 30% (ban đêm) + 20% của 150% (làm thêm ban đêm) = 150% + 30% + 30% = **210%**\n*   **Làm thêm giờ vào ban đêm của ngày nghỉ hằng tuần:** 200% (làm thêm) + 30% (ban đêm) + 20% của 200% (làm thêm ban đêm) = 200% + 30% + 40% = **270%**\n*   **Làm thêm giờ vào ban đêm của ngày lễ, Tết, ngày nghỉ có hưởng lương:** 300% (làm thêm) + 30% (ban đêm) + 20% của 300% (làm thêm ban đêm) = 300% + 30% + 60% = **390%** (chưa kể tiền lương ngày lễ, Tết, ngày nghỉ có hưởng lương).",
+    "gemini_time": 9.853
+  },
+  {
+    "id": 41,
+    "question": "Lao động nam được nghỉ bao nhiêu ngày khi vợ sinh con?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Lao động nam được nghỉ bao nhiêu ngày khi vợ sinh con?\n\nTrả lời:",
+    "gemini_answer": "Theo quy định của pháp luật Việt Nam, lao động nam được nghỉ hưởng chế độ thai sản khi vợ sinh con như sau:\n\n1.  **5 ngày làm việc** khi vợ sinh thường.\n2.  **10 ngày làm việc** khi vợ sinh mổ hoặc sinh đôi trở lên.\n3.  **14 ngày làm việc** khi vợ sinh đôi trở lên mà phải phẫu thuật.\n\nThời gian nghỉ này được tính là ngày làm việc và được hưởng chế độ bảo hiểm xã hội.\n\n**Căn cứ pháp lý:** Khoản 2 Điều 34 Luật Bảo hiểm xã hội năm 2014.",
+    "gemini_time": 7.0473
+  },
+  {
+    "id": 42,
+    "question": "Người sử dụng lao động có được sa thải lao động nữ mang thai không?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Người sử dụng lao động có được sa thải lao động nữ mang thai không?\n\nTrả lời:",
+    "gemini_answer": "Theo quy định của pháp luật lao động Việt Nam, người sử dụng lao động **không được phép sa thải** (xử lý kỷ luật lao động ở mức cao nhất) đối với lao động nữ mang thai.\n\nCụ thể:\n\n1.  **Không được xử lý kỷ luật lao động:** Điều 127.4 Bộ luật Lao động 2019 quy định người sử dụng lao động **không được xử lý kỷ luật lao động đối với lao động nữ đang trong thời gian mang thai**, nghỉ thai sản, nuôi con dưới 12 tháng tuổi. Sa thải là một hình thức xử lý kỷ luật lao động.\n2.  **Không được đơn phương chấm dứt hợp đồng lao động:** Điều 37.3 và Điều 138.3 Bộ luật Lao động 2019 quy định người sử dụng lao động **không được đơn phương chấm dứt hợp đồng lao động** đối với lao động nữ vì lý do kết hôn, mang thai, nghỉ thai sản, nuôi con dưới 12 tháng tuổi, trừ trường hợp người sử dụng lao động là cá nhân chết, bị Tòa án tuyên bố mất năng lực hành vi dân sự, mất tích hoặc đã chết hoặc người sử dụng lao động không phải là cá nhân chấm dứt hoạt động, bị cơ quan chuyên môn về đăng ký kinh doanh thu hồi giấy chứng nhận đăng ký doanh nghiệp.\n3.  **Gia hạn hợp đồng lao động:** Kể cả khi hợp đồng lao động có thời hạn hết hạn trong thời gian lao động nữ mang thai hoặc nuôi con dưới 12 tháng tuổi, người sử dụng lao động **phải ưu tiên giao kết hợp đồng lao động mới hoặc gia hạn hợp đồng lao động** cho đến khi con đủ 12 tháng tuổi, trừ trường hợp hai bên có thỏa thuận khác.\n\n**Kết luận:** Người sử dụng lao động không được sa thải lao động nữ mang thai và có những quy định rất chặt chẽ bảo vệ quyền lợi của họ trong thời kỳ này.",
+    "gemini_time": 12.6591
+  },
+  {
+    "id": 43,
+    "question": "Các hình thức xử lý kỷ luật lao động gồm những gì?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Các hình thức xử lý kỷ luật lao động gồm những gì?\n\nTrả lời:",
+    "gemini_answer": "Theo Bộ luật Lao động 2019, các hình thức xử lý kỷ luật lao động bao gồm:\n\n1.  **Khiển trách.**\n2.  **Kéo dài thời hạn nâng lương không quá 06 tháng** hoặc **cách chức.**\n3.  **Sa thải.**",
+    "gemini_time": 4.4343
+  },
+  {
+    "id": 44,
+    "question": "Thời hiệu xử lý kỷ luật lao động là bao lâu?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Thời hiệu xử lý kỷ luật lao động là bao lâu?\n\nTrả lời:",
+    "gemini_answer": "Thời hiệu xử lý kỷ luật lao động được quy định như sau:\n\n1.  **Thời hiệu thông thường:** Tối đa **06 tháng** kể từ ngày xảy ra hành vi vi phạm.\n2.  **Thời hiệu đối với hành vi đặc biệt:** Tối đa **12 tháng** kể từ ngày xảy ra hành vi vi phạm, áp dụng đối với trường hợp hành vi vi phạm liên quan trực tiếp đến tài chính, tài sản, tiết lộ bí mật công nghệ, bí mật kinh doanh.\n\n**Căn cứ pháp lý:** Điều 123 Bộ luật Lao động 2019.",
+    "gemini_time": 5.3238
+  },
+  {
+    "id": 45,
+    "question": "Trường hợp nào người lao động bị sa thải?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Trường hợp nào người lao động bị sa thải?\n\nTrả lời:",
+    "gemini_answer": "Người lao động bị sa thải là hình thức xử lý kỷ luật lao động nghiêm khắc nhất, được áp dụng khi người lao động có những hành vi vi phạm kỷ luật nghiêm trọng.\n\nCăn cứ Điều 126 Bộ luật Lao động 2019, người lao động có thể bị sa thải trong các trường hợp sau đây:\n\n1.  **Thực hiện hành vi vi phạm nghiêm trọng:** Người lao động có hành vi trộm cắp, tham ô, đánh bạc, cố ý gây thương tích, sử dụng ma túy tại nơi làm việc.\n2.  **Tiết lộ bí mật và gây thiệt hại:** Người lao động có hành vi tiết lộ bí mật kinh doanh, bí mật công nghệ, xâm phạm quyền sở hữu trí tuệ của người sử dụng lao động gây thiệt hại hoặc đe dọa gây thiệt hại nghiêm trọng tài sản, lợi ích của người sử dụng lao động.\n3.  **Quấy rối tình dục:** Người lao động có hành vi quấy rối tình dục tại nơi làm việc được quy định trong nội quy lao động.\n4.  **Tự ý bỏ việc:** Người lao động tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày hoặc 20 ngày cộng dồn trong thời hạn 365 ngày kể từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng.\n5.  **Tái phạm kỷ luật:** Người lao động lặp lại vi phạm đã bị xử lý kỷ luật khiển trách bằng văn bản mà vẫn còn thời hiệu hoặc bị xử lý kỷ luật kéo dài thời hạn nâng lương hoặc cách chức mà tái phạm trong thời gian chưa xóa kỷ luật.\n\n**Lưu ý quan trọng:** Việc sa thải phải tuân thủ nghiêm ngặt các quy định về trình tự, thủ tục xử lý kỷ luật lao động theo quy định của Bộ luật Lao động 2019 và Nghị định hướng dẫn.",
+    "gemini_time": 10.7676
+  },
+  {
+    "id": 46,
+    "question": "Không được xử lý kỷ luật lao động trong những trường hợp nào?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Không được xử lý kỷ luật lao động trong những trường hợp nào?\n\nTrả lời:",
+    "gemini_answer": "Theo quy định của Bộ luật Lao động 2019 (cụ thể là Điều 122 và Điều 126), người lao động không được xử lý kỷ luật lao động trong các trường hợp sau đây:\n\n1.  **Trong thời gian nghỉ:** Người lao động đang trong thời gian nghỉ ốm đau, điều dưỡng; nghỉ việc được sự đồng ý của người sử dụng lao động; nghỉ thai sản hoặc nuôi con dưới 12 tháng tuổi.\n2.  **Trong thời gian bị tạm giữ, tạm đình chỉ công tác, chờ kết quả điều tra, xác minh:** Người lao động đang bị tạm giữ, tạm đình chỉ công tác, hoặc đang chờ kết quả của cơ quan có thẩm quyền điều tra, xác minh và kết luận đối với hành vi vi phạm có dấu hiệu hình sự.\n3.  **Người lao động bị bệnh tâm thần hoặc bệnh khác:** Làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi tại thời điểm xảy ra hành vi vi phạm.\n4.  **Đối với cán bộ công đoàn:** Người lao động là cán bộ công đoàn đang trong thời gian thực hiện nhiệm vụ bảo vệ quyền và lợi ích hợp pháp của người lao động và công đoàn.\n5.  **Hành vi vi phạm chưa được quy định:** Hành vi vi phạm chưa được quy định trong nội quy lao động, hoặc trong hợp đồng lao động, hoặc thỏa ước lao động tập thể.\n6.  **Khi đã hết thời hiệu xử lý kỷ luật lao động:** Thời hiệu xử lý kỷ luật lao động là 06 tháng kể từ ngày xảy ra hành vi vi phạm; trường hợp hành vi vi phạm liên quan trực tiếp đến tài chính, tài sản, tiết lộ bí mật kinh doanh, bí mật công nghệ thì thời hiệu là 12 tháng. Khi thời hiệu này đã hết thì không được xử lý kỷ luật.",
+    "gemini_time": 10.6509
+  },
+  {
+    "id": 47,
+    "question": "Trợ cấp thôi việc được tính như thế nào?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Trợ cấp thôi việc được tính như thế nào?\n\nTrả lời:",
+    "gemini_answer": "Trợ cấp thôi việc được tính như sau:\n\n1.  **Mức hưởng:** Cứ mỗi năm làm việc, người lao động được trả **nửa tháng tiền lương**.\n2.  **Tiền lương tính trợ cấp:** Là tiền lương bình quân của **06 tháng liền kề** trước khi chấm dứt hợp đồng lao động.\n3.  **Thời gian làm việc tính trợ cấp:** Là tổng thời gian người lao động đã làm việc thực tế cho người sử dụng lao động **trừ đi thời gian đã tham gia bảo hiểm thất nghiệp**.\n    *   Nếu thời gian làm việc có tháng lẻ thì được làm tròn theo nguyên tắc: từ đủ 01 tháng đến dưới 06 tháng làm tròn thành 0,5 năm; từ đủ 06 tháng trở lên làm tròn thành 01 năm.\n4.  **Điều kiện:** Người lao động đã làm việc thường xuyên từ đủ **12 tháng trở lên** cho người sử dụng lao động.\n\n**Cơ sở pháp lý:** Điều 46 Bộ luật Lao động 2019.",
+    "gemini_time": 7.9841
+  },
+  {
+    "id": 48,
+    "question": "Các trường hợp chấm dứt hợp đồng lao động gồm những gì?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Các trường hợp chấm dứt hợp đồng lao động gồm những gì?\n\nTrả lời:",
+    "gemini_answer": "Theo Điều 34 Bộ luật Lao động 2019, hợp đồng lao động chấm dứt trong các trường hợp sau đây:\n\n1.  Hết thời hạn hợp đồng lao động, trừ trường hợp quy định tại khoản 4 Điều 159 của Bộ luật này.\n2.  Đã hoàn thành công việc theo hợp đồng lao động.\n3.  Hai bên thỏa thuận chấm dứt hợp đồng lao động.\n4.  Người lao động bị kết án phạt tù nhưng không được hưởng án treo hoặc không thuộc trường hợp được trả tự do theo quy định của pháp luật, tử hình hoặc bị cấm làm công việc ghi trong hợp đồng lao động theo bản án, quyết định của Tòa án đã có hiệu lực pháp luật.\n5.  Người lao động là người nước ngoài làm việc tại Việt Nam bị trục xuất theo bản án, quyết định của Tòa án đã có hiệu lực pháp luật, quyết định của cơ quan nhà nước có thẩm quyền.\n6.  Người lao động chết; bị Tòa án tuyên bố mất năng lực hành vi dân sự, mất tích hoặc đã chết.\n7.  Người sử dụng lao động là cá nhân chết; bị Tòa án tuyên bố mất năng lực hành vi dân sự, mất tích hoặc đã chết hoặc người sử dụng lao động không phải là cá nhân chấm dứt hoạt động, bị cơ quan chuyên môn về đăng ký kinh doanh hoặc cơ quan nhà nước có thẩm quyền thu hồi giấy phép đăng ký kinh doanh, giấy phép hoạt động, giấy phép đầu tư theo quy định của pháp luật.\n8.  Người lao động bị xử lý kỷ luật sa thải.\n9.  Người lao động đơn phương chấm dứt hợp đồng lao động theo quy định tại Điều 35 của Bộ luật này (chấm dứt hợp pháp).\n10. Người sử dụng lao động đơn phương chấm dứt hợp đồng lao động theo quy định tại Điều 36 của Bộ luật này (chấm dứt hợp pháp).\n11. Người sử dụng lao động cho người lao động thôi việc theo quy định tại Điều 42 và Điều 43 của Bộ luật này (thay đổi cơ cấu, công nghệ hoặc vì lý do kinh tế; sáp nhập, hợp nhất, chia, tách doanh nghiệp, hợp tác xã).\n12. Giấy phép lao động hết hiệu lực đối với người lao động nước ngoài làm việc tại Việt Nam theo quy định tại Điều 156 của Bộ luật này.\n13. Người lao động là thành viên ban lãnh đạo của tổ chức đại diện người lao động tại cơ sở mà bị xử lý kỷ luật sa thải hoặc bị Tòa án tuyên bố có tội trong trường hợp quy định tại khoản 4 Điều này.\n14. Người lao động đạt đủ điều kiện về tuổi nghỉ hưu theo quy định tại Điều 169 của Bộ luật này, trừ trường hợp có thỏa thuận khác.",
+    "gemini_time": 10.1341
+  },
+  {
+    "id": 49,
+    "question": "Tuổi lao động tối thiểu là bao nhiêu?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Tuổi lao động tối thiểu là bao nhiêu?\n\nTrả lời:",
+    "gemini_answer": "Theo quy định của Bộ luật Lao động Việt Nam (Bộ luật Lao động 2019), tuổi lao động tối thiểu là **đủ 15 tuổi**.\n\nTuy nhiên, có các trường hợp ngoại lệ:\n\n*   **Từ đủ 13 tuổi đến dưới 15 tuổi:** Chỉ được làm các công việc nhẹ theo danh mục do Bộ Lao động - Thương binh và Xã hội ban hành.\n*   **Dưới 13 tuổi:** Không được sử dụng làm việc, trừ một số lĩnh vực đặc biệt như nghệ thuật, thể dục, thể thao nhưng phải đáp ứng các điều kiện rất nghiêm ngặt (không ảnh hưởng đến sự phát triển, có sự đồng ý của cơ quan quản lý nhà nước về lao động cấp tỉnh).",
+    "gemini_time": 6.5952
+  },
+  {
+    "id": 50,
+    "question": "Điều kiện để tổ chức đình công hợp pháp là gì?",
+    "answer": "",
+    "question_type": "content",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Điều kiện để tổ chức đình công hợp pháp là gì?\n\nTrả lời:",
+    "gemini_answer": "Để tổ chức đình công hợp pháp tại Việt Nam, cần đáp ứng các điều kiện sau:\n\n1.  **Mục đích:** Đình công phải phát sinh từ tranh chấp lao động tập thể về quyền hoặc về lợi ích giữa tập thể lao động và người sử dụng lao động.\n2.  **Đã qua thủ tục giải quyết tranh chấp:**\n    *   Đối với tranh chấp về quyền: Đã được giải quyết thông qua thủ tục hòa giải không thành hoặc hết thời hạn hòa giải mà hòa giải viên lao động không tiến hành hòa giải; HOẶC đã được Hội đồng trọng tài lao động giải quyết nhưng người sử dụng lao động không thực hiện hoặc thực hiện không đúng, không đủ.\n    *   Đối với tranh chấp về lợi ích: Đã được giải quyết thông qua thủ tục hòa giải không thành hoặc hết thời hạn hòa giải mà hòa giải viên lao động không tiến hành hòa giải; HOẶC đã được Hội đồng trọng tài lao động giải quyết nhưng người sử dụng lao động không thực hiện hoặc thực hiện không đúng, không đủ.\n3.  **Quyết định đình công:** Phải do tổ chức đại diện người lao động có quyền thành lập và hoạt động hợp pháp tại cơ sở hoặc tập thể người lao động (nếu chưa có tổ chức đại diện) quyết định và thông qua bằng hình thức lấy ý kiến của tập thể lao động.\n4.  **Thông báo đình công:** Tổ chức đại diện người lao động phải gửi văn bản thông báo về thời điểm bắt đầu đình công, địa điểm, phạm vi và yêu cầu của người lao động cho người sử dụng lao động, cơ quan chuyên môn về lao động thuộc UBND cấp tỉnh và Liên đoàn Lao động cấp tỉnh ít nhất 05 ngày làm việc trước ngày bắt đầu đình công.\n5.  **Không thuộc trường hợp cấm đình công:** Đình công không được diễn ra tại nơi làm việc mà việc đình công có thể gây thiệt hại nghiêm trọng đến nền kinh tế quốc dân, lợi ích công cộng, quốc phòng, an ninh, trật tự an toàn xã hội hoặc các dịch vụ thiết yếu theo quy định của pháp luật.",
+    "gemini_time": 10.3886
+  },
+  {
+    "id": 51,
+    "question": "So sánh thời hạn báo trước khi đơn phương chấm dứt hợp đồng giữa người lao động và người sử dụng lao động với hợp đồng không xác định thời hạn",
+    "answer": "",
+    "question_type": "rel",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: So sánh thời hạn báo trước khi đơn phương chấm dứt hợp đồng giữa người lao động và người sử dụng lao động với hợp đồng không xác định thời hạn\n\nTrả lời:",
+    "gemini_answer": "Dưới đây là so sánh thời hạn báo trước khi đơn phương chấm dứt hợp đồng lao động không xác định thời hạn theo Bộ luật Lao động 2019:\n\n1.  **Đối với Người sử dụng lao động:**\n    *   **Thời hạn báo trước tối thiểu:** Phải báo trước cho người lao động **ít nhất 45 ngày**.\n    *   **Trường hợp đặc biệt:** Đối với một số ngành, nghề, công việc đặc thù, thời hạn báo trước có thể dài hơn theo quy định của Chính phủ.\n\n2.  **Đối với Người lao động:**\n    *   **Thời hạn báo trước tối thiểu:** Phải báo trước cho người sử dụng lao động **ít nhất 45 ngày**.\n    *   **Trường hợp không cần báo trước:** Người lao động có quyền đơn phương chấm dứt hợp đồng lao động mà không cần báo trước trong một số trường hợp cụ thể, ví dụ:\n        *   Không được bố trí đúng công việc, địa điểm làm việc hoặc không được bảo đảm điều kiện làm việc đã thỏa thuận.\n        *   Không được trả đủ lương hoặc trả lương không đúng thời hạn.\n        *   Bị ngược đãi, đánh đập hoặc có lời nói, hành vi xúc phạm danh dự, nhân phẩm; bị quấy rối tình dục tại nơi làm việc.\n        *   Lao động nữ mang thai phải nghỉ việc theo chỉ định của cơ sở khám bệnh, chữa bệnh.\n        *   Đủ tuổi nghỉ hưu, trừ trường hợp các bên có thỏa thuận khác.\n        *   Người sử dụng lao động cung cấp thông tin không trung thực làm ảnh hưởng đến việc thực hiện hợp đồng lao động.\n\n**Tóm tắt so sánh:**\n\n*   **Điểm giống nhau:** Thời hạn báo trước chung là **ít nhất 45 ngày** cho cả hai bên.\n*   **Điểm khác biệt chính:** Người lao động có nhiều trường hợp được quyền đơn phương chấm dứt hợp đồng mà **không cần báo trước**, trong khi người sử dụng lao động hầu như luôn phải tuân thủ thời hạn báo trước (trừ các trường hợp sa thải do vi phạm kỷ luật lao động, không phải là đơn phương chấm dứt có báo trước).",
+    "gemini_time": 8.8307
+  },
+  {
+    "id": 52,
+    "question": "Mối quan hệ giữa thời gian thử việc và loại công việc theo quy định tại Điều 25 là gì",
+    "answer": "",
+    "question_type": "rel",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Mối quan hệ giữa thời gian thử việc và loại công việc theo quy định tại Điều 25 là gì\n\nTrả lời:",
+    "gemini_answer": "Theo quy định tại Điều 25 Bộ luật Lao động 2019, mối quan hệ giữa thời gian thử việc và loại công việc là: **Thời gian thử việc tối đa được quy định phụ thuộc vào tính chất và mức độ phức tạp của công việc.**\n\nCụ thể, Điều 25 quy định các giới hạn thời gian thử việc tối đa cho từng loại công việc như sau:\n\n1.  **Không quá 180 ngày:** Đối với công việc của người quản lý doanh nghiệp.\n2.  **Không quá 60 ngày:** Đối với công việc có chức danh nghề nghiệp cần trình độ chuyên môn, kỹ thuật từ cao đẳng trở lên.\n3.  **Không quá 30 ngày:** Đối với công việc có chức danh nghề nghiệp cần trình độ chuyên môn, kỹ thuật trung cấp, công nhân kỹ thuật, nhân viên nghiệp vụ.\n4.  **Không quá 06 ngày làm việc:** Đối với công việc khác.",
+    "gemini_time": 6.1022
+  },
+  {
+    "id": 53,
+    "question": "So sánh quyền nghỉ thai sản giữa lao động nữ sinh con thường và sinh đôi",
+    "answer": "",
+    "question_type": "rel",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: So sánh quyền nghỉ thai sản giữa lao động nữ sinh con thường và sinh đôi\n\nTrả lời:",
+    "gemini_answer": "Quyền nghỉ thai sản giữa lao động nữ sinh con thường và sinh đôi tại Việt Nam có sự khác biệt về thời gian, được quy định chủ yếu tại **Bộ luật Lao động 2019** và **Luật Bảo hiểm xã hội 2014**.\n\nDưới đây là so sánh cụ thể:\n\n1.  **Đối với lao động nữ sinh con thường (sinh một con):**\n    *   Thời gian nghỉ thai sản là **6 tháng** trước và sau khi sinh con.\n    *   Thời gian nghỉ trước khi sinh tối đa không quá 2 tháng.\n\n2.  **Đối với lao động nữ sinh đôi:**\n    *   Ngoài thời gian nghỉ 6 tháng quy định cho con thứ nhất, cứ mỗi con thêm, người mẹ được nghỉ thêm **1 tháng**.\n    *   Như vậy, nếu sinh đôi, lao động nữ sẽ được nghỉ thai sản tổng cộng **7 tháng** (6 tháng cho con đầu lòng + 1 tháng cho con thứ hai).\n\n**Tóm tắt:**\n\n*   **Sinh con thường:** 6 tháng\n*   **Sinh đôi:** 7 tháng\n\nCác quy định khác như thời gian nghỉ trước sinh (tối đa 2 tháng), việc hưởng chế độ thai sản từ quỹ bảo hiểm xã hội, và quyền đi làm sớm (nếu đủ điều kiện và được người sử dụng lao động đồng ý) vẫn áp dụng tương tự.",
+    "gemini_time": 8.5548
+  },
+  {
+    "id": 54,
+    "question": "Mối liên hệ giữa tuổi nghỉ hưu và giới tính theo lộ trình đến năm 2035",
+    "answer": "",
+    "question_type": "rel",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Mối liên hệ giữa tuổi nghỉ hưu và giới tính theo lộ trình đến năm 2035\n\nTrả lời:",
+    "gemini_answer": "Mối liên hệ giữa tuổi nghỉ hưu và giới tính theo lộ trình đến năm 2035 tại Việt Nam được quy định tại Điều 169 Bộ luật Lao động 2019 và Nghị định 135/2020/NĐ-CP, thể hiện sự tăng dần về tuổi và sự chênh lệch rõ ràng giữa nam và nữ.\n\n1.  **Đối với Nam giới:**\n    *   Tuổi nghỉ hưu bắt đầu từ 60 tuổi 3 tháng vào năm 2021.\n    *   Mỗi năm tăng thêm 3 tháng cho đến khi đạt **62 tuổi** vào năm 2028.\n    *   **Đến năm 2035:** Tuổi nghỉ hưu của nam giới sẽ là **62 tuổi** và giữ nguyên từ đó.\n\n2.  **Đối với Nữ giới:**\n    *   Tuổi nghỉ hưu bắt đầu từ 55 tuổi 4 tháng vào năm 2021.\n    *   Mỗi năm tăng thêm 4 tháng cho đến khi đạt **60 tuổi** vào năm 2036.\n    *   **Đến năm 2035:** Tuổi nghỉ hưu của nữ giới sẽ là **59 tuổi 8 tháng**.\n\n**Tóm lại:** Đến năm 2035, tuổi nghỉ hưu giữa nam và nữ vẫn duy trì sự chênh lệch đáng kể theo lộ trình tăng dần, với nam giới đã đạt 62 tuổi và nữ giới sẽ là 59 tuổi 8 tháng. Cả hai giới đều trong lộ trình tăng dần tuổi nghỉ hưu, nhưng tốc độ tăng và mốc cuối cùng có sự khác biệt.",
+    "gemini_time": 9.957
+  },
+  {
+    "id": 55,
+    "question": "So sánh thời hiệu yêu cầu giải quyết tranh chấp lao động cá nhân giữa hòa giải viên và Tòa án",
+    "answer": "",
+    "question_type": "rel",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: So sánh thời hiệu yêu cầu giải quyết tranh chấp lao động cá nhân giữa hòa giải viên và Tòa án\n\nTrả lời:",
+    "gemini_answer": "Thời hiệu yêu cầu giải quyết tranh chấp lao động cá nhân giữa hòa giải viên và Tòa án có sự khác biệt cơ bản theo quy định của Bộ luật Lao động 2019, cụ thể như sau:\n\n1.  **Đối với Hòa giải viên lao động:**\n    *   Bộ luật Lao động **không quy định \"thời hiệu\" để nộp đơn yêu cầu hòa giải** cho hòa giải viên lao động.\n    *   Tuy nhiên, hòa giải viên lao động phải tiến hành hòa giải trong thời hạn **05 ngày làm việc** kể từ ngày nhận được yêu cầu giải quyết tranh chấp. Nếu hòa giải không thành hoặc hết thời hạn 05 ngày làm việc mà hòa giải viên không tiến hành hòa giải, các bên mới có quyền yêu cầu Tòa án giải quyết.\n\n2.  **Đối với Tòa án:**\n    *   Thời hiệu yêu cầu Tòa án giải quyết tranh chấp lao động cá nhân là **01 năm (một năm)** kể từ ngày mỗi bên tranh chấp phát hiện quyền và lợi ích hợp pháp của mình bị vi phạm.\n    *   **Thời điểm bắt đầu tính thời hiệu:**\n        *   **Đối với các tranh chấp bắt buộc phải qua hòa giải:** Thời hiệu 01 năm bắt đầu tính từ ngày kết thúc thời hạn 05 ngày làm việc (nếu hòa giải viên không tiến hành hòa giải) hoặc từ ngày hòa giải không thành.\n        *   **Đối với các tranh chấp không bắt buộc phải qua hòa giải hoặc đã được miễn trừ:** Thời hiệu 01 năm bắt đầu tính từ ngày người lao động, người sử dụng lao động phát hiện quyền và lợi ích hợp pháp của mình bị vi phạm.\n\n**Tóm tắt:**\n\n*   **Hòa giải viên:** Không có thời hiệu nộp đơn yêu cầu hòa giải. Hòa giải viên có **05 ngày làm việc** để tiến hành hòa giải.\n*   **Tòa án:** Thời hiệu là **01 năm** kể từ ngày phát hiện quyền lợi bị vi phạm, hoặc từ ngày kết thúc hòa giải không thành/không tiến hành hòa giải.",
+    "gemini_time": 11.9326
+  },
+  {
+    "id": 56,
+    "question": "Phân biệt giữa hợp đồng lao động xác định thời hạn và không xác định thời hạn về điều kiện chuyển đổi",
+    "answer": "",
+    "question_type": "rel",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Phân biệt giữa hợp đồng lao động xác định thời hạn và không xác định thời hạn về điều kiện chuyển đổi\n\nTrả lời:",
+    "gemini_answer": "Chào bạn,\n\nSự phân biệt về điều kiện chuyển đổi giữa hai loại hợp đồng này chủ yếu nằm ở việc **hợp đồng lao động xác định thời hạn có thể chuyển đổi thành hợp đồng lao động không xác định thời hạn**, trong khi **hợp đồng không xác định thời hạn thì không chuyển đổi ngược lại**.\n\nCụ thể như sau:\n\n1.  **Đối với Hợp đồng lao động xác định thời hạn:**\n    Theo Điều 20 Bộ luật Lao động 2019, hợp đồng lao động xác định thời hạn có thể chuyển đổi thành hợp đồng lao động không xác định thời hạn trong các trường hợp sau:\n    *   **Gia hạn 01 lần:** Khi hợp đồng lao động xác định thời hạn hết hạn mà người lao động tiếp tục làm việc, hai bên chỉ được ký thêm 01 (một) hợp đồng lao động xác định thời hạn với cùng một công việc. Nếu sau khi hợp đồng gia hạn này hết hạn mà người lao động vẫn tiếp tục làm việc, thì phải ký kết hợp đồng lao động không xác định thời hạn.\n    *   **Không ký kết hợp đồng mới sau 30 ngày:** Nếu sau khi hợp đồng xác định thời hạn (bao gồm cả hợp đồng đã gia hạn) hết hạn mà người lao động tiếp tục làm việc nhưng hai bên không ký kết hợp đồng lao động mới trong thời hạn 30 ngày kể từ ngày hợp đồng cũ hết hạn, thì hợp đồng lao động đã giao kết trở thành hợp đồng lao động không xác định thời hạn.\n\n2.  **Đối với Hợp đồng lao động không xác định thời hạn:**\n    Hợp đồng lao động không xác định thời hạn là loại hợp đồng không có thời điểm chấm dứt. Do đó, loại hợp đồng này **không có điều kiện chuyển đổi** thành hợp đồng lao động xác định thời hạn. Một khi đã là hợp đồng không xác định thời hạn, nó sẽ duy trì trạng thái đó cho đến khi chấm dứt theo quy định pháp luật (ví dụ: người lao động nghỉ việc, người sử dụng lao động đơn phương chấm dứt hợp đồng hợp pháp...).\n\nTóm lại, điều kiện chuyển đổi chỉ áp dụng cho hợp đồng xác định thời hạn khi có nhu cầu tiếp tục làm việc sau khi hợp đồng cũ hết hạn, dẫn đến việc chuyển đổi thành hợp đồng không xác định thời hạn theo quy định pháp luật.",
+    "gemini_time": 9.3779
+  },
+  {
+    "id": 57,
+    "question": "So sánh mức lương tối thiểu phải trả trong thời gian thử việc và thời gian làm việc chính thức",
+    "answer": "",
+    "question_type": "rel",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: So sánh mức lương tối thiểu phải trả trong thời gian thử việc và thời gian làm việc chính thức\n\nTrả lời:",
+    "gemini_answer": "Chào bạn,\n\nDưới đây là so sánh mức lương tối thiểu phải trả trong thời gian thử việc và thời gian làm việc chính thức tại Việt Nam, dựa trên quy định của Bộ luật Lao động 2019:\n\n1.  **Trong thời gian thử việc:**\n    *   **Quy định:** Theo Điều 26 Bộ luật Lao động 2019, tiền lương của người lao động trong thời gian thử việc do hai bên thỏa thuận nhưng **không được thấp hơn 85% mức lương của công việc đó**.\n    *   **Ý nghĩa:** Mức sàn lương thử việc được xác định dựa trên mức lương chính thức (đã thỏa thuận) của vị trí công việc mà người lao động đang thử việc.\n\n2.  **Trong thời gian làm việc chính thức:**\n    *   **Quy định:** Tiền lương của người lao động trong thời gian làm việc chính thức phải tuân thủ các nguyên tắc chung và **không được thấp hơn mức lương tối thiểu vùng** do Chính phủ quy định đối với người lao động làm công việc giản đơn nhất trong điều kiện lao động bình thường.\n    *   **Ý nghĩa:** Mức lương tối thiểu vùng là mức sàn tuyệt đối mà người sử dụng lao động phải trả cho người lao động, áp dụng cho các công việc giản đơn. Đối với các công việc đòi hỏi trình độ, kỹ năng, mức lương thực tế sẽ được thỏa thuận và thường cao hơn mức lương tối thiểu vùng.\n\n**Tóm lại điểm khác biệt chính:**\n\n*   **Lương thử việc:** Có mức sàn tương đối là **85% mức lương chính thức của công việc đó**.\n*   **Lương chính thức:** Có mức sàn tuyệt đối là **mức lương tối thiểu vùng** (áp dụng cho công việc giản đơn nhất).\n\nNói cách khác, mức lương thử việc được xác định *dựa trên* mức lương chính thức của công việc, trong khi mức lương chính thức có một *ngưỡng sàn tuyệt đối* là mức lương tối thiểu vùng mà mọi doanh nghiệp phải tuân thủ.",
+    "gemini_time": 10.0249
+  },
+  {
+    "id": 58,
+    "question": "So sánh số ngày nghỉ hằng năm giữa lao động thường và lao động làm công việc độc hại nguy hiểm",
+    "answer": "",
+    "question_type": "rel",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: So sánh số ngày nghỉ hằng năm giữa lao động thường và lao động làm công việc độc hại nguy hiểm\n\nTrả lời:",
+    "gemini_answer": "Dựa trên Bộ luật Lao động 2019, số ngày nghỉ hằng năm được quy định như sau:\n\n*   **Lao động thường:** Tối thiểu **12 ngày làm việc** đối với người làm công việc trong điều kiện bình thường.\n*   **Lao động làm công việc độc hại nguy hiểm:**\n    *   Tối thiểu **14 ngày làm việc** đối với người làm công việc nặng nhọc, độc hại, nguy hiểm; người làm việc ở vùng có điều kiện sinh sống khắc nghiệt.\n    *   Tối thiểu **16 ngày làm việc** đối với người làm công việc đặc biệt nặng nhọc, độc hại, nguy hiểm; người làm việc ở vùng có điều kiện sinh sống đặc biệt khắc nghiệt.\n\n**Lưu ý chung cho cả hai loại lao động:** Cứ đủ 05 năm làm việc cho một người sử dụng lao động thì số ngày nghỉ hằng năm của người lao động được tăng thêm 01 ngày.",
+    "gemini_time": 6.1637
+  },
+  {
+    "id": 59,
+    "question": "Phân tích sự khác biệt về quyền đơn phương chấm dứt hợp đồng giữa Điều 35 và Điều 36",
+    "answer": "",
+    "question_type": "rel",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Phân tích sự khác biệt về quyền đơn phương chấm dứt hợp đồng giữa Điều 35 và Điều 36\n\nTrả lời:",
+    "gemini_answer": "Chào bạn,\n\nSự khác biệt cốt lõi về quyền đơn phương chấm dứt hợp đồng lao động giữa Điều 35 và Điều 36 Bộ luật Lao động 2019 nằm ở **chủ thể thực hiện, căn cứ chấm dứt** và **thời hạn báo trước**.\n\nDưới đây là phân tích chi tiết:\n\n| Điểm khác biệt      | **Điều 35 (Quyền của Người sử dụng lao động)**                                                                                                                                                                                                                                                                                                                                       | **Điều 36 (Quyền của Người lao động)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |\n| :------------------ | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| **1. Chủ thể thực hiện** | Người sử dụng lao động (NSDLĐ).                                                                                                                                                                                                                                                                                                                                                    | Người lao động (NLĐ).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |\n| **2. Căn cứ chấm dứt** | NSDLĐ **buộc phải có một trong các lý do cụ thể** được quy định tại Khoản 1 Điều 35, bao gồm: <br> a) NLĐ thường xuyên không hoàn thành công việc theo HĐLĐ. <br> b) NLĐ bị ốm đau, tai nạn đã điều trị dài ngày. <br> c) Do thiên tai, hỏa hoạn, dịch bệnh nguy hiểm, địch họa hoặc di dời, thu hẹp sản xuất, kinh doanh theo yêu cầu của cơ quan nhà nước có thẩm quyền mà NSDLĐ đã tìm mọi biện pháp khắc phục nhưng vẫn buộc phải giảm chỗ làm việc. <br> d) NLĐ tự ý bỏ việc mà không có lý do chính đáng từ 05 ngày làm việc liên tục trở lên. <br> đ) NLĐ đến tuổi nghỉ hưu. <br> e) NLĐ cung cấp thông tin không trung thực khi giao kết HĐLĐ làm ảnh hưởng đến việc tuyển dụng NLĐ. | NLĐ **có quyền chấm dứt HĐLĐ với lý do bất kỳ** (không cần chứng minh lý do cụ thể) nếu tuân thủ thời hạn báo trước. <br> Tuy nhiên, NLĐ **được quyền chấm dứt HĐLĐ mà không cần báo trước** nếu thuộc một trong các trường hợp sau đây (Khoản 3 Điều 36): <br> a) Không được bố trí đúng công việc, địa điểm làm việc hoặc không bảo đảm điều kiện làm việc đã thỏa thuận (trừ trường hợp được phép chuyển chỗ làm, việc tạm thời). <br> b) Không được trả đủ lương hoặc trả lương không đúng thời hạn. <br> c) Bị NSDLĐ ngược đãi, quấy rối tình dục, cưỡng bức lao động. <br> d) Bị NSDLĐ điều chuyển làm công việc hoặc thay đổi địa điểm làm việc hoặc làm việc không đúng quy định. <br> đ) NLĐ nữ mang thai phải nghỉ việc theo chỉ định của bác sĩ. <br> e) NLĐ đủ tuổi nghỉ hưu (trừ trường hợp các bên có thỏa thuận khác). <br> g) NSDLĐ cung cấp thông tin không trung thực khi giao kết HĐLĐ làm ảnh hưởng đến việc thực hiện HĐLĐ. |\n| **3. Thời hạn báo trước** | NSDLĐ **phải báo trước** cho NLĐ theo thời hạn sau (Khoản 2 Điều 35): <br> - HĐLĐ không xác định thời hạn: **45 ngày**. <br> - HĐLĐ xác định thời hạn từ 12-36 tháng: **30 ngày**. <br> - HĐLĐ xác định thời hạn dưới 12 tháng: **3 ngày làm việc**. <br> (Trừ trường hợp sa thải do vi phạm kỷ luật lao động hoặc trong thời gian thử việc theo Điều 27).                                                                                                                                                                         | NLĐ **phải báo trước** cho NSDLĐ theo thời hạn sau (Khoản 1 Điều 36): <br> - HĐLĐ không xác định thời hạn: **45 ngày**. <br> - HĐLĐ xác định thời hạn từ 12-36 tháng: **30 ngày**. <br> - HĐLĐ xác định thời hạn dưới 12 tháng: **3 ngày làm việc**. <br> **Đặc biệt:** NLĐ **không cần báo trước** nếu thuộc các trường hợp quy định tại Khoản 3 Điều 36 (như NSDLĐ vi phạm hợp đồng, bị ngược đãi, mang thai theo chỉ định của bác sĩ, v.v.).                                                                                                                                                                   |\n\n**Tóm lại:**\n\n*   **Điều 35** bảo vệ quyền đơn phương chấm dứt của NSDLĐ nhưng đặt ra **điều kiện chặt chẽ** về lý do và **luôn yêu cầu báo trước** (trừ trường hợp chấm dứt trong thời gian thử việc hoặc xử lý kỷ luật sa thải). NSDLĐ phải chứng minh lý do chấm dứt.\n*   **Điều 36** trao cho NLĐ quyền linh hoạt hơn, cho phép chấm dứt **vì bất kỳ lý do nào (miễn là báo trước)**, và đặc biệt quan trọng là cho phép chấm dứt **mà không cần báo trước** nếu có lý do chính đáng hoặc do NSDLĐ vi phạm nghiêm trọng nghĩa vụ hợp đồng, thể hiện sự bảo vệ người lao động trong các tình huống rủi ro.",
+    "gemini_time": 22.1774
+  },
+  {
+    "id": 60,
+    "question": "Mối liên hệ giữa thời gian đóng bảo hiểm xã hội và quyền hưởng lương hưu theo Điều 169",
+    "answer": "",
+    "question_type": "rel",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Mối liên hệ giữa thời gian đóng bảo hiểm xã hội và quyền hưởng lương hưu theo Điều 169\n\nTrả lời:",
+    "gemini_answer": "Điều 169 của Luật Bảo hiểm xã hội 2014 quy định về **chế độ hưu trí trong thời kỳ quá độ**, cho thấy mối liên hệ mật thiết giữa thời gian đóng BHXH và quyền hưởng lương hưu như sau:\n\n1.  **Điều kiện hưởng lương hưu thông thường:** Người lao động đủ điều kiện về tuổi nghỉ hưu và có đủ **20 năm đóng bảo hiểm xã hội trở lên** sẽ được hưởng lương hưu theo quy định chung (áp dụng cho các trường hợp đủ điều kiện trước ngày 01/01/2018 đối với nam và 01/01/2020 đối với nữ).\n2.  **Trường hợp đặc biệt hưởng lương hưu với thời gian đóng ngắn hơn:**\n    *   Người lao động có đủ **15 năm đến dưới 20 năm đóng bảo hiểm xã hội** và đủ tuổi nghỉ hưu, nếu thuộc một trong các trường hợp như: suy giảm khả năng lao động từ 61% trở lên; làm công việc nặng nhọc, độc hại, nguy hiểm; hoặc làm việc ở vùng có điều kiện đặc biệt khó khăn, thì vẫn có thể được hưởng lương hưu nhưng với mức thấp hơn.\n3.  **Không đủ điều kiện hưởng lương hưu:** Nếu thời gian đóng bảo hiểm xã hội quá ngắn (thường là dưới 15 năm trong các trường hợp đặc biệt hoặc dưới 20 năm trong trường hợp thông thường mà không thuộc diện đặc biệt), người lao động sẽ không được hưởng lương hưu mà có thể được hưởng bảo hiểm xã hội một lần.\n\n**Tóm lại:** Thời gian đóng bảo hiểm xã hội là yếu tố **quyết định** quyền được hưởng lương hưu (có được hưởng hay không) và **ảnh hưởng trực tiếp** đến mức hưởng lương hưu của người lao động theo các quy định chuyển tiếp tại Điều 169.",
+    "gemini_time": 9.8266
+  },
+  {
+    "id": 61,
+    "question": "Phân biệt giữa tạm hoãn thực hiện hợp đồng và đơn phương chấm dứt hợp đồng về hậu quả pháp lý",
+    "answer": "",
+    "question_type": "rel",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Phân biệt giữa tạm hoãn thực hiện hợp đồng và đơn phương chấm dứt hợp đồng về hậu quả pháp lý\n\nTrả lời:",
+    "gemini_answer": "Chào bạn,\n\nDưới đây là phân biệt về hậu quả pháp lý giữa tạm hoãn thực hiện hợp đồng lao động và đơn phương chấm dứt hợp đồng lao động theo pháp luật Việt Nam:\n\n**1. Tạm hoãn thực hiện hợp đồng lao động:**\n\n*   **Bản chất hợp đồng:** Hợp đồng lao động **vẫn còn hiệu lực** nhưng việc thực hiện các quyền và nghĩa vụ chính (như làm việc, trả lương) bị tạm dừng trong một khoảng thời gian nhất định.\n*   **Mục đích:** Là một biện pháp tạm thời nhằm **bảo toàn quan hệ lao động** và hợp đồng, tạo điều kiện để các bên có thể tiếp tục thực hiện khi lý do tạm hoãn không còn.\n*   **Hậu quả pháp lý chính:**\n    *   **Không phát sinh nghĩa vụ làm việc và trả lương** trong thời gian tạm hoãn (trừ khi có thỏa thuận khác).\n    *   **Không phát sinh trợ cấp thôi việc hoặc trợ cấp mất việc làm** tại thời điểm tạm hoãn.\n    *   Sau thời gian tạm hoãn, hợp đồng lao động **có thể được tiếp tục thực hiện** theo thỏa thuận hoặc quy định pháp luật, nếu các bên không có thỏa thuận chấm dứt hoặc phát sinh lý do chấm dứt khác.\n    *   Các quyền lợi khác (ví dụ: bảo hiểm xã hội, bảo hiểm y tế) có thể bị ảnh hưởng hoặc phải do bên nào đó tự chi trả tùy thuộc vào lý do tạm hoãn và quy định pháp luật.\n\n**2. Đơn phương chấm dứt hợp đồng lao động:**\n\n*   **Bản chất hợp đồng:** Hợp đồng lao động **chấm dứt hoàn toàn**, quan hệ lao động giữa người sử dụng lao động và người lao động kết thúc vĩnh viễn.\n*   **Mục đích:** Chấm dứt vĩnh viễn quan hệ lao động.\n*   **Hậu quả pháp lý chính:**\n    *   **Chấm dứt mọi quyền và nghĩa vụ** phát sinh từ hợp đồng lao động kể từ ngày chấm dứt.\n    *   **Có thể phát sinh nghĩa vụ chi trả trợ cấp thôi việc hoặc trợ cấp mất việc làm** cho người lao động (nếu đủ điều kiện theo quy định pháp luật).\n    *   **Có thể phát sinh nghĩa vụ bồi thường thiệt hại** nếu việc chấm dứt là trái pháp luật (ví dụ: không báo trước, không đúng lý do theo luật định).\n    *   Người sử dụng lao động có trách nhiệm thanh toán đầy đủ các khoản tiền liên quan đến quyền lợi của người lao động (lương, phép năm chưa nghỉ, các khoản trợ cấp...) trong thời hạn luật định (thường là 14 ngày làm việc, tối đa 30 ngày trong trường hợp đặc biệt).\n    *   Người sử dụng lao động có trách nhiệm xác nhận thời gian đóng bảo hiểm xã hội và trả lại bản chính sổ bảo hiểm xã hội cùng các giấy tờ khác cho người lao động.\n\nTóm lại, sự khác biệt cốt lõi là **tạm hoãn giữ cho hợp đồng còn hiệu lực và có khả năng tiếp tục**, trong khi **đơn phương chấm dứt là hành động kết thúc vĩnh viễn hợp đồng**, dẫn đến các nghĩa vụ tài chính và trách nhiệm pháp lý khác nhau tùy thuộc vào tính hợp pháp của việc chấm dứt.",
+    "gemini_time": 11.2863
+  },
+  {
+    "id": 62,
+    "question": "So sánh tiền lương làm thêm giờ giữa ngày thường, ngày nghỉ hằng tuần và ngày lễ tết",
+    "answer": "",
+    "question_type": "rel",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: So sánh tiền lương làm thêm giờ giữa ngày thường, ngày nghỉ hằng tuần và ngày lễ tết\n\nTrả lời:",
+    "gemini_answer": "Theo quy định tại Điều 98 của Bộ luật Lao động 2019, tiền lương làm thêm giờ được chi trả khác nhau tùy thuộc vào loại ngày làm việc, cụ thể như sau:\n\n1.  **Ngày thường (Ngày làm việc bình thường):**\n    *   Người lao động được trả ít nhất bằng **150%** tiền lương giờ thực trả của ngày làm việc bình thường.\n\n2.  **Ngày nghỉ hằng tuần:**\n    *   Người lao động được trả ít nhất bằng **200%** tiền lương giờ thực trả của ngày làm việc bình thường.\n\n3.  **Ngày lễ, Tết, ngày nghỉ có hưởng lương:**\n    *   Người lao động được trả ít nhất bằng **300%** tiền lương giờ thực trả của ngày làm việc bình thường. Khoản này **chưa bao gồm** tiền lương ngày lễ, Tết, ngày nghỉ có hưởng lương mà người lao động được hưởng theo quy định (tức là người lao động hưởng lương ngày còn được nhận thêm tiền lương của ngày đó).\n\n**Lưu ý thêm về làm thêm giờ vào ban đêm:**\nNếu người lao động làm thêm giờ vào ban đêm, ngoài các mức tiền lương làm thêm giờ nêu trên, họ còn được trả thêm:\n*   Ít nhất **30%** tiền lương tính theo đơn giá tiền lương hoặc tiền lương thực trả theo công việc của ngày làm việc bình thường.\n*   Cộng thêm **20%** tiền lương tính theo đơn giá tiền lương hoặc tiền lương thực trả theo công việc làm vào ban ngày của ngày làm việc đó (ngày thường, ngày nghỉ hằng tuần hoặc ngày nghỉ lễ, Tết).",
+    "gemini_time": 10.5063
+  },
+  {
+    "id": 63,
+    "question": "Phân biệt giữa trợ cấp thôi việc và trợ cấp mất việc làm về điều kiện hưởng và cách tính",
+    "answer": "",
+    "question_type": "rel",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Phân biệt giữa trợ cấp thôi việc và trợ cấp mất việc làm về điều kiện hưởng và cách tính\n\nTrả lời:",
+    "gemini_answer": "Chào bạn,\n\nDưới đây là phân biệt giữa trợ cấp thôi việc và trợ cấp mất việc làm theo quy định của Bộ luật Lao động 2019 (BLLD 2019):\n\n| Tiêu chí       | Trợ cấp thôi việc (Điều 46 BLLD 2019)                                                                                                | Trợ cấp mất việc làm (Điều 47 BLLD 2019)                                                                                                  |\n| :------------- | :-------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |\n| **1. Điều kiện hưởng** | Người lao động đã làm việc thường xuyên từ **đủ 12 tháng trở lên** cho người sử dụng lao động và chấm dứt hợp đồng lao động thuộc một trong các trường hợp sau: <br> 1. Hết hạn hợp đồng lao động (trừ trường hợp NLĐ đủ tuổi hưởng lương hưu). <br> 2. Đã hoàn thành công việc theo hợp đồng lao động. <br> 3. Hai bên thỏa thuận chấm dứt hợp đồng lao động. <br> 4. Người lao động bị kết án phạt tù nhưng không được hưởng án treo hoặc không thuộc trường hợp được trả tự do, tử hình hoặc bị cấm làm công việc ghi trong hợp đồng lao động theo bản án, quyết định của Tòa án đã có hiệu lực pháp luật. <br> 5. Người lao động chết; bị Tòa án tuyên bố mất năng lực hành vi dân sự, mất tích hoặc đã chết. <br> 6. Người sử dụng lao động là cá nhân chết; bị Tòa án tuyên bố mất năng lực hành vi dân sự, mất tích hoặc đã chết. <br> 7. Người sử dụng lao động không phải là cá nhân chấm dứt hoạt động, giải thể, phá sản. <br> 8. Người sử dụng lao động đơn phương chấm dứt hợp đồng lao động hợp pháp (trừ trường hợp NLĐ tự ý bỏ việc, bị xử lý kỷ luật sa thải, hoặc đủ điều kiện hưởng lương hưu). <br> 9. Người lao động đơn phương chấm dứt hợp đồng lao động hợp pháp. | Người lao động đã làm việc thường xuyên từ **đủ 12 tháng trở lên** cho người sử dụng lao động và bị mất việc làm do một trong các lý do sau: <br> 1. Thay đổi cơ cấu, công nghệ hoặc vì lý do kinh tế (Điều 42 BLLD 2019). <br> 2. Chia, tách, hợp nhất, sáp nhập; bán, cho thuê, chuyển đổi loại hình doanh nghiệp; chuyển nhượng quyền sở hữu, quyền sử dụng tài sản của doanh nghiệp, hợp tác xã mà ảnh hưởng đến việc làm của nhiều người lao động (Điều 43 BLLD 2019). <br> **Không áp dụng** nếu người lao động bị xử lý kỷ luật sa thải hoặc đủ điều kiện hưởng lương hưu. |\n| **2. Mức hưởng**   | Mỗi năm làm việc được trả **1/2 tháng tiền lương**.                                                                                   | Mỗi năm làm việc được trả **1 tháng tiền lương**, nhưng ít nhất phải bằng **2 tháng tiền lương**.                                      |\n| **3. Cách tính**   | - **Tiền lương để tính trợ cấp:** Tiền lương bình quân của 06 tháng liền kề trước khi chấm dứt hợp đồng lao động theo hợp đồng lao động. <br> - **Thời gian làm việc để tính trợ cấp:** Tổng thời gian làm việc thực tế trừ đi thời gian đã tham gia bảo hiểm thất nghiệp và thời gian đã được chi trả trợ cấp thôi việc, trợ cấp mất việc làm trước đó. Thời gian làm việc có lẻ từ 01 tháng đến dưới 06 tháng được tính là 1/2 năm; từ 06 tháng trở lên được tính là 01 năm. | - **Tiền lương để tính trợ cấp:** Tiền lương bình quân của 06 tháng liền kề trước khi chấm dứt hợp đồng lao động theo hợp đồng lao động. <br> - **Thời gian làm việc để tính trợ cấp:** Tương tự như trợ cấp thôi việc (Tổng thời gian làm việc thực tế trừ đi thời gian đã tham gia bảo hiểm thất nghiệp và thời gian đã được chi trả trợ cấp thôi việc, trợ cấp mất việc làm trước đó). |\n| **4. Lưu ý chung** | - Không chi trả nếu người lao động đủ điều kiện hưởng lương hưu. <br> - Không chi trả cho thời gian đã đóng bảo hiểm thất nghiệp. | - Người lao động chỉ được hưởng trợ cấp mất việc làm khi không được bố trí việc làm mới, hoặc phải chấm dứt hợp đồng lao động do các lý do tại Điều 42, 43 BLLD 2019.                                                                                                                                                                                                                                                                                                                                                                                              |\n\n**Tóm tắt cốt lõi:**\n*   **Trợ cấp thôi việc** áp dụng cho nhiều trường hợp chấm dứt hợp đồng lao động, với mức 1/2 tháng lương cho mỗi năm làm việc.\n*   **Trợ cấp mất việc làm** chỉ áp dụng khi người lao động mất việc do thay đổi cơ cấu, công nghệ, lý do kinh tế hoặc sáp nhập, giải thể doanh nghiệp, với mức 1 tháng lương cho mỗi năm làm việc và tối thiểu là 2 tháng lương.\n\nCả hai loại trợ cấp này đều không chi trả cho thời gian người lao động đã tham gia bảo hiểm thất nghiệp.",
+    "gemini_time": 15.5616
+  },
+  {
+    "id": 64,
+    "question": "So sánh quyền thương lượng tập thể giữa công đoàn cơ sở và tổ chức của người lao động tại doanh nghiệp",
+    "answer": "",
+    "question_type": "rel",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: So sánh quyền thương lượng tập thể giữa công đoàn cơ sở và tổ chức của người lao động tại doanh nghiệp\n\nTrả lời:",
+    "gemini_answer": "Dưới đây là so sánh quyền thương lượng tập thể giữa công đoàn cơ sở và tổ chức của người lao động tại doanh nghiệp theo pháp luật lao động Việt Nam hiện hành (Bộ luật Lao động 2019):\n\n**Điểm tương đồng chính:**\n\n1.  **Chủ thể Thương lượng:** Cả công đoàn cơ sở và tổ chức của người lao động tại doanh nghiệp (sau đây gọi tắt là TCNLĐ) đều được pháp luật công nhận là \"tổ chức đại diện người lao động tại cơ sở\" và có **quyền ngang nhau** trong việc đại diện cho người lao động để tiến hành thương lượng tập thể với người sử dụng lao động.\n2.  **Mục đích:** Đều nhằm bảo vệ quyền và lợi ích hợp pháp, chính đáng của người lao động, xây dựng quan hệ lao động hài hòa, ổn định và tiến bộ tại doanh nghiệp, và hướng tới ký kết Thỏa ước lao động tập thể.\n3.  **Quyền khởi xướng, tham gia:** Cả hai đều có quyền khởi xướng, tham gia các cuộc thương lượng tập thể theo quy định của pháp luật.\n4.  **Quyền ký kết Thỏa ước lao động tập thể:** Cả hai đều có quyền ký kết Thỏa ước lao động tập thể với người sử dụng lao động.\n\n**Điểm khác biệt chính:**\n\n1.  **Cơ sở pháp lý và Tính chất:**\n    *   **Công đoàn cơ sở:** Là tổ chức chính trị - xã hội, thành viên của hệ thống Tổng Liên đoàn Lao động Việt Nam. Được thành lập và hoạt động theo quy định của Luật Công đoàn và Điều lệ Công đoàn Việt Nam.\n    *   **TCNLĐ tại doanh nghiệp:** Là tổ chức độc lập do người lao động tại doanh nghiệp tự thành lập và lựa chọn, không thuộc hệ thống Công đoàn Việt Nam. Được hình thành và hoạt động theo quy định của Bộ luật Lao động 2019.\n\n2.  **Thủ tục thành lập và Tính hợp pháp:**\n    *   **Công đoàn cơ sở:** Được công nhận là hợp pháp khi thành lập theo đúng trình tự, thủ tục của Luật Công đoàn và Điều lệ Công đoàn.\n    *   **TCNLĐ tại doanh nghiệp:** Để có quyền đại diện người lao động thực hiện thương lượng tập thể, tổ chức này phải được **đăng ký và cấp giấy chứng nhận đăng ký** của cơ quan nhà nước có thẩm quyền (Sở Lao động - Thương binh và Xã hội cấp tỉnh). Đây là điều kiện bắt buộc để có tư cách pháp lý đại diện.\n\n3.  **Đại diện trong trường hợp có nhiều tổ chức:**\n    *   Khi tại doanh nghiệp chỉ có một trong hai loại hình tổ chức này (hoặc chỉ Công đoàn cơ sở, hoặc chỉ TCNLĐ đã đăng ký), tổ chức đó sẽ là đại diện duy nhất của tập thể lao động để thương lượng.\n    *   **Trong trường hợp tại doanh nghiệp có nhiều tổ chức đại diện người lao động (bao gồm cả công đoàn cơ sở và/hoặc nhiều TCNLĐ đã đăng ký hợp pháp), các tổ chức này phải CÙNG THAM GIA thương lượng tập thể.** Họ thành lập một Ủy ban thương lượng tập thể bao gồm đại diện của tất cả các tổ chức, và bầu ra trưởng đoàn/chủ tịch ủy ban để đại diện cho tập thể lao động. Không có tổ chức nào được quyền độc quyền thương lượng nếu có nhiều tổ chức hợp pháp cùng tồn tại.\n\n**Kết luận:**\n\nBộ luật Lao động 2019 đã tạo ra một khung pháp lý nhằm bình đẳng hóa quyền thương lượng tập thể giữa công đoàn cơ sở và các tổ chức của người lao động tại doanh nghiệp. Mặc dù có sự khác biệt về bản chất pháp lý, quy trình thành lập và tính liên kết, nhưng về quyền hạn trong việc khởi xướng, tham gia thương lượng và ký kết thỏa ước lao động tập thể, cả hai đều có quyền năng tương đương khi đáp ứng đủ điều kiện theo luật định. Đặc biệt, trong trường hợp có nhiều tổ chức đại diện, chúng phải hợp tác để đại diện cho tập thể lao động.",
+    "gemini_time": 14.1308
+  },
+  {
+    "id": 65,
+    "question": "Mối quan hệ giữa tỷ lệ thành viên tổ chức đại diện và quyền yêu cầu thương lượng tập thể theo Điều 68",
+    "answer": "",
+    "question_type": "rel",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Mối quan hệ giữa tỷ lệ thành viên tổ chức đại diện và quyền yêu cầu thương lượng tập thể theo Điều 68\n\nTrả lời:",
+    "gemini_answer": "Theo Điều 68 Bộ luật Lao động 2019, tỷ lệ thành viên của tổ chức đại diện người lao động tại cơ sở có mối quan hệ **trực tiếp và là điều kiện bắt buộc** để tổ chức này có quyền yêu cầu thương lượng tập thể.\n\nCụ thể:\n\n1.  Tổ chức đại diện người lao động phải đại diện cho **đa số** người lao động trong doanh nghiệp.\n2.  Điều kiện \"đa số\" này được xác định dựa trên quy mô doanh nghiệp theo các tỷ lệ thành viên tối thiểu như sau:\n    *   **Từ 15%** tổng số người lao động trở lên, nếu doanh nghiệp có từ 500 người lao động trở lên.\n    *   **Từ 20%** tổng số người lao động trở lên, nếu doanh nghiệp có từ 50 người lao động đến dưới 500 người lao động.\n    *   **Từ 30%** tổng số người lao động trở lên, nếu doanh nghiệp có dưới 50 người lao động.\n\nNếu tổ chức đại diện người lao động không đạt được các tỷ lệ thành viên tối thiểu nêu trên, tổ chức đó **không có quyền** yêu cầu thương lượng tập thể theo quy định tại Điều 68 BLLĐ 2019. Mục đích là để đảm bảo tổ chức này thực sự có đại diện đủ mạnh và có tiếng nói được đa số người lao động ủng hộ khi tham gia quá trình thương lượng.",
+    "gemini_time": 8.9135
+  },
+  {
+    "id": 66,
+    "question": "So sánh điều kiện hưởng lương hưu sớm giữa người làm nghề nặng nhọc độc hại và người suy giảm khả năng lao động",
+    "answer": "",
+    "question_type": "rel",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: So sánh điều kiện hưởng lương hưu sớm giữa người làm nghề nặng nhọc độc hại và người suy giảm khả năng lao động\n\nTrả lời:",
+    "gemini_answer": "Dưới đây là so sánh điều kiện hưởng lương hưu sớm giữa người làm nghề nặng nhọc độc hại và người suy giảm khả năng lao động tại Việt Nam, dựa trên Luật Bảo hiểm xã hội 2014 (sửa đổi, bổ sung):\n\n**I. Đối với người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm (NĐNN/NĐBNND)**\n\n*   **Tuổi nghỉ hưu:**\n    *   Nam: Đủ tuổi nghỉ hưu thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu thông thường theo lộ trình quy định.\n    *   Nữ: Đủ tuổi nghỉ hưu thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu thông thường theo lộ trình quy định.\n*   **Thời gian đóng BHXH:** Đủ 20 năm trở lên.\n*   **Điều kiện khác:** Có đủ 15 năm làm nghề, công việc NĐNN/NĐBNND thuộc danh mục do Bộ Lao động - Thương binh và Xã hội và Bộ Y tế ban hành, hoặc làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn bao gồm cả thời gian làm việc ở nơi có phụ cấp khu vực hệ số 0,7 trở lên trước ngày 01/01/2021.\n\n**II. Đối với người bị suy giảm khả năng lao động (SGKNLĐ)**\n\n*   **Tuổi nghỉ hưu:**\n    *   Nam: Từ đủ 55 tuổi trở lên (đối với năm 2024, tuổi này sẽ tăng dần theo lộ trình).\n    *   Nữ: Từ đủ 50 tuổi trở lên (đối với năm 2024, tuổi này sẽ tăng dần theo lộ trình).\n*   **Thời gian đóng BHXH:** Đủ 20 năm trở lên.\n*   **Điều kiện khác:** Bị suy giảm khả năng lao động từ 61% trở lên.\n\n**III. Tóm tắt sự khác biệt chính**\n\n| Tiêu chí so sánh       | Người làm nghề NĐNN/NĐBNND                                      | Người bị suy giảm khả năng lao động                               |\n| :--------------------- | :-------------------------------------------------------------- | :------------------------------------------------------------------ |\n| **Căn cứ hưởng**        | Tính chất công việc/môi trường làm việc                         | Tình trạng sức khỏe được đánh giá khách quan                       |\n| **Tuổi nghỉ hưu sớm**   | Thấp hơn tối đa 05 tuổi so với tuổi nghỉ hưu thông thường (linh hoạt theo lộ trình tăng tuổi nghỉ hưu chung). | Nam từ đủ 55 tuổi, Nữ từ đủ 50 tuổi (tăng dần theo lộ trình và trước khi đạt tuổi nghỉ hưu thông thường). |\n| **Điều kiện cụ thể**   | Có ít nhất 15 năm làm nghề NĐNN/NĐBNND hoặc vùng đặc biệt khó khăn. | Bị suy giảm khả năng lao động từ 61% trở lên.                     |\n| **Thời gian đóng BHXH** | Đủ 20 năm trở lên.                                              | Đủ 20 năm trở lên.                                                 |\n\n**Lưu ý chung:** Cả hai đối tượng này đều phải đáp ứng điều kiện về thời gian đóng BHXH đủ 20 năm trở lên và chưa đến tuổi nghỉ hưu thông thường. Tuổi nghỉ hưu cụ thể cho từng năm sẽ được điều chỉnh theo lộ trình tăng tuổi nghỉ hưu chung của Nhà nước.",
+    "gemini_time": 12.1223
+  },
+  {
+    "id": 67,
+    "question": "Phân biệt giữa thời hiệu xử lý kỷ luật đối với vi phạm thông thường và vi phạm liên quan tài chính bí mật",
+    "answer": "",
+    "question_type": "rel",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Phân biệt giữa thời hiệu xử lý kỷ luật đối với vi phạm thông thường và vi phạm liên quan tài chính bí mật\n\nTrả lời:",
+    "gemini_answer": "Theo quy định của Bộ luật Lao động 2019, thời hiệu xử lý kỷ luật lao động có sự phân biệt rõ ràng giữa vi phạm thông thường và vi phạm liên quan đến tài chính, bí mật, cụ thể như sau:\n\n1.  **Vi phạm thông thường:**\n    *   **Thời hiệu:** **06 tháng** kể từ ngày xảy ra hành vi vi phạm.\n    *   **Áp dụng cho:** Các hành vi vi phạm kỷ luật lao động không thuộc trường hợp đặc biệt.\n\n2.  **Vi phạm liên quan trực tiếp đến tài sản, lợi ích, bí mật:**\n    *   **Thời hiệu:** **12 tháng** kể từ ngày xảy ra hành vi vi phạm.\n    *   **Áp dụng cho:** Các hành vi vi phạm liên quan trực tiếp đến tài sản, lợi ích của người sử dụng lao động hoặc liên quan đến bí mật kinh doanh, bí mật công nghệ, xâm phạm quyền sở hữu trí tuệ của người sử dụng lao động.\n\n**Cơ sở pháp lý:** Khoản 1 Điều 123 Bộ luật Lao động 2019.",
+    "gemini_time": 7.5194
+  },
+  {
+    "id": 68,
+    "question": "Mối liên hệ giữa thời gian tạm đình chỉ công việc và mức lương tạm ứng theo Điều 128",
+    "answer": "",
+    "question_type": "rel",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Mối liên hệ giữa thời gian tạm đình chỉ công việc và mức lương tạm ứng theo Điều 128\n\nTrả lời:",
+    "gemini_answer": "Theo Điều 128 Bộ luật Lao động 2019, mối liên hệ giữa thời gian tạm đình chỉ công việc và mức lương tạm ứng là:\n\n1.  **Thời gian tạm đình chỉ:** Không được quá **15 ngày**, trường hợp đặc biệt không được quá **90 ngày**.\n2.  **Mức lương tạm ứng:** Trong thời gian tạm đình chỉ, người sử dụng lao động **phải tạm ứng 50% tiền lương** theo hợp đồng lao động của người lao động trước khi bị đình chỉ.\n\n**Kết luận về mối liên hệ:** Có mối liên hệ **trực tiếp và bắt buộc**. Cụ thể, trong suốt khoảng thời gian người lao động bị tạm đình chỉ công việc (tối đa 15 hoặc 90 ngày), người sử dụng lao động có nghĩa vụ pháp lý phải trả trước một khoản tiền tương đương 50% tiền lương của họ. Khoản tạm ứng này sẽ được quyết toán sau tùy thuộc vào kết quả xử lý kỷ luật lao động.",
+    "gemini_time": 8.1294
+  },
+  {
+    "id": 69,
+    "question": "So sánh quyền nghỉ việc của lao động nữ mang thai và người lao động bị ốm đau",
+    "answer": "",
+    "question_type": "rel",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: So sánh quyền nghỉ việc của lao động nữ mang thai và người lao động bị ốm đau\n\nTrả lời:",
+    "gemini_answer": "Quyền nghỉ việc của lao động nữ mang thai và người lao động bị ốm đau đều là quyền lợi được pháp luật lao động và bảo hiểm xã hội Việt Nam bảo vệ, nhưng có những điểm khác biệt cơ bản sau:\n\n| Tiêu chí so sánh | Lao động nữ mang thai (Nghỉ thai sản/Nghỉ khám thai/Sẩy, nạo, hút, thai chết lưu) | Người lao động bị ốm đau (Nghỉ ốm đau) |\n| :---------------- | :---------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ |\n| **Mục đích**      | Bảo vệ sức khỏe của người mẹ và thai nhi/con nhỏ, đảm bảo chức năng làm mẹ và duy trì nòi giống. | Bù đắp thu nhập do tạm thời mất khả năng lao động vì lý do sức khỏe. |\n| **Đối tượng**     | Lao động nữ đang mang thai, sinh con, nhận nuôi con nuôi dưới 06 tháng tuổi, hoặc có thai bị sẩy, nạo, hút, thai chết lưu. | Mọi người lao động (nam hoặc nữ) bị ốm đau, tai nạn (không phải tai nạn lao động), phải nghỉ việc và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền. |\n| **Căn cứ pháp lý** | Bộ luật Lao động 2019, Luật Bảo hiểm xã hội 2014.                                  | Bộ luật Lao động 2019, Luật Bảo hiểm xã hội 2014.                                     |\n| **Thời gian nghỉ** | - **Nghỉ khám thai:** 05 ngày (làm việc bình thường) hoặc 02 ngày (làm việc nặng nhọc, độc hại) cho mỗi lần khám. <br/> - **Nghỉ khi sẩy thai, nạo, hút, thai chết lưu:** Tối đa 10 - 50 ngày tùy tuổi thai. <br/> - **Nghỉ thai sản:** 06 tháng (có thể bắt đầu sớm hơn 02 tháng trước ngày dự sinh, và có thể kéo dài nếu sinh đôi trở lên hoặc cần nghỉ dưỡng sức sau sinh). | - **Bình thường:** Tối đa 30, 40 hoặc 60 ngày/năm tùy vào thời gian đóng BHXH. <br/> - **Làm việc nặng nhọc, độc hại hoặc sống ở vùng có điều kiện đặc biệt:** Tối đa 40, 50 hoặc 70 ngày/năm tùy vào thời gian đóng BHXH. <br/> - **Mắc bệnh cần chữa trị dài ngày:** Tối đa 180 ngày/năm (bao gồm cả ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần). Hết 180 ngày vẫn tiếp tục điều trị thì được hưởng tiếp nhưng mức hưởng giảm dần. |\n| **Mức hưởng**      | - **100%** mức bình quân tiền lương tháng đóng bảo hiểm xã hội của 06 tháng trước khi nghỉ. <br/> - Có thể được hỗ trợ thêm tiền dưỡng sức, phục hồi sức khỏe sau sinh (05-10 ngày). | - **75%** mức bình quân tiền lương tháng đóng bảo hiểm xã hội của tháng liền kề trước khi nghỉ. <br/> - Có thể được hỗ trợ thêm tiền dưỡng sức, phục hồi sức khỏe sau ốm đau (05-10 ngày). |\n| **Điều kiện hưởng**| - Đóng BHXH từ đủ 06 tháng trở lên trong 12 tháng trước khi sinh con/nhận nuôi con nuôi. <br/> - Lao động nữ mang thai không cần điều kiện về thời gian đóng BHXH để hưởng chế độ khám thai, sẩy, nạo, hút, thai chết lưu. | - Đóng BHXH từ đủ 15 ngày làm việc trở lên trong tháng bị ốm đau. <br/> - Có giấy ra viện hoặc giấy chứng nhận nghỉ việc hưởng BHXH. |\n| **Bảo vệ khác**   | - Người sử dụng lao động không được đơn phương chấm dứt hợp đồng lao động, không được sa thải lao động nữ vì lý do kết hôn, mang thai, nuôi con dưới 12 tháng tuổi (trừ trường hợp doanh nghiệp chấm dứt hoạt động, thiên tai, hỏa hoạn...). <br/> - Được ưu tiên xem xét chuyển làm công việc nhẹ hơn, ít ảnh hưởng đến thai nhi. | Người sử dụng lao động không được đơn phương chấm dứt hợp đồng lao động đối với người lao động đang điều trị, điều dưỡng theo quyết định của cơ sở khám bệnh, chữa bệnh có thẩm quyền, trừ một số trường hợp đặc biệt. |\n\n**Tóm lại:**\n\n*   **Mục đích và thời gian nghỉ:** Chế độ nghỉ thai sản tập trung vào việc bảo vệ sức khỏe sinh sản và nuôi dưỡng con cái, với thời gian nghỉ cố định và dài hơn. Chế độ ốm đau tập trung vào việc bù đắp thu nhập khi tạm thời mất khả năng lao động, với thời gian nghỉ linh hoạt hơn tùy theo tình trạng bệnh và thời gian đóng BHXH.\n*   **Mức hưởng:** Lao động nữ mang thai được hưởng mức cao hơn (100% lương đóng BHXH) so với người lao động ốm đau (75% lương đóng BHXH).\n*   **Bảo vệ việc làm:** Lao động nữ mang thai có sự bảo vệ chặt chẽ hơn về việc làm khỏi bị sa thải hoặc chấm dứt hợp đồng lao động.",
+    "gemini_time": 15.5613
+  },
+  {
+    "id": 70,
+    "question": "Phân biệt giữa nghỉ việc riêng có hưởng lương và nghỉ không hưởng lương theo Bộ luật Lao động",
+    "answer": "",
+    "question_type": "rel",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Phân biệt giữa nghỉ việc riêng có hưởng lương và nghỉ không hưởng lương theo Bộ luật Lao động\n\nTrả lời:",
+    "gemini_answer": "Theo Bộ luật Lao động 2019, việc phân biệt giữa nghỉ việc riêng có hưởng lương và nghỉ không hưởng lương được thể hiện rõ nhất qua các tiêu chí sau:\n\n| Tiêu chí                 | Nghỉ việc riêng có hưởng lương (Điều 115 khoản 1 BLLĐ 2019)                                   | Nghỉ không hưởng lương (Điều 115 khoản 2 BLLĐ 2019)                                            |\n| :----------------------- | :-------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ |\n| **Căn cứ pháp lý**      | Điều 115 khoản 1 Bộ luật Lao động 2019                                                       | Điều 115 khoản 2 Bộ luật Lao động 2019                                                      |\n| **Điều kiện/Lý do**     | Chỉ áp dụng cho các trường hợp cụ thể:                                                      | Người lao động có quyền nghỉ không hưởng lương khi có thỏa thuận với người sử dụng lao động. |\n|                          | 1. Kết hôn: 03 ngày.                                                                        | **Lý do có thể đa dạng**, tùy thuộc vào nhu cầu cá nhân của người lao động.                 |\n|                          | 2. Con kết hôn: 01 ngày.                                                                    |                                                                                             |\n|                          | 3. Cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi; cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi của vợ hoặc chồng; vợ hoặc chồng; con chết: 03 ngày. |                                                                                             |\n| **Thời gian nghỉ**       | Được quy định rõ ràng và cố định theo từng sự kiện (3 ngày hoặc 1 ngày).                     | Thời gian nghỉ do hai bên (người lao động và người sử dụng lao động) **thỏa thuận**.        |\n| **Quyền lợi về lương**   | Người lao động được hưởng **nguyên lương** theo hợp đồng lao động.                         | Người lao động **không được hưởng lương**.                                                  |\n| **Tính chất/Yêu cầu**    | Người sử dụng lao động **có nghĩa vụ bắt buộc** phải cho người lao động nghỉ khi đủ điều kiện. | Việc cho nghỉ không hưởng lương **không phải là nghĩa vụ bắt buộc** của người sử dụng lao động, mà là sự đồng ý và thỏa thuận giữa hai bên. |\n| **Thủ tục**              | Người lao động chỉ cần thông báo và có thể phải cung cấp giấy tờ chứng minh sự kiện.        | Cần có sự đề xuất của người lao động và sự đồng ý bằng văn bản (hoặc hình thức khác) của người sử dụng lao động. |\n\n**Tóm lại:** Điểm khác biệt cốt lõi là **nghỉ việc riêng có hưởng lương** là quyền lợi hợp pháp, bắt buộc cho những sự kiện cá nhân cụ thể và người lao động được trả lương; còn **nghỉ không hưởng lương** là một sự thỏa thuận linh hoạt giữa hai bên, không bắt buộc đối với người sử dụng lao động và người lao động sẽ không được trả lương.",
+    "gemini_time": 10.2071
+  },
+  {
+    "id": 71,
+    "question": "So sánh quyền nghỉ việc của lao động nữ mang thai với quyền nghỉ việc của người lao động bị ốm đau theo quy định của Bộ luật",
+    "answer": "",
+    "question_type": "composite",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: So sánh quyền nghỉ việc của lao động nữ mang thai với quyền nghỉ việc của người lao động bị ốm đau theo quy định của Bộ luật\n\nTrả lời:",
+    "gemini_answer": "Quyền nghỉ việc của lao động nữ mang thai và người lao động bị ốm đau đều là các chế độ được pháp luật lao động Việt Nam (chủ yếu là Bộ luật Lao động 2019 và Luật Bảo hiểm xã hội 2014) bảo vệ, tuy nhiên có những điểm khác biệt căn bản về bản chất, thời gian và quyền lợi kèm theo:\n\n**1. Quyền nghỉ việc của lao động nữ mang thai (Chế độ thai sản)**\n\n*   **Cơ sở pháp lý chính:** Điều 137, 138, 139 Bộ luật Lao động 2019; Luật Bảo hiểm xã hội 2014.\n*   **Bản chất/Mục đích:** Là chế độ đặc biệt bảo vệ sức khỏe của lao động nữ trong quá trình mang thai, sinh con, nuôi con nhỏ và thực hiện thiên chức làm mẹ.\n*   **Thời gian nghỉ:**\n    *   Trước và sau khi sinh con được nghỉ tổng cộng **06 tháng**. Trường hợp sinh đôi trở lên thì từ con thứ hai trở đi, cứ mỗi con người mẹ được nghỉ thêm 01 tháng (Điều 139 BLLĐ).\n    *   Thời gian nghỉ có thể dài hơn nếu có thỏa thuận và được sự đồng ý của người sử dụng lao động (NSDLĐ), hoặc ngắn hơn nếu đáp ứng đủ điều kiện theo quy định của Luật BHXH.\n*   **Chế độ hưởng:**\n    *   Được hưởng chế độ thai sản do quỹ Bảo hiểm xã hội chi trả theo quy định của Luật BHXH. Mức hưởng bao gồm trợ cấp một lần khi sinh con và tiền lương bình quân đóng BHXH.\n    *   Không bị cắt giảm tiền lương trong thời gian nghỉ thai sản (do đã được BHXH chi trả).\n*   **Bảo vệ đặc biệt:**\n    *   NSDLĐ **không được sa thải hoặc đơn phương chấm dứt hợp đồng lao động** đối với lao động nữ mang thai (trừ trường hợp NSDLĐ là cá nhân chết, bị Tòa án tuyên bố mất năng lực hành vi dân sự, mất tích hoặc đã chết) (Điều 137 BLLĐ).\n    *   Không bị chuyển làm công việc khác, không bị xử lý kỷ luật trong thời gian mang thai (Điều 137 BLLĐ).\n    *   Được đảm bảo việc làm cũ khi trở lại làm việc sau thời gian nghỉ thai sản (Điều 138 BLLĐ).\n    *   Được nghỉ để khám thai, nghỉ khi sẩy thai, nạo, hút thai, thai chết lưu, phá thai bệnh lý.\n\n**2. Quyền nghỉ việc của người lao động bị ốm đau (Chế độ ốm đau)**\n\n*   **Cơ sở pháp lý chính:** Điều 37, 125 Bộ luật Lao động 2019; Luật Bảo hiểm xã hội 2014.\n*   **Bản chất/Mục đích:** Là chế độ nhằm bù đắp một phần thu nhập cho người lao động trong thời gian bị ốm đau, tai nạn không phải là tai nạn lao động hoặc điều trị bệnh nghề nghiệp, giúp họ phục hồi sức khỏe.\n*   **Thời gian nghỉ:**\n    *   Phụ thuộc vào thời gian đóng BHXH, điều kiện lao động (bình thường, nặng nhọc, độc hại), và loại bệnh (thông thường hay bệnh dài ngày).\n    *   Thời gian hưởng tối đa trong một năm đối với bệnh thông thường: 30, 40 hoặc 60 ngày làm việc tùy vào thời gian đóng BHXH.\n    *   Đối với bệnh dài ngày: Tối đa 180 ngày (Điều 26, 27 Luật BHXH).\n    *   Cần có giấy chứng nhận nghỉ việc hưởng BHXH (giấy ra viện, sổ khám bệnh) của cơ sở khám chữa bệnh có thẩm quyền.\n*   **Chế độ hưởng:**\n    *   Được hưởng chế độ ốm đau do quỹ Bảo hiểm xã hội chi trả theo quy định của Luật BHXH. Mức hưởng tính theo tỷ lệ phần trăm tiền lương đóng BHXH.\n    *   Thời gian nghỉ ốm đau không được NSDLĐ trả lương (do đã được BHXH chi trả).\n*   **Bảo vệ đặc biệt:**\n    *   NSDLĐ không được đơn phương chấm dứt hợp đồng lao động với người lao động đang điều trị ốm đau, bệnh tật theo quyết định của cơ sở khám bệnh, chữa bệnh có thẩm quyền, trừ một số trường hợp đặc biệt (Điều 37 BLLĐ).\n    *   Không bị xử lý kỷ luật lao động trong thời gian điều trị ốm đau, phục hồi sức khỏe (Điều 125 BLLĐ).\n\n**Tóm tắt các điểm khác biệt chính:**\n\n| Tiêu chí so sánh        | Lao động nữ mang thai (Chế độ thai sản)                               | Người lao động bị ốm đau (Chế độ ốm đau)                                  |\n| :--------------------- | :--------------------------------------------------------------------- | :-------------------------------------------------------------------------- |\n| **Mục đích**           | Bảo vệ sức khỏe, thiên chức làm mẹ.                                    | Phục hồi sức khỏe do ốm đau, bệnh tật.                                      |\n| **Thời gian nghỉ**      | Cố định tối thiểu 06 tháng (có thể dài hơn/ngắn hơn theo luật BHXH).   | Biến động, phụ thuộc thời gian đóng BHXH, điều kiện làm việc, loại bệnh.    |\n| **Điều kiện**           | Mang thai, sinh con, nuôi con nhỏ.                                     | Có xác nhận của cơ sở y tế về tình trạng ốm đau, không thể làm việc.        |\n| **Mức độ bảo vệ**      | Cao nhất: Cấm sa thải/chấm dứt HĐLĐ, đảm bảo việc làm cũ khi trở lại. | Hạn chế sa thải/chấm dứt HĐLĐ trong thời gian điều trị.                     |\n| **Chế độ hưởng**        | Chế độ thai sản do BHXH chi trả.                                       | Chế độ ốm đau do BHXH chi trả.                                             |\n| **Tính chất sự kiện**   | Mang tính sinh học, phần lớn có thể dự liệu được.                     | Mang tính bệnh lý, thường bất ngờ.                                          |\n\nTóm lại, quyền nghỉ việc của lao động nữ mang thai được hưởng sự bảo vệ đặc biệt và toàn diện hơn về thời gian, quyền lợi và sự đảm bảo việc làm, phản ánh chính sách ưu tiên bảo vệ phụ nữ và trẻ em của Nhà nước. Trong khi đó, quyền nghỉ việc do ốm đau tập trung vào việc hỗ trợ người lao động trong giai đoạn phục hồi sức khỏe với thời gian và điều kiện linh hoạt hơn.",
+    "gemini_time": 17.8492
+  },
+  {
+    "id": 72,
+    "question": "Phân tích mối liên hệ giữa tuổi nghỉ hưu và thời gian đóng bảo hiểm xã hội đối với các nhóm lao động khác nhau",
+    "answer": "",
+    "question_type": "composite",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Phân tích mối liên hệ giữa tuổi nghỉ hưu và thời gian đóng bảo hiểm xã hội đối với các nhóm lao động khác nhau\n\nTrả lời:",
+    "gemini_answer": "Mối liên hệ giữa tuổi nghỉ hưu và thời gian đóng bảo hiểm xã hội (BHXH) là rất chặt chẽ và mang tính quyết định đến quyền lợi lương hưu của người lao động, được quy định chủ yếu trong Luật BHXH năm 2014 và Bộ luật Lao động năm 2019.\n\nDưới đây là phân tích cụ thể cho các nhóm lao động khác nhau:\n\n1.  **Nhóm lao động phổ thông (Lao động trong điều kiện làm việc bình thường):**\n    *   **Mối liên hệ:** Để được hưởng lương hưu hàng tháng, người lao động cần đáp ứng **đồng thời** cả hai điều kiện:\n        *   **Đủ tuổi nghỉ hưu:** Theo lộ trình tăng tuổi quy định tại Điều 169 Bộ luật Lao động 2019 (hiện tại năm 2024, nam là 61 tuổi, nữ là 56 tuổi 4 tháng).\n        *   **Đủ thời gian đóng BHXH:** Tối thiểu 20 năm.\n    *   **Phân tích:** Nếu thiếu một trong hai điều kiện này, người lao động sẽ không đủ điều kiện hưởng lương hưu hàng tháng (trừ trường hợp đóng BHXH tự nguyện để đủ 20 năm hoặc nhận trợ cấp BHXH một lần nếu không đủ 20 năm đóng). Thời gian đóng BHXH càng dài (trên 20 năm) thì tỷ lệ hưởng lương hưu càng cao (tối đa 75%).\n\n2.  **Nhóm lao động làm nghề, công việc nặng nhọc, độc hại, nguy hiểm; hoặc đặc biệt nặng nhọc, độc hại, nguy hiểm; hoặc làm việc ở vùng có điều kiện kinh tế - xã hội đặc biệt khó khăn:**\n    *   **Mối liên hệ:** Nhóm này được hưởng chính sách ưu tiên về tuổi nghỉ hưu nhưng vẫn phải đảm bảo thời gian đóng BHXH tối thiểu.\n    *   **Phân tích:**\n        *   **Tuổi nghỉ hưu:** Có thể nghỉ hưu sớm hơn tối đa 5 năm so với tuổi nghỉ hưu thông thường (hoặc sớm hơn nữa đối với trường hợp đặc biệt nặng nhọc, độc hại, nguy hiểm).\n        *   **Thời gian đóng BHXH:** Vẫn cần tối thiểu 20 năm.\n        *   **Kết nối:** Điều này cho phép người lao động tiếp cận lương hưu sớm hơn do tính chất công việc hoặc môi trường làm việc khắc nghiệt, nhưng không miễn giảm yêu cầu về thời gian đóng góp cho quỹ BHXH.\n\n3.  **Nhóm lao động bị suy giảm khả năng lao động từ 61% trở lên:**\n    *   **Mối liên hệ:** Tương tự như nhóm làm việc nặng nhọc, họ được nghỉ hưu sớm hơn nhiều so với tuổi quy định, nhưng vẫn cần đủ thời gian đóng BHXH.\n    *   **Phân tích:**\n        *   **Tuổi nghỉ hưu:** Có thể nghỉ hưu sớm hơn tối đa 10 năm so với tuổi nghỉ hưu thông thường tùy theo mức độ suy giảm khả năng lao động và thời gian đóng BHXH.\n        *   **Thời gian đóng BHXH:** Vẫn cần tối thiểu 20 năm.\n        *   **Kết nối:** Quy định này nhằm đảm bảo quyền lợi cho người lao động không còn khả năng tiếp tục làm việc, cho phép họ nhận lương hưu sớm hơn để ổn định cuộc sống. Tuy nhiên, nếu nghỉ hưu trước tuổi do suy giảm khả năng lao động mà chưa đủ 20 năm đóng, họ cũng sẽ không được hưởng lương hưu hàng tháng.\n\n4.  **Nhóm lao động có trình độ chuyên môn, kỹ thuật cao và một số trường hợp đặc biệt khác (quân nhân, công an, người quản lý doanh nghiệp, nghệ sĩ...):**\n    *   **Mối liên hệ:** Nhóm này có thể được phép nghỉ hưu muộn hơn hoặc có quy định riêng biệt về tuổi và thời gian đóng BHXH.\n    *   **Phân tích:**\n        *   **Tuổi nghỉ hưu:** Có thể nghỉ hưu muộn hơn nhưng không quá 5 năm so với tuổi nghỉ hưu thông thường nếu có thỏa thuận và đủ điều kiện sức khỏe. Đối với quân nhân, công an, nghệ sĩ có quy định tuổi nghỉ hưu đặc thù theo ngành.\n        *   **Thời gian đóng BHXH:** Vẫn cần tối thiểu 20 năm.\n        *   **Kết nối:** Việc kéo dài thời gian làm việc đồng nghĩa với việc kéo dài thời gian đóng BHXH, giúp người lao động tăng tỷ lệ hưởng lương hưu hoặc nhận mức lương hưu cao hơn. Các trường hợp đặc biệt có thể có lộ trình tuổi nghỉ hưu và điều kiện đóng BHXH riêng được quy định bởi pháp luật chuyên ngành.\n\n**Tóm lại:**\n\nMối liên hệ cốt lõi là:\n*   **Thời gian đóng BHXH tối thiểu 20 năm** là điều kiện **cần** để được hưởng lương hưu hàng tháng, bất kể thuộc nhóm lao động nào.\n*   **Tuổi nghỉ hưu** là điều kiện **đủ** để bắt đầu nhận lương hưu, với sự điều chỉnh linh hoạt (sớm hơn, muộn hơn hoặc theo lộ trình) tùy thuộc vào đặc thù của từng nhóm lao động.\n\nCả hai yếu tố này cùng xác định thời điểm người lao động bắt đầu hưởng lương hưu và trực tiếp ảnh hưởng đến tỷ lệ và mức lương hưu được hưởng. Thời gian đóng BHXH càng dài (trên mức tối thiểu) thì tỷ lệ hưởng lương hưu càng cao.",
+    "gemini_time": 14.2803
+  },
+  {
+    "id": 73,
+    "question": "Tổng hợp các trường hợp người sử dụng lao động được đơn phương chấm dứt hợp đồng mà không cần báo trước",
+    "answer": "",
+    "question_type": "composite",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Tổng hợp các trường hợp người sử dụng lao động được đơn phương chấm dứt hợp đồng mà không cần báo trước\n\nTrả lời:",
+    "gemini_answer": "Theo Bộ luật Lao động 2019, người sử dụng lao động được đơn phương chấm dứt hợp đồng lao động **không cần báo trước** trong các trường hợp sau (khoản 2 Điều 36):\n\n1.  **Người lao động bị xử lý kỷ luật sa thải** theo quy định tại Điều 125 của Bộ luật này.\n2.  **Người lao động tự ý bỏ việc mà không có lý do chính đáng** từ 05 ngày làm việc liên tục trở lên.\n\n**Lưu ý:** Đây là 2 trường hợp duy nhất người sử dụng lao động không cần báo trước. Tất cả các trường hợp khác (người lao động thường xuyên không hoàn thành công việc, ốm đau dài ngày, thiên tai, dịch bệnh, thu hẹp sản xuất...) đều phải báo trước ít nhất 45 ngày (hợp đồng không xác định thời hạn), 30 ngày (hợp đồng từ 12–36 tháng) hoặc 03 ngày làm việc (hợp đồng dưới 12 tháng).",
+    "gemini_time": 13.2919
+  },
+  {
+    "id": 74,
+    "question": "So sánh thời hạn hợp đồng lao động xác định thời hạn giữa lao động thông thường và lao động nước ngoài",
+    "answer": "",
+    "question_type": "composite",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: So sánh thời hạn hợp đồng lao động xác định thời hạn giữa lao động thông thường và lao động nước ngoài\n\nTrả lời:",
+    "gemini_answer": "Dưới đây là so sánh thời hạn hợp đồng lao động xác định thời hạn giữa lao động thông thường (người Việt Nam) và lao động nước ngoài tại Việt Nam:\n\n**1. Đối với Lao động thông thường (Người lao động Việt Nam):**\n\n*   **Thời hạn tối đa:** Hợp đồng lao động xác định thời hạn có thời hạn tối đa là **36 tháng (03 năm)**.\n*   **Gia hạn:** Hợp đồng lao động xác định thời hạn **chỉ được ký thêm 01 lần duy nhất** dưới hình thức hợp đồng xác định thời hạn.\n*   **Chuyển đổi:** Sau lần tái ký thứ nhất, nếu người lao động vẫn tiếp tục làm việc, hợp đồng phải chuyển thành **hợp đồng lao động không xác định thời hạn**.\n*   **Cơ sở pháp lý:** Điều 20 Bộ luật Lao động 2019.\n\n**2. Đối với Lao động nước ngoài:**\n\n*   **Thời hạn tối đa:** Thời hạn của hợp đồng lao động phải **không vượt quá thời hạn của giấy phép lao động** (hoặc văn bản xác nhận không thuộc diện cấp giấy phép lao động) của người lao động nước ngoài. Thông thường, giấy phép lao động có thời hạn tối đa **24 tháng (02 năm)** cho mỗi lần cấp hoặc gia hạn.\n*   **Gia hạn/Tái ký:** Hợp đồng lao động với người lao động nước ngoài có thể được **ký lại nhiều lần** dưới dạng hợp đồng xác định thời hạn, miễn là người lao động tiếp tục có giấy phép lao động hợp lệ (được cấp mới hoặc gia hạn).\n*   **Chuyển đổi:** **Không có quy định** hợp đồng lao động với người nước ngoài phải chuyển thành hợp đồng không xác định thời hạn sau một số lần tái ký nhất định. Hợp đồng vẫn luôn là hợp đồng xác định thời hạn, gắn liền với thời hạn của giấy phép lao động.\n*   **Cơ sở pháp lý:** Điều 151 Bộ luật Lao động 2019 và các quy định về giấy phép lao động cho người nước ngoài (Nghị định 152/2020/NĐ-CP).\n\n**Tóm tắt sự khác biệt chính:**\n\nĐiểm khác biệt cốt lõi là việc **hợp đồng lao động xác định thời hạn với người Việt Nam bắt buộc phải chuyển đổi thành hợp đồng không xác định thời hạn sau một lần gia hạn**, trong khi **hợp đồng với người nước ngoài có thể được ký lại nhiều lần dưới dạng hợp đồng xác định thời hạn, phụ thuộc vào thời hạn của giấy phép lao động.**",
+    "gemini_time": 9.0266
+  },
+  {
+    "id": 75,
+    "question": "Phân tích sự khác biệt về chế độ thử việc giữa các loại công việc có yêu cầu trình độ khác nhau",
+    "answer": "",
+    "question_type": "composite",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Phân tích sự khác biệt về chế độ thử việc giữa các loại công việc có yêu cầu trình độ khác nhau\n\nTrả lời:",
+    "gemini_answer": "Chế độ thử việc tại Việt Nam, theo quy định của Bộ luật Lao động 2019, có sự khác biệt rõ rệt về thời gian tối đa, căn cứ vào tính chất, mức độ phức tạp và yêu cầu trình độ chuyên môn kỹ thuật của từng loại công việc. Cụ thể như sau:\n\n1.  **Đối với công việc yêu cầu trình độ chuyên môn, kỹ thuật cao:**\n    *   **Loại công việc:** Công việc có chức danh nghề nghiệp cần trình độ chuyên môn, kỹ thuật từ **cao đẳng trở lên** (ví dụ: quản lý, chuyên gia, kỹ sư, bác sĩ, giảng viên đại học, v.v.).\n    *   **Thời gian thử việc tối đa:** **60 ngày.** (Điều 25.1.a Bộ luật Lao động 2019)\n\n2.  **Đối với công việc yêu cầu trình độ chuyên môn, kỹ thuật trung bình:**\n    *   **Loại công việc:** Công việc có chức danh nghề nghiệp cần trình độ chuyên môn, kỹ thuật **trung cấp, công nhân kỹ thuật, nhân viên nghiệp vụ** (ví dụ: kế toán viên, thủ kho, nhân viên kỹ thuật có bằng trung cấp nghề, v.v.).\n    *   **Thời gian thử việc tối đa:** **30 ngày.** (Điều 25.1.b Bộ luật Lao động 2019)\n\n3.  **Đối với các công việc khác:**\n    *   **Loại công việc:** Các công việc không thuộc hai nhóm trên, thường là các công việc giản đơn, không yêu cầu trình độ chuyên môn kỹ thuật cao (ví dụ: lao động phổ thông, nhân viên tạp vụ, bảo vệ, v.v.).\n    *   **Thời gian thử việc tối đa:** **06 ngày làm việc.** (Điều 25.1.c Bộ luật Lao động 2019)\n\n**Lưu ý quan trọng:**\n*   **Không áp dụng thử việc** đối với hợp đồng lao động có thời hạn dưới 01 tháng (Điều 26.1 Bộ luật Lao động 2019).\n*   Thời gian thử việc do hai bên thỏa thuận nhưng **không được vượt quá** các giới hạn tối đa nêu trên.\n\nSự phân biệt này nhằm đảm bảo người sử dụng lao động có đủ thời gian cần thiết để đánh giá năng lực và sự phù hợp của người lao động với yêu cầu công việc, đồng thời cũng đảm bảo quyền lợi cho người lao động, tránh việc kéo dài thời gian thử việc không cần thiết cho các công việc đơn giản.",
+    "gemini_time": 11.1767
+  },
+  {
+    "id": 76,
+    "question": "Tổng hợp các hình thức xử lý kỷ luật lao động và điều kiện áp dụng từng hình thức",
+    "answer": "",
+    "question_type": "composite",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Tổng hợp các hình thức xử lý kỷ luật lao động và điều kiện áp dụng từng hình thức\n\nTrả lời:",
+    "gemini_answer": "Theo Điều 124 và Điều 125 Bộ luật Lao động 2019, các hình thức xử lý kỷ luật lao động và điều kiện áp dụng từng hình thức như sau:\n\n**1. Khiển trách (Điều 124 khoản 1)**\n- **Điều kiện:** Áp dụng đối với người lao động có hành vi vi phạm kỷ luật lần đầu nhưng ở mức độ nhẹ, chưa đến mức kéo dài thời hạn nâng lương hoặc cách chức.\n\n**2. Kéo dài thời hạn nâng lương không quá 06 tháng hoặc cách chức (Điều 124 khoản 2)**\n- **Điều kiện áp dụng kéo dài nâng lương:** Người lao động đã bị khiển trách về cùng hành vi vi phạm trong thời gian chưa xóa kỷ luật; hoặc vi phạm ở mức độ cần thiết phải áp dụng hình thức nặng hơn khiển trách.\n- **Điều kiện áp dụng cách chức:** Người lao động giữ chức vụ có hành vi vi phạm kỷ luật trong khi thực hiện nhiệm vụ, quyền hạn được giao.\n\n**3. Sa thải (Điều 125)**\n- **Điều kiện:** Áp dụng khi người lao động có một trong các hành vi sau:\n  a) Trộm cắp, tham ô, đánh bạc, cố ý gây thương tích, sử dụng ma túy tại nơi làm việc;\n  b) Tiết lộ bí mật kinh doanh, bí mật công nghệ, xâm phạm quyền sở hữu trí tuệ của người sử dụng lao động; có hành vi gây thiệt hại nghiêm trọng hoặc đe dọa gây thiệt hại đặc biệt nghiêm trọng về tài sản, lợi ích của người sử dụng lao động; quấy rối tình dục tại nơi làm việc;\n  c) Bị xử lý kỷ luật kéo dài thời hạn nâng lương hoặc cách chức mà tái phạm trong thời gian chưa xóa kỷ luật;\n  d) Tự ý bỏ việc 05 ngày cộng dồn trong 30 ngày hoặc 20 ngày cộng dồn trong 365 ngày kể từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng.",
+    "gemini_time": 13.3284
+  },
+  {
+    "id": 77,
+    "question": "So sánh quyền lợi của người lao động làm thêm giờ vào ngày thường, ngày nghỉ hằng tuần và ngày lễ tết",
+    "answer": "",
+    "question_type": "composite",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: So sánh quyền lợi của người lao động làm thêm giờ vào ngày thường, ngày nghỉ hằng tuần và ngày lễ tết\n\nTrả lời:",
+    "gemini_answer": "Dưới đây là so sánh quyền lợi của người lao động làm thêm giờ vào các loại ngày khác nhau theo Bộ luật Lao động 2019 của Việt Nam (Điều 98):\n\n| Tiêu chí | Ngày thường | Ngày nghỉ hằng tuần | Ngày lễ, Tết, ngày nghỉ có hưởng lương |\n| :------- | :----------- | :------------------ | :---------------------------------- |\n| **Mức hưởng tối thiểu** | Trả lương làm thêm giờ ít nhất bằng **150%** tiền lương giờ làm việc bình thường. | Trả lương làm thêm giờ ít nhất bằng **200%** tiền lương giờ làm việc bình thường. | Trả lương làm thêm giờ ít nhất bằng **300%** tiền lương giờ làm việc bình thường. |\n| **Lưu ý** | *Nếu làm thêm giờ vào ban đêm:* Ngoài tiền lương làm thêm giờ 150%, được trả thêm ít nhất 30% tiền lương giờ làm việc bình thường. | *Nếu làm thêm giờ vào ban đêm:* Ngoài tiền lương làm thêm giờ 200%, được trả thêm ít nhất 30% tiền lương giờ làm việc bình thường. | *Nếu làm thêm giờ vào ban đêm:* Ngoài tiền lương làm thêm giờ 300%, được trả thêm ít nhất 30% tiền lương giờ làm việc bình thường. |\n| | | | **Đặc biệt:** 300% này là tiền lương làm thêm giờ, chưa bao gồm tiền lương ngày nghỉ mà người lao động đã được hưởng (do ngày lễ, Tết, ngày nghỉ có hưởng lương người lao động đã được trả 100% lương dù không làm việc). Do đó, tổng cộng người lao động nhận được ít nhất **400%** tiền lương giờ cho những giờ làm thêm này (100% lương ngày nghỉ + 300% lương làm thêm giờ). |\n\n**Tóm tắt:**\n\n*   **Ngày thường:** Ít nhất 150% lương giờ bình thường.\n*   **Ngày nghỉ hằng tuần:** Ít nhất 200% lương giờ bình thường.\n*   **Ngày lễ, Tết, ngày nghỉ có hưởng lương:** Ít nhất 300% lương giờ bình thường (tương đương 400% nếu tính cả lương ngày nghỉ đã được hưởng).\n*   **Làm thêm giờ vào ban đêm:** Luôn được cộng thêm ít nhất 30% tiền lương giờ làm việc bình thường vào mức lương làm thêm giờ tương ứng.",
+    "gemini_time": 10.0886
+  },
+  {
+    "id": 78,
+    "question": "Phân tích mối quan hệ giữa thương lượng tập thể, thỏa ước lao động tập thể và quyền đình công",
+    "answer": "",
+    "question_type": "composite",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Phân tích mối quan hệ giữa thương lượng tập thể, thỏa ước lao động tập thể và quyền đình công\n\nTrả lời:",
+    "gemini_answer": "Mối quan hệ giữa thương lượng tập thể, thỏa ước lao động tập thể và quyền đình công là một chuỗi liên kết logic và tương hỗ, tạo nên nền tảng của quan hệ lao động tập thể.\n\n1.  **Thương lượng tập thể (Collective Bargaining):**\n    *   Là quá trình đàm phán giữa người sử dụng lao động (hoặc đại diện) và tổ chức đại diện người lao động tại cơ sở để thỏa thuận về các điều kiện lao động, quyền và nghĩa vụ của các bên trong quan hệ lao động.\n    *   **Vai trò:** Là bước khởi đầu và công cụ chính để đạt được sự đồng thuận giữa hai bên.\n\n2.  **Thỏa ước lao động tập thể (Collective Labor Agreement):**\n    *   Là kết quả của quá trình thương lượng tập thể, là văn bản pháp lý ghi nhận các cam kết, thỏa thuận về điều kiện làm việc, lương bổng, quyền và nghĩa vụ của người sử dụng lao động và tập thể người lao động.\n    *   **Vai trò:** Là sản phẩm cuối cùng của thương lượng, có giá trị pháp lý ràng buộc các bên và thường có hiệu lực cao hơn hợp đồng lao động cá nhân nếu có các điều khoản có lợi hơn cho người lao động.\n\n3.  **Quyền đình công (Right to Strike):**\n    *   Là quyền của tập thể người lao động tạm ngừng việc làm một cách có tổ chức, tự nguyện để gây áp lực nhằm giải quyết tranh chấp lao động tập thể (tranh chấp về quyền hoặc về lợi ích) khi các biện pháp giải quyết hòa giải, hòa giải viên và Hội đồng trọng tài lao động đã không thành công hoặc không được chấp nhận.\n    *   **Vai trò:** Là công cụ cuối cùng, là \"đòn bẩy\" mạnh mẽ nhất của người lao động trong giải quyết tranh chấp lao động tập thể và trong quá trình thương lượng.\n\n**Mối quan hệ chặt chẽ:**\n\n*   **Thương lượng tập thể là tiền đề để có Thỏa ước lao động tập thể:** Không có quá trình thương lượng, sẽ không thể có một Thỏa ước lao động tập thể được xây dựng trên sự đồng thuận của cả hai bên.\n*   **Thỏa ước lao động tập thể là mục tiêu của Thương lượng tập thể:** Mục đích cuối cùng của quá trình thương lượng là đạt được một Thỏa ước có lợi và công bằng cho tập thể người lao động.\n*   **Quyền đình công là công cụ hỗ trợ và bảo đảm hiệu quả cho Thương lượng tập thể và việc thực hiện Thỏa ước lao động tập thể:**\n    *   **Trong Thương lượng:** Sự tồn tại của quyền đình công tạo áp lực đáng kể để người sử dụng lao động phải thương lượng thiện chí và nghiêm túc, tránh việc kéo dài hoặc từ chối thương lượng. Nếu thương lượng đi vào bế tắc, đình công có thể là biện pháp buộc các bên quay lại bàn đàm phán hoặc chấp nhận các yêu cầu hợp lý.\n    *   **Đối với Thỏa ước:** Nếu người sử dụng lao động vi phạm Thỏa ước lao động tập thể đã ký kết, hoặc từ chối thương lượng để sửa đổi, bổ sung Thỏa ước, quyền đình công có thể được sử dụng để bảo vệ và thực thi các quyền lợi đã được cam kết.\n    *   **Ngăn ngừa:** Một Thỏa ước lao động tập thể tốt, được thực thi nghiêm túc, sẽ giảm thiểu đáng kể nguy cơ phát sinh tranh chấp và do đó, giảm nhu cầu phải sử dụng quyền đình công.\n\nTóm lại, thương lượng tập thể là quá trình dẫn đến sản phẩm là thỏa ước lao động tập thể. Quyền đình công là công cụ hỗ trợ thiết yếu, cung cấp sức mạnh đàm phán cho người lao động, thúc đẩy quá trình thương lượng diễn ra hiệu quả và đảm bảo các thỏa thuận được ký kết được tôn trọng và thực thi. Ba yếu tố này tạo thành một hệ thống tương tác, nhằm mục tiêu xây dựng quan hệ lao động hài hòa, ổn định và tiến bộ.",
+    "gemini_time": 13.4993
+  },
+  {
+    "id": 79,
+    "question": "Tổng hợp các trường hợp tranh chấp lao động bắt buộc phải qua hòa giải và không bắt buộc qua hòa giải",
+    "answer": "",
+    "question_type": "composite",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Tổng hợp các trường hợp tranh chấp lao động bắt buộc phải qua hòa giải và không bắt buộc qua hòa giải\n\nTrả lời:",
+    "gemini_answer": "Chào bạn,\n\nDưới đây là tổng hợp các trường hợp tranh chấp lao động bắt buộc và không bắt buộc phải qua hòa giải theo quy định của Bộ luật Lao động 2019.\n\n---\n\n**I. Các trường hợp tranh chấp lao động BẮT BUỘC phải qua hòa giải**\n\nHầu hết các tranh chấp lao động phải trải qua thủ tục hòa giải của hòa giải viên lao động trước khi một trong các bên yêu cầu Tòa án giải quyết (đối với tranh chấp cá nhân) hoặc các cơ quan có thẩm quyền khác (đối với tranh chấp tập thể). Cụ thể:\n\n1.  **Tranh chấp lao động cá nhân:**\n    *   Tất cả các tranh chấp lao động cá nhân không thuộc các trường hợp được liệt kê tại Mục II (không bắt buộc qua hòa giải) đều phải qua hòa giải.\n    *   Ví dụ điển hình bao gồm: tranh chấp về giao kết, thực hiện hoặc chấm dứt hợp đồng lao động (trừ các trường hợp sa thải, đơn phương chấm dứt HĐLĐ đã nêu ở Mục II), tranh chấp về tiền lương, tiền công, tiền thưởng, chế độ làm thêm giờ, thời giờ làm việc, thời giờ nghỉ ngơi, điều kiện làm việc, tranh chấp về trách nhiệm vật chất của người lao động.\n    *   **Cơ sở pháp lý:** Khoản 1 Điều 188 Bộ luật Lao động 2019.\n\n2.  **Tranh chấp lao động tập thể về quyền:**\n    *   Tất cả các tranh chấp lao động tập thể về quyền phải được giải quyết thông qua thủ tục hòa giải của hòa giải viên lao động.\n    *   **Cơ sở pháp lý:** Khoản 1 Điều 191 Bộ luật Lao động 2019.\n\n3.  **Tranh chấp lao động tập thể về lợi ích:**\n    *   Tất cả các tranh chấp lao động tập thể về lợi ích phải được giải quyết thông qua thủ tục hòa giải của hòa giải viên lao động trước khi yêu cầu Hội đồng trọng tài lao động giải quyết hoặc tiến hành đình công.\n    *   **Cơ sở pháp lý:** Khoản 1 Điều 194 Bộ luật Lao động 2019.\n\n---\n\n**II. Các trường hợp tranh chấp lao động KHÔNG BẮT BUỘC qua hòa giải**\n\nTheo Khoản 2 Điều 188 Bộ luật Lao động 2019, các tranh chấp lao động cá nhân sau đây không bắt buộc phải qua thủ tục hòa giải:\n\n1.  Tranh chấp về **xử lý kỷ luật lao động theo hình thức sa thải** hoặc về trường hợp bị **đơn phương chấm dứt hợp đồng lao động**.\n2.  Tranh chấp về **bồi thường thiệt hại, trợ cấp khi chấm dứt hợp đồng lao động**.\n3.  Tranh chấp giữa người lao động và người sử dụng lao động về **bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp, bảo hiểm tai nạn lao động, bệnh nghề nghiệp**.\n4.  Tranh chấp về **đền bù thiệt hại** giữa người sử dụng lao động với người lao động.\n5.  Tranh chấp giữa người lao động và doanh nghiệp, tổ chức đưa người lao động đi làm việc ở nước ngoài theo hợp đồng.\n6.  Tranh chấp về **quấy rối tình dục tại nơi làm việc**.\n\n---\n\n**Lưu ý:** Việc hiểu rõ các trường hợp này rất quan trọng để các bên trong tranh chấp lao động có thể thực hiện đúng thủ tục giải quyết và bảo vệ quyền, lợi ích hợp pháp của mình.",
+    "gemini_time": 20.9658
+  },
+  {
+    "id": 80,
+    "question": "So sánh thời giờ làm việc tối đa giữa người lao động chưa đủ 15 tuổi, từ 15-18 tuổi và người trưởng thành",
+    "answer": "",
+    "question_type": "composite",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: So sánh thời giờ làm việc tối đa giữa người lao động chưa đủ 15 tuổi, từ 15-18 tuổi và người trưởng thành\n\nTrả lời:",
+    "gemini_answer": "Dưới đây là so sánh thời giờ làm việc tối đa theo Bộ luật Lao động 2019 (BLLĐ 2019) cho từng nhóm đối tượng:\n\n*   **Người lao động chưa đủ 15 tuổi:**\n    *   Tối đa **04 giờ/ngày** và **20 giờ/tuần**.\n    *   Không được làm thêm giờ và không được làm việc vào ban đêm.\n    *   *(Căn cứ: Điều 146 Khoản 1 và Khoản 2 BLLĐ 2019)*\n\n*   **Người lao động từ đủ 15 tuổi đến dưới 18 tuổi:**\n    *   Tối đa **08 giờ/ngày** và **40 giờ/tuần**.\n    *   Không được làm thêm giờ.\n    *   *(Căn cứ: Điều 146 Khoản 1 và Khoản 2 BLLĐ 2019)*\n\n*   **Người trưởng thành (từ đủ 18 tuổi trở lên):**\n    *   Tối đa **08 giờ/ngày** hoặc **48 giờ/tuần** theo quy định về thời giờ làm việc bình thường.\n    *   Có thể làm thêm giờ nhưng phải tuân thủ giới hạn tối đa theo quy định của pháp luật (tối đa 12 giờ/ngày, 40 giờ/tháng và 200 giờ/năm, hoặc 300 giờ/năm trong một số trường hợp đặc biệt).\n    *   *(Căn cứ: Điều 105 và Điều 107 BLLĐ 2019)*",
+    "gemini_time": 9.0005
+  },
+  {
+    "id": 81,
+    "question": "So sánh quyền đơn phương chấm dứt hợp đồng của người lao động và người sử dụng lao động",
+    "answer": "",
+    "question_type": "composite",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: So sánh quyền đơn phương chấm dứt hợp đồng của người lao động và người sử dụng lao động\n\nTrả lời:",
+    "gemini_answer": "Dưới đây là so sánh quyền đơn phương chấm dứt hợp đồng lao động của người lao động (NLĐ) và người sử dụng lao động (NSDLĐ) theo Bộ luật Lao động 2019:\n\n**I. Quyền đơn phương chấm dứt hợp đồng của Người lao động (Điều 35 BLLĐ 2019)**\n\n1.  **Căn cứ chấm dứt:**\n    *   **Hợp đồng lao động không xác định thời hạn:** NLĐ có quyền đơn phương chấm dứt mà **không cần lý do cụ thể** được luật định, chỉ cần tuân thủ thời hạn báo trước.\n    *   **Hợp đồng lao động xác định thời hạn hoặc theo mùa vụ:** NLĐ chỉ được đơn phương chấm dứt khi có **một trong các lý do cụ thể** được luật định (ví dụ: không được bố trí đúng công việc, địa điểm làm việc; không được trả đủ lương; bị ngược đãi, quấy rối tình dục; mang thai phải nghỉ; đủ tuổi nghỉ hưu; NSDLĐ cung cấp thông tin sai làm ảnh hưởng đến việc thực hiện HĐLĐ...).\n\n2.  **Thời hạn báo trước:**\n    *   **Hợp đồng không xác định thời hạn:** Ít nhất 45 ngày.\n    *   **Hợp đồng xác định thời hạn từ 12 đến 36 tháng:** Ít nhất 30 ngày.\n    *   **Hợp đồng xác định thời hạn dưới 12 tháng:** Ít nhất 03 ngày làm việc.\n    *   **Các trường hợp không cần báo trước:** Nếu NSDLĐ vi phạm nghiêm trọng hợp đồng (không trả lương đúng hạn, ngược đãi, quấy rối tình dục, không bố trí đúng công việc...).\n\n3.  **Hậu quả nếu chấm dứt trái pháp luật (Điều 39 BLLĐ 2019):**\n    *   Không được hưởng trợ cấp thôi việc.\n    *   Phải bồi thường cho NSDLĐ nửa tháng tiền lương theo HĐLĐ.\n    *   Nếu vi phạm thời hạn báo trước, phải bồi thường một khoản tiền tương ứng với tiền lương của NLĐ trong những ngày không báo trước.\n    *   Phải hoàn trả chi phí đào tạo (nếu có).\n\n**II. Quyền đơn phương chấm dứt hợp đồng của Người sử dụng lao động (Điều 36 BLLĐ 2019)**\n\n1.  **Căn cứ chấm dứt:** NSDLĐ **luôn luôn phải có một trong các lý do cụ thể** được luật định và có bằng chứng chứng minh, bao gồm:\n    *   NLĐ thường xuyên không hoàn thành công việc theo HĐLĐ.\n    *   NLĐ bị xử lý kỷ luật sa thải.\n    *   NLĐ bị ốm đau, tai nạn đã điều trị một thời gian nhất định mà khả năng lao động chưa hồi phục.\n    *   Do thiên tai, hỏa hoạn, dịch bệnh nguy hiểm... mà NSDLĐ đã tìm mọi biện pháp khắc phục nhưng buộc phải thu hẹp sản xuất, giảm chỗ làm việc.\n    *   NLĐ không có mặt tại nơi làm việc sau thời hạn tạm hoãn HĐLĐ.\n    *   NLĐ đủ tuổi nghỉ hưu (trừ trường hợp có thỏa thuận khác).\n    *   NLĐ tự ý bỏ việc mà không có lý do chính đáng từ 05 ngày làm việc liên tục trở lên.\n    *   NLĐ cung cấp thông tin sai sự thật khi giao kết HĐLĐ làm ảnh hưởng đến việc tuyển dụng.\n\n2.  **Thời hạn báo trước:**\n    *   **Hợp đồng không xác định thời hạn:** Ít nhất 45 ngày.\n    *   **Hợp đồng xác định thời hạn từ 12 đến 36 tháng:** Ít nhất 30 ngày.\n    *   **Hợp đồng xác định thời hạn dưới 12 tháng:** Ít nhất 03 ngày làm việc.\n    *   **Các trường hợp không cần báo trước:** NLĐ bị xử lý kỷ luật sa thải; tự ý bỏ việc 05 ngày làm việc liên tục trở lên; cung cấp thông tin sai sự thật làm ảnh hưởng đến tuyển dụng.\n\n3.  **Hậu quả nếu chấm dứt trái pháp luật (Điều 41, 42 BLLĐ 2019):**\n    *   Phải nhận NLĐ trở lại làm việc theo HĐLĐ đã giao kết.\n    *   Phải trả tiền lương, đóng bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp trong những ngày NLĐ không được làm việc.\n    *   Phải trả thêm ít nhất 02 tháng tiền lương theo HĐLĐ.\n    *   Nếu vi phạm thời hạn báo trước, phải trả một khoản tiền tương ứng với tiền lương của NLĐ trong những ngày không báo trước.\n    *   Nếu NLĐ không muốn trở lại làm việc, phải trả trợ cấp thôi việc và một khoản tiền bồi thường bổ sung.\n\n---\n\n**Tóm tắt điểm khác biệt chính:**\n\n*   **Tính linh hoạt về lý do:** NLĐ có nhiều sự linh hoạt hơn, đặc biệt đối với hợp đồng không xác định thời hạn, có thể đơn phương chấm dứt mà không cần lý do cụ thể (chỉ cần báo trước). NSDLĐ luôn phải có lý do cụ thể được pháp luật quy định.\n*   **Gánh nặng chứng minh:** NSDLĐ có gánh nặng chứng minh nặng nề hơn khi đơn phương chấm dứt để tránh bị coi là chấm dứt trái pháp luật.\n*   **Hậu quả pháp lý khi chấm dứt trái pháp luật:** Hậu quả đối với NSDLĐ khi chấm dứt trái pháp luật nghiêm trọng hơn rất nhiều, có thể phải nhận lại NLĐ, bồi thường lớn.",
+    "gemini_time": 17.3958
+  },
+  {
+    "id": 82,
+    "question": "Phân tích mối liên hệ giữa nội quy lao động, thỏa ước lao động tập thể và hợp đồng lao động trong việc điều chỉnh quan hệ lao động",
+    "answer": "",
+    "question_type": "composite",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Phân tích mối liên hệ giữa nội quy lao động, thỏa ước lao động tập thể và hợp đồng lao động trong việc điều chỉnh quan hệ lao động\n\nTrả lời:",
+    "gemini_answer": "Mối liên hệ giữa Nội quy lao động (NQLĐ), Thỏa ước lao động tập thể (TTLĐTT) và Hợp đồng lao động (HĐLĐ) tạo thành một hệ thống các quy tắc pháp lý có tính thứ bậc và bổ trợ, nhằm điều chỉnh toàn diện quan hệ lao động tại doanh nghiệp.\n\nDưới đây là phân tích cụ thể:\n\n1.  **Hợp đồng lao động (HĐLĐ):**\n    *   **Cấp độ:** Là văn bản ở cấp độ **cá nhân**, được giao kết trực tiếp giữa người sử dụng lao động (NSDLĐ) và từng người lao động (NLĐ).\n    *   **Chức năng:** Quy định các điều khoản cụ thể về công việc, tiền lương, thời giờ làm việc, thời giờ nghỉ ngơi, quyền và nghĩa vụ của từng bên, và các điều kiện khác phù hợp với quy định pháp luật.\n    *   **Tính tuân thủ:** HĐLĐ phải tuân thủ Bộ luật Lao động và các văn bản hướng dẫn, đồng thời **không được trái hoặc thấp hơn** so với TTLĐTT và NQLĐ (nếu có). HĐLĐ có thể có các điều khoản có lợi hơn cho NLĐ so với TTLĐTT hoặc NQLĐ.\n\n2.  **Nội quy lao động (NQLĐ):**\n    *   **Cấp độ:** Là văn bản ở cấp độ **doanh nghiệp**, do NSDLĐ ban hành sau khi tham khảo ý kiến của tổ chức đại diện NLĐ tại cơ sở (nếu có).\n    *   **Chức năng:** Quy định các vấn đề về trật tự, kỷ luật lao động trong phạm vi doanh nghiệp, áp dụng cho tất cả NLĐ. Bao gồm các quy tắc về thời giờ làm việc, thời giờ nghỉ ngơi, an toàn, vệ sinh lao động, hành vi tại nơi làm việc, xử lý kỷ luật lao động và trách nhiệm vật chất.\n    *   **Tính tuân thủ:** NQLĐ phải tuân thủ Bộ luật Lao động và các văn bản hướng dẫn, đồng thời **không được trái hoặc thấp hơn** so với TTLĐTT (nếu có). NQLĐ là cơ sở để NSDLĐ áp dụng các hình thức xử lý kỷ luật lao động.\n\n3.  **Thỏa ước lao động tập thể (TTLĐTT):**\n    *   **Cấp độ:** Là văn bản ở cấp độ **tập thể**, được ký kết giữa NSDLĐ (hoặc đại diện của NSDLĐ) và tập thể NLĐ (thông qua tổ chức đại diện NLĐ tại cơ sở).\n    *   **Chức năng:** Thường quy định các điều kiện lao động, tiền lương, trợ cấp, thời giờ làm việc, thời giờ nghỉ ngơi và các quyền lợi khác của NLĐ **có lợi hơn** so với quy định của pháp luật lao động, nhằm nâng cao phúc lợi cho NLĐ trong doanh nghiệp.\n    *   **Tính tuân thủ:** TTLĐTT phải tuân thủ Bộ luật Lao động và các văn bản hướng dẫn. Nó là cơ sở để xây dựng và thực hiện NQLĐ và HĐLĐ.\n\n**Mối liên hệ cụ thể:**\n\n*   **Tính thứ bậc và tuân thủ:**\n    *   **Pháp luật Lao động** là nền tảng cao nhất, tất cả HĐLĐ, NQLĐ và TTLĐTT đều phải tuân thủ và không được trái với các quy định của pháp luật.\n    *   **TTLĐTT** đứng dưới pháp luật nhưng cao hơn HĐLĐ và NQLĐ về mức độ ưu tiên áp dụng. Các điều khoản trong TTLĐTT thường mang tính tiến bộ, có lợi hơn cho NLĐ so với quy định của pháp luật.\n    *   **NQLĐ** đứng dưới pháp luật và TTLĐTT. Các quy định của NQLĐ không được trái với pháp luật và TTLĐTT.\n    *   **HĐLĐ** là văn bản ở cấp độ thấp nhất nhưng cụ thể nhất. Các điều khoản trong HĐLĐ không được trái với pháp luật, TTLĐTT và NQLĐ.\n\n*   **Tính bổ trợ và cụ thể hóa:**\n    *   TTLĐTT và NQLĐ tạo ra một khung pháp lý chung, nâng cao và chi tiết hóa các điều kiện lao động và kỷ luật tại doanh nghiệp cho toàn bộ hoặc một nhóm NLĐ.\n    *   HĐLĐ cụ thể hóa các điều kiện đó cho từng NLĐ, đồng thời có thể thỏa thuận những điều khoản có lợi hơn cho NLĐ so với TTLĐTT hoặc NQLĐ, miễn là không vi phạm quy định pháp luật.\n\n*   **Bảo vệ quyền lợi người lao động:** Hệ thống thứ bậc này đảm bảo một \"tầng sàn\" bảo vệ quyền lợi NLĐ. Nếu HĐLĐ, NQLĐ hoặc TTLĐTT có điều khoản trái hoặc thấp hơn so với cấp độ cao hơn, điều khoản đó sẽ bị vô hiệu và phải áp dụng quy định ở cấp độ cao hơn hoặc có lợi hơn cho NLĐ.\n\nTóm lại, HĐLĐ, NQLĐ và TTLĐTT là ba trụ cột trong việc điều chỉnh quan hệ lao động, hoạt động trong một mối quan hệ thứ bậc chặt chẽ, bổ trợ lẫn nhau để đảm bảo sự ổn định, kỷ luật trong lao động và bảo vệ quyền lợi hợp pháp của các bên, đặc biệt là người lao động.",
+    "gemini_time": 13.6929
+  },
+  {
+    "id": 83,
+    "question": "Tổng hợp các trường hợp người lao động được nghỉ việc có hưởng lương theo quy định",
+    "answer": "",
+    "question_type": "composite",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Tổng hợp các trường hợp người lao động được nghỉ việc có hưởng lương theo quy định\n\nTrả lời:",
+    "gemini_answer": "Chào bạn,\n\nTheo quy định của Bộ luật Lao động 2019 và các văn bản hướng dẫn hiện hành, người lao động được nghỉ việc và hưởng nguyên lương trong các trường hợp chính sau đây:\n\n1.  **Nghỉ hằng năm (Nghỉ phép năm):**\n    *   Người lao động làm việc đủ 12 tháng cho một người sử dụng lao động thì được nghỉ hằng năm có hưởng nguyên lương theo hợp đồng lao động:\n        *   12 ngày làm việc: Đối với người làm công việc trong điều kiện bình thường.\n        *   14 ngày làm việc: Đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm.\n        *   16 ngày làm việc: Đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm.\n    *   Cứ đủ 05 năm làm việc cho một người sử dụng lao động thì số ngày nghỉ hằng năm được tăng thêm 01 ngày.\n    *   *(Căn cứ: Điều 113, Điều 114 Bộ luật Lao động 2019)*\n\n2.  **Nghỉ lễ, Tết:**\n    *   Người lao động được nghỉ làm việc, hưởng nguyên lương trong các ngày lễ, Tết sau:\n        *   Tết Dương lịch: 01 ngày (ngày 01 tháng 01 Dương lịch).\n        *   Tết Âm lịch: 05 ngày.\n        *   Ngày Giỗ Tổ Hùng Vương: 01 ngày (ngày 10 tháng 3 Âm lịch).\n        *   Ngày Giải phóng miền Nam, thống nhất đất nước: 01 ngày (ngày 30 tháng 4 Dương lịch).\n        *   Ngày Quốc tế lao động: 01 ngày (ngày 01 tháng 5 Dương lịch).\n        *   Ngày Quốc khánh: 02 ngày (ngày 02 tháng 9 Dương lịch và 01 ngày liền kề trước hoặc sau).\n    *   *(Căn cứ: Điều 112 Bộ luật Lao động 2019)*\n\n3.  **Nghỉ việc riêng có hưởng nguyên lương:**\n    *   Kết hôn: nghỉ 03 ngày.\n    *   Con kết hôn: nghỉ 01 ngày.\n    *   Cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi; cha đẻ, mẹ đẻ, cha nuôi, mẹ nuôi của vợ hoặc chồng; vợ hoặc chồng; con chết: nghỉ 03 ngày.\n    *   *(Căn cứ: Khoản 1 Điều 115 Bộ luật Lao động 2019)*\n\n4.  **Nghỉ do tai nạn lao động, bệnh nghề nghiệp:**\n    *   Trong thời gian điều trị, phục hồi chức năng do tai nạn lao động, bệnh nghề nghiệp mà người lao động không thể tiếp tục làm việc thì người sử dụng lao động có trách nhiệm trả đủ tiền lương theo hợp đồng lao động.\n    *   *(Căn cứ: Khoản 1 Điều 145 Bộ luật Lao động 2019)*\n\n5.  **Thời gian nghỉ để thực hiện nghĩa vụ công đoàn:**\n    *   Người lao động là thành viên ban chấp hành công đoàn cơ sở được sử dụng thời gian trong giờ làm việc để hoạt động công đoàn và được hưởng nguyên lương.\n    *   *(Căn cứ: Điều 176 Bộ luật Lao động 2019)*\n\n**Lưu ý:** Các trường hợp nghỉ ốm đau, thai sản (không phải theo mục 3 nêu trên), dưỡng sức, phục hồi sức khỏe sau ốm đau, thai sản, tai nạn lao động, bệnh nghề nghiệp thì người lao động được hưởng chế độ từ Quỹ bảo hiểm xã hội, không phải do người sử dụng lao động trả lương trực tiếp. Các trường hợp nghỉ việc riêng khác ngoài quy định tại Điều 115 Bộ luật Lao động 2019 thường là không hưởng lương, trừ khi có thỏa thuận khác trong hợp đồng lao động, thỏa ước lao động tập thể hoặc quy định riêng của doanh nghiệp.",
+    "gemini_time": 17.3527
+  },
+  {
+    "id": 84,
+    "question": "Phân tích sự khác biệt về chế độ thai sản giữa lao động nữ sinh con, lao động nam có vợ sinh con và người nhận con nuôi",
+    "answer": "",
+    "question_type": "composite",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Phân tích sự khác biệt về chế độ thai sản giữa lao động nữ sinh con, lao động nam có vợ sinh con và người nhận con nuôi\n\nTrả lời:",
+    "gemini_answer": "Chế độ thai sản tại Việt Nam, quy định chủ yếu bởi Luật Bảo hiểm xã hội 2014, có sự khác biệt rõ rệt giữa các đối tượng lao động nữ sinh con, lao động nam có vợ sinh con và người nhận con nuôi, cụ thể như sau:\n\n**1. Lao động nữ sinh con:**\n\n*   **Đối tượng:** Lao động nữ đóng BHXH bắt buộc từ đủ 06 tháng trở lên trong vòng 12 tháng trước khi sinh con hoặc nhận nuôi con nuôi.\n*   **Thời gian hưởng:**\n    *   **Nghỉ thai sản:** 06 tháng. Trường hợp sinh đôi trở lên thì cứ mỗi con thêm được nghỉ thêm 01 tháng.\n    *   Thời gian nghỉ trước và sau khi sinh có thể linh hoạt, nhưng tổng cộng không quá 06 tháng.\n    *   Trường hợp sinh con phải phẫu thuật, sinh non, con dưới 2 tháng tuổi bị chết... có quy định riêng về thời gian nghỉ.\n*   **Mức hưởng:**\n    *   **Trợ cấp thai sản:** Bằng 100% mức bình quân tiền lương tháng đóng BHXH của 06 tháng trước khi nghỉ việc hưởng chế độ thai sản.\n    *   **Trợ cấp một lần khi sinh con:** Bằng 02 lần mức lương cơ sở cho mỗi con.\n\n**2. Lao động nam có vợ sinh con:**\n\n*   **Đối tượng:** Lao động nam đóng BHXH bắt buộc.\n*   **Thời gian hưởng (Nghỉ việc hưởng chế độ thai sản):**\n    *   **Thông thường:** 05 ngày làm việc.\n    *   **Vợ sinh mổ hoặc sinh con dưới 32 tuần tuổi:** 07 ngày làm việc.\n    *   **Vợ sinh đôi:** 10 ngày làm việc. Từ sinh ba trở lên thì cứ mỗi con thêm được nghỉ thêm 03 ngày làm việc.\n    *   **Vợ sinh đôi trở lên mà phải phẫu thuật:** 14 ngày làm việc.\n    *   **Đặc biệt:** Trường hợp chỉ có cha tham gia BHXH mà mẹ chết sau khi sinh con hoặc gặp rủi ro không đủ sức khỏe để chăm sóc con, hoặc mẹ không tham gia BHXH thì người cha được nghỉ việc hưởng chế độ thai sản cho đến khi con đủ 06 tháng tuổi.\n*   **Mức hưởng:**\n    *   **Trợ cấp thai sản:** Bằng 100% mức bình quân tiền lương tháng đóng BHXH của 06 tháng trước khi nghỉ việc hưởng chế độ thai sản.\n    *   **Không có trợ cấp một lần khi sinh con (trừ trường hợp cha là người duy nhất tham gia BHXH và nhận con):** Trợ cấp này thường dành cho người mẹ hoặc người trực tiếp nhận nuôi con nuôi là người lao động.\n\n**3. Người nhận nuôi con nuôi:**\n\n*   **Đối tượng:** Người lao động đóng BHXH bắt buộc từ đủ 06 tháng trở lên trong vòng 12 tháng trước khi nhận nuôi con nuôi, và nhận nuôi con dưới 06 tháng tuổi.\n*   **Thời gian hưởng:**\n    *   Được nghỉ việc hưởng chế độ thai sản cho đến khi con đủ 06 tháng tuổi.\n    *   Trường hợp cả cha và mẹ cùng tham gia BHXH thì chỉ một người được hưởng chế độ này.\n*   **Mức hưởng:**\n    *   **Trợ cấp thai sản:** Bằng 100% mức bình quân tiền lương tháng đóng BHXH của 06 tháng trước khi nghỉ việc hưởng chế độ thai sản.\n    *   **Trợ cấp một lần khi nhận nuôi con nuôi:** Bằng 02 lần mức lương cơ sở cho mỗi con (áp dụng nếu người nhận nuôi con nuôi là người lao động đã đóng BHXH).\n\n**Sự khác biệt chính:**\n\n*   **Thời gian nghỉ:** Lao động nữ sinh con có thời gian nghỉ dài nhất (06 tháng, có thể dài hơn nếu sinh đôi/đa thai). Lao động nam có vợ sinh con chỉ được nghỉ từ 05 đến 14 ngày làm việc (trừ trường hợp đặc biệt). Người nhận con nuôi được nghỉ cho đến khi con đủ 06 tháng tuổi.\n*   **Mục đích:** Chế độ cho lao động nữ sinh con và người nhận con nuôi nhằm mục đích phục hồi sức khỏe cho người mẹ/người nhận nuôi và chăm sóc, gắn kết với trẻ sơ sinh. Chế độ cho lao động nam chủ yếu là hỗ trợ vợ và con trong những ngày đầu sau sinh.\n*   **Trợ cấp một lần:** Lao động nữ sinh con và người nhận nuôi con nuôi được hưởng trợ cấp một lần khi sinh/nhận nuôi con. Lao động nam có vợ sinh con thường không được hưởng trợ cấp này (trừ trường hợp đặc biệt đã nêu).\n*   **Điều kiện hưởng:** Điều kiện về thời gian đóng BHXH có thể khác nhau về mức độ nghiêm ngặt và đối tượng áp dụng.",
+    "gemini_time": 12.5058
+  },
+  {
+    "id": 85,
+    "question": "So sánh chế độ nghỉ hằng năm giữa người làm công việc bình thường, nặng nhọc và đặc biệt nặng nhọc",
+    "answer": "",
+    "question_type": "composite",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: So sánh chế độ nghỉ hằng năm giữa người làm công việc bình thường, nặng nhọc và đặc biệt nặng nhọc\n\nTrả lời:",
+    "gemini_answer": "Chế độ nghỉ hằng năm giữa người làm công việc bình thường, nặng nhọc và đặc biệt nặng nhọc tại Việt Nam được quy định tại Bộ luật Lao động 2019, cụ thể như sau:\n\n1.  **Người làm công việc bình thường:**\n    *   **Số ngày nghỉ:** 12 ngày làm việc/năm.\n    *   *(Căn cứ: Khoản 1 Điều 113 Bộ luật Lao động 2019)*\n\n2.  **Người làm công việc nặng nhọc, độc hại, nguy hiểm:**\n    *   **Số ngày nghỉ:** 14 ngày làm việc/năm.\n    *   *(Căn cứ: Khoản 1 Điều 113 Bộ luật Lao động 2019)*\n\n3.  **Người làm công việc đặc biệt nặng nhọc, độc hại, nguy hiểm:**\n    *   **Số ngày nghỉ:** 16 ngày làm việc/năm.\n    *   *(Căn cứ: Khoản 1 Điều 113 Bộ luật Lao động 2019)*\n\n**Lưu ý chung:**\n*   Đối với tất cả các trường hợp trên, cứ đủ 05 năm làm việc cho một người sử dụng lao động thì số ngày nghỉ hằng năm của người lao động được tăng thêm **01 ngày** (Điều 114 Bộ luật Lao động 2019).",
+    "gemini_time": 8.9996
+  },
+  {
+    "id": 86,
+    "question": "Trình bày khái niệm Luật Lao động.",
+    "answer": "",
+    "question_type": "real",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Trình bày khái niệm Luật Lao động.\n\nTrả lời:",
+    "gemini_answer": "**Khái niệm Luật Lao động:**\n\nLuật Lao động là một ngành luật trong hệ thống pháp luật Việt Nam, bao gồm tổng thể các quy phạm pháp luật điều chỉnh:\n\n1.  **Quan hệ lao động cá nhân** giữa người lao động và người sử dụng lao động.\n2.  **Các quan hệ xã hội liên quan trực tiếp đến quan hệ lao động**, như quan hệ về quản lý nhà nước về lao động, quan hệ về công đoàn, về giải quyết tranh chấp lao động, về an toàn, vệ sinh lao động, về học nghề, dạy nghề, về bồi thường thiệt hại.\n\nMục đích của Luật Lao động là bảo vệ quyền và lợi ích hợp pháp của người lao động và người sử dụng lao động, tạo lập quan hệ lao động hài hòa, ổn định và tiến bộ, góp phần vào sự phát triển kinh tế - xã hội của đất nước.",
+    "gemini_time": 7.4816
+  },
+  {
+    "id": 87,
+    "question": "Các hình thức xử lý vi phạm pháp luật Lao động gồm những gì?",
+    "answer": "",
+    "question_type": "real",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Các hình thức xử lý vi phạm pháp luật Lao động gồm những gì?\n\nTrả lời:",
+    "gemini_answer": "Chào bạn, các hình thức xử lý vi phạm pháp luật Lao động tại Việt Nam được phân loại như sau:\n\n1.  **Kỷ luật lao động:**\n    *   **Đối tượng:** Người lao động có hành vi vi phạm kỷ luật lao động, nội quy lao động.\n    *   **Hình thức:** Khiển trách; Kéo dài thời hạn nâng lương không quá 06 tháng hoặc cách chức; Sa thải.\n    *   **Cơ sở pháp lý chính:** Bộ luật Lao động 2019.\n\n2.  **Xử phạt vi phạm hành chính:**\n    *   **Đối tượng:** Cá nhân, tổ chức (chủ yếu là người sử dụng lao động) có hành vi vi phạm các quy định của pháp luật lao động nhưng chưa đến mức truy cứu trách nhiệm hình sự.\n    *   **Hình thức:** Phạt tiền; Buộc khắc phục hậu quả.\n    *   **Cơ sở pháp lý chính:** Nghị định số 12/2022/NĐ-CP của Chính phủ quy định xử phạt vi phạm hành chính trong lĩnh vực lao động, bảo hiểm xã hội, đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.\n\n3.  **Truy cứu trách nhiệm hình sự:**\n    *   **Đối tượng:** Cá nhân có hành vi vi phạm pháp luật lao động nghiêm trọng, cấu thành tội phạm theo quy định của pháp luật hình sự.\n    *   **Hình thức:** Phạt tiền; Cải tạo không giam giữ; Tù có thời hạn; Cấm đảm nhiệm chức vụ, cấm hành nghề hoặc làm công việc nhất định... tùy theo từng tội danh.\n    *   **Cơ sở pháp lý chính:** Bộ luật Hình sự 2015 (sửa đổi, bổ sung 2017). Ví dụ: Tội vi phạm quy định về an toàn lao động, vệ sinh lao động; Tội cưỡng bức lao động...\n\n4.  **Trách nhiệm dân sự:**\n    *   **Đối tượng:** Bên vi phạm (người lao động hoặc người sử dụng lao động) gây thiệt hại cho bên còn lại do hành vi vi phạm pháp luật lao động.\n    *   **Hình thức:** Bồi thường thiệt hại (có thể bao gồm bồi thường vật chất và bồi thường tổn thất tinh thần trong một số trường hợp cụ thể).\n    *   **Cơ sở pháp lý chính:** Bộ luật Dân sự 2015 và các quy định có liên quan trong Bộ luật Lao động 2019 (ví dụ: bồi thường khi đơn phương chấm dứt hợp đồng lao động trái pháp luật).",
+    "gemini_time": 12.8143
+  },
+  {
+    "id": 88,
+    "question": "Nhiệm vụ của thanh tra Nhà nước về lao động là gì?",
+    "answer": "",
+    "question_type": "real",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Nhiệm vụ của thanh tra Nhà nước về lao động là gì?\n\nTrả lời:",
+    "gemini_answer": "Nhiệm vụ của thanh tra Nhà nước về lao động bao gồm:\n\n1.  **Kiểm tra, giám sát:** Việc chấp hành pháp luật về lao động, an toàn, vệ sinh lao động, bảo hiểm xã hội, bảo hiểm thất nghiệp và đưa người lao động Việt Nam đi làm việc ở nước ngoài theo hợp đồng.\n2.  **Điều tra tai nạn lao động:** Thực hiện điều tra tai nạn lao động và các sự cố liên quan đến an toàn, vệ sinh lao động.\n3.  **Xử phạt vi phạm hành chính:** Xử lý các hành vi vi phạm pháp luật trong lĩnh vực lao động theo thẩm quyền.\n4.  **Giải quyết khiếu nại, tố cáo:** Tiếp nhận và giải quyết các khiếu nại, tố cáo về lao động thuộc phạm vi quản lý.\n5.  **Hướng dẫn, tuyên truyền:** Hướng dẫn, tư vấn, tuyên truyền pháp luật lao động cho người sử dụng lao động và người lao động.\n6.  **Đề xuất, kiến nghị:** Đề xuất, kiến nghị với cơ quan nhà nước có thẩm quyền các biện pháp nhằm hoàn thiện pháp luật lao động.",
+    "gemini_time": 8.8077
+  },
+  {
+    "id": 89,
+    "question": "Thanh tra Nhà nước về lao động gồm mấy loại?",
+    "answer": "",
+    "question_type": "real",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Thanh tra Nhà nước về lao động gồm mấy loại?\n\nTrả lời:",
+    "gemini_answer": "Thanh tra Nhà nước về lao động gồm các loại sau, được tổ chức theo cấp hành chính:\n\n1.  **Thanh tra Bộ Lao động - Thương binh và Xã hội:** Thực hiện chức năng thanh tra chuyên ngành lao động ở cấp trung ương.\n2.  **Thanh tra Sở Lao động - Thương binh và Xã hội:** Thực hiện chức năng thanh tra chuyên ngành lao động ở cấp tỉnh, thành phố trực thuộc trung ương.\n\n(Lưu ý: Thanh tra Chính phủ có chức năng quản lý nhà nước về công tác thanh tra nói chung, bao gồm cả thanh tra lao động, nhưng hai loại trên là các cơ quan thanh tra chuyên ngành trực tiếp thực hiện nhiệm vụ thanh tra lao động.)",
+    "gemini_time": 9.3053
+  },
+  {
+    "id": 90,
+    "question": "Những cuộc đình công nào bị coi là bất hợp pháp?",
+    "answer": "",
+    "question_type": "real",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Những cuộc đình công nào bị coi là bất hợp pháp?\n\nTrả lời:",
+    "gemini_answer": "Theo Bộ luật Lao động 2019 (Điều 205), đình công bị coi là bất hợp pháp trong các trường hợp sau:\n\n1.  **Không tuân thủ trình tự, thủ tục:** Khi không được tổ chức đúng trình tự, thủ tục do pháp luật quy định (ví dụ: chưa qua hòa giải, không được lấy ý kiến biểu quyết của tập thể lao động, không do tổ chức đại diện người lao động có quyền lãnh đạo).\n2.  **Thuộc trường hợp bị cấm đình công:** Khi diễn ra tại các đơn vị, lĩnh vực bị cấm đình công (ví dụ: đơn vị vũ trang, phục vụ công cộng thiết yếu mà gây thiệt hại nghiêm trọng đến nền kinh tế quốc dân, đời sống công cộng theo quy định tại Điều 194 Bộ luật Lao động 2019).\n3.  **Trong quá trình giải quyết tranh chấp:** Khi tranh chấp lao động đã được giải quyết hoặc đang được cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết theo quy định của pháp luật.\n4.  **Mục đích không phải là tranh chấp lao động:** Khi không phát sinh từ tranh chấp lao động tập thể về quyền hoặc về lợi ích mà nhằm mục đích khác.",
+    "gemini_time": 10.738
+  },
+  {
+    "id": 91,
+    "question": "Người lao động có quyền đình công không? Trường hợp nào không được đình công?",
+    "answer": "",
+    "question_type": "real",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Người lao động có quyền đình công không? Trường hợp nào không được đình công?\n\nTrả lời:",
+    "gemini_answer": "Chào bạn,\n\nDưới đây là câu trả lời chính xác và súc tích về quyền đình công của người lao động tại Việt Nam:\n\n**Người lao động có quyền đình công không?**\n\nCó, người lao động có quyền đình công. Đây là một quyền cơ bản được pháp luật Việt Nam công nhận, cụ thể tại **Bộ luật Lao động 2019**, nhằm bảo vệ quyền và lợi ích hợp pháp, chính đáng của người lao động khi tranh chấp lao động tập thể về lợi ích không giải quyết được bằng các thủ tục hòa giải, trọng tài.\n\n**Trường hợp nào không được đình công?**\n\nTuy nhiên, pháp luật cũng quy định rõ các trường hợp không được đình công để đảm bảo trật tự xã hội và lợi ích công cộng, bao gồm:\n\n1.  **Trong thời gian tranh chấp lao động đang được giải quyết:** Khi tranh chấp lao động đang được Hội đồng trọng tài lao động quốc gia hoặc Chủ tịch Ủy ban nhân dân cấp tỉnh giải quyết theo quy định của pháp luật.\n2.  **Tại các doanh nghiệp dịch vụ công ích thiết yếu:** Tại các doanh nghiệp hoạt động trong lĩnh vực dịch vụ công ích thiết yếu cho quốc phòng, an ninh, y tế, công cộng theo danh mục do Chính phủ quy định.\n3.  **Gây thiệt hại nghiêm trọng:** Khi việc đình công có nguy cơ gây thiệt hại nghiêm trọng đến nền kinh tế quốc dân hoặc lợi ích công cộng.",
+    "gemini_time": 8.4339
+  },
+  {
+    "id": 92,
+    "question": "Thẩm quyền giải quyết tranh chấp lao động của Toà án nhân dân cấp huyện là gì?",
+    "answer": "",
+    "question_type": "real",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Thẩm quyền giải quyết tranh chấp lao động của Toà án nhân dân cấp huyện là gì?\n\nTrả lời:",
+    "gemini_answer": "Toà án nhân dân cấp huyện có thẩm quyền giải quyết theo thủ tục sơ thẩm các loại tranh chấp lao động và yêu cầu về lao động sau đây:\n\n1.  **Tranh chấp lao động cá nhân:** Khi hòa giải viên lao động hòa giải không thành hoặc hết thời hạn quy định mà hòa giải viên không tiến hành hòa giải.\n2.  **Tranh chấp lao động tập thể về quyền:** Khi hòa giải viên lao động hòa giải không thành hoặc hết thời hạn quy định mà hòa giải viên không tiến hành hòa giải.\n3.  **Các yêu cầu về lao động:** Bao gồm yêu cầu tuyên bố đình công hợp pháp hoặc không hợp pháp và các yêu cầu khác theo quy định của pháp luật về lao động.\n\n**Lưu ý:** Thẩm quyền này được quy định tại Bộ luật Lao động 2019 và Bộ luật Tố tụng Dân sự 2015.",
+    "gemini_time": 8.9971
+  },
+  {
+    "id": 93,
+    "question": "Hội đồng trọng tài lao động cấp tỉnh được thành lập như thế nào?",
+    "answer": "",
+    "question_type": "real",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Hội đồng trọng tài lao động cấp tỉnh được thành lập như thế nào?\n\nTrả lời:",
+    "gemini_answer": "Theo quy định của **Bộ luật Lao động 2019**, Hội đồng trọng tài lao động **vẫn được thành lập** ở cấp tỉnh, cụ thể theo **Điều 185** như sau:\n\n1.  **Chủ thể thành lập:** Ủy ban nhân dân cấp tỉnh thành lập Hội đồng trọng tài lao động.\n2.  **Thành phần:** Gồm Chủ tịch Hội đồng là đại diện cơ quan quản lý nhà nước về lao động; thư ký và các trọng tài viên. Số lượng trọng tài viên do Chủ tịch UBND cấp tỉnh quyết định, ít nhất là 15 người, trong đó có thành viên đại diện tổ chức đại diện người lao động, tổ chức đại diện người sử dụng lao động và người có kinh nghiệm trong lĩnh vực quan hệ lao động.\n3.  **Nhiệm kỳ:** Trọng tài viên có nhiệm kỳ 05 năm.\n4.  **Thẩm quyền:** Hội đồng trọng tài lao động giải quyết tranh chấp lao động tập thể về lợi ích; tranh chấp lao động tại các đơn vị sử dụng lao động mà pháp luật quy định không được đình công.",
+    "gemini_time": 5.1084
+  },
+  {
+    "id": 94,
+    "question": "Hội đồng hoà giải lao động ở cơ sở được thành lập như thế nào?",
+    "answer": "",
+    "question_type": "real",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Hội đồng hoà giải lao động ở cơ sở được thành lập như thế nào?\n\nTrả lời:",
+    "gemini_answer": "Hội đồng hoà giải lao động ở cơ sở được thành lập theo quy định tại Điều 180 Bộ luật Lao động 2019 như sau:\n\n1.  **Nơi thành lập:** Tại các doanh nghiệp, cơ quan, tổ chức, hợp tác xã **chưa có công đoàn cơ sở** hoặc chưa có tổ chức đại diện người lao động tại cơ sở.\n2.  **Chủ thể thành lập:** Do **người sử dụng lao động và tổ chức đại diện tập thể lao động tại cơ sở** (nếu có) **thỏa thuận thành lập**. Trong trường hợp chưa có tổ chức đại diện tập thể lao động tại cơ sở, người sử dụng lao động và đại diện người lao động thỏa thuận thành lập.\n3.  **Thành phần:** Gồm số lượng thành viên ngang nhau của bên người sử dụng lao động và bên người lao động.\n4.  **Số lượng thành viên:** Là số lẻ, tối thiểu 03 người, tối đa 07 người.\n5.  **Chủ tịch Hội đồng:** Do người sử dụng lao động và thành viên đại diện người lao động luân phiên đảm nhiệm.",
+    "gemini_time": 8.9063
+  },
+  {
+    "id": 95,
+    "question": "Cơ quan, tổ chức nào giải quyết tranh chấp lao động cá nhân?",
+    "answer": "",
+    "question_type": "real",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Cơ quan, tổ chức nào giải quyết tranh chấp lao động cá nhân?\n\nTrả lời:",
+    "gemini_answer": "Cơ quan, tổ chức giải quyết tranh chấp lao động cá nhân bao gồm:\n\n1.  **Hòa giải viên lao động:** Đây là bước bắt buộc trước khi khởi kiện ra Tòa án, trừ các trường hợp không bắt buộc hòa giải theo quy định của Bộ luật Lao động.\n2.  **Tòa án nhân dân:** Tòa án có thẩm quyền giải quyết nếu hòa giải không thành, hoặc trong các trường hợp tranh chấp không bắt buộc phải qua thủ tục hòa giải (ví dụ: tranh chấp về xử lý kỷ luật sa thải, đơn phương chấm dứt hợp đồng lao động, bồi thường thiệt hại khi chấm dứt hợp đồng lao động,...).\n\nViệc giải quyết được thực hiện theo quy định của Bộ luật Lao động 2019 và Bộ luật Tố tụng dân sự.",
+    "gemini_time": 8.0063
+  },
+  {
+    "id": 96,
+    "question": "Nghĩa vụ của người lao động và người sử dụng lao động trong việc giải quyết tranh chấp lao động là gì?",
+    "answer": "",
+    "question_type": "real",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Nghĩa vụ của người lao động và người sử dụng lao động trong việc giải quyết tranh chấp lao động là gì?\n\nTrả lời:",
+    "gemini_answer": "Trong việc giải quyết tranh chấp lao động, cả người lao động (NLĐ) và người sử dụng lao động (NSDLĐ) đều có những nghĩa vụ quan trọng nhằm đảm bảo quá trình diễn ra công bằng và hiệu quả, cụ thể như sau:\n\n**I. Nghĩa vụ chung của Người lao động và Người sử dụng lao động:**\n\n1.  **Thiện chí, hợp tác:** Cả hai bên có nghĩa vụ giải quyết tranh chấp trên tinh thần thiện chí, hợp tác, tôn trọng quyền và lợi ích hợp pháp của nhau.\n2.  **Cung cấp thông tin, tài liệu:** Hợp tác cung cấp đầy đủ, kịp thời các thông tin, tài liệu, chứng cứ liên quan đến tranh chấp theo yêu cầu của cơ quan, tổ chức, cá nhân có thẩm quyền giải quyết tranh chấp (hòa giải viên lao động, Hội đồng trọng tài lao động, Tòa án).\n3.  **Tham gia các buổi làm việc:** Có mặt và tham gia đầy đủ các buổi đối thoại, hòa giải, phiên họp của Hội đồng trọng tài lao động, phiên tòa theo giấy triệu tập hoặc thông báo hợp lệ.\n4.  **Thi hành quyết định:** Chấp hành các thỏa thuận hòa giải thành, quyết định của Hội đồng trọng tài lao động (nếu có giá trị thi hành) hoặc bản án, quyết định của Tòa án đã có hiệu lực pháp luật.\n\n**II. Nghĩa vụ riêng:**\n\n**A. Nghĩa vụ của Người lao động:**\n\n1.  **Chủ động đề xuất giải quyết:** NLĐ có quyền và nghĩa vụ chủ động đề xuất giải quyết tranh chấp thông qua thương lượng trực tiếp với NSDLĐ.\n2.  **Gửi đơn yêu cầu:** Nếu thương lượng không thành hoặc không thể thương lượng, NLĐ có nghĩa vụ gửi đơn yêu cầu giải quyết tranh chấp đến hòa giải viên lao động hoặc cơ quan có thẩm quyền khác theo quy định pháp luật.\n\n**B. Nghĩa vụ của Người sử dụng lao động:**\n\n1.  **Tiếp nhận và xem xét yêu cầu:** NSDLĐ có nghĩa vụ tiếp nhận và xem xét yêu cầu giải quyết tranh chấp từ NLĐ một cách nghiêm túc, kịp thời.\n2.  **Tạo điều kiện giải quyết:** NSDLĐ có nghĩa vụ tạo điều kiện thuận lợi để giải quyết tranh chấp, bao gồm việc cử đại diện có thẩm quyền tham gia các buổi đối thoại, hòa giải và cung cấp các thông tin nội bộ cần thiết.\n3.  **Thương lượng:** Tích cực tham gia thương lượng trực tiếp với NLĐ để tìm giải pháp cho tranh chấp.",
+    "gemini_time": 9.033
+  },
+  {
+    "id": 97,
+    "question": "Quyền của người lao động và người sử dụng lao động trong việc giải quyết tranh chấp lao động là gì?",
+    "answer": "",
+    "question_type": "real",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Quyền của người lao động và người sử dụng lao động trong việc giải quyết tranh chấp lao động là gì?\n\nTrả lời:",
+    "gemini_answer": "Quyền của người lao động và người sử dụng lao động trong việc giải quyết tranh chấp lao động, theo pháp luật lao động Việt Nam, về cơ bản là tương đồng và có thể được tóm tắt như sau:\n\nCả người lao động và người sử dụng lao động đều có các quyền chung sau đây:\n\n1.  **Quyền tự thương lượng, đối thoại:** Ưu tiên tự giải quyết tranh chấp thông qua thương lượng, đối thoại trực tiếp hoặc thông qua đại diện.\n2.  **Quyền yêu cầu giải quyết:**\n    *   Yêu cầu Hòa giải viên lao động giải quyết tranh chấp (đối với tranh chấp cá nhân).\n    *   Yêu cầu Hội đồng trọng tài lao động giải quyết tranh chấp (đối với tranh chấp cá nhân hoặc tranh chấp tập thể về quyền).\n    *   Yêu cầu Tòa án nhân dân giải quyết tranh chấp (đối với tranh chấp cá nhân hoặc tranh chấp tập thể về quyền, khi hòa giải không thành hoặc quyết định của Hội đồng trọng tài lao động không được thi hành).\n3.  **Quyền tham gia quá trình giải quyết:**\n    *   Trực tiếp tham gia hoặc cử người đại diện (luật sư, tổ chức đại diện người lao động,...) tham gia vào quá trình giải quyết tranh chấp ở các cấp.\n    *   Cung cấp tài liệu, chứng cứ; yêu cầu cơ quan có thẩm quyền giải quyết thu thập tài liệu, chứng cứ.\n4.  **Quyền yêu cầu thay đổi người tiến hành giải quyết:** Yêu cầu thay đổi Hòa giải viên lao động, thành viên Hội đồng trọng tài lao động hoặc Thẩm phán nếu có lý do chính đáng về sự vô tư, khách quan.\n5.  **Quyền nhận quyết định giải quyết:** Được nhận các quyết định, khuyến nghị, bản án liên quan đến việc giải quyết tranh chấp.\n6.  **Quyền yêu cầu thi hành quyết định:** Yêu cầu cơ quan nhà nước có thẩm quyền cưỡng chế thi hành các quyết định giải quyết tranh chấp đã có hiệu lực pháp luật.\n7.  **Quyền khiếu nại, kháng cáo, kháng nghị:** Khiếu nại, kháng cáo, kháng nghị các quyết định giải quyết tranh chấp theo quy định của pháp luật (ví dụ: kháng cáo bản án của Tòa án).",
+    "gemini_time": 9.8023
+  },
+  {
+    "id": 98,
+    "question": "Thế nào là bệnh nghề nghiệp?",
+    "answer": "",
+    "question_type": "real",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Thế nào là bệnh nghề nghiệp?\n\nTrả lời:",
+    "gemini_answer": "Theo Luật An toàn, vệ sinh lao động năm 2015, tại khoản 9 Điều 3 quy định:\n\n**Bệnh nghề nghiệp là bệnh phát sinh do điều kiện lao động có hại của nghề nghiệp, công việc gây ra và được quy định trong danh mục bệnh nghề nghiệp do Bộ Y tế ban hành.**",
+    "gemini_time": 5.1972
+  },
+  {
+    "id": 99,
+    "question": "Thế nào là tai nạn lao động?",
+    "answer": "",
+    "question_type": "real",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Thế nào là tai nạn lao động?\n\nTrả lời:",
+    "gemini_answer": "Theo quy định của Luật An toàn, vệ sinh lao động năm 2015 (Điều 3 Khoản 8), tai nạn lao động là:\n\n**Tai nạn gây tổn thương cho bất kỳ bộ phận, chức năng nào của cơ thể hoặc gây tử vong, xảy ra trong quá trình lao động, gắn liền với việc thực hiện công việc, nhiệm vụ lao động.**",
+    "gemini_time": 12.7765
+  },
+  {
+    "id": 100,
+    "question": "Hình thức sa thải người lao động chỉ được áp dụng trong trường hợp nào?",
+    "answer": "",
+    "question_type": "real",
+    "gemini_context": "Bạn là trợ lý pháp lý chuyên về luật lao động Việt Nam. Hãy trả lời câu hỏi sau một cách chính xác và súc tích.\n\nCâu hỏi: Hình thức sa thải người lao động chỉ được áp dụng trong trường hợp nào?\n\nTrả lời:",
+    "gemini_answer": "Hình thức sa thải người lao động chỉ được áp dụng trong các trường hợp là hình thức kỷ luật lao động cao nhất, được quy định tại Điều 125 Bộ luật Lao động 2019, cụ thể khi người lao động:\n\n1.  Có hành vi trộm cắp, tham ô, đánh bạc, cố ý gây thương tích, sử dụng ma túy tại nơi làm việc.\n2.  Có hành vi tiết lộ bí mật kinh doanh, bí mật công nghệ, xâm phạm quyền sở hữu trí tuệ của người sử dụng lao động, có hành vi gây thiệt hại nghiêm trọng hoặc đe dọa gây thiệt hại đặc biệt nghiêm trọng về tài sản, lợi ích của người sử dụng lao động hoặc quấy rối tình dục tại nơi làm việc được quy định trong nội quy lao động.\n3.  Bị xử lý kỷ luật kéo dài thời hạn nâng lương hoặc cách chức mà tái phạm trong thời gian chưa xóa kỷ luật.\n4.  Tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày kể từ ngày đầu tiên tự ý bỏ việc hoặc 20 ngày cộng dồn trong thời hạn 365 ngày kể từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng.",
+    "gemini_time": 9.1898
+  }
+]
