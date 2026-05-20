@@ -307,9 +307,9 @@ def debug_only_fp(regex_dict, gt_dict):
                     "pred_type": r_ent["type"]
                 })
 
-    print("\n" + "="*80)
+    print('\n')
     print("PREDICT CO NHUNG GTRUTH KHONG CO (FP)")
-    print("="*80)
+    print('\n')
 
     for item in debug_fp:
         print(item)
@@ -317,4 +317,4 @@ def debug_only_fp(regex_dict, gt_dict):
     print("\nTOTAL FP:", len(debug_fp))
 # debug_only_fp(regex_dict, gt_dict)
 eval_overall(match_results)
-# eval_per_type(per_type_results)
+eval_per_type(per_type_results)

@@ -1,0 +1,15 @@
+{
+  "judge_model": "Qwen/Qwen2.5-3B-Instruct",
+  "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "summary": {
+    "RAG": {
+      "context_recall": 0.8
+    },
+    "GraphRAG": {
+      "context_recall": 0.8831
+    },
+    "LLM_only": {
+      "context_recall": 0.9323
+    }
+  }
+}

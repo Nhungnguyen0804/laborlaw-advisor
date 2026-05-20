@@ -1,0 +1,35 @@
+RAG
+context_precision: 0.6703
+
+GraphRAG
+context_precision: 0.6316
+
+LLM_only
+context_precision: 0.0
+
+
+
+RAG
+answer_relevancy: 0.4524
+
+GraphRAG
+answer_relevancy: 0.4865
+
+LLM_only
+answer_relevancy: 0.421
+
+RAG
+context_recall: 0.8
+
+GraphRAG
+context_recall: 0.8831
+
+LLM_only
+context_recall: 0.9323
+
+RAG
+  faithfulness: 0.05
+GraphRAG
+  faithfulness: 0.25
+LLM_only
+  faithfulness: 0.3222

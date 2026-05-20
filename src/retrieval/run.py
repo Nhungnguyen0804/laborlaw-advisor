@@ -75,7 +75,7 @@ def run_retrieval(driver,question,query_entities):
 
         chunk_labels = get_labels(chunk_entities)
         # Entity xuất hiện cả trong question và chunk
-        # question co 4 cau hoi, chunk match 2 => score = 2/4
+        # question co 4 thuc the, chunk match 2 => score = 2/4
         entity_match_score = calculate_entity_match_score(query_labels,chunk_labels)
         
         chunk_with_ents.append({
