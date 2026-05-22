@@ -16,8 +16,9 @@ for entity_type, pattern_list in PATTERNS.items():
 # question = "Điều 113 gồm những khoản nào?"
 # question = 'Người lao động được nghỉ phép bao nhiêu ngày'
 # question ='Nội dung của điều 113'
-# question ='điểm a và điểm b khoản 3 điều 18 là gì '
-question = 'khoản 1 và khoản 2 điều 14'
+question ='điểm a và điểm b khoản 3 điều 18 là gì '
+# question = 'Thời gian làm việc tối đa là bao nhiêu'
+# question = 'Khi người lao động làm mất dụng cụ, thiết bị của doanh nghiệp thì phải xử lý như thế nào'
 # question = 'điều 90 thuộc chương nào'
 # question = 'luật lao động gồm bao nhiêu chương'
 
@@ -28,7 +29,7 @@ try:
     start_time = time.perf_counter()
     subquestions = split_legal_ref(question)
     answer = ''
-    if len(subquestions) > 0:
+    if len(subquestions) > 1:
         for sub_question in subquestions:
             result = run_retrieval_graph(driver, sub_question)
             if result is not None:

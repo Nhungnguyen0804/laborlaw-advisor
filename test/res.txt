@@ -1,0 +1,36 @@
+QUESTION:
+Thời gian làm việc tối đa là bao nhiêu
+
+ANSWER:
+Theo Điều 53 của Thông tư 06/2019/TT-BLĐTBXH, thời hạn cho thuê lại lao động đối với người lao động tối đa là 12 tháng. Theo Điều 107 của Thông tư 06/2019/TT-BLĐTBXH, thời gian làm thêm giờ là khoảng thời gian làm việc ngoài thời giờ làm việc bình thường theo quy định của pháp luật, thỏa ước lao động tập thể hoặc nội quy lao động. Không quá 200 giờ làm thêm trong một tháng và không quá 200 giờ trong một năm.
+
+Total time: 103.3424 seconds
+
+QUESTION:
+Khi người lao động làm mất dụng cụ, thiết bị của doanh nghiệp thì phải xử lý như thế nào
+
+ANSWER:
+Thực hiện theo các quy định trong Điều 129 của Bộ Luật Lao động Việt Nam:
+
+1. Người lao động làm mất dụng cụ, thiết bị của doanh nghiệp phải bồi thường thiệt hại một phần hoặc toàn bộ theo thời giá thị trường hoặc nội quy lao động.
+
+2. Trường hợp có hợp đồng trách nhiệm, người lao động phải bồi thường theo hợp đồng trách nhiệm.
+
+3. Trường hợp do thiên tai, hỏa hoạn, địch họa, dịch bệnh nguy hiểm, thảm họa, sự kiện xảy ra khách quan không thể lường trước được và không thể khắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép, không phải bồi thường.
+
+4. Trong trường hợp do thiên tai, hỏa hoạn, địch họa, dịch bệnh nguy hiểm, thảm họa, sự kiện xảy ra khách quan không thể lường trước được và không thể khắc phục được mặc dù đã áp dụng mọi biện pháp cần thiết và khả năng cho phép, bồi thường bằng cách khấu trừ tiền lương từ lương hàng tháng của người lao động.
+
+5. Việc bồi thường phải tuân thủ đúng trình tự, thủ tục và thời hạn xử lý việc bồi thường thiệt hại.
+
+6. Tiền lương được khấu trừ khi bồi thường thiệt hại phải tuân thủ đúng quy định về bồi thường trong Bộ Luật Lao động.
+
+Total time: 142.8661 seconds
+
+
+QUESTION:
+điểm a và điểm b khoản 3 điều 18 là gì 
+
+ANSWER:
+Chương 3 Điều 18 Khoản 3 Điểm a: Người đại diện theo pháp luật của doanh nghiệp hoặc người được ủy quyền theo quy định của pháp luật;
+Chương 3 Điều 18 Khoản 3 Điểm b: Người đứng đầu cơ quan, tổ chức có tư cách pháp nhân theo quy định của pháp luật hoặc người được ủy quyền theo quy định của pháp luật;
+
