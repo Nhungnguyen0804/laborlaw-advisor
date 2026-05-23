@@ -1,28 +1,28 @@
 [
   {
-    "type": "LEGAL_REF",
-    "text": "điểm b thuộc khoản nào trong điều 20",
+    "type": "LEGAL_ROLE",
+    "text": "Người lao động",
     "span": [
       0,
-      36
+      14
     ],
     "source": "pattern"
   },
   {
-    "type": "LEGAL_REF",
-    "text": "khoản nào trong điều 20",
+    "type": "ACTION",
+    "text": "đơn phương chấm dứt hợp đồng không xác định thời hạn?",
     "span": [
-      13,
-      36
+      42,
+      95
     ],
     "source": "pattern"
   },
   {
-    "type": "LEGAL_REF",
-    "text": "điều 20",
+    "type": "OBLIGATION",
+    "text": "phải báo trước bao lâu khi đơn phương chấm dứt hợp đồng không xác định thời hạn?",
     "span": [
-      29,
-      36
+      15,
+      95
     ],
     "source": "pattern"
   }

@@ -32,7 +32,9 @@ def load_qwen():
     if model is None:
         model = AutoModelForCausalLM.from_pretrained(
             MODEL_NAME,
-            torch_dtype=torch.float32,
+            # dtype=torch.float32,
+            # dtype = 'auto',
+            dtype=torch.bfloat16 ,
             device_map="cpu",
             cache_dir="E:/huggingface"
         )
@@ -123,7 +125,7 @@ LOGIC RULES (IMPORTANT):
         {
             "role": "user",
             "content": f"""
-                THÔNG TIN PHÁP LUẬT LAO DỘNG VIỆT NAM:
+                THÔNG TIN PHÁP LUẬT LAO ĐỘNG VIỆT NAM:
                 {context_text}
                 CÂU HỎI:
                 {question}
