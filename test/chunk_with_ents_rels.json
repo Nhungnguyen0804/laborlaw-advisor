@@ -1,2314 +1,1221 @@
 [
   {
-    "chunk_id": "chunk_00111",
+    "chunk_id": "chunk_00148",
     "chunk_type": "clause",
-    "content_with_context": "Chương 3, Mục 3, Điều 35:\nNgười lao động có quyền đơn phương chấm dứt hợp đồng lao động nhưng phải báo trước cho người sử dụng lao động như sau: a) Ít nhất 45 ngày nếu làm việc theo hợp đồng lao động không xác định thời hạn; b) Ít nhất 30 ngày nếu làm việc theo hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng; c) Ít nhất 03 ngày làm việc nếu làm việc theo hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng; d) Đối với một số ngành, nghề, công việc đặc thù thì thời hạn báo trước được thực hiện theo quy định của Chính phủ.",
+    "content_with_context": "Chương 3, Mục 3, Điều 46:\nTiền lương để tính trợ cấp thôi việc là tiền lương bình quân của 06 tháng liền kề theo hợp đồng lao động trước khi người lao động thôi việc.",
+    "rrf_score": 0.03278688524590164,
+    "graph": {
+      "article_id": "ch3_muc3_d46",
+      "article_title": "Trợ cấp thôi việc",
+      "clause_id": "ch3_muc3_d46_k3",
+      "entities": [
+        {
+          "id": "ent_2365",
+          "label": "trước khi người lao động thôi việc",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_2368",
+          "label": "trợ cấp thôi việc là tiền lương bình quân của 06 tháng liền kề",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2370",
+          "label": "tiền lương",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2371",
+          "label": "tiền lương",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2367",
+          "label": "thôi việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2369",
+          "label": "trợ cấp thôi việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2372",
+          "label": "trợ cấp",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        }
+      ],
+      "rels": [
+        [
+          "thôi việc",
+          "related_to",
+          "trợ cấp thôi việc"
+        ],
+        [
+          "trợ cấp thôi việc",
+          "related_to",
+          "thôi việc"
+        ],
+        [
+          "trợ cấp thôi việc",
+          "has_purpose",
+          "tiền lương"
+        ],
+        [
+          "tiền lương",
+          "has_purpose",
+          "trợ cấp thôi việc"
+        ]
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_00147",
+    "chunk_type": "clause",
+    "content_with_context": "Chương 3, Mục 3, Điều 46:\nThời gian làm việc để tính trợ cấp thôi việc là tổng thời gian người lao động đã làm việc thực tế cho người sử dụng lao động trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật về bảo hiểm thất nghiệp và thời gian làm việc đã được người sử dụng lao động chi trả trợ cấp thôi việc, trợ cấp mất việc làm.",
     "rrf_score": 0.03225806451612903,
     "graph": {
-      "article_id": "ch3_muc3_d35",
-      "article_title": "Quyền đơn phương chấm dứt hợp đồng lao động của người lao động",
-      "clause_id": "ch3_muc3_d35_k1",
+      "article_id": "ch3_muc3_d46",
+      "article_title": "Trợ cấp thôi việc",
+      "clause_id": "ch3_muc3_d46_k2",
       "entities": [
         {
-          "id": "ent_1512",
-          "label": "phải báo trước cho người sử dụng lao động như sau",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_1484",
-          "label": "36 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_1504",
-          "label": "hợp đồng lao động xác định thời hạn",
+          "id": "ent_2360",
+          "label": "trợ cấp",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_1483",
-          "label": "12 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_1506",
-          "label": "hợp đồng lao động",
+          "id": "ent_2358",
+          "label": "thất nghiệp",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_1491",
-          "label": "ít nhất 45 ngày",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_1488",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1508",
-          "label": "chấm dứt hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1492",
-          "label": "nếu làm việc theo hợp đồng lao động không xác định thời hạn",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1494",
-          "label": "ít nhất 03 ngày làm việc nếu làm việc theo hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1493",
-          "label": "ít nhất 30 ngày nếu làm việc theo hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1481",
-          "label": "45 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_1513",
-          "label": "ít nhất 45 ngày",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_1500",
-          "label": "thực hiện",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_1480",
-          "label": "từ 12 tháng đến 36 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_1482",
-          "label": "30 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_1490",
-          "label": "có quyền đơn phương chấm dứt hợp đồng lao động nhưng phải báo trước cho người sử dụng lao động như sau",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_1485",
-          "label": "03 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_1510",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1505",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1487",
-          "label": "chính phủ",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1511",
-          "label": "theo quy định của chính phủ",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1499",
-          "label": "ít nhất 45 ngày",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_1486",
-          "label": "12 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_1501",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1509",
-          "label": "ngành, nghề, công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1502",
-          "label": "hợp đồng lao động không xác định thời hạn",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1497",
-          "label": "đối với một số ngành, nghề, công việc đặc thù thì thời hạn báo trước được thực hiện",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1495",
-          "label": "đối với một số ngành, nghề, công việc đặc thù",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1496",
-          "label": "đối với một số ngành, nghề, công việc đặc thù",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1498",
-          "label": "đơn phương chấm dứt hợp đồng lao động nhưng phải báo trước cho người sử dụng lao động như sau",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_1503",
-          "label": "hợp đồng lao động xác định thời hạn",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1507",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        }
-      ],
-      "rels": [
-        [
-          "có quyền đơn phương chấm dứt hợp đồng lao động nhưng phải báo trước cho người sử dụng lao động như sau",
-          "has_condition",
-          "nếu làm việc theo hợp đồng lao động không xác định thời hạn"
-        ],
-        [
-          "nếu làm việc theo hợp đồng lao động không xác định thời hạn",
-          "has_condition",
-          "có quyền đơn phương chấm dứt hợp đồng lao động nhưng phải báo trước cho người sử dụng lao động như sau"
-        ],
-        [
-          "thực hiện",
-          "cites",
-          "theo quy định của chính phủ"
-        ],
-        [
-          "theo quy định của chính phủ",
-          "cites",
-          "thực hiện"
-        ]
-      ]
-    }
-  },
-  {
-    "chunk_id": "chunk_00120",
-    "chunk_type": "clause",
-    "content_with_context": "Chương 3, Mục 3, Điều 36:\nKhi đơn phương chấm dứt hợp đồng lao động trong trường hợp quy định tại các điểm a, b, c, đ và g khoản 1 Điều này, người sử dụng lao động phải báo trước cho người lao động như sau: a) Ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn; b) Ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng; c) Ít nhất 03 ngày làm việc đối với hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng và đối với trường hợp quy định tại điểm b khoản 1 Điều này; d) Đối với một số ngành, nghề, công việc đặc thù thì thời hạn báo trước được thực hiện theo quy định của Chính phủ.",
-    "rrf_score": 0.03177805800756621,
-    "graph": {
-      "article_id": "ch3_muc3_d36",
-      "article_title": "Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động",
-      "clause_id": "ch3_muc3_d36_k2",
-      "entities": [
-        {
-          "id": "ent_1847",
-          "label": "chính phủ",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1855",
-          "label": "ít nhất 03 ngày làm việc đối với hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng và đối với trường hợp",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1868",
-          "label": "hợp đồng lao động xác định thời hạn",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1873",
-          "label": "ngành, nghề, công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1869",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1854",
-          "label": "ít nhất 30 ngày đối với hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1883",
-          "label": "phải báo trước cho người lao động như sau",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_1871",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1859",
-          "label": "đối với hợp đồng lao động không xác định thời hạn",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1857",
-          "label": "trường hợp",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1846",
-          "label": "12 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_1844",
-          "label": "36 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_1886",
-          "label": "đối với hợp đồng lao động không xác định thời hạn",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1852",
-          "label": "trong trường hợp",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1875",
-          "label": "điểm b khoản 1 điều 36",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1845",
-          "label": "03 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_1872",
-          "label": "chấm dứt hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1848",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1867",
-          "label": "hợp đồng lao động xác định thời hạn",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1870",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1878",
-          "label": "điểm b khoản 1 điều 36",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1881",
-          "label": "điều 36",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1851",
-          "label": "trường hợp",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1884",
-          "label": "ít nhất 45 ngày đối với hợp đồng lao động không xác định thời hạn",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_1843",
-          "label": "12 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_1879",
-          "label": "khoản 1 điều 36",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1877",
-          "label": "điểm a khoản 1 điều 36",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1864",
-          "label": "thực hiện",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_1842",
-          "label": "30 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_1876",
-          "label": "theo quy định của chính phủ",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1861",
-          "label": "đối với hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng và đối với trường hợp",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1862",
-          "label": "đối với một số ngành, nghề, công việc đặc thù thì thời hạn báo trước được thực hiện",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1880",
-          "label": "khoản 1 điều 36",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1850",
-          "label": "khi đơn phương chấm dứt hợp đồng lao động trong trường hợp",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1882",
-          "label": "điều 36",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1874",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1866",
-          "label": "hợp đồng lao động không xác định thời hạn",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1853",
-          "label": "đối với hợp đồng lao động không xác định thời hạn",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1849",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1863",
-          "label": "đơn phương chấm dứt hợp đồng lao động",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_1860",
-          "label": "đối với hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng",
-          "attributes": {},
-          "type": "CONDITION"
-        }
-      ],
-      "rels": [
-        [
-          "12 tháng",
-          "applies_to",
-          "trường hợp"
-        ],
-        [
-          "12 tháng",
-          "applies_to",
-          "ít nhất 03 ngày làm việc đối với hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng và đối với trường hợp"
-        ],
-        [
-          "khi đơn phương chấm dứt hợp đồng lao động trong trường hợp",
-          "applies_to",
-          "trường hợp"
-        ],
-        [
-          "khi đơn phương chấm dứt hợp đồng lao động trong trường hợp",
-          "regulates",
-          "khoản 1 điều 36"
-        ],
-        [
-          "trường hợp",
-          "applies_to",
-          "khi đơn phương chấm dứt hợp đồng lao động trong trường hợp"
-        ],
-        [
-          "trường hợp",
-          "applies_to",
-          "12 tháng"
-        ],
-        [
-          "trường hợp",
-          "applies_to",
-          "khoản 1 điều 36"
-        ],
-        [
-          "trong trường hợp",
-          "regulates",
-          "khoản 1 điều 36"
-        ],
-        [
-          "ít nhất 03 ngày làm việc đối với hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng và đối với trường hợp",
-          "applies_to",
-          "12 tháng"
-        ],
-        [
-          "thực hiện",
-          "cites",
-          "điểm b khoản 1 điều 36"
-        ],
-        [
-          "điểm b khoản 1 điều 36",
-          "cites",
-          "thực hiện"
-        ],
-        [
-          "khoản 1 điều 36",
-          "regulates",
-          "trong trường hợp"
-        ],
-        [
-          "khoản 1 điều 36",
-          "applies_to",
-          "trường hợp"
-        ],
-        [
-          "khoản 1 điều 36",
-          "regulates",
-          "khi đơn phương chấm dứt hợp đồng lao động trong trường hợp"
-        ]
-      ]
-    }
-  },
-  {
-    "chunk_id": "chunk_00125",
-    "chunk_type": "full_article",
-    "content_with_context": "Chương 3, Mục 3, Điều 38:\nHủy bỏ việc đơn phương chấm dứt hợp đồng lao động Mỗi bên đều có quyền hủy bỏ việc đơn phương chấm dứt hợp đồng lao động trước khi hết thời hạn báo trước nhưng phải thông báo bằng văn bản và phải được bên kia đồng ý.",
-    "rrf_score": 0.031544957774465976,
-    "graph": {
-      "article_id": "ch3_muc3_d38",
-      "article_title": "Hủy bỏ việc đơn phương chấm dứt hợp đồng lao động Mỗi bên đều có quyền hủy bỏ việc đơn phương chấm dứt hợp đồng lao động trước khi hết thời hạn báo trước nhưng phải thông báo bằng văn bản và phải được bên kia đồng ý.",
-      "clause_id": null,
-      "entities": [],
-      "rels": []
-    }
-  },
-  {
-    "chunk_id": "chunk_00121",
-    "chunk_type": "clause",
-    "content_with_context": "Chương 3, Mục 3, Điều 36:\nKhi đơn phương chấm dứt hợp đồng lao động quy định tại điểm d và điểm e khoản 1 Điều này thì người sử dụng lao động không phải báo trước cho người lao động.",
-    "rrf_score": 0.03149801587301587,
-    "graph": {
-      "article_id": "ch3_muc3_d36",
-      "article_title": "Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động",
-      "clause_id": "ch3_muc3_d36_k3",
-      "entities": [
-        {
-          "id": "ent_1918",
-          "label": "khi đơn phương chấm dứt hợp đồng lao động",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1923",
-          "label": "điểm e khoản 1 điều 36",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1927",
-          "label": "điều 36",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1924",
-          "label": "điểm d khoản 1 điều 36",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1922",
-          "label": "điểm d khoản 1 điều 36",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1925",
-          "label": "điểm e khoản 1 điều 36",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1926",
-          "label": "khoản 1 điều 36",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1928",
-          "label": "phải báo trước cho người lao động",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_1929",
-          "label": "không phải báo trước cho người lao động",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_1930",
-          "label": "cơ sở khám bệnh, chữa bệnh có thẩm quyền",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        }
-      ],
-      "rels": [
-        [
-          "khi đơn phương chấm dứt hợp đồng lao động",
-          "regulates",
-          "điểm d khoản 1 điều 36"
-        ],
-        [
-          "điểm d khoản 1 điều 36",
-          "regulates",
-          "khi đơn phương chấm dứt hợp đồng lao động"
-        ]
-      ]
-    }
-  },
-  {
-    "chunk_id": "chunk_00494",
-    "chunk_type": "clause",
-    "content_with_context": "Chương 11, Mục 5, Điều 162:\nThời hạn của hợp đồng lao động đối với lao động là người giúp việc gia đình do hai bên thỏa thuận. Một bên có quyền đơn phương chấm dứt hợp đồng lao động bất kỳ khi nào nhưng phải báo trước ít nhất 15 ngày.",
-    "rrf_score": 0.031009615384615385,
-    "graph": {
-      "article_id": "ch11_muc5_d162",
-      "article_title": "Hợp đồng lao động đối với lao động là người giúp việc gia đình",
-      "clause_id": "ch11_muc5_d162_k2",
-      "entities": [
-        {
-          "id": "ent_6355",
-          "label": "thời giờ làm việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_6352",
+          "id": "ent_2349",
           "label": "trả",
           "attributes": {},
           "type": "ACTION"
         },
         {
-          "id": "ent_6351",
-          "label": "thỏa thuận trong hợp đồng lao động về hình thức trả lương, kỳ hạn trả lương, thời giờ làm việc hằng ngày, chỗ ở",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_6348",
-          "label": "chấm dứt hợp đồng lao động",
+          "id": "ent_2354",
+          "label": "trợ cấp thôi việc là tổng thời gian người lao động đã làm việc thực tế cho người sử dụng lao động trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_6349",
-          "label": "phải báo trước ít nhất 15 ngày",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_6356",
-          "label": "hình thức trả lương",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        }
-      ],
-      "rels": []
-    }
-  },
-  {
-    "chunk_id": "chunk_00086",
-    "chunk_type": "clause",
-    "content_with_context": "Chương 3, Mục 2, Điều 29:\nKhi tạm thời chuyển người lao động làm công việc khác so với hợp đồng lao động quy định tại khoản 1 Điều này, người sử dụng lao động phải báo cho người lao động biết trước ít nhất 03 ngày làm việc, thông báo rõ thời hạn làm tạm thời và bố trí công việc phù hợp với sức khỏe, giới tính của người lao động.",
-    "rrf_score": 0.028790389395194696,
-    "graph": {
-      "article_id": "ch3_muc2_d29",
-      "article_title": "Chuyển người lao động làm công việc khác so với hợp đồng lao động",
-      "clause_id": "ch3_muc2_d29_k2",
-      "entities": [
-        {
-          "id": "ent_1186",
-          "label": "công việc",
+          "id": "ent_2361",
+          "label": "trợ cấp",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_1190",
-          "label": "phải báo cho người lao động biết trước ít nhất 03 ngày làm việc, thông báo rõ thời hạn làm tạm thời và bố trí công việc phù hợp với sức khỏe, giới tính của người lao động",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_1182",
-          "label": "thông báo rõ thời hạn làm tạm thời và bố trí công việc phù hợp với sức khỏe, giới tính của người lao động",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_1180",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1185",
-          "label": "công việc",
+          "id": "ent_2353",
+          "label": "mất việc",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_1184",
-          "label": "công việc khác so với hợp đồng lao động",
+          "id": "ent_2351",
+          "label": "bảo hiểm thất nghiệp",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_1188",
-          "label": "khoản 1 điều 29",
+          "id": "ent_2362",
+          "label": "theo quy định của pháp luật về bảo hiểm thất nghiệp và thời gian làm việc",
           "attributes": {},
           "type": "LEGAL_REF"
         },
         {
-          "id": "ent_1187",
-          "label": "khoản 1 điều 29",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1177",
-          "label": "03 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_1178",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1189",
-          "label": "điều 29",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1179",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1181",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        }
-      ],
-      "rels": [
-        [
-          "người sử dụng lao động",
-          "regulates",
-          "khoản 1 điều 29"
-        ],
-        [
-          "người sử dụng lao động",
-          "requires",
-          "phải báo cho người lao động biết trước ít nhất 03 ngày làm việc, thông báo rõ thời hạn làm tạm thời và bố trí công việc phù hợp với sức khỏe, giới tính của người lao động"
-        ],
-        [
-          "người lao động",
-          "defines",
-          "công việc khác so với hợp đồng lao động"
-        ],
-        [
-          "công việc khác so với hợp đồng lao động",
-          "cites",
-          "khoản 1 điều 29"
-        ],
-        [
-          "công việc khác so với hợp đồng lao động",
-          "defines",
-          "người lao động"
-        ],
-        [
-          "khoản 1 điều 29",
-          "cites",
-          "công việc khác so với hợp đồng lao động"
-        ],
-        [
-          "khoản 1 điều 29",
-          "regulates",
-          "người sử dụng lao động"
-        ],
-        [
-          "phải báo cho người lao động biết trước ít nhất 03 ngày làm việc, thông báo rõ thời hạn làm tạm thời và bố trí công việc phù hợp với sức khỏe, giới tính của người lao động",
-          "requires",
-          "người sử dụng lao động"
-        ]
-      ]
-    }
-  },
-  {
-    "chunk_id": "chunk_00064",
-    "chunk_type": "clause",
-    "content_with_context": "Chương 3, Mục 1, Điều 20:\nHợp đồng lao động phải được giao kết theo một trong các loại sau đây: a) Hợp đồng lao động không xác định thời hạn là hợp đồng mà trong đó hai bên không xác định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng; b) Hợp đồng lao động xác định thời hạn là hợp đồng mà trong đó hai bên xác định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng trong thời gian không quá 36 tháng kể từ thời điểm có hiệu lực của hợp đồng.",
-    "rrf_score": 0.028484848484848488,
-    "graph": {
-      "article_id": "ch3_muc1_d20",
-      "article_title": "Loại hợp đồng lao động",
-      "clause_id": "ch3_muc1_d20_k1",
-      "entities": [
-        {
-          "id": "ent_792",
-          "label": "hai bên",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_789",
-          "label": "theo quy định của pháp luật về bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và an toàn, vệ sinh lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_790",
-          "label": "không quá 36 tháng kể từ thời điểm",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_796",
-          "label": "hợp đồng lao động không xác định thời hạn",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_801",
-          "label": "hợp đồng lao động không xác định thời hạn là hợp đồng mà trong đó hai bên không xác định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_791",
-          "label": "36 tháng kể từ thời điểm",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_797",
-          "label": "hợp đồng lao động xác định thời hạn",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_800",
-          "label": "phải được giao kết theo một trong các loại sau đây",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_793",
-          "label": "hai bên",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_798",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_799",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        }
-      ],
-      "rels": [
-        [
-          "theo quy định của pháp luật về bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và an toàn, vệ sinh lao động",
-          "has_condition",
-          "hai bên"
-        ],
-        [
-          "hai bên",
-          "has_condition",
-          "theo quy định của pháp luật về bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và an toàn, vệ sinh lao động"
-        ],
-        [
-          "hai bên",
-          "defines",
-          "hợp đồng lao động không xác định thời hạn"
-        ],
-        [
-          "hợp đồng lao động không xác định thời hạn",
-          "defines",
-          "hai bên"
-        ]
-      ]
-    }
-  },
-  {
-    "chunk_id": "chunk_00114",
-    "chunk_type": "point",
-    "content_with_context": "Chương 3, Mục 3, Điều 36:\nNgười lao động bị ốm đau, tai nạn đã điều trị 12 tháng liên tục đối với người làm việc theo hợp đồng lao động không xác định thời hạn hoặc đã điều trị 06 tháng liên tục đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng hoặc quá nửa thời hạn hợp đồng lao động đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng mà khả năng lao động chưa hồi phục. Khi sức khỏe của người lao động bình phục thì người sử dụng lao động xem xét để tiếp tục giao kết hợp đồng lao động với người lao động;",
-    "rrf_score": 0.028083267871170464,
-    "graph": {
-      "article_id": "ch3_muc3_d36",
-      "article_title": "Quyền đơn phương chấm dứt hợp đồng lao động của người sử dụng lao động",
-      "clause_id": "ch3_muc3_d36_k1",
-      "entities": [
-        {
-          "id": "ent_1719",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1658",
-          "label": "12 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_1664",
-          "label": "tổ chức đại diện người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1659",
-          "label": "05 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_1665",
-          "label": "cơ quan nhà nước",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1700",
-          "label": "trường hợp sau đây",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1736",
-          "label": "điều 169 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1738",
-          "label": "điều 169 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1720",
-          "label": "hợp đồng lao động không xác định thời hạn",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1732",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1667",
-          "label": "người làm việc",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1675",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1747",
-          "label": "phải tham khảo ý kiến tổ chức đại diện người lao động tại cơ sở đối với nơi có tổ chức đại diện người lao động tại cơ sở",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_1679",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1680",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1660",
-          "label": "sau thời hạn",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_1704",
-          "label": "người lao động thường xuyên không hoàn thành công việc theo hợp đồng lao động được xác định theo tiêu chí đánh giá mức độ hoàn thành công việc trong quy chế của người sử dụng lao động",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1748",
-          "label": "phải giảm chỗ làm việc",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_1707",
-          "label": "đối với người làm việc theo hợp đồng lao động không xác định thời hạn hoặc đã điều trị 06 tháng liên tục đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng hoặc quá nửa thời hạn hợp đồng lao động đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng mà khả năng lao động chưa hồi phục",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1745",
-          "label": "bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1652",
-          "label": "từ 05 ngày làm việc liên tục trở lên",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_1656",
-          "label": "12 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_1712",
-          "label": "thỏa thuận khác",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_1676",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1739",
-          "label": "khoản 2 điều 16 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1743",
-          "label": "điều 16 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1730",
-          "label": "nơi làm việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1690",
-          "label": "có quyền đơn phương chấm dứt hợp đồng lao động",
+          "id": "ent_2348",
+          "label": "được người sử dụng lao động chi trả trợ cấp thôi việc, trợ cấp mất việc làm",
           "attributes": {},
           "type": "RIGHT"
         },
         {
-          "id": "ent_1729",
-          "label": "chấm dứt hợp đồng lao động",
+          "id": "ent_2346",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_2350",
+          "label": "bảo hiểm thất nghiệp",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_1714",
-          "label": "tự ý bỏ việc mà không có lý do chính đáng từ 05 ngày làm việc liên tục trở lên",
+          "id": "ent_2359",
+          "label": "trợ cấp",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2345",
+          "label": "người sử dụng lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_2356",
+          "label": "trợ cấp thôi việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2357",
+          "label": "thất nghiệp",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2347",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_2355",
+          "label": "trợ cấp thôi việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2352",
+          "label": "thôi việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2363",
+          "label": "06 tháng",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        }
+      ],
+      "rels": [
+        [
+          "trả",
+          "defines",
+          "06 tháng"
+        ],
+        [
+          "trợ cấp thôi việc",
+          "cites",
+          "06 tháng"
+        ],
+        [
+          "06 tháng",
+          "cites",
+          "trợ cấp thôi việc"
+        ],
+        [
+          "06 tháng",
+          "defines",
+          "trả"
+        ]
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_00151",
+    "chunk_type": "clause",
+    "content_with_context": "Chương 3, Mục 3, Điều 47:\nThời gian làm việc để tính trợ cấp mất việc làm là tổng thời gian người lao động đã làm việc thực tế cho người sử dụng lao động trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật về bảo hiểm thất nghiệp và thời gian làm việc đã được người sử dụng lao động chi trả trợ cấp thôi việc, trợ cấp mất việc làm.",
+    "rrf_score": 0.031009615384615385,
+    "graph": {
+      "article_id": "ch3_muc3_d47",
+      "article_title": "Trợ cấp mất việc làm",
+      "clause_id": "ch3_muc3_d47_k2",
+      "entities": [
+        {
+          "id": "ent_2397",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_2406",
+          "label": "thất nghiệp",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2401",
+          "label": "bảo hiểm thất nghiệp",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2405",
+          "label": "trợ cấp thôi việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2396",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_2410",
+          "label": "trợ cấp",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2400",
+          "label": "bảo hiểm thất nghiệp",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2399",
+          "label": "trả",
           "attributes": {},
           "type": "ACTION"
         },
         {
-          "id": "ent_1683",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1696",
-          "label": "người lao động thường xuyên không hoàn thành công việc theo hợp đồng lao động được xác định theo tiêu chí đánh giá mức độ hoàn thành công việc trong quy chế của người sử dụng lao động. quy chế đánh giá mức độ hoàn thành công việc do người sử dụng lao động ban hành nhưng phải tham khảo ý kiến tổ chức đại diện người lao động tại cơ sở đối với nơi có tổ chức đại diện người lao động tại cơ sở",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1737",
-          "label": "khoản 2 điều 16 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1695",
-          "label": "trong trường hợp sau đây",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1708",
-          "label": "khi sức khỏe của người lao động bình phục",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1726",
-          "label": "hợp đồng lao động",
+          "id": "ent_2409",
+          "label": "trợ cấp",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_1742",
-          "label": "điều 169 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1741",
-          "label": "điều 31 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1728",
-          "label": "hợp đồng lao động",
+          "id": "ent_2404",
+          "label": "trợ cấp mất việc làm là tổng thời gian người lao động đã làm việc thực tế cho người sử dụng lao động trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_1709",
-          "label": "đủ tuổi nghỉ hưu",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1674",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1684",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1699",
-          "label": "người lao động bị ốm đau, tai nạn đã điều trị 12 tháng liên tục đối với người làm việc theo hợp đồng lao động không xác định thời hạn hoặc đã điều trị 06 tháng liên tục đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng hoặc quá nửa thời hạn hợp đồng lao động đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng mà khả năng lao động chưa hồi phục. khi sức khỏe của người lao động bình phục",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1706",
-          "label": "đối với nơi có tổ chức đại diện người lao động tại cơ sở",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1689",
-          "label": "tổ chức",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1661",
-          "label": "tổ chức đại diện người lao động tại cơ sở",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1671",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1666",
-          "label": "cơ quan nhà nước có thẩm quyền",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1682",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1663",
-          "label": "tổ chức đại diện người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1657",
-          "label": "36 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_1710",
-          "label": "đủ tuổi",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1734",
-          "label": "biện pháp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1693",
-          "label": "người lao động thường xuyên không hoàn thành công việc theo hợp đồng lao động được xác định theo tiêu chí đánh giá mức độ hoàn thành công việc trong quy chế của người sử dụng lao động. quy chế đánh giá mức độ hoàn thành công việc do người sử dụng lao động ban hành nhưng phải tham khảo ý kiến tổ chức đại diện người lao động tại cơ sở đối với nơi có tổ chức đại diện người lao động tại cơ sở",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1705",
-          "label": "có thỏa thuận khác",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1692",
-          "label": "trường hợp sau đây",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1701",
-          "label": "người lao động thường xuyên không hoàn thành công việc theo hợp đồng lao động được xác định theo tiêu chí đánh giá mức độ hoàn thành công việc trong quy chế của người sử dụng lao động",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1673",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1686",
-          "label": "tổ chức đại diện",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1711",
-          "label": "đơn phương chấm dứt hợp đồng lao động",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_1702",
-          "label": "trường hợp có thỏa thuận khác",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1669",
-          "label": "người làm việc",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1672",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1723",
-          "label": "hợp đồng lao động xác định thời hạn",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1668",
-          "label": "người làm việc",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1694",
-          "label": "người lao động bị ốm đau, tai nạn đã điều trị 12 tháng liên tục đối với người làm việc theo hợp đồng lao động không xác định thời hạn hoặc đã điều trị 06 tháng liên tục đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng hoặc quá nửa thời hạn hợp đồng lao động đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng mà khả năng lao động chưa hồi phục. khi sức khỏe của người lao động bình phục",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1653",
-          "label": "từ 12 tháng đến 36 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_1662",
-          "label": "tổ chức đại diện người lao động tại cơ sở",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1703",
-          "label": "trong trường hợp sau đây",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1681",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1655",
+          "id": "ent_2412",
           "label": "06 tháng",
           "attributes": {},
           "type": "TIME_PERIOD"
         },
         {
-          "id": "ent_1678",
+          "id": "ent_2407",
+          "label": "thất nghiệp",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2403",
+          "label": "mất việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2398",
+          "label": "được người sử dụng lao động chi trả trợ cấp thôi việc, trợ cấp mất việc làm",
+          "attributes": {},
+          "type": "RIGHT"
+        },
+        {
+          "id": "ent_2411",
+          "label": "theo quy định của pháp luật về bảo hiểm thất nghiệp và thời gian làm việc",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        }
+      ],
+      "rels": [
+        [
+          "trả",
+          "defines",
+          "06 tháng"
+        ],
+        [
+          "trợ cấp thôi việc",
+          "cites",
+          "06 tháng"
+        ],
+        [
+          "06 tháng",
+          "cites",
+          "trợ cấp thôi việc"
+        ],
+        [
+          "06 tháng",
+          "defines",
+          "trả"
+        ]
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_00152",
+    "chunk_type": "clause",
+    "content_with_context": "Chương 3, Mục 3, Điều 47:\nTiền lương để tính trợ cấp mất việc làm là tiền lương bình quân của 06 tháng liền kề theo hợp đồng lao động trước khi người lao động mất việc làm.",
+    "rrf_score": 0.030776515151515152,
+    "graph": {
+      "article_id": "ch3_muc3_d47",
+      "article_title": "Trợ cấp mất việc làm",
+      "clause_id": "ch3_muc3_d47_k3",
+      "entities": [
+        {
+          "id": "ent_2414",
+          "label": "trước khi người lao động mất việc làm",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_2418",
+          "label": "trợ cấp mất việc làm là tiền lương bình quân của 06 tháng liền kề",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2416",
+          "label": "mất việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2415",
+          "label": "hợp đồng lao động",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2413",
           "label": "người lao động",
           "attributes": "[]",
           "type": "LEGAL_ROLE"
         },
         {
-          "id": "ent_1733",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1713",
-          "label": "yêu cầu của cơ quan nhà nước có thẩm quyền mà người sử dụng lao động đã tìm mọi biện pháp khắc phục nhưng vẫn buộc phải giảm chỗ làm việc",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_1717",
-          "label": "giao kết",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_1698",
-          "label": "đối với nơi có tổ chức đại diện người lao động tại cơ sở",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1740",
-          "label": "khoản 2 điều 16 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1746",
-          "label": "bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1725",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1749",
-          "label": "tổ chức đại diện người lao động tại cơ sở",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1654",
-          "label": "12 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_1744",
-          "label": "bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1687",
-          "label": "tổ chức đại diện",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1727",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1715",
-          "label": "cung cấp không trung thực thông tin",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_1688",
-          "label": "tổ chức",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1731",
-          "label": "công việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1721",
-          "label": "hợp đồng lao động xác định thời hạn",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1716",
-          "label": "giao kết",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_1677",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1722",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1691",
-          "label": "khi sức khỏe của người lao động bình phục",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1697",
-          "label": "người lao động bị ốm đau, tai nạn đã điều trị 12 tháng liên tục đối với người làm việc theo hợp đồng lao động không xác định thời hạn hoặc đã điều trị 06 tháng liên tục đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng hoặc quá nửa thời hạn hợp đồng lao động đối với người làm việc theo hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng mà khả năng lao động chưa hồi phục. khi sức khỏe của người lao động bình phục",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_1685",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1724",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1735",
-          "label": "điều 31 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_1718",
-          "label": "hợp đồng lao động",
+          "id": "ent_2420",
+          "label": "tiền lương",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         }
       ],
       "rels": [
         [
-          "sau thời hạn",
-          "applies_to",
-          "nơi làm việc"
-        ],
-        [
-          "sau thời hạn",
-          "cites",
-          "điều 169 của bộ luật lao động"
-        ],
-        [
-          "người sử dụng lao động",
-          "has_purpose",
-          "giao kết"
-        ],
-        [
-          "người lao động",
-          "involves",
-          "hợp đồng lao động"
-        ],
-        [
-          "người lao động",
-          "not",
-          "nơi làm việc"
-        ],
-        [
-          "người lao động",
-          "has_condition",
-          "đủ tuổi nghỉ hưu"
-        ],
-        [
-          "người lao động",
-          "involves",
-          "tự ý bỏ việc mà không có lý do chính đáng từ 05 ngày làm việc liên tục trở lên"
-        ],
-        [
-          "người lao động",
-          "involves",
-          "cung cấp không trung thực thông tin"
-        ],
-        [
-          "người lao động",
-          "defines",
-          "giao kết"
-        ],
-        [
-          "người lao động",
-          "defines",
-          "hợp đồng lao động"
-        ],
-        [
-          "có quyền đơn phương chấm dứt hợp đồng lao động",
-          "has_condition",
-          "trong trường hợp sau đây"
-        ],
-        [
-          "trong trường hợp sau đây",
-          "has_condition",
-          "có quyền đơn phương chấm dứt hợp đồng lao động"
-        ],
-        [
-          "trường hợp có thỏa thuận khác",
-          "has_exception",
-          "khoản 2 điều 16 của bộ luật lao động"
-        ],
-        [
-          "trường hợp có thỏa thuận khác",
-          "has_exception",
-          "đủ tuổi nghỉ hưu"
-        ],
-        [
-          "đủ tuổi nghỉ hưu",
-          "has_condition",
-          "người lao động"
-        ],
-        [
-          "đủ tuổi nghỉ hưu",
-          "cites",
-          "khoản 2 điều 16 của bộ luật lao động"
-        ],
-        [
-          "đủ tuổi nghỉ hưu",
-          "has_exception",
-          "trường hợp có thỏa thuận khác"
-        ],
-        [
-          "tự ý bỏ việc mà không có lý do chính đáng từ 05 ngày làm việc liên tục trở lên",
-          "involves",
-          "người lao động"
-        ],
-        [
-          "cung cấp không trung thực thông tin",
-          "involves",
-          "người lao động"
-        ],
-        [
-          "cung cấp không trung thực thông tin",
-          "cites",
-          "khoản 2 điều 16 của bộ luật lao động"
-        ],
-        [
-          "cung cấp không trung thực thông tin",
-          "has_condition",
-          "giao kết"
-        ],
-        [
-          "giao kết",
-          "has_purpose",
-          "người sử dụng lao động"
-        ],
-        [
-          "giao kết",
-          "involves",
-          "hợp đồng lao động"
-        ],
-        [
-          "giao kết",
-          "defines",
-          "người lao động"
-        ],
-        [
-          "giao kết",
-          "involves",
-          "hợp đồng lao động"
-        ],
-        [
-          "giao kết",
-          "has_condition",
-          "khoản 2 điều 16 của bộ luật lao động"
-        ],
-        [
-          "giao kết",
-          "has_condition",
-          "cung cấp không trung thực thông tin"
-        ],
-        [
           "hợp đồng lao động",
-          "involves",
-          "giao kết"
-        ],
-        [
-          "hợp đồng lao động",
-          "involves",
-          "người lao động"
-        ],
-        [
-          "hợp đồng lao động",
-          "involves",
-          "giao kết"
-        ],
-        [
-          "hợp đồng lao động",
-          "defines",
-          "người lao động"
-        ],
-        [
-          "nơi làm việc",
-          "not",
-          "người lao động"
-        ],
-        [
-          "nơi làm việc",
-          "applies_to",
-          "sau thời hạn"
-        ],
-        [
-          "điều 169 của bộ luật lao động",
-          "cites",
-          "sau thời hạn"
-        ],
-        [
-          "khoản 2 điều 16 của bộ luật lao động",
-          "cites",
-          "đủ tuổi nghỉ hưu"
-        ],
-        [
-          "khoản 2 điều 16 của bộ luật lao động",
-          "has_exception",
-          "trường hợp có thỏa thuận khác"
-        ],
-        [
-          "khoản 2 điều 16 của bộ luật lao động",
-          "cites",
-          "cung cấp không trung thực thông tin"
-        ],
-        [
-          "khoản 2 điều 16 của bộ luật lao động",
           "has_condition",
-          "giao kết"
+          "mất việc"
+        ],
+        [
+          "mất việc",
+          "has_condition",
+          "hợp đồng lao động"
         ]
       ]
     }
   },
   {
-    "chunk_id": "chunk_00128",
+    "chunk_id": "chunk_00141",
     "chunk_type": "clause",
-    "content_with_context": "Chương 3, Mục 3, Điều 40:\nPhải bồi thường cho người sử dụng lao động nửa tháng tiền lương theo hợp đồng lao động và một khoản tiền tương ứng với tiền lương theo hợp đồng lao động trong những ngày không báo trước.",
-    "rrf_score": 0.02758751902587519,
+    "content_with_context": "Chương 3, Mục 3, Điều 43:\nNgười lao động bị thôi việc thì được nhận trợ cấp mất việc làm theo quy định tại Điều 47 của Bộ luật này.",
+    "rrf_score": 0.030536130536130537,
     "graph": {
-      "article_id": "ch3_muc3_d40",
-      "article_title": "Nghĩa vụ của người lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật",
-      "clause_id": "ch3_muc3_d40_k2",
+      "article_id": "ch3_muc3_d43",
+      "article_title": "Nghĩa vụ của người sử dụng lao động khi chia, tách, hợp nhất, sáp nhập; bán, cho thuê, chuyển đổi loại hình doanh nghiệp; chuyển nhượng quyền sở hữu, quyền sử dụng tài sản của doanh nghiệp, hợp tác xã",
+      "clause_id": "ch3_muc3_d43_k3",
       "entities": [
         {
-          "id": "ent_1967",
-          "label": "bồi thường",
+          "id": "ent_2207",
+          "label": "điều 47 của bộ luật lao động",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_2205",
+          "label": "trợ cấp",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_1966",
-          "label": "tiền lương",
+          "id": "ent_2202",
+          "label": "thôi việc",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_1969",
+          "id": "ent_2201",
+          "label": "thì được nhận trợ cấp mất việc làm",
+          "attributes": {},
+          "type": "RIGHT"
+        },
+        {
+          "id": "ent_2206",
+          "label": "điều 47 của bộ luật lao động",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_2210",
+          "label": "người lao động bị thôi việc",
+          "attributes": {},
+          "type": "OBLIGATION"
+        },
+        {
+          "id": "ent_2204",
+          "label": "trợ cấp mất việc làm",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2208",
+          "label": "điều 47 của bộ luật lao động",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_2203",
+          "label": "mất việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        }
+      ],
+      "rels": [
+        [
+          "thì được nhận trợ cấp mất việc làm",
+          "related_to",
+          "người lao động bị thôi việc"
+        ],
+        [
+          "thì được nhận trợ cấp mất việc làm",
+          "cites",
+          "điều 47 của bộ luật lao động"
+        ],
+        [
+          "điều 47 của bộ luật lao động",
+          "cites",
+          "thì được nhận trợ cấp mất việc làm"
+        ],
+        [
+          "người lao động bị thôi việc",
+          "related_to",
+          "thì được nhận trợ cấp mất việc làm"
+        ]
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_00146",
+    "chunk_type": "clause",
+    "content_with_context": "Chương 3, Mục 3, Điều 46:\nKhi hợp đồng lao động chấm dứt theo quy định tại các khoản 1, 2, 3, 4, 6, 7, 9 và 10 Điều 34 của Bộ luật này thì người sử dụng lao động có trách nhiệm trả trợ cấp thôi việc cho người lao động đã làm việc thường xuyên cho mình từ đủ 12 tháng trở lên, mỗi năm làm việc được trợ cấp một nửa tháng tiền lương, trừ trường hợp đủ điều kiện hưởng lương hưu theo quy định của pháp luật về bảo hiểm xã hội và trường hợp quy định tại điểm e khoản 1 Điều 36 của Bộ luật này.",
+    "rrf_score": 0.030158730158730156,
+    "graph": {
+      "article_id": "ch3_muc3_d46",
+      "article_title": "Trợ cấp thôi việc",
+      "clause_id": "ch3_muc3_d46_k1",
+      "entities": [
+        {
+          "id": "ent_2322",
+          "label": "xã hội",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_2325",
+          "label": "trường hợp đủ điều kiện hưởng lương hưu",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_2320",
           "label": "người sử dụng lao động",
           "attributes": "[]",
           "type": "LEGAL_ROLE"
         },
         {
-          "id": "ent_1965",
-          "label": "tiền lương",
+          "id": "ent_2326",
+          "label": "đủ điều kiện hưởng lương hưu",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_2337",
+          "label": "điểm e khoản 1 điều 36 của bộ luật lao động",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_2332",
+          "label": "trợ cấp thôi việc",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_1964",
-          "label": "hợp đồng lao động",
+          "id": "ent_2335",
+          "label": "trợ cấp",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_1970",
+          "id": "ent_2343",
+          "label": "có trách nhiệm trả trợ cấp thôi việc cho người lao động đã làm việc thường xuyên cho mình từ đủ 12 tháng trở lên, mỗi năm làm việc được trợ cấp một nửa tháng tiền lương",
+          "attributes": {},
+          "type": "OBLIGATION"
+        },
+        {
+          "id": "ent_2338",
+          "label": "khoản 1 điều 34 của bộ luật lao động",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_2321",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_2323",
+          "label": "được trợ cấp một nửa tháng tiền lương",
+          "attributes": {},
+          "type": "RIGHT"
+        },
+        {
+          "id": "ent_2324",
+          "label": "khi hợp đồng lao động chấm dứt theo",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_2334",
+          "label": "lương hưu",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2336",
+          "label": "trợ cấp",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2331",
+          "label": "trợ cấp thôi việc cho người lao động đã làm việc thường xuyên cho mình từ đủ 12 tháng trở lên, mỗi năm làm việc được trợ cấp một nửa tháng tiền lương,",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2340",
+          "label": "khoản 1 điều 34 của bộ luật lao động",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_2330",
+          "label": "thôi việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2327",
           "label": "trả",
           "attributes": {},
           "type": "ACTION"
         },
         {
-          "id": "ent_1968",
-          "label": "phải bồi thường cho người sử dụng lao động nửa tháng tiền lương theo hợp đồng lao động và một khoản tiền tương ứng với tiền lương theo hợp đồng lao động trong những ngày không báo trước",
+          "id": "ent_2339",
+          "label": "điểm e khoản 1 điều 36 của bộ luật lao động",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_2333",
+          "label": "tiền lương",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2329",
+          "label": "bảo hiểm xã hội",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2341",
+          "label": "điều 34 của bộ luật lao động",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        }
+      ],
+      "rels": [
+        [
+          "người lao động",
+          "regulates",
+          "điểm e khoản 1 điều 36 của bộ luật lao động"
+        ],
+        [
+          "người lao động",
+          "has_exception",
+          "đủ điều kiện hưởng lương hưu"
+        ],
+        [
+          "đủ điều kiện hưởng lương hưu",
+          "has_exception",
+          "người lao động"
+        ],
+        [
+          "đủ điều kiện hưởng lương hưu",
+          "regulates",
+          "thôi việc"
+        ],
+        [
+          "bảo hiểm xã hội",
+          "results_in",
+          "điểm e khoản 1 điều 36 của bộ luật lao động"
+        ],
+        [
+          "thôi việc",
+          "has_condition",
+          "khoản 1 điều 34 của bộ luật lao động"
+        ],
+        [
+          "thôi việc",
+          "regulates",
+          "đủ điều kiện hưởng lương hưu"
+        ],
+        [
+          "khoản 1 điều 34 của bộ luật lao động",
+          "has_condition",
+          "thôi việc"
+        ],
+        [
+          "điểm e khoản 1 điều 36 của bộ luật lao động",
+          "regulates",
+          "người lao động"
+        ],
+        [
+          "điểm e khoản 1 điều 36 của bộ luật lao động",
+          "results_in",
+          "bảo hiểm xã hội"
+        ]
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_00137",
+    "chunk_type": "clause",
+    "content_with_context": "Chương 3, Mục 3, Điều 42:\nTrong trường hợp người sử dụng lao động không thể giải quyết được việc làm mà phải cho người lao động thôi việc thì phải trả trợ cấp mất việc làm theo quy định tại Điều 47 của Bộ luật này.",
+    "rrf_score": 0.029631255487269532,
+    "graph": {
+      "article_id": "ch3_muc3_d42",
+      "article_title": "Nghĩa vụ của người sử dụng lao động trong trường hợp thay đổi cơ cấu, công nghệ hoặc vì lý do kinh tế",
+      "clause_id": "ch3_muc3_d42_k5",
+      "entities": [
+        {
+          "id": "ent_2149",
+          "label": "bộ luật lao động",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_2144",
+          "label": "trợ cấp mất việc làm",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2145",
+          "label": "trợ cấp",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2140",
+          "label": "trả",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_2148",
+          "label": "điều 47 của bộ luật lao động",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_2138",
+          "label": "trong trường hợp người sử dụng lao động không thể giải quyết được việc làm mà phải cho người lao động thôi việc thì phải trả trợ cấp mất việc làm theo",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_2143",
+          "label": "mất việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2136",
+          "label": "trong trường hợp người sử dụng lao động không thể giải quyết được việc làm mà phải cho người lao động thôi việc",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_2137",
+          "label": "trường hợp người sử dụng lao động không thể giải quyết được việc làm mà phải cho người lao động thôi việc thì phải trả trợ cấp mất việc làm theo",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_2135",
+          "label": "trường hợp người sử dụng lao động không thể giải quyết được việc làm mà phải cho người lao động thôi việc",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_2142",
+          "label": "thôi việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2147",
+          "label": "điều 47 của bộ luật lao động",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_2139",
+          "label": "giải quyết",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_2141",
+          "label": "việc làm",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2146",
+          "label": "điều 47 của bộ luật lao động",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_2150",
+          "label": "phải cho người lao động thôi việc",
           "attributes": {},
           "type": "OBLIGATION"
+        },
+        {
+          "id": "ent_2134",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        }
+      ],
+      "rels": [
+        [
+          "trong trường hợp người sử dụng lao động không thể giải quyết được việc làm mà phải cho người lao động thôi việc thì phải trả trợ cấp mất việc làm theo",
+          "cites",
+          "điều 47 của bộ luật lao động"
+        ],
+        [
+          "điều 47 của bộ luật lao động",
+          "cites",
+          "trong trường hợp người sử dụng lao động không thể giải quyết được việc làm mà phải cho người lao động thôi việc thì phải trả trợ cấp mất việc làm theo"
+        ]
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_00127",
+    "chunk_type": "clause",
+    "content_with_context": "Chương 3, Mục 3, Điều 40:\nKhông được trợ cấp thôi việc.",
+    "rrf_score": 0.029206349206349208,
+    "graph": {
+      "article_id": "ch3_muc3_d40",
+      "article_title": "Nghĩa vụ của người lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật",
+      "clause_id": "ch3_muc3_d40_k1",
+      "entities": [
+        {
+          "id": "ent_1961",
+          "label": "trợ cấp",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_1963",
+          "label": "hợp đồng lao động",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_1962",
+          "label": "người sử dụng lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_1960",
+          "label": "trợ cấp thôi việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
         }
       ],
       "rels": []
     }
   },
   {
-    "chunk_id": "chunk_00065",
+    "chunk_id": "chunk_00131",
     "chunk_type": "clause",
-    "content_with_context": "Chương 3, Mục 1, Điều 20:\nKhi hợp đồng lao động quy định tại điểm b khoản 1 Điều này hết hạn mà người lao động vẫn tiếp tục làm việc thì thực hiện như sau: a) Trong thời hạn 30 ngày kể từ ngày hợp đồng lao động hết hạn, hai bên phải ký kết hợp đồng lao động mới; trong thời gian chưa ký kết hợp đồng lao động mới thì quyền, nghĩa vụ và lợi ích của hai bên được thực hiện theo hợp đồng đã giao kết; b) Nếu hết thời hạn 30 ngày kể từ ngày hợp đồng lao động hết hạn mà hai bên không ký kết hợp đồng lao động mới thì hợp đồng đã giao kết theo quy định tại điểm b khoản 1 Điều này trở thành hợp đồng lao động không xác định thời hạn; c) Trường hợp hai bên ký kết hợp đồng lao động mới là hợp đồng lao động xác định thời hạn thì cũng chỉ được ký thêm 01 lần, sau đó nếu người lao động vẫn tiếp tục làm việc thì phải ký kết hợp đồng lao động không xác định thời hạn, trừ hợp đồng lao động đối với người được thuê làm giám đốc trong doanh nghiệp có vốn nhà nước và trường hợp quy định tại khoản 1 Điều 149, khoản 2 Điều 151 và khoản 4 Điều 177 của Bộ luật này.",
-    "rrf_score": 0.027313266443701224,
+    "content_with_context": "Chương 3, Mục 3, Điều 41:\nTrường hợp người lao động không muốn tiếp tục làm việc thì ngoài khoản tiền phải trả quy định tại khoản 1 Điều này người sử dụng lao động phải trả trợ cấp thôi việc theo quy định tại Điều 46 của Bộ luật này để chấm dứt hợp đồng lao động.",
+    "rrf_score": 0.028985507246376812,
     "graph": {
-      "article_id": "ch3_muc1_d20",
-      "article_title": "Loại hợp đồng lao động",
-      "clause_id": "ch3_muc1_d20_k2",
+      "article_id": "ch3_muc3_d41",
+      "article_title": "Nghĩa vụ của người sử dụng lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật",
+      "clause_id": "ch3_muc3_d41_k2",
       "entities": [
         {
-          "id": "ent_860",
-          "label": "khoản 4 điều 177 của bộ luật lao động",
+          "id": "ent_2043",
+          "label": "trợ cấp thôi việc",
           "attributes": {},
-          "type": "LEGAL_REF"
+          "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_838",
-          "label": "giao kết",
+          "id": "ent_2040",
+          "label": "trả",
           "attributes": {},
           "type": "ACTION"
         },
         {
-          "id": "ent_866",
-          "label": "khoản 1 điều 149 của bộ luật lao động",
+          "id": "ent_2044",
+          "label": "chấm dứt hợp đồng lao động",
           "attributes": {},
-          "type": "LEGAL_REF"
+          "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_870",
-          "label": "điều 20",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_844",
+          "id": "ent_2041",
           "label": "hợp đồng lao động",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_859",
-          "label": "khoản 2 điều 151 của bộ luật lao động",
+          "id": "ent_2047",
+          "label": "điều 46 của bộ luật lao động",
           "attributes": {},
           "type": "LEGAL_REF"
         },
         {
-          "id": "ent_854",
-          "label": "hợp đồng lao động",
+          "id": "ent_2045",
+          "label": "trợ cấp",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_839",
-          "label": "giao kết",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_846",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_843",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_856",
-          "label": "điểm b khoản 1 điều 20",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_872",
-          "label": "khoản 2 điều 151 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_871",
-          "label": "điều 149 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_865",
-          "label": "khoản 1 điều 20",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_869",
-          "label": "điều 20",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_842",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_857",
-          "label": "điểm b khoản 1 điều 20",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_845",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_836",
-          "label": "thực hiện",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_813",
-          "label": "trong thời hạn 30 ngày kể từ ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_827",
-          "label": "trường hợp hai bên ký kết hợp đồng lao động mới là hợp đồng lao động xác định thời hạn thì cũng chỉ được ký thêm 01 lần, sau đó nếu người lao động vẫn tiếp tục làm việc thì phải ký kết hợp đồng lao động không xác định thời hạn, trừ hợp đồng lao động đối với người được thuê làm giám đốc trong doanh nghiệp có vốn nhà nước và trường hợp",
+          "id": "ent_2037",
+          "label": "trường hợp người lao động không muốn tiếp tục làm việc",
           "attributes": {},
           "type": "CONDITION"
         },
         {
-          "id": "ent_828",
-          "label": "kể từ ngày hợp đồng lao động hết hạn, hai bên phải ký kết hợp đồng lao động mới",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_816",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_818",
-          "label": "doanh nghiệp",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_815",
-          "label": "30 ngày kể từ ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_821",
-          "label": "hai bên",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_830",
-          "label": "trong thời hạn 30 ngày kể từ ngày hợp đồng lao động hết hạn, hai bên phải ký kết hợp đồng lao động mới",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_832",
-          "label": "hết hạn",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_824",
-          "label": "trường hợp hai bên ký kết hợp đồng lao động mới là hợp đồng lao động xác định thời hạn",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_814",
-          "label": "30 ngày kể từ ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_820",
-          "label": "hai bên",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_826",
-          "label": "nếu người lao động vẫn tiếp tục làm việc",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_817",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_822",
-          "label": "hai bên",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_825",
-          "label": "nếu hết thời hạn 30 ngày kể từ ngày hợp đồng lao động hết hạn mà hai bên không ký kết hợp đồng lao động mới",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_833",
-          "label": "hết hạn",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_819",
-          "label": "hai bên",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_812",
-          "label": "hợp đồng lao động xác định thời hạn là hợp đồng mà trong đó hai bên xác định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng trong thời gian không quá 36 tháng kể từ thời điểm có hiệu lực của hợp đồng",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_829",
-          "label": "kể từ ngày hợp đồng lao động hết hạn mà hai bên không ký kết hợp đồng lao động mới thì hợp đồng đã giao kết theo",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_823",
-          "label": "khi hợp đồng lao động",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_834",
-          "label": "hết hạn",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_831",
-          "label": "đối với người được thuê làm giám đốc trong doanh nghiệp có vốn nhà nước và trường hợp",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_850",
-          "label": "hợp đồng lao động không xác định thời hạn",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_861",
-          "label": "điểm b khoản 1 điều 20",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_875",
-          "label": "phải ký kết hợp đồng lao động mới",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_868",
-          "label": "khoản 4 điều 177 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_858",
-          "label": "khoản 1 điều 149 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_835",
-          "label": "thực hiện",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_848",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_862",
-          "label": "điểm b khoản 1 điều 20",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_855",
-          "label": "nghĩa vụ",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_851",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_840",
-          "label": "quyền, nghĩa vụ và lợi ích",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_863",
-          "label": "điểm b khoản 1 điều 20",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_864",
-          "label": "khoản 1 điều 20",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_849",
-          "label": "hợp đồng lao động xác định thời hạn",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_873",
-          "label": "khoản 4 điều 177 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_841",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_874",
+          "id": "ent_2049",
           "label": "bộ luật lao động",
           "attributes": {},
           "type": "LEGAL_REF"
         },
         {
-          "id": "ent_837",
-          "label": "được thực hiện theo hợp đồng đã giao kết",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_847",
-          "label": "hợp đồng lao động không xác định thời hạn",
+          "id": "ent_2042",
+          "label": "thôi việc",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_876",
-          "label": "phải ký kết hợp đồng lao động không xác định thời hạn, trừ hợp đồng lao động đối với người được thuê làm giám đốc trong doanh nghiệp có vốn nhà nước và trường hợp",
+          "id": "ent_2038",
+          "label": "trường hợp người lao động không muốn tiếp tục làm việc thì ngoài khoản tiền phải trả",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_2052",
+          "label": "02 tháng",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_2048",
+          "label": "điều 41",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_2051",
+          "label": "ít nhất bằng 02 tháng",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_2050",
+          "label": "phải trả",
           "attributes": {},
           "type": "OBLIGATION"
         },
         {
-          "id": "ent_853",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_852",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_867",
-          "label": "khoản 2 điều 151 của bộ luật lao động",
+          "id": "ent_2046",
+          "label": "khoản 1 điều 41",
           "attributes": {},
           "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_2039",
+          "label": "trả",
+          "attributes": {},
+          "type": "ACTION"
         }
       ],
       "rels": [
         [
-          "30 ngày kể từ ngày",
-          "applies_to",
-          "đối với người được thuê làm giám đốc trong doanh nghiệp có vốn nhà nước và trường hợp"
+          "trường hợp người lao động không muốn tiếp tục làm việc",
+          "regulates",
+          "điều 41"
         ],
         [
-          "30 ngày kể từ ngày",
-          "defines",
-          "hết hạn"
+          "trường hợp người lao động không muốn tiếp tục làm việc",
+          "requires",
+          "thôi việc"
         ],
         [
-          "hai bên",
-          "involves",
-          "được thực hiện theo hợp đồng đã giao kết"
-        ],
-        [
-          "hai bên",
-          "involves",
-          "quyền, nghĩa vụ và lợi ích"
-        ],
-        [
-          "hai bên",
+          "trả",
           "cites",
-          "điểm b khoản 1 điều 20"
+          "điều 41"
         ],
         [
-          "nếu người lao động vẫn tiếp tục làm việc",
-          "cites",
-          "khoản 1 điều 149 của bộ luật lao động"
-        ],
-        [
-          "kể từ ngày hợp đồng lao động hết hạn, hai bên phải ký kết hợp đồng lao động mới",
-          "cites",
-          "điểm b khoản 1 điều 20"
-        ],
-        [
-          "kể từ ngày hợp đồng lao động hết hạn, hai bên phải ký kết hợp đồng lao động mới",
-          "results_in",
-          "hợp đồng lao động không xác định thời hạn"
-        ],
-        [
-          "đối với người được thuê làm giám đốc trong doanh nghiệp có vốn nhà nước và trường hợp",
-          "applies_to",
-          "30 ngày kể từ ngày"
-        ],
-        [
-          "đối với người được thuê làm giám đốc trong doanh nghiệp có vốn nhà nước và trường hợp",
-          "defines",
-          "hết hạn"
-        ],
-        [
-          "đối với người được thuê làm giám đốc trong doanh nghiệp có vốn nhà nước và trường hợp",
-          "defines",
-          "điểm b khoản 1 điều 20"
-        ],
-        [
-          "hết hạn",
-          "defines",
-          "đối với người được thuê làm giám đốc trong doanh nghiệp có vốn nhà nước và trường hợp"
-        ],
-        [
-          "hết hạn",
-          "defines",
-          "30 ngày kể từ ngày"
-        ],
-        [
-          "được thực hiện theo hợp đồng đã giao kết",
+          "thôi việc",
           "involves",
-          "hai bên"
+          "trợ cấp"
         ],
         [
-          "quyền, nghĩa vụ và lợi ích",
-          "related_to",
+          "thôi việc",
+          "requires",
+          "điều 41"
+        ],
+        [
+          "thôi việc",
+          "requires",
+          "trường hợp người lao động không muốn tiếp tục làm việc"
+        ],
+        [
+          "trợ cấp",
+          "has_purpose",
+          "khoản 1 điều 41"
+        ],
+        [
+          "trợ cấp",
+          "involves",
+          "thôi việc"
+        ],
+        [
+          "trợ cấp",
+          "cites",
+          "bộ luật lao động"
+        ],
+        [
+          "khoản 1 điều 41",
+          "has_purpose",
+          "trợ cấp"
+        ],
+        [
+          "khoản 1 điều 41",
+          "has_purpose",
+          "bộ luật lao động"
+        ],
+        [
+          "điều 41",
+          "cites",
+          "trả"
+        ],
+        [
+          "điều 41",
+          "requires",
+          "thôi việc"
+        ],
+        [
+          "điều 41",
+          "regulates",
+          "trường hợp người lao động không muốn tiếp tục làm việc"
+        ],
+        [
+          "bộ luật lao động",
+          "cites",
+          "trợ cấp"
+        ],
+        [
+          "bộ luật lao động",
+          "has_purpose",
+          "khoản 1 điều 41"
+        ]
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_00132",
+    "chunk_type": "clause",
+    "content_with_context": "Chương 3, Mục 3, Điều 41:\nTrường hợp người sử dụng lao động không muốn nhận lại người lao động và người lao động đồng ý thì ngoài khoản tiền người sử dụng lao động phải trả theo quy định tại khoản 1 Điều này và trợ cấp thôi việc theo quy định tại Điều 46 của Bộ luật này, hai bên thỏa thuận khoản tiền bồi thường thêm cho người lao động nhưng ít nhất bằng 02 tháng tiền lương theo hợp đồng lao động để chấm dứt hợp đồng lao động.",
+    "rrf_score": 0.028370221327967807,
+    "graph": {
+      "article_id": "ch3_muc3_d41",
+      "article_title": "Nghĩa vụ của người sử dụng lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật",
+      "clause_id": "ch3_muc3_d41_k3",
+      "entities": [
+        {
+          "id": "ent_2060",
+          "label": "trường hợp người sử dụng lao động không muốn nhận lại người lao động và người lao động đồng ý thì ngoài khoản tiền người sử dụng lao động phải trả theo",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_2074",
+          "label": "điều 41",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_2075",
+          "label": "bộ luật lao động",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_2078",
+          "label": "tổ chức",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_2073",
+          "label": "khoản 1 điều 41",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_2071",
+          "label": "trợ cấp",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2067",
+          "label": "khoản tiền bồi thường thêm cho người lao động",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2068",
+          "label": "chấm dứt hợp đồng lao động",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2056",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_2063",
+          "label": "hợp đồng lao động",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2057",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_2072",
+          "label": "khoản 1 điều 41",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_2059",
+          "label": "trường hợp người sử dụng lao động không muốn nhận lại người lao động và người lao động đồng ý",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_2061",
+          "label": "thỏa thuận khoản tiền bồi thường thêm cho người lao động nhưng ít nhất bằng 02 tháng tiền lương theo hợp đồng lao động để chấm dứt hợp đồng lao động",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_2076",
+          "label": "phải trả",
+          "attributes": {},
+          "type": "OBLIGATION"
+        },
+        {
+          "id": "ent_2058",
+          "label": "hai bên",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_2064",
+          "label": "hợp đồng lao động",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2065",
+          "label": "thôi việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2053",
+          "label": "người sử dụng lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_2070",
+          "label": "bồi thường",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2069",
+          "label": "tiền lương",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_2066",
+          "label": "trợ cấp thôi việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        }
+      ],
+      "rels": [
+        [
+          "trường hợp người sử dụng lao động không muốn nhận lại người lao động và người lao động đồng ý thì ngoài khoản tiền người sử dụng lao động phải trả theo",
+          "involves",
           "hợp đồng lao động"
         ],
         [
-          "quyền, nghĩa vụ và lợi ích",
-          "involves",
-          "hai bên"
-        ],
-        [
           "hợp đồng lao động",
-          "related_to",
-          "quyền, nghĩa vụ và lợi ích"
+          "involves",
+          "trường hợp người sử dụng lao động không muốn nhận lại người lao động và người lao động đồng ý thì ngoài khoản tiền người sử dụng lao động phải trả theo"
         ],
         [
-          "hợp đồng lao động không xác định thời hạn",
-          "results_in",
-          "điểm b khoản 1 điều 20"
-        ],
-        [
-          "hợp đồng lao động không xác định thời hạn",
-          "results_in",
-          "kể từ ngày hợp đồng lao động hết hạn, hai bên phải ký kết hợp đồng lao động mới"
-        ],
-        [
-          "điểm b khoản 1 điều 20",
+          "chấm dứt hợp đồng lao động",
           "defines",
-          "đối với người được thuê làm giám đốc trong doanh nghiệp có vốn nhà nước và trường hợp"
+          "điều 41"
         ],
         [
-          "điểm b khoản 1 điều 20",
-          "cites",
-          "hai bên"
-        ],
-        [
-          "điểm b khoản 1 điều 20",
-          "cites",
-          "kể từ ngày hợp đồng lao động hết hạn, hai bên phải ký kết hợp đồng lao động mới"
-        ],
-        [
-          "điểm b khoản 1 điều 20",
-          "results_in",
-          "hợp đồng lao động không xác định thời hạn"
-        ],
-        [
-          "khoản 1 điều 149 của bộ luật lao động",
-          "cites",
-          "nếu người lao động vẫn tiếp tục làm việc"
+          "điều 41",
+          "defines",
+          "chấm dứt hợp đồng lao động"
         ]
       ]
     }

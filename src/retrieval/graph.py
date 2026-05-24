@@ -84,11 +84,14 @@ def extract_refs(text):
 
     chuong_matches = re.findall(patterns["chương"], text)
     for value in chuong_matches:
-        try:
-            num = roman_to_int(value.upper())
-            refs.append(f"ch{num}")
-        except:
-            refs.append(f"ch{value}")
+        if value.isdigit():
+            num = int(value)
+        else:
+            try:
+                num = roman_to_int(value.upper())
+            except:
+                num = value
+        refs.append(f"ch{num}")
     dieu_matches = re.findall(patterns["điều"], text)
     for value in dieu_matches:
         refs.append(f"d{value}")

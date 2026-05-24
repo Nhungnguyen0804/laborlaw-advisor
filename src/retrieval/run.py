@@ -59,6 +59,13 @@ def get_relations_in_chunk(driver, chunk_data):
         chunk["graph"]["rels"] = triples
     return chunk_data
 
+
+def add_prefix_blldvn(chunks):
+    prefix="Bộ luật Lao động Việt Nam 2019 "
+    for chunk in chunks:
+        chunk["content_with_context"] = prefix + chunk["content_with_context"]
+    return chunks
+
 def run_retrieval(driver,question,query_entities):
     
     bm25_results = bm25_search(question,bm25_topk)
@@ -99,7 +106,7 @@ def run_retrieval(driver,question,query_entities):
 
     chunk_with_ents_rels = get_relations_in_chunk(driver,chunk_with_ents)
     save_json(chunk_with_ents_rels,'test/chunk_with_ents_rels.json')
-    return chunk_with_ents_rels
+    return add_prefix_blldvn(chunk_with_ents_rels)
     
 
 

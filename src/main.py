@@ -14,7 +14,7 @@ for entity_type, pattern_list in PATTERNS.items():
     COMPILED[entity_type] = [re.compile(p, re.IGNORECASE) for p in pattern_list]
 
 # question = "Điều 113 gồm những khoản nào?"
-# question = 'Người lao động được nghỉ phép bao nhiêu ngày'
+question = 'Người lao động được nghỉ phép bao nhiêu ngày'
 # question ='Nội dung của điều 113'
 # question ='điểm a và điểm b khoản 3 điều 18 là gì '
 # question = 'Thời gian làm việc tối đa là bao nhiêu'

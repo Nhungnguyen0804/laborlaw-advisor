@@ -1,28 +1,37 @@
 [
   {
-    "type": "LEGAL_ROLE",
-    "text": "Người lao động",
+    "type": "RIGHT",
+    "text": "được tính như thế nào?",
+    "span": [
+      18,
+      40
+    ],
+    "source": "pattern"
+  },
+  {
+    "type": "LEGAL_CONCEPT",
+    "text": " thôi việc ",
+    "span": [
+      7,
+      18
+    ],
+    "source": "pattern"
+  },
+  {
+    "type": "LEGAL_CONCEPT",
+    "text": "Trợ cấp thôi việc",
     "span": [
       0,
-      14
+      17
     ],
     "source": "pattern"
   },
   {
-    "type": "ACTION",
-    "text": "đơn phương chấm dứt hợp đồng không xác định thời hạn?",
+    "type": "LEGAL_CONCEPT",
+    "text": "Trợ cấp",
     "span": [
-      42,
-      95
-    ],
-    "source": "pattern"
-  },
-  {
-    "type": "OBLIGATION",
-    "text": "phải báo trước bao lâu khi đơn phương chấm dứt hợp đồng không xác định thời hạn?",
-    "span": [
-      15,
-      95
+      0,
+      7
     ],
     "source": "pattern"
   }

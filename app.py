@@ -23,7 +23,7 @@ async def on_chat_start():
     global driver
     driver = init_driver()
     # load_qwen()
-    await cl.Message(content="Xin chào! Hãy đặt câu hỏi về Luật Lao động.").send()
+    # await cl.Message(content="Xin chào! Hãy đặt câu hỏi về Luật Lao động.").send()
 
 
 

@@ -95,7 +95,7 @@ reaction_on_message_received = false
 
 [UI]
 # Name of the assistant.
-name = "Assistant"
+name = "Laborlaw Advisor"
 
 # default_theme = "dark"
 
@@ -105,7 +105,7 @@ name = "Assistant"
 
 # layout = "wide"
 
-# default_sidebar_state = "open"  # Options: "open", "closed", "hidden"
+default_sidebar_state = "open"  # Options: "open", "closed", "hidden"
 
 # Chat settings display location: "message_composer" (default) or "sidebar" (header)
 # chat_settings_location = "message_composer"
@@ -117,7 +117,7 @@ name = "Assistant"
 confirm_new_chat = true
 
 # Description of the assistant. This is used for HTML tags.
-# description = ""
+description = "Hệ thống tư vấn luật lao động Việt Nam"
 
 # Chain of Thought (CoT) display mode. Can be "hidden", "tool_call" or "full".
 cot = "full"
@@ -125,7 +125,7 @@ cot = "full"
 # Specify a CSS file that can be used to customize the user interface.
 # The CSS file can be served from the public directory or via an external link.
 # custom_css = "/public/test.css"
-
+custom_css = "/public/custom.css"
 # Specify additional attributes for a custom CSS file
 # custom_css_attributes = "media=\"print\""
 
@@ -153,13 +153,13 @@ alert_style = "classic"
 # custom_meta_image_url = "https://chainlit-cloud.s3.eu-west-3.amazonaws.com/logo/chainlit_banner.png"
 
 # Load assistant logo directly from URL.
-logo_file_url = ""
+logo_file_url = "/public/logo.png"
 
 # Load assistant avatar image directly from URL.
-default_avatar_file_url = ""
+default_avatar_file_url = "/public/logo.png"
 
 # Avatar size in pixels (default: 20).
-# avatar_size = 20
+# avatar_size = 40
 
 # Specify a custom build directory for the frontend.
 # This can be used to customize the frontend code.

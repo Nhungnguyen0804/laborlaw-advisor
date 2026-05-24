@@ -1,0 +1,23 @@
+body {
+  background-color: #ffecec !important;
+}
+.logo {
+  border-radius: 50%;
+}
+
+.ai-message .message-content {
+  background-color: #d1f3e1 !important;
+  border-radius: 15px;
+  padding: 15px;
+}
+
+.bg-accent {
+  background-color: #fddddb !important;
+  border-radius: 15px;
+  padding: 15px;
+}
+
+/* #fdf5f5  */
+/* #639090
+#86c1ae
+#d1f3e1 */
