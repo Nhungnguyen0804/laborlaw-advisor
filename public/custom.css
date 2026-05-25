@@ -1,5 +1,9 @@
 body {
-  background-color: #ffecec !important;
+  /* background-color: #ffecec !important; */
+  background-image: url("bg.png") !important;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+  background-position: center !important;
 }
 .logo {
   border-radius: 50%;
@@ -12,7 +16,7 @@ body {
 }
 
 .bg-accent {
-  background-color: #fddddb !important;
+  background-color: #fcd1ce !important;
   border-radius: 15px;
   padding: 15px;
 }
