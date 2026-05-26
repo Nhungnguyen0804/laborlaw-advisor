@@ -29,7 +29,7 @@ law-env\Scripts\activate
 pip install -r requirements.txt
 ```
 
-**4. Cấu hình biến môi trường **
+**4. Cấu hình biến môi trường**
 
 ```bash
 cp .env.example .env
@@ -61,7 +61,7 @@ truy cập Neo4j Browser tại:
 http://localhost:7474
 ```
 
-> Đăng nhập với thông tin trong file `.env`
+Đăng nhập với thông tin trong file `.env`
 
 # Hướng dẫn chạy thử phần mềm
 
