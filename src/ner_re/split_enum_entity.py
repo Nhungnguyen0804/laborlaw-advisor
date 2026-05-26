@@ -85,32 +85,6 @@ def expand_legal_refs(text,node_id=None):
     return results 
 
 
-def build_full_reference(current, template):
-    """
-    Xây dựng tham chiếu đầy đủ bằng cách merge current với template
-    """
-    # Sử dụng giá trị từ current, fallback về template
-    merged = {
-        'diem': current.get('diem', template.get('diem')),
-        'khoan': current.get('khoan', template.get('khoan')),
-        'dieu': current.get('dieu', template.get('dieu'))
-    }
-    
-    # Xây dựng chuỗi theo thứ tự: điểm -> khoản -> điều
-    parts = []
-    
-    if merged.get('diem'):
-        parts.append(f"điểm {merged['diem']}")
-    
-    if merged.get('khoan'):
-        parts.append(f"khoản {merged['khoan']}")
-    
-    if merged.get('dieu'):
-        parts.append(f"điều {merged['dieu']}")
-    
-    return " ".join(parts) if parts else ""
-
-
 
 def split_non_legal_entity(text):
     # Split text theo 

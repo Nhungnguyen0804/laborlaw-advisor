@@ -21,7 +21,8 @@ for entity_type, pattern_list in PATTERNS.items():
 @cl.on_chat_start
 async def on_chat_start():
     global driver
-    driver = init_driver()
+    if driver is None:
+        driver = init_driver()
     # load_qwen()
     # await cl.Message(content="Xin chào! Hãy đặt câu hỏi về Luật Lao động.").send()
 

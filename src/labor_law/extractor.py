@@ -25,9 +25,9 @@ def extract_blocks(processed_lines, regex, keyword):
 
        
         for char in line:
-            if char in ('"', '\u201c', '\u00ab'):
+            if char in ('\u201c', '\u00ab'): #  “ «
                 quote_count += 1
-            elif char in ('"', '\u201d', '\u00bb'):
+            elif char in ('\u201d', '\u00bb'): #  ” »
                 quote_count = max(0, quote_count - 1)
 
 

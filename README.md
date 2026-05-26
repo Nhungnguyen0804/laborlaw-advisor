@@ -46,7 +46,7 @@ Mở file `.env` và điền các giá trị trong `.env.example`.
 ```bash
 
 # Windows
-.venv\Scripts\activate
+law-venv\Scripts\activate
 ```
 
 **2. Khởi động Neo4j bằng Docker**
@@ -86,3 +86,4 @@ Câu hỏi cấu trúc pháp lý
 
 Câu hỏi ngữ nghĩa pháp lý
 ![Demo câu hỏi ngữ nghĩa pháp lý và trả lời](demo1.png)
+![Demo câu hỏi ngữ nghĩa pháp lý và trả lời](demo2.png)

@@ -385,28 +385,6 @@ def extract_edges(data):
 # phân loại action text to edges
 def run_re(property_entities, structural_nodes):
 
-    groups = {}
-    # group theo article
-    for node in property_entities:
-
-        node_id = node["node_id"]
-        if node_id not in groups:
-            groups[node_id] = []
-        
-        article_id = get_article_id(node_id)
-
-        # nếu chưa có key thì tạo list rỗng
-        if article_id not in groups:
-            groups[article_id] = []
-
-        # add entities
-        for ent in node["entities"]:
-
-            groups[article_id].append({
-                "type": ent["type"],
-                "value": ent["text"],
-                "node_id": node_id
-            })
     mention_edges = build_mention_edges(property_entities)
     map_ent_to_sentences, all_entities = map_entities_to_sentences(structural_nodes, property_entities)
     from src.utils.file_utils import save_json

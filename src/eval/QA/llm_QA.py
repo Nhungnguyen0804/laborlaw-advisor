@@ -88,7 +88,7 @@ def call_gemini(client, question):
     for attempt in range(1, MAX_RETRIES + 1):
         try:
             t0 = time.perf_counter()
-            response = client.models.generate_content(model=MODEL_NAME,contents=prompt,)
+            response = client.models.generate_content(model=MODEL_NAME,contents=prompt)
             elapsed = round(time.perf_counter() - t0, 4)
             answer = response.text.strip() if response.text else ""
             return prompt, answer, elapsed
@@ -103,7 +103,7 @@ def call_gemini(client, question):
  
     raise last_exc
 
-def run_eval_gemini():
+def generate_answers_with_gemini():
     client = genai.Client(api_key=API_KEY)
 
     if START_ID is not None:
@@ -115,12 +115,12 @@ def run_eval_gemini():
 
 
     qa_dataset = load_json(QA_INPUT)
-    results    = load_or_init_output(qa_dataset)
-    total      = len(qa_dataset)
+    results = load_or_init_output(qa_dataset)
+    total  = len(qa_dataset)
     print(f"Tổng số câu: {total}, bắt đầu từ: {start}\n")
  
     for idx in range(start, total):
-        item     = results[idx]
+        item = results[idx]
         question = item["question"]
         print(f"Câu {idx + 1}/{total}: {question[:80]}...")
  
@@ -129,7 +129,7 @@ def run_eval_gemini():
 
             item["gemini_context"] = context_text
             item["gemini_answer"]  = answer
-            item["gemini_time"]    = elapsed
+            item["gemini_time"] = elapsed
  
             # Lưu sau mỗi câu
             save_json(results, GEMINI_QA_OUTPUT)
@@ -142,7 +142,7 @@ def run_eval_gemini():
             if is_quota_error(e):
                 print(f"\nHết quota tại câu {idx + 1} (index {idx}).")
                 print(f"Đổi API_KEY mới, để START_ID = {idx}\n")
-                # Checkpoint đã lưu idx (câu hiện tại chưa xong) → resume đúng chỗ
+                # Checkpoint đã lưu idx (câu hiện tại chưa xong)
                 save_checkpoint(idx)
                 break
             elif is_config_error(e):
@@ -150,11 +150,11 @@ def run_eval_gemini():
                 save_checkpoint(idx)
                 break
             else:
-                # Lỗi khác → ghi rỗng và đi tiếp, không dừng cả pipeline
+                # Lỗi khác 
                 print(f"bỏ qua câu {idx + 1}: {e}")
                 item["gemini_context"] = ""
                 item["gemini_answer"]  = f"[ERROR] {e}"
-                item["gemini_time"]    = 0
+                item["gemini_time"] = 0
                 save_json(results, GEMINI_QA_OUTPUT)
                 save_checkpoint(idx + 1)
  
@@ -163,10 +163,10 @@ def run_eval_gemini():
     else:
         # Chạy hết vòng lặp (không bị break bởi quota)
         print(f"\ndone, kết quả: {GEMINI_QA_OUTPUT}")
-        # Xóa checkpoint vì đã xong
+        # Xóa checkpoint khi done
         if os.path.exists(CHECKPOINT_FILE):
             os.remove(CHECKPOINT_FILE)
             print("Đã xóa checkpoint.")
 
-run_eval_gemini()
+generate_answers_with_gemini()
 

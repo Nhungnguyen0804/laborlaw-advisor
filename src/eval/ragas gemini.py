@@ -15,22 +15,22 @@ from langchain_google_genai import ChatGoogleGenerativeAI, GoogleGenerativeAIEmb
 from tenacity import retry, stop_after_attempt, wait_exponential
 
 GTRUTH_FILE   = "src/eval/QA/gtruth_qa.json"
-RAG_FILE      = "src/eval/QA/rag_qa.json"
+RAG_FILE  = "src/eval/QA/rag_qa.json"
 GRAPHRAG_FILE = "src/eval/QA/graphrag_qa.json"
 LLMONLY_FILE  = "src/eval/QA/qwen_qa.json"
  
-JUDGE_MODEL     = "gemini-2.0-flash"
+JUDGE_MODEL = "gemini-2.0-flash"
 EMBEDDING_MODEL = "models/text-embedding-004"
 import random
-BATCH_SIZE    = 5     # số sample mỗi lần gửi RAGAS
+BATCH_SIZE  = 5     # số sample mỗi lần gửi RAGAS
 SLEEP_BETWEEN_BATCHES  = random.uniform(3, 6)   # giây nghỉ giữa các batch
 SLEEP_BETWEEN_PIPELINES  = 15    # giây nghỉ giữa các pipeline
 SLEEP_ON_QUOTA_ERROR  = 60    # giây nghỉ khi bị quota
  
 CHECKPOINT_FILE  = "src/eval/ragas_checkpoint.json"
-PARTIAL_CSV      = "src/eval/partial_results.csv"
-SUMMARY_JSON     = "src/eval/results_summary.json"
-DETAIL_CSV       = "src/eval/results_detail.csv"
+PARTIAL_CSV  = "src/eval/partial_results.csv"
+SUMMARY_JSON  = "src/eval/results_summary.json"
+DETAIL_CSV  = "src/eval/results_detail.csv"
  
 METRIC_KEYS = ["faithfulness", "answer_relevancy", "context_precision", "context_recall"]
 
@@ -121,18 +121,18 @@ def build_rows(path, pipeline_name):
             contexts = [ctx] if ctx else []
  
         rows.append({
-            "id":            d["id"],
-            "question":      d["question"],
-            "answer":        d["answer"],
-            "contexts":      contexts,
-            "ground_truth":  gtruth_map[d["id"]]["answer"],
+            "id":  d["id"],
+            "question": d["question"],
+            "answer":  d["answer"],
+            "contexts":  contexts,
+            "ground_truth": gtruth_map[d["id"]]["answer"],
             "question_type": d.get("question_type", "unknown"),
         })
     return rows
  
  
 pipelines = {
-    "RAG":      build_rows(RAG_FILE,      "RAG"),
+    "RAG": build_rows(RAG_FILE, "RAG"),
     "GraphRAG": build_rows(GRAPHRAG_FILE, "GraphRAG"),
     "LLM_only": build_rows(LLMONLY_FILE,  "LLM_only"),
 }
@@ -143,9 +143,9 @@ for name, rows in pipelines.items():
 def eval_batch(batch_rows, pipeline_name, batch_index):
     dataset = Dataset.from_list([
         {
-            "question":     r["question"],
-            "answer":       r["answer"],
-            "contexts":     r["contexts"],
+            "question": r["question"],
+            "answer":  r["answer"],
+            "contexts": r["contexts"],
             "ground_truth": r["ground_truth"],
         }
         for r in batch_rows
@@ -210,7 +210,7 @@ for pipeline_name in pipeline_names:
     for start in tqdm(batches, desc=f"{pipeline_name}", unit="batch"):
         batch_rows   = rows[start : start + BATCH_SIZE]
         batch_index  = start // BATCH_SIZE
-        t0           = time.time()
+        t0  = time.time()
  
         result = eval_batch(batch_rows, pipeline_name, batch_index)
  
@@ -222,8 +222,8 @@ for pipeline_name in pipeline_names:
         # Gắn metadata vào dataframe
         df_batch = result.to_pandas()
         df_batch["question_type"] = [r["question_type"] for r in batch_rows]
-        df_batch["id"]            = [r["id"]            for r in batch_rows]
-        df_batch["pipeline"]      = pipeline_name
+        df_batch["id"]    = [r["id"]  for r in batch_rows]
+        df_batch["pipeline"] = pipeline_name
  
         pipeline_dfs.append(df_batch)
         append_to_partial_csv(df_batch)
@@ -231,10 +231,10 @@ for pipeline_name in pipeline_names:
         # Tính ETA
         elapsed = time.time() - t0
         time_per_batch.append(elapsed)
-        avg_time      = sum(time_per_batch) / len(time_per_batch)
+        avg_time  = sum(time_per_batch) / len(time_per_batch)
         remaining_batches = (len(rows) - (start + BATCH_SIZE)) / BATCH_SIZE
-        eta_seconds   = avg_time * remaining_batches
-        processed    += len(batch_rows)
+        eta_seconds = avg_time * remaining_batches
+        processed  += len(batch_rows)
  
         tqdm.write(f"  Batch {batch_index}: {len(batch_rows)} sample | {elapsed:.1f}s | ETA: {format_eta(eta_seconds)}")
  
@@ -285,9 +285,9 @@ for name in col_names:
     print(all_dfs[name].groupby("question_type")[METRIC_KEYS].mean().round(3).to_string())
 
 output = {
-    "judge_model":     JUDGE_MODEL,
+    "judge_model":  JUDGE_MODEL,
     "embedding_model": EMBEDDING_MODEL,
-    "summary":         summary,
+    "summary": summary,
     "breakdown_by_type": {
         name: all_dfs[name].groupby("question_type")[METRIC_KEYS].mean().round(4).to_dict()
         for name in col_names
