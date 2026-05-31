@@ -260,61 +260,61 @@ gt_dict = build_node_dict(gtruth_ents)
 for node_id in NODE_IDS:
     eval_one_node(node_id,regex_dict,gt_dict,match_results,per_type_results)
 
-# eval_overall(match_results)
-# eval_per_type(per_type_results)
-
-
-
-def debug_only_fp(regex_dict, gt_dict):
-
-    debug_fp = []
-
-    for node_id in NODE_IDS:
-
-        if node_id not in regex_dict or node_id not in gt_dict:
-            continue
-
-        r_node = regex_dict[node_id]
-        gt_node = gt_dict[node_id]
-
-        r_ents = r_node["entities"]
-        gt_ents = gt_node["entities"]
-
-        gt_matched = [False] * len(gt_ents)
-
-        for r_ent in r_ents:
-
-            found_match = False
-
-            for i, gt_ent in enumerate(gt_ents):
-
-                if gt_matched[i]:
-                    continue
-
-                match_type = eval_ent_match(r_ent, gt_ent)
-
-                if match_type != "no_match":
-                    gt_matched[i] = True
-                    found_match = True
-                    break
-
-            # predict có nhưng gt không có
-            if not found_match:
-
-                debug_fp.append({
-                    "node_id": node_id,
-                    "pred_text": r_ent["text"],
-                    "pred_type": r_ent["type"]
-                })
-
-    print('\n')
-    print("PREDICT CO NHUNG GTRUTH KHONG CO (FP)")
-    print('\n')
-
-    for item in debug_fp:
-        print(item)
-
-    print("\nTOTAL FP:", len(debug_fp))
-# debug_only_fp(regex_dict, gt_dict)
 eval_overall(match_results)
 eval_per_type(per_type_results)
+
+
+
+# def debug_only_fp(regex_dict, gt_dict):
+
+#     debug_fp = []
+
+#     for node_id in NODE_IDS:
+
+#         if node_id not in regex_dict or node_id not in gt_dict:
+#             continue
+
+#         r_node = regex_dict[node_id]
+#         gt_node = gt_dict[node_id]
+
+#         r_ents = r_node["entities"]
+#         gt_ents = gt_node["entities"]
+
+#         gt_matched = [False] * len(gt_ents)
+
+#         for r_ent in r_ents:
+
+#             found_match = False
+
+#             for i, gt_ent in enumerate(gt_ents):
+
+#                 if gt_matched[i]:
+#                     continue
+
+#                 match_type = eval_ent_match(r_ent, gt_ent)
+
+#                 if match_type != "no_match":
+#                     gt_matched[i] = True
+#                     found_match = True
+#                     break
+
+#             # predict có nhưng gt không có
+#             if not found_match:
+
+#                 debug_fp.append({
+#                     "node_id": node_id,
+#                     "pred_text": r_ent["text"],
+#                     "pred_type": r_ent["type"]
+#                 })
+
+#     print('\n')
+#     print("PREDICT CO NHUNG GTRUTH KHONG CO (FP)")
+#     print('\n')
+
+#     for item in debug_fp:
+#         print(item)
+
+#     print("\nTOTAL FP:", len(debug_fp))
+# # debug_only_fp(regex_dict, gt_dict)
+# eval_overall(match_results)
+# eval_per_type(per_type_results)

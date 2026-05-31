@@ -15,7 +15,7 @@ def build_context_metadata(law_code, law_name, chapter, section , article):
         'chapter_id': chapter['chapter_id'],
         'chapter_num': chapter['chapter_num'],
         'chapter_title': chapter['chapter_title'],
-        'chapter_id': chapter['chapter_id'],
+        # 'chapter_id': chapter['chapter_id'],
         # section có thể None 
         'section_id': section['section_id'] if section else None,
         'section_num': section['section_num'] if section else None,

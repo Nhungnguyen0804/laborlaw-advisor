@@ -35,24 +35,24 @@ def import_chunks_with_embeddings(driver, json_path, batch_size=100):
     query = """
     UNWIND $batch AS row
     MERGE (c:CHUNK {chunk_id: row.chunk_id})
-    SET c.content              = row.content,
+    SET c.content  = row.content,
         c.content_with_context = row.content_with_context,
-        c.label                = row.content_with_context,
-        c.chunk_type           = row.chunk_type,
-        c.embedding            = row.embedding,
-        c.token_estimate       = row.token_estimate,
-        c.law_code             = row.metadata.law_code,
-        c.law_name             = row.metadata.law_name,
-        c.chapter_num          = row.metadata.chapter_num,
-        c.chapter_title        = row.metadata.chapter_title,
-        c.section_id           = row.metadata.section_id,
-        c.section_num          = row.metadata.section_num,
-        c.section_title        = row.metadata.section_title,
-        c.article_id           = row.metadata.article_id,     
-        c.article_num          = row.metadata.article_num,
-        c.article_title        = row.metadata.article_title,
-        c.clause_id            = row.metadata.clause_id,      
-        c.clause_num           = row.metadata.clause_num
+        c.label  = row.content_with_context,
+        c.chunk_type = row.chunk_type,
+        c.embedding    = row.embedding,
+        c.token_estimate   = row.token_estimate,
+        c.law_code    = row.metadata.law_code,
+        c.law_name   = row.metadata.law_name,
+        c.chapter_num  = row.metadata.chapter_num,
+        c.chapter_title = row.metadata.chapter_title,
+        c.section_id  = row.metadata.section_id,
+        c.section_num  = row.metadata.section_num,
+        c.section_title = row.metadata.section_title,
+        c.article_id   = row.metadata.article_id,     
+        c.article_num   = row.metadata.article_num,
+        c.article_title  = row.metadata.article_title,
+        c.clause_id   = row.metadata.clause_id,      
+        c.clause_num   = row.metadata.clause_num
     RETURN count(c)
     """
     

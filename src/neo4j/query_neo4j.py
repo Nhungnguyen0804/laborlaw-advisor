@@ -36,7 +36,7 @@ def get_chunk_context_from_graph(driver, chunk_id):
         c.article_title AS article_title,
         c.clause_id AS clause_id,
         c.content_with_context AS content_with_context,
-        //coalesce(c.content_with_context, c.content) AS display_content,
+       
         c.content AS raw_content,
         [e IN all_entities WHERE e IS NOT NULL | {
             label: e.label,
@@ -72,8 +72,8 @@ RETURN
         CASE child.node_type
             WHEN 'CHAPTER' THEN child.chapter_title
             WHEN 'ARTICLE' THEN child.article_title
-            WHEN 'CLAUSE'  THEN child.clause_content
-            WHEN 'POINT'   THEN child.point_content
+            WHEN 'CLAUSE' THEN child.clause_content
+            WHEN 'POINT' THEN child.point_content
         END,
         child.label
     ) AS content
@@ -91,7 +91,6 @@ ORDER BY
         result = session.run(
             query, 
             parent_id=parent_id,
-            rel_type=relation_type
         )
         
         children = []

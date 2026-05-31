@@ -1,1221 +1,1121 @@
 [
   {
-    "chunk_id": "chunk_00148",
+    "chunk_id": "chunk_00048",
     "chunk_type": "clause",
-    "content_with_context": "Chương 3, Mục 3, Điều 46:\nTiền lương để tính trợ cấp thôi việc là tiền lương bình quân của 06 tháng liền kề theo hợp đồng lao động trước khi người lao động thôi việc.",
-    "rrf_score": 0.03278688524590164,
+    "content_with_context": "Chương 3, Mục 1, Điều 14:\nHợp đồng lao động phải được giao kết bằng văn bản và được làm thành 02 bản, người lao động giữ 01 bản, người sử dụng lao động giữ 01 bản, trừ trường hợp quy định tại khoản 2 Điều này. Hợp đồng lao động được giao kết thông qua phương tiện điện tử dưới hình thức thông điệp dữ liệu theo quy định của pháp luật về giao dịch điện tử có giá trị như hợp đồng lao động bằng văn bản.",
+    "rrf_score": 0.031544957774465976,
     "graph": {
-      "article_id": "ch3_muc3_d46",
-      "article_title": "Trợ cấp thôi việc",
-      "clause_id": "ch3_muc3_d46_k3",
+      "article_id": "ch3_muc1_d14",
+      "article_title": "Hình thức hợp đồng lao động",
+      "clause_id": "ch3_muc1_d14_k1",
       "entities": [
         {
-          "id": "ent_2365",
-          "label": "trước khi người lao động thôi việc",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_2368",
-          "label": "trợ cấp thôi việc là tiền lương bình quân của 06 tháng liền kề",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2370",
-          "label": "tiền lương",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2371",
-          "label": "tiền lương",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2367",
-          "label": "thôi việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2369",
-          "label": "trợ cấp thôi việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2372",
-          "label": "trợ cấp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        }
-      ],
-      "rels": [
-        [
-          "thôi việc",
-          "related_to",
-          "trợ cấp thôi việc"
-        ],
-        [
-          "trợ cấp thôi việc",
-          "related_to",
-          "thôi việc"
-        ],
-        [
-          "trợ cấp thôi việc",
-          "has_purpose",
-          "tiền lương"
-        ],
-        [
-          "tiền lương",
-          "has_purpose",
-          "trợ cấp thôi việc"
-        ]
-      ]
-    }
-  },
-  {
-    "chunk_id": "chunk_00147",
-    "chunk_type": "clause",
-    "content_with_context": "Chương 3, Mục 3, Điều 46:\nThời gian làm việc để tính trợ cấp thôi việc là tổng thời gian người lao động đã làm việc thực tế cho người sử dụng lao động trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật về bảo hiểm thất nghiệp và thời gian làm việc đã được người sử dụng lao động chi trả trợ cấp thôi việc, trợ cấp mất việc làm.",
-    "rrf_score": 0.03225806451612903,
-    "graph": {
-      "article_id": "ch3_muc3_d46",
-      "article_title": "Trợ cấp thôi việc",
-      "clause_id": "ch3_muc3_d46_k2",
-      "entities": [
-        {
-          "id": "ent_2360",
-          "label": "trợ cấp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2358",
-          "label": "thất nghiệp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2349",
-          "label": "trả",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_2354",
-          "label": "trợ cấp thôi việc là tổng thời gian người lao động đã làm việc thực tế cho người sử dụng lao động trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2361",
-          "label": "trợ cấp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2353",
-          "label": "mất việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2351",
-          "label": "bảo hiểm thất nghiệp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2362",
-          "label": "theo quy định của pháp luật về bảo hiểm thất nghiệp và thời gian làm việc",
+          "id": "ent_589",
+          "label": "theo quy định của pháp luật về giao dịch điện tử có giá trị như hợp đồng lao động bằng văn bản",
           "attributes": {},
           "type": "LEGAL_REF"
         },
         {
-          "id": "ent_2348",
-          "label": "được người sử dụng lao động chi trả trợ cấp thôi việc, trợ cấp mất việc làm",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_2346",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_2350",
-          "label": "bảo hiểm thất nghiệp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2359",
-          "label": "trợ cấp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2345",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_2356",
-          "label": "trợ cấp thôi việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2357",
-          "label": "thất nghiệp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2347",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_2355",
-          "label": "trợ cấp thôi việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2352",
-          "label": "thôi việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2363",
-          "label": "06 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        }
-      ],
-      "rels": [
-        [
-          "trả",
-          "defines",
-          "06 tháng"
-        ],
-        [
-          "trợ cấp thôi việc",
-          "cites",
-          "06 tháng"
-        ],
-        [
-          "06 tháng",
-          "cites",
-          "trợ cấp thôi việc"
-        ],
-        [
-          "06 tháng",
-          "defines",
-          "trả"
-        ]
-      ]
-    }
-  },
-  {
-    "chunk_id": "chunk_00151",
-    "chunk_type": "clause",
-    "content_with_context": "Chương 3, Mục 3, Điều 47:\nThời gian làm việc để tính trợ cấp mất việc làm là tổng thời gian người lao động đã làm việc thực tế cho người sử dụng lao động trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp theo quy định của pháp luật về bảo hiểm thất nghiệp và thời gian làm việc đã được người sử dụng lao động chi trả trợ cấp thôi việc, trợ cấp mất việc làm.",
-    "rrf_score": 0.031009615384615385,
-    "graph": {
-      "article_id": "ch3_muc3_d47",
-      "article_title": "Trợ cấp mất việc làm",
-      "clause_id": "ch3_muc3_d47_k2",
-      "entities": [
-        {
-          "id": "ent_2397",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_2406",
-          "label": "thất nghiệp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2401",
-          "label": "bảo hiểm thất nghiệp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2405",
-          "label": "trợ cấp thôi việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2396",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_2410",
-          "label": "trợ cấp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2400",
-          "label": "bảo hiểm thất nghiệp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2399",
-          "label": "trả",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_2409",
-          "label": "trợ cấp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2404",
-          "label": "trợ cấp mất việc làm là tổng thời gian người lao động đã làm việc thực tế cho người sử dụng lao động trừ đi thời gian người lao động đã tham gia bảo hiểm thất nghiệp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2412",
-          "label": "06 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_2407",
-          "label": "thất nghiệp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2403",
-          "label": "mất việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2398",
-          "label": "được người sử dụng lao động chi trả trợ cấp thôi việc, trợ cấp mất việc làm",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_2411",
-          "label": "theo quy định của pháp luật về bảo hiểm thất nghiệp và thời gian làm việc",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        }
-      ],
-      "rels": [
-        [
-          "trả",
-          "defines",
-          "06 tháng"
-        ],
-        [
-          "trợ cấp thôi việc",
-          "cites",
-          "06 tháng"
-        ],
-        [
-          "06 tháng",
-          "cites",
-          "trợ cấp thôi việc"
-        ],
-        [
-          "06 tháng",
-          "defines",
-          "trả"
-        ]
-      ]
-    }
-  },
-  {
-    "chunk_id": "chunk_00152",
-    "chunk_type": "clause",
-    "content_with_context": "Chương 3, Mục 3, Điều 47:\nTiền lương để tính trợ cấp mất việc làm là tiền lương bình quân của 06 tháng liền kề theo hợp đồng lao động trước khi người lao động mất việc làm.",
-    "rrf_score": 0.030776515151515152,
-    "graph": {
-      "article_id": "ch3_muc3_d47",
-      "article_title": "Trợ cấp mất việc làm",
-      "clause_id": "ch3_muc3_d47_k3",
-      "entities": [
-        {
-          "id": "ent_2414",
-          "label": "trước khi người lao động mất việc làm",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_2418",
-          "label": "trợ cấp mất việc làm là tiền lương bình quân của 06 tháng liền kề",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2416",
-          "label": "mất việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2415",
+          "id": "ent_587",
           "label": "hợp đồng lao động",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_2413",
+          "id": "ent_584",
+          "label": "giao kết",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_580",
           "label": "người lao động",
           "attributes": "[]",
           "type": "LEGAL_ROLE"
         },
         {
-          "id": "ent_2420",
-          "label": "tiền lương",
+          "id": "ent_582",
+          "label": "trường hợp",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_590",
+          "label": "khoản 2 điều 14",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_592",
+          "label": "phải được giao kết bằng văn bản và được làm thành 02 bản, người lao động giữ 01 bản, người sử dụng lao động giữ 01 bản",
+          "attributes": {},
+          "type": "OBLIGATION"
+        },
+        {
+          "id": "ent_579",
+          "label": "người sử dụng lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_583",
+          "label": "giao kết",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_586",
+          "label": "hợp đồng lao động",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_591",
+          "label": "điều 14",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_588",
+          "label": "khoản 2 điều 14",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_581",
+          "label": "được làm thành 02 bản, người lao động giữ 01 bản, người sử dụng lao động giữ 01 bản",
+          "attributes": {},
+          "type": "RIGHT"
         }
       ],
       "rels": [
+        [
+          "trường hợp",
+          "has_exception",
+          "phải được giao kết bằng văn bản và được làm thành 02 bản, người lao động giữ 01 bản, người sử dụng lao động giữ 01 bản"
+        ],
+        [
+          "trường hợp",
+          "cites",
+          "khoản 2 điều 14"
+        ],
+        [
+          "giao kết",
+          "related_to",
+          "hợp đồng lao động"
+        ],
+        [
+          "giao kết",
+          "related_to",
+          "theo quy định của pháp luật về giao dịch điện tử có giá trị như hợp đồng lao động bằng văn bản"
+        ],
         [
           "hợp đồng lao động",
-          "has_condition",
-          "mất việc"
+          "related_to",
+          "giao kết"
         ],
         [
-          "mất việc",
-          "has_condition",
-          "hợp đồng lao động"
+          "khoản 2 điều 14",
+          "cites",
+          "trường hợp"
+        ],
+        [
+          "theo quy định của pháp luật về giao dịch điện tử có giá trị như hợp đồng lao động bằng văn bản",
+          "related_to",
+          "giao kết"
+        ],
+        [
+          "phải được giao kết bằng văn bản và được làm thành 02 bản, người lao động giữ 01 bản, người sử dụng lao động giữ 01 bản",
+          "has_exception",
+          "trường hợp"
         ]
       ]
     }
   },
   {
-    "chunk_id": "chunk_00141",
+    "chunk_id": "chunk_00608",
     "chunk_type": "clause",
-    "content_with_context": "Chương 3, Mục 3, Điều 43:\nNgười lao động bị thôi việc thì được nhận trợ cấp mất việc làm theo quy định tại Điều 47 của Bộ luật này.",
-    "rrf_score": 0.030536130536130537,
+    "content_with_context": "Chương 14, Mục 4, Điều 196:\nTrường hợp hòa giải thành, biên bản hòa giải thành phải bao gồm đầy đủ nội dung các bên đã đạt được thỏa thuận, có chữ ký của các bên tranh chấp và hòa giải viên lao động. Biên bản hòa giải thành có giá trị pháp lý như thỏa ước lao động tập thể của doanh nghiệp.",
+    "rrf_score": 0.03125,
     "graph": {
-      "article_id": "ch3_muc3_d43",
-      "article_title": "Nghĩa vụ của người sử dụng lao động khi chia, tách, hợp nhất, sáp nhập; bán, cho thuê, chuyển đổi loại hình doanh nghiệp; chuyển nhượng quyền sở hữu, quyền sử dụng tài sản của doanh nghiệp, hợp tác xã",
-      "clause_id": "ch3_muc3_d43_k3",
+      "article_id": "ch14_muc4_d196",
+      "article_title": "Trình tự, thủ tục giải quyết tranh chấp lao động tập thể về lợi ích",
+      "clause_id": "ch14_muc4_d196_k2",
       "entities": [
         {
-          "id": "ent_2207",
-          "label": "điều 47 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
+          "id": "ent_8273",
+          "label": "hòa giải viên lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
         },
         {
-          "id": "ent_2205",
-          "label": "trợ cấp",
+          "id": "ent_8270",
+          "label": "phải bao gồm đầy đủ nội dung các bên đã đạt được thỏa thuận, có chữ ký của các bên tranh chấp và hòa giải viên lao động",
+          "attributes": {},
+          "type": "OBLIGATION"
+        },
+        {
+          "id": "ent_8269",
+          "label": "tranh chấp",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_2202",
-          "label": "thôi việc",
+          "id": "ent_8267",
+          "label": "trường hợp hòa giải thành, biên bản hòa giải thành phải bao gồm đầy đủ nội dung các bên đã đạt được thỏa thuận, có chữ ký của các bên tranh chấp và hòa giải viên lao động",
           "attributes": {},
-          "type": "LEGAL_CONCEPT"
+          "type": "CONDITION"
         },
         {
-          "id": "ent_2201",
-          "label": "thì được nhận trợ cấp mất việc làm",
+          "id": "ent_8275",
+          "label": "bên tranh chấp",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_8272",
+          "label": "hội đồng trọng tài lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_8271",
+          "label": "tổ chức đại diện người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_8274",
+          "label": "các bên tranh chấp",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        }
+      ],
+      "rels": [
+        [
+          "tranh chấp",
+          "involves",
+          "hòa giải viên lao động"
+        ],
+        [
+          "hòa giải viên lao động",
+          "involves",
+          "tranh chấp"
+        ]
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_00073",
+    "chunk_type": "full_article",
+    "content_with_context": "Chương 3, Mục 1, Điều 23:\nHiệu lực của hợp đồng lao động Hợp đồng lao động có hiệu lực kể từ ngày hai bên giao kết, trừ trường hợp hai bên có thỏa thuận hoặc pháp luật có quy định khác.",
+    "rrf_score": 0.031099324975891997,
+    "graph": {
+      "article_id": "ch3_muc1_d23",
+      "article_title": "Hiệu lực của hợp đồng lao động Hợp đồng lao động có hiệu lực kể từ ngày hai bên giao kết, trừ trường hợp hai bên có thỏa thuận hoặc pháp luật có quy định khác.",
+      "clause_id": null,
+      "entities": [],
+      "rels": []
+    }
+  },
+  {
+    "chunk_id": "chunk_00580",
+    "chunk_type": "clause",
+    "content_with_context": "Chương 14, Mục 2, Điều 188:\nBản sao biên bản hòa giải thành hoặc hòa giải không thành phải được gửi cho các bên tranh chấp trong thời hạn 01 ngày làm việc kể từ ngày lập biên bản.",
+    "rrf_score": 0.029877369007803793,
+    "graph": {
+      "article_id": "ch14_muc2_d188",
+      "article_title": "Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động",
+      "clause_id": "ch14_muc2_d188_k5",
+      "entities": [
+        {
+          "id": "ent_7801",
+          "label": "hội đồng trọng tài lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_7805",
+          "label": "quyền yêu cầu hội đồng trọng tài lao động hoặc tòa án giải quyết",
           "attributes": {},
           "type": "RIGHT"
         },
         {
-          "id": "ent_2206",
-          "label": "điều 47 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_2210",
-          "label": "người lao động bị thôi việc",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_2204",
-          "label": "trợ cấp mất việc làm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2208",
-          "label": "điều 47 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_2203",
-          "label": "mất việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        }
-      ],
-      "rels": [
-        [
-          "thì được nhận trợ cấp mất việc làm",
-          "related_to",
-          "người lao động bị thôi việc"
-        ],
-        [
-          "thì được nhận trợ cấp mất việc làm",
-          "cites",
-          "điều 47 của bộ luật lao động"
-        ],
-        [
-          "điều 47 của bộ luật lao động",
-          "cites",
-          "thì được nhận trợ cấp mất việc làm"
-        ],
-        [
-          "người lao động bị thôi việc",
-          "related_to",
-          "thì được nhận trợ cấp mất việc làm"
-        ]
-      ]
-    }
-  },
-  {
-    "chunk_id": "chunk_00146",
-    "chunk_type": "clause",
-    "content_with_context": "Chương 3, Mục 3, Điều 46:\nKhi hợp đồng lao động chấm dứt theo quy định tại các khoản 1, 2, 3, 4, 6, 7, 9 và 10 Điều 34 của Bộ luật này thì người sử dụng lao động có trách nhiệm trả trợ cấp thôi việc cho người lao động đã làm việc thường xuyên cho mình từ đủ 12 tháng trở lên, mỗi năm làm việc được trợ cấp một nửa tháng tiền lương, trừ trường hợp đủ điều kiện hưởng lương hưu theo quy định của pháp luật về bảo hiểm xã hội và trường hợp quy định tại điểm e khoản 1 Điều 36 của Bộ luật này.",
-    "rrf_score": 0.030158730158730156,
-    "graph": {
-      "article_id": "ch3_muc3_d46",
-      "article_title": "Trợ cấp thôi việc",
-      "clause_id": "ch3_muc3_d46_k1",
-      "entities": [
-        {
-          "id": "ent_2322",
-          "label": "xã hội",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_2325",
-          "label": "trường hợp đủ điều kiện hưởng lương hưu",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_2320",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_2326",
-          "label": "đủ điều kiện hưởng lương hưu",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_2337",
-          "label": "điểm e khoản 1 điều 36 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_2332",
-          "label": "trợ cấp thôi việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2335",
-          "label": "trợ cấp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2343",
-          "label": "có trách nhiệm trả trợ cấp thôi việc cho người lao động đã làm việc thường xuyên cho mình từ đủ 12 tháng trở lên, mỗi năm làm việc được trợ cấp một nửa tháng tiền lương",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_2338",
-          "label": "khoản 1 điều 34 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_2321",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_2323",
-          "label": "được trợ cấp một nửa tháng tiền lương",
+          "id": "ent_7804",
+          "label": "có quyền yêu cầu hội đồng trọng tài lao động hoặc tòa án giải quyết",
           "attributes": {},
           "type": "RIGHT"
         },
         {
-          "id": "ent_2324",
-          "label": "khi hợp đồng lao động chấm dứt theo",
+          "id": "ent_7799",
+          "label": "tranh chấp",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_7798",
+          "label": "kể từ ngày lập biên bản",
           "attributes": {},
           "type": "CONDITION"
         },
         {
-          "id": "ent_2334",
-          "label": "lương hưu",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2336",
-          "label": "trợ cấp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2331",
-          "label": "trợ cấp thôi việc cho người lao động đã làm việc thường xuyên cho mình từ đủ 12 tháng trở lên, mỗi năm làm việc được trợ cấp một nửa tháng tiền lương,",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2340",
-          "label": "khoản 1 điều 34 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_2330",
-          "label": "thôi việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2327",
-          "label": "trả",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_2339",
-          "label": "điểm e khoản 1 điều 36 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_2333",
-          "label": "tiền lương",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2329",
-          "label": "bảo hiểm xã hội",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2341",
-          "label": "điều 34 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        }
-      ],
-      "rels": [
-        [
-          "người lao động",
-          "regulates",
-          "điểm e khoản 1 điều 36 của bộ luật lao động"
-        ],
-        [
-          "người lao động",
-          "has_exception",
-          "đủ điều kiện hưởng lương hưu"
-        ],
-        [
-          "đủ điều kiện hưởng lương hưu",
-          "has_exception",
-          "người lao động"
-        ],
-        [
-          "đủ điều kiện hưởng lương hưu",
-          "regulates",
-          "thôi việc"
-        ],
-        [
-          "bảo hiểm xã hội",
-          "results_in",
-          "điểm e khoản 1 điều 36 của bộ luật lao động"
-        ],
-        [
-          "thôi việc",
-          "has_condition",
-          "khoản 1 điều 34 của bộ luật lao động"
-        ],
-        [
-          "thôi việc",
-          "regulates",
-          "đủ điều kiện hưởng lương hưu"
-        ],
-        [
-          "khoản 1 điều 34 của bộ luật lao động",
-          "has_condition",
-          "thôi việc"
-        ],
-        [
-          "điểm e khoản 1 điều 36 của bộ luật lao động",
-          "regulates",
-          "người lao động"
-        ],
-        [
-          "điểm e khoản 1 điều 36 của bộ luật lao động",
-          "results_in",
-          "bảo hiểm xã hội"
-        ]
-      ]
-    }
-  },
-  {
-    "chunk_id": "chunk_00137",
-    "chunk_type": "clause",
-    "content_with_context": "Chương 3, Mục 3, Điều 42:\nTrong trường hợp người sử dụng lao động không thể giải quyết được việc làm mà phải cho người lao động thôi việc thì phải trả trợ cấp mất việc làm theo quy định tại Điều 47 của Bộ luật này.",
-    "rrf_score": 0.029631255487269532,
-    "graph": {
-      "article_id": "ch3_muc3_d42",
-      "article_title": "Nghĩa vụ của người sử dụng lao động trong trường hợp thay đổi cơ cấu, công nghệ hoặc vì lý do kinh tế",
-      "clause_id": "ch3_muc3_d42_k5",
-      "entities": [
-        {
-          "id": "ent_2149",
-          "label": "bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_2144",
-          "label": "trợ cấp mất việc làm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2145",
-          "label": "trợ cấp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2140",
-          "label": "trả",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_2148",
-          "label": "điều 47 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_2138",
-          "label": "trong trường hợp người sử dụng lao động không thể giải quyết được việc làm mà phải cho người lao động thôi việc thì phải trả trợ cấp mất việc làm theo",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_2143",
-          "label": "mất việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2136",
-          "label": "trong trường hợp người sử dụng lao động không thể giải quyết được việc làm mà phải cho người lao động thôi việc",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_2137",
-          "label": "trường hợp người sử dụng lao động không thể giải quyết được việc làm mà phải cho người lao động thôi việc thì phải trả trợ cấp mất việc làm theo",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_2135",
-          "label": "trường hợp người sử dụng lao động không thể giải quyết được việc làm mà phải cho người lao động thôi việc",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_2142",
-          "label": "thôi việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2147",
-          "label": "điều 47 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_2139",
-          "label": "giải quyết",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_2141",
-          "label": "việc làm",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2146",
-          "label": "điều 47 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_2150",
-          "label": "phải cho người lao động thôi việc",
+          "id": "ent_7800",
+          "label": "phải được gửi cho các bên tranh chấp trong thời hạn 01 ngày làm việc kể từ ngày lập biên bản",
           "attributes": {},
           "type": "OBLIGATION"
         },
         {
-          "id": "ent_2134",
-          "label": "người lao động",
+          "id": "ent_7802",
+          "label": "tòa án",
           "attributes": "[]",
           "type": "LEGAL_ROLE"
-        }
-      ],
-      "rels": [
-        [
-          "trong trường hợp người sử dụng lao động không thể giải quyết được việc làm mà phải cho người lao động thôi việc thì phải trả trợ cấp mất việc làm theo",
-          "cites",
-          "điều 47 của bộ luật lao động"
-        ],
-        [
-          "điều 47 của bộ luật lao động",
-          "cites",
-          "trong trường hợp người sử dụng lao động không thể giải quyết được việc làm mà phải cho người lao động thôi việc thì phải trả trợ cấp mất việc làm theo"
-        ]
-      ]
-    }
-  },
-  {
-    "chunk_id": "chunk_00127",
-    "chunk_type": "clause",
-    "content_with_context": "Chương 3, Mục 3, Điều 40:\nKhông được trợ cấp thôi việc.",
-    "rrf_score": 0.029206349206349208,
-    "graph": {
-      "article_id": "ch3_muc3_d40",
-      "article_title": "Nghĩa vụ của người lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật",
-      "clause_id": "ch3_muc3_d40_k1",
-      "entities": [
-        {
-          "id": "ent_1961",
-          "label": "trợ cấp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1963",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_1962",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_1960",
-          "label": "trợ cấp thôi việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
         }
       ],
       "rels": []
     }
   },
   {
-    "chunk_id": "chunk_00131",
+    "chunk_id": "chunk_00562",
     "chunk_type": "clause",
-    "content_with_context": "Chương 3, Mục 3, Điều 41:\nTrường hợp người lao động không muốn tiếp tục làm việc thì ngoài khoản tiền phải trả quy định tại khoản 1 Điều này người sử dụng lao động phải trả trợ cấp thôi việc theo quy định tại Điều 46 của Bộ luật này để chấm dứt hợp đồng lao động.",
-    "rrf_score": 0.028985507246376812,
+    "content_with_context": "Chương 14, Mục 1, Điều 182:\nTrong giải quyết tranh chấp lao động, các bên có nghĩa vụ sau đây: a) Cung cấp đầy đủ, kịp thời tài liệu, chứng cứ để chứng minh cho yêu cầu của mình; b) Chấp hành thỏa thuận đã đạt được, quyết định của Ban trọng tài lao động, bản án, quyết định của Tòa án đã có hiệu lực pháp luật.",
+    "rrf_score": 0.02964254577157803,
     "graph": {
-      "article_id": "ch3_muc3_d41",
-      "article_title": "Nghĩa vụ của người sử dụng lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật",
-      "clause_id": "ch3_muc3_d41_k2",
+      "article_id": "ch14_muc1_d182",
+      "article_title": "Quyền và nghĩa vụ của hai bên trong giải quyết tranh chấp lao động",
+      "clause_id": "ch14_muc1_d182_k2",
       "entities": [
         {
-          "id": "ent_2043",
-          "label": "trợ cấp thôi việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2040",
-          "label": "trả",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_2044",
-          "label": "chấm dứt hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2041",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2047",
-          "label": "điều 46 của bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_2045",
-          "label": "trợ cấp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2037",
-          "label": "trường hợp người lao động không muốn tiếp tục làm việc",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_2049",
-          "label": "bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_2042",
-          "label": "thôi việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2038",
-          "label": "trường hợp người lao động không muốn tiếp tục làm việc thì ngoài khoản tiền phải trả",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_2052",
-          "label": "02 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_2048",
-          "label": "điều 41",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_2051",
-          "label": "ít nhất bằng 02 tháng",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_2050",
-          "label": "phải trả",
+          "id": "ent_7388",
+          "label": "có nghĩa vụ sau đây",
           "attributes": {},
           "type": "OBLIGATION"
         },
         {
-          "id": "ent_2046",
-          "label": "khoản 1 điều 41",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_2039",
-          "label": "trả",
+          "id": "ent_7383",
+          "label": "giải quyết tranh chấp lao động, các bên có nghĩa vụ sau đây",
           "attributes": {},
           "type": "ACTION"
+        },
+        {
+          "id": "ent_7384",
+          "label": "cung cấp đầy đủ, kịp thời tài liệu, chứng cứ để chứng minh cho yêu cầu của mình",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_7391",
+          "label": "cung cấp đầy đủ, kịp thời tài liệu, chứng cứ để chứng minh cho yêu cầu của mình",
+          "attributes": {},
+          "type": "OBLIGATION"
+        },
+        {
+          "id": "ent_7393",
+          "label": "tòa án",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_7382",
+          "label": "cung cấp đầy đủ, kịp thời tài liệu, chứng cứ để chứng minh cho yêu cầu của mình",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_7390",
+          "label": "cung cấp đầy đủ, kịp thời tài liệu, chứng cứ để chứng minh cho yêu cầu của mình",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_7381",
+          "label": "yêu cầu của mình",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_7387",
+          "label": "nghĩa vụ",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_7389",
+          "label": "yêu cầu của mình",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_7392",
+          "label": "ban trọng tài lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
         }
       ],
-      "rels": [
-        [
-          "trường hợp người lao động không muốn tiếp tục làm việc",
-          "regulates",
-          "điều 41"
-        ],
-        [
-          "trường hợp người lao động không muốn tiếp tục làm việc",
-          "requires",
-          "thôi việc"
-        ],
-        [
-          "trả",
-          "cites",
-          "điều 41"
-        ],
-        [
-          "thôi việc",
-          "involves",
-          "trợ cấp"
-        ],
-        [
-          "thôi việc",
-          "requires",
-          "điều 41"
-        ],
-        [
-          "thôi việc",
-          "requires",
-          "trường hợp người lao động không muốn tiếp tục làm việc"
-        ],
-        [
-          "trợ cấp",
-          "has_purpose",
-          "khoản 1 điều 41"
-        ],
-        [
-          "trợ cấp",
-          "involves",
-          "thôi việc"
-        ],
-        [
-          "trợ cấp",
-          "cites",
-          "bộ luật lao động"
-        ],
-        [
-          "khoản 1 điều 41",
-          "has_purpose",
-          "trợ cấp"
-        ],
-        [
-          "khoản 1 điều 41",
-          "has_purpose",
-          "bộ luật lao động"
-        ],
-        [
-          "điều 41",
-          "cites",
-          "trả"
-        ],
-        [
-          "điều 41",
-          "requires",
-          "thôi việc"
-        ],
-        [
-          "điều 41",
-          "regulates",
-          "trường hợp người lao động không muốn tiếp tục làm việc"
-        ],
-        [
-          "bộ luật lao động",
-          "cites",
-          "trợ cấp"
-        ],
-        [
-          "bộ luật lao động",
-          "has_purpose",
-          "khoản 1 điều 41"
-        ]
-      ]
+      "rels": []
     }
   },
   {
-    "chunk_id": "chunk_00132",
+    "chunk_id": "chunk_00255",
     "chunk_type": "clause",
-    "content_with_context": "Chương 3, Mục 3, Điều 41:\nTrường hợp người sử dụng lao động không muốn nhận lại người lao động và người lao động đồng ý thì ngoài khoản tiền người sử dụng lao động phải trả theo quy định tại khoản 1 Điều này và trợ cấp thôi việc theo quy định tại Điều 46 của Bộ luật này, hai bên thỏa thuận khoản tiền bồi thường thêm cho người lao động nhưng ít nhất bằng 02 tháng tiền lương theo hợp đồng lao động để chấm dứt hợp đồng lao động.",
-    "rrf_score": 0.028370221327967807,
+    "content_with_context": "Chương 5, Mục 3, Điều 78:\nNgày có hiệu lực của thỏa ước lao động tập thể do các bên thỏa thuận và được ghi trong thỏa ước. Trường hợp các bên không thỏa thuận ngày có hiệu lực thì thỏa ước lao động tập thể có hiệu lực kể từ ngày ký kết. Thỏa ước lao động tập thể sau khi có hiệu lực phải được các bên tôn trọng thực hiện.",
+    "rrf_score": 0.02900988017658188,
     "graph": {
-      "article_id": "ch3_muc3_d41",
-      "article_title": "Nghĩa vụ của người sử dụng lao động khi đơn phương chấm dứt hợp đồng lao động trái pháp luật",
-      "clause_id": "ch3_muc3_d41_k3",
+      "article_id": "ch5_muc3_d78",
+      "article_title": "Hiệu lực và thời hạn của thỏa ước lao động tập thể",
+      "clause_id": "ch5_muc3_d78_k1",
       "entities": [
         {
-          "id": "ent_2060",
-          "label": "trường hợp người sử dụng lao động không muốn nhận lại người lao động và người lao động đồng ý thì ngoài khoản tiền người sử dụng lao động phải trả theo",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_2074",
-          "label": "điều 41",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_2075",
-          "label": "bộ luật lao động",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_2078",
-          "label": "tổ chức",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_2073",
-          "label": "khoản 1 điều 41",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_2071",
-          "label": "trợ cấp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2067",
-          "label": "khoản tiền bồi thường thêm cho người lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2068",
-          "label": "chấm dứt hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2056",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_2063",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2057",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_2072",
-          "label": "khoản 1 điều 41",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_2059",
-          "label": "trường hợp người sử dụng lao động không muốn nhận lại người lao động và người lao động đồng ý",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_2061",
-          "label": "thỏa thuận khoản tiền bồi thường thêm cho người lao động nhưng ít nhất bằng 02 tháng tiền lương theo hợp đồng lao động để chấm dứt hợp đồng lao động",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_2076",
-          "label": "phải trả",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_2058",
-          "label": "hai bên",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_2064",
-          "label": "hợp đồng lao động",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2065",
-          "label": "thôi việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_2053",
+          "id": "ent_3855",
           "label": "người sử dụng lao động",
           "attributes": "[]",
           "type": "LEGAL_ROLE"
         },
         {
-          "id": "ent_2070",
-          "label": "bồi thường",
+          "id": "ent_3860",
+          "label": "doanh nghiệp",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_3851",
+          "label": "toàn bộ người sử dụng lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_3852",
+          "label": "người lao động của các doanh nghiệp tham gia thỏa ước lao động tập thể",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_3850",
+          "label": "toàn bộ người lao động của doanh nghiệp",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_3847",
+          "label": "thỏa ước lao động tập thể",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_2069",
-          "label": "tiền lương",
+          "id": "ent_3848",
+          "label": "phải được các bên tôn trọng thực hiện",
           "attributes": {},
-          "type": "LEGAL_CONCEPT"
+          "type": "OBLIGATION"
         },
         {
-          "id": "ent_2066",
-          "label": "trợ cấp thôi việc",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
+          "id": "ent_3849",
+          "label": "toàn bộ người sử dụng lao động và người lao động của các doanh nghiệp tham gia thỏa ước lao động tập thể",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_3854",
+          "label": "người sử dụng lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_3857",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_3856",
+          "label": "người lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_3853",
+          "label": "người lao động của doanh nghiệp",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
         }
       ],
       "rels": [
         [
-          "trường hợp người sử dụng lao động không muốn nhận lại người lao động và người lao động đồng ý thì ngoài khoản tiền người sử dụng lao động phải trả theo",
+          "thỏa ước lao động tập thể",
           "involves",
-          "hợp đồng lao động"
+          "người lao động"
         ],
         [
-          "hợp đồng lao động",
+          "thỏa ước lao động tập thể",
           "involves",
-          "trường hợp người sử dụng lao động không muốn nhận lại người lao động và người lao động đồng ý thì ngoài khoản tiền người sử dụng lao động phải trả theo"
+          "người sử dụng lao động"
         ],
         [
-          "chấm dứt hợp đồng lao động",
-          "defines",
-          "điều 41"
+          "người sử dụng lao động",
+          "involves",
+          "thỏa ước lao động tập thể"
         ],
         [
-          "điều 41",
-          "defines",
-          "chấm dứt hợp đồng lao động"
+          "người lao động",
+          "involves",
+          "thỏa ước lao động tập thể"
+        ]
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_00579",
+    "chunk_type": "clause",
+    "content_with_context": "Chương 14, Mục 2, Điều 188:\nHòa giải viên lao động có trách nhiệm hướng dẫn, hỗ trợ các bên thương lượng để giải quyết tranh chấp. Trường hợp các bên thỏa thuận được, hòa giải viên lao động lập biên bản hòa giải thành. Biên bản hòa giải thành phải có chữ ký của các bên tranh chấp và hòa giải viên lao động. Trường hợp các bên không thỏa thuận được, hòa giải viên lao động đưa ra phương án hòa giải để các bên xem xét. Trường hợp các bên chấp nhận phương án hòa giải thì hòa giải viên lao động lập biên bản hòa giải thành. Biên bản hòa giải thành phải có chữ ký của các bên tranh chấp và hòa giải viên lao động. Trường hợp phương án hòa giải không được chấp nhận hoặc có bên tranh chấp đã được triệu tập hợp lệ đến lần thứ hai mà vẫn vắng mặt không có lý do chính đáng thì hòa giải viên lao động lập biên bản hòa giải không thành. Biên bản hòa giải không thành phải có chữ ký của bên tranh chấp có mặt và hòa giải viên lao động.",
+    "rrf_score": 0.028814262023217248,
+    "graph": {
+      "article_id": "ch14_muc2_d188",
+      "article_title": "Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động",
+      "clause_id": "ch14_muc2_d188_k4",
+      "entities": [
+        {
+          "id": "ent_7750",
+          "label": "hòa giải viên lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_7756",
+          "label": "bên tranh chấp",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_7772",
+          "label": "trường hợp các bên chấp nhận phương án hòa giải thì hòa giải viên lao động lập biên bản hòa giải thành",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_7751",
+          "label": "các bên tranh chấp",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_7792",
+          "label": "trong thời hạn 01 ngày làm việc kể từ ngày",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_7785",
+          "label": "tranh chấp",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_7787",
+          "label": "tranh chấp",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_7781",
+          "label": "lập biên bản hòa giải không thành",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_7779",
+          "label": "lập biên bản hòa giải thành",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_7791",
+          "label": "phải có chữ ký của bên tranh chấp có mặt và hòa giải viên lao động",
+          "attributes": {},
+          "type": "OBLIGATION"
+        },
+        {
+          "id": "ent_7777",
+          "label": "thỏa thuận được, hòa giải viên lao động lập biên bản hòa giải thành",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_7776",
+          "label": "thương lượng để giải quyết tranh chấp",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_7753",
+          "label": "bên tranh chấp",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_7748",
+          "label": "hòa giải viên lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_7760",
+          "label": "các bên",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_7766",
+          "label": "biên bản hòa giải thành phải có chữ ký của các bên tranh chấp và hòa giải viên lao động",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_7752",
+          "label": "các bên tranh chấp",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_7778",
+          "label": "thỏa thuận được, hòa giải viên lao động đưa ra phương án hòa giải để các bên xem xét",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_7770",
+          "label": "trường hợp các bên thỏa thuận được, hòa giải viên lao động lập biên bản hòa giải thành",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_7765",
+          "label": "trường hợp các bên thỏa thuận được, hòa giải viên lao động lập biên bản hòa giải thành",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_7771",
+          "label": "trường hợp các bên không thỏa thuận được, hòa giải viên lao động đưa ra phương án hòa giải để các bên xem xét",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_7755",
+          "label": "bên tranh chấp",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_7784",
+          "label": "tranh chấp",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_7782",
+          "label": "giải quyết",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_7790",
+          "label": "phải có chữ ký của các bên tranh chấp và hòa giải viên lao động",
+          "attributes": {},
+          "type": "OBLIGATION"
+        },
+        {
+          "id": "ent_7795",
+          "label": "các bên tranh chấp",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_7774",
+          "label": "trường hợp các bên chấp nhận phương án hòa giải",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_7764",
+          "label": "không được chấp nhận hoặc có bên tranh chấp đã được triệu tập hợp lệ đến lần thứ hai mà vẫn vắng mặt không có lý do chính đáng thì hòa giải viên lao động lập biên bản hòa giải không thành",
+          "attributes": {},
+          "type": "PROHIBITION"
+        },
+        {
+          "id": "ent_7763",
+          "label": "các bên",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_7796",
+          "label": "bên tranh chấp",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_7759",
+          "label": "các bên",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_7749",
+          "label": "hòa giải viên lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_7789",
+          "label": "phải có chữ ký của các bên tranh chấp và hòa giải viên lao động",
+          "attributes": {},
+          "type": "OBLIGATION"
+        },
+        {
+          "id": "ent_7758",
+          "label": "các bên",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_7786",
+          "label": "tranh chấp",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_7762",
+          "label": "các bên",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_7793",
+          "label": "trong thời hạn 01 ngày",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_7767",
+          "label": "trường hợp các bên không thỏa thuận được, hòa giải viên lao động đưa ra phương án hòa giải để các bên xem xét",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_7754",
+          "label": "bên tranh chấp",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_7769",
+          "label": "trường hợp phương án hòa giải không được chấp nhận hoặc có bên tranh chấp đã được triệu tập hợp lệ đến lần thứ hai mà vẫn vắng mặt không có lý do chính đáng",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_7783",
+          "label": "giải quyết tranh chấp",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_7794",
+          "label": "01 ngày",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_7788",
+          "label": "có trách nhiệm hướng dẫn, hỗ trợ các bên thương lượng để giải quyết tranh chấp",
+          "attributes": {},
+          "type": "OBLIGATION"
+        },
+        {
+          "id": "ent_7780",
+          "label": "lập biên bản hòa giải thành",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_7773",
+          "label": "trường hợp phương án hòa giải không được chấp nhận hoặc có bên tranh chấp đã được triệu tập hợp lệ đến lần thứ hai mà vẫn vắng mặt không có lý do chính đáng thì hòa giải viên lao động lập biên bản hòa giải không thành",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_7775",
+          "label": "trường hợp phương án hòa giải không được chấp nhận hoặc có bên tranh chấp đã được triệu tập hợp lệ đến lần thứ hai mà vẫn vắng mặt không có lý do chính đáng",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_7768",
+          "label": "trường hợp các bên chấp nhận phương án hòa giải",
+          "attributes": {},
+          "type": "CONDITION"
+        }
+      ],
+      "rels": [
+        [
+          "hòa giải viên lao động",
+          "requires",
+          "trong thời hạn 01 ngày"
+        ],
+        [
+          "các bên tranh chấp",
+          "involves",
+          "tranh chấp"
+        ],
+        [
+          "tranh chấp",
+          "involves",
+          "các bên tranh chấp"
+        ],
+        [
+          "trong thời hạn 01 ngày",
+          "requires",
+          "hòa giải viên lao động"
+        ]
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_00233",
+    "chunk_type": "clause",
+    "content_with_context": "Chương 5, Mục 2, Điều 71:\nKhi thương lượng không thành, các bên thương lượng tiến hành thủ tục giải quyết tranh chấp lao động theo quy định của Bộ luật này. Trong khi đang giải quyết tranh chấp lao động, tổ chức đại diện người lao động không được tổ chức đình công.",
+    "rrf_score": 0.027056277056277056,
+    "graph": {
+      "article_id": "ch5_muc2_d71",
+      "article_title": "Thương lượng tập thể không thành",
+      "clause_id": "ch5_muc2_d71_k2",
+      "entities": [
+        {
+          "id": "ent_3530",
+          "label": "thương lượng không thành, các bên thương lượng tiến hành thủ tục giải quyết tranh chấp lao động",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_3531",
+          "label": "giải quyết tranh chấp lao động",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_3543",
+          "label": "thực hiện",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_3540",
+          "label": "doanh nghiệp",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_3532",
+          "label": "giải quyết tranh chấp lao động, tổ chức đại diện người lao động không được tổ chức đình công",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_3533",
+          "label": "giải quyết",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_3537",
+          "label": "theo quy định của bộ luật lao động",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_3544",
+          "label": "thương lượng tập thể",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_3539",
+          "label": "thủ tục giải quyết tranh chấp lao động",
+          "attributes": {},
+          "type": "PROCEDURE"
+        },
+        {
+          "id": "ent_3538",
+          "label": "bộ luật lao động",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_3534",
+          "label": "giải quyết",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_3545",
+          "label": "thương lượng tập thể",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_3542",
+          "label": "thương lượng tập thể ngành, thương lượng tập thể có nhiều doanh nghiệp tham gia thực hiện",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_3536",
+          "label": "giải quyết tranh chấp",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_3535",
+          "label": "giải quyết tranh chấp",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_3529",
+          "label": "không được tổ chức đình công",
+          "attributes": {},
+          "type": "PROHIBITION"
+        },
+        {
+          "id": "ent_3541",
+          "label": "nhiều doanh nghiệp",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        }
+      ],
+      "rels": [
+        [
+          "giải quyết tranh chấp",
+          "cites",
+          "thực hiện"
+        ],
+        [
+          "thực hiện",
+          "cites",
+          "giải quyết tranh chấp"
+        ]
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_00597",
+    "chunk_type": "clause",
+    "content_with_context": "Chương 14, Mục 3, Điều 193:\nTrong thời hạn 07 ngày làm việc kể từ ngày nhận được yêu cầu giải quyết tranh chấp theo quy định tại khoản 1 Điều này, Ban trọng tài lao động phải được thành lập để giải quyết tranh chấp.",
+    "rrf_score": 0.026856524873828405,
+    "graph": {
+      "article_id": "ch14_muc3_d193",
+      "article_title": "Giải quyết tranh chấp lao động tập thể về quyền của Hội đồng trọng tài lao động",
+      "clause_id": "ch14_muc3_d193_k2",
+      "entities": [
+        {
+          "id": "ent_8121",
+          "label": "cơ quan có thẩm quyền",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_8114",
+          "label": "khoản 1 điều 193",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_8116",
+          "label": "khoản 1 điều 193",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_8115",
+          "label": "khoản 1 điều 193",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_8122",
+          "label": "ban trọng tài lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_8123",
+          "label": "các bên tranh chấp",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_8117",
+          "label": "điều 193",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        }
+      ],
+      "rels": []
+    }
+  },
+  {
+    "chunk_id": "chunk_00231",
+    "chunk_type": "clause",
+    "content_with_context": "Chương 5, Mục 2, Điều 70:\nViệc thương lượng tập thể phải được lập biên bản, trong đó ghi rõ nội dung đã được các bên thống nhất, nội dung còn ý kiến khác nhau. Biên bản thương lượng tập thể phải có chữ ký của đại diện các bên thương lượng và của người ghi biên bản. Tổ chức đại diện người lao động tại cơ sở công bố rộng rãi, công khai biên bản thương lượng tập thể đến toàn bộ người lao động.",
+    "rrf_score": 0.026742581090407176,
+    "graph": {
+      "article_id": "ch5_muc2_d70",
+      "article_title": "Quy trình thương lượng tập thể tại doanh nghiệp",
+      "clause_id": "ch5_muc2_d70_k5",
+      "entities": [
+        {
+          "id": "ent_3484",
+          "label": "các bên",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_3473",
+          "label": "thương lượng tập thể phải được lập biên bản, trong đó ghi rõ nội dung đã được các bên thống nhất, nội dung còn ý kiến khác nhau",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_3478",
+          "label": "thương lượng tập thể",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_3485",
+          "label": "trường hợp sau đây",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_3482",
+          "label": "phải có chữ ký của đại diện các bên thương lượng và của người ghi biên bản",
+          "attributes": {},
+          "type": "OBLIGATION"
+        },
+        {
+          "id": "ent_3483",
+          "label": "các bên",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_3487",
+          "label": "trong thời hạn",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_3481",
+          "label": "phải được lập biên bản, trong đó ghi rõ nội dung đã được các bên thống nhất, nội dung còn ý kiến khác nhau",
+          "attributes": {},
+          "type": "OBLIGATION"
+        },
+        {
+          "id": "ent_3486",
+          "label": "một bên từ chối thương lượng hoặc không tiến hành thương lượng trong thời hạn",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_3474",
+          "label": "thương lượng tập thể phải có chữ ký của đại diện các bên thương lượng và của người ghi biên bản",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_3479",
+          "label": "thương lượng tập thể",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_3480",
+          "label": "thương lượng tập thể",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_3470",
+          "label": "tổ chức",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_3477",
+          "label": "công bố rộng rãi",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_3476",
+          "label": "công khai biên bản",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_3472",
+          "label": "các bên",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_3488",
+          "label": "thương lượng tập thể không thành thuộc một trong các trường hợp sau đây",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_3475",
+          "label": "thương lượng tập thể đến toàn bộ người lao động",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_3471",
+          "label": "các bên",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        }
+      ],
+      "rels": [
+        [
+          "tổ chức",
+          "involves",
+          "phải có chữ ký của đại diện các bên thương lượng và của người ghi biên bản"
+        ],
+        [
+          "thương lượng tập thể",
+          "related_to",
+          "phải được lập biên bản, trong đó ghi rõ nội dung đã được các bên thống nhất, nội dung còn ý kiến khác nhau"
+        ],
+        [
+          "phải được lập biên bản, trong đó ghi rõ nội dung đã được các bên thống nhất, nội dung còn ý kiến khác nhau",
+          "related_to",
+          "phải có chữ ký của đại diện các bên thương lượng và của người ghi biên bản"
+        ],
+        [
+          "phải được lập biên bản, trong đó ghi rõ nội dung đã được các bên thống nhất, nội dung còn ý kiến khác nhau",
+          "related_to",
+          "thương lượng tập thể"
+        ],
+        [
+          "phải có chữ ký của đại diện các bên thương lượng và của người ghi biên bản",
+          "involves",
+          "tổ chức"
+        ],
+        [
+          "phải có chữ ký của đại diện các bên thương lượng và của người ghi biên bản",
+          "related_to",
+          "phải được lập biên bản, trong đó ghi rõ nội dung đã được các bên thống nhất, nội dung còn ý kiến khác nhau"
         ]
       ]
     }

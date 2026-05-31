@@ -268,12 +268,12 @@ def extract_time_properties(text):
     text = normalize_text(text)
     normalized = normalize_time_period(text)
     return {
-        "value":      normalized["value"],
-        "unit":       normalized["unit"],
-        "type":       normalized["type"],
+        "value":  normalized["value"],
+        "unit": normalized["unit"],
+        "type": normalized["type"],
         "constraint": normalized["constraint"],
         "direction":  normalized["direction"],
-        "anchor":     normalized["anchor"],
+        "anchor":   normalized["anchor"],
     }
 
 
