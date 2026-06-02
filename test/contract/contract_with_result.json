@@ -1,0 +1,268 @@
+[
+  {
+    "id": "Điều 1",
+    "content": "Công việc và thời hạn 1.1. Loại hợp đồng: Không xác định thời hạn, hiệu lực từ 01/06/2024. 1.2. Chức danh: Điều dưỡng trưởng khoa Nội tổng hợp. 1.3. Địa điểm: Bệnh viện Vinmec TP. HCM, 458 Minh Phụng, Quận 11. 1.4. Giai đoạn đánh giá chuyên môn và thích nghi môi trường lâm sàng: 60 ngày.",
+    "context": "\n            [Đoạn 1] Loại hợp đồng lao động\n            Nội dung: Bộ luật Lao động Việt Nam 2019 Chương 3, Mục 1, Điều 20:\nHợp đồng lao động phải được giao kết theo một trong các loại sau đây: a) Hợp đồng lao động không xác định thời hạn là hợp đồng mà trong đó hai bên không xác định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng; b) Hợp đồng lao động xác định thời hạn là hợp đồng mà trong đó hai bên xác định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng trong thời gian không quá 36 tháng kể từ thời điểm có hiệu lực của hợp đồng.\n            Entities liên quan: hai bên, theo quy định của pháp luật về bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và an toàn, vệ sinh lao động, không quá 36 tháng kể từ thời điểm, hợp đồng lao động không xác định thời hạn, hợp đồng lao động không xác định thời hạn là hợp đồng mà trong đó hai bên không xác định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng, 36 tháng kể từ thời điểm, hợp đồng lao động xác định thời hạn, phải được giao kết theo một trong các loại sau đây, hai bên, hợp đồng lao động, hợp đồng lao động\n            Quan hệ:\n- theo quy định của pháp luật về bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và an toàn, vệ sinh lao động --> has_condition --> hai bên\n- hai bên --> has_condition --> theo quy định của pháp luật về bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và an toàn, vệ sinh lao động\n- hai bên --> defines --> hợp đồng lao động không xác định thời hạn\n- hợp đồng lao động không xác định thời hạn --> defines --> hai bên\n\n---\n\n            [Đoạn 2] Điều kiện người lao động nước ngoài làm việc tại Việt Nam\n            Nội dung: Bộ luật Lao động Việt Nam 2019 Chương 11, Mục 3, Điều 151:\nThời hạn của hợp đồng lao động đối với người lao động nước ngoài làm việc tại Việt Nam không được vượt quá thời hạn của Giấy phép lao động. Khi sử dụng người lao động nước ngoài làm việc tại Việt Nam, hai bên có thể thỏa thuận giao kết nhiều lần hợp đồng lao động xác định thời hạn.\n            Entities liên quan: hợp đồng lao động, quốc tế, tuân theo pháp luật lao động việt nam và được pháp luật việt nam bảo vệ, trường hợp điều ước quốc tế mà nước cộng hòa xã hội chủ nghĩa việt nam là thành viên có quy định khác, thỏa thuận giao kết nhiều lần hợp đồng lao động xác định thời hạn, xã hội, giao kết, đối với người lao động nước ngoài làm việc tại việt nam không được vượt quá thời hạn của giấy phép lao động, điều ước quốc tế mà nước cộng hòa xã hội chủ nghĩa việt nam là thành viên có quy định khác, hợp đồng lao động xác định thời hạn\n            Quan hệ:\n- thỏa thuận giao kết nhiều lần hợp đồng lao động xác định thời hạn --> enables --> xã hội\n- xã hội --> enables --> thỏa thuận giao kết nhiều lần hợp đồng lao động xác định thời hạn\n\n---\n\n            [Đoạn 3] Tạm đình chỉ công việc\n            Nội dung: Bộ luật Lao động Việt Nam 2019 Chương 8, Mục 1, Điều 128:\nThời hạn tạm đình chỉ công việc không được quá 15 ngày, trường hợp đặc biệt không được quá 90 ngày. Trong thời gian bị tạm đình chỉ công việc, người lao động được tạm ứng 50% tiền lương trước khi bị đình chỉ công việc. Hết thời hạn tạm đình chỉ công việc, người sử dụng lao động phải nhận người lao động trở lại làm việc.\n            Entities liên quan: trường hợp người lao động bị xử lý kỷ luật lao động, người lao động cũng không phải trả lại số tiền lương đã tạm ứng, bị xử lý kỷ luật lao động, người lao động cũng không phải trả lại số tiền lương đã tạm ứng, đình chỉ công việc, người lao động, phải trả lại số tiền lương đã tạm ứng, tạm đình chỉ công việc không được quá 15 ngày, trường hợp đặc biệt không được quá 90 ngày, tạm đình chỉ công việc, công việc, không phải trả lại số tiền lương đã tạm ứng, công việc, phải nhận người lao động trở lại làm việc, tiền lương, đình chỉ công việc, bị tạm đình chỉ công việc, tạm đình chỉ công việc, người lao động được tạm ứng 50% tiền lương trước khi bị đình chỉ công việc, tạm đình chỉ công việc, người sử dụng lao động phải nhận người lao động trở lại làm việc, tạm đình chỉ công việc, tiền lương, đình chỉ công việc, đình chỉ công việc không được quá 15 ngày, bị xử lý kỷ luật lao động\n            ",
+    "law_ids": [
+      "ch3_muc1_d20_k1",
+      "ch11_muc3_d151_k2",
+      "ch8_muc1_d128_k2"
+    ],
+    "law_list": [
+      {
+        "id": "ch3_muc1_d20_k1",
+        "type": "CLAUSE",
+        "text": "Chương 3 Điều 20 Khoản 1",
+        "content": "Hợp đồng lao động phải được giao kết theo một trong các loại sau đây: a) Hợp đồng lao động không xác định thời hạn là hợp đồng mà trong đó hai bên không xác định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng; b) Hợp đồng lao động xác định thời hạn là hợp đồng mà trong đó hai bên xác định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng trong thời gian không quá 36 tháng kể từ thời điểm có hiệu lực của hợp đồng."
+      },
+      {
+        "id": "ch11_muc3_d151_k2",
+        "type": "CLAUSE",
+        "text": "Chương 11 Điều 151 Khoản 2",
+        "content": "Thời hạn của hợp đồng lao động đối với người lao động nước ngoài làm việc tại Việt Nam không được vượt quá thời hạn của Giấy phép lao động. Khi sử dụng người lao động nước ngoài làm việc tại Việt Nam, hai bên có thể thỏa thuận giao kết nhiều lần hợp đồng lao động xác định thời hạn."
+      },
+      {
+        "id": "ch8_muc1_d128_k2",
+        "type": "CLAUSE",
+        "text": "Chương 8 Điều 128 Khoản 2",
+        "content": "Thời hạn tạm đình chỉ công việc không được quá 15 ngày, trường hợp đặc biệt không được quá 90 ngày. Trong thời gian bị tạm đình chỉ công việc, người lao động được tạm ứng 50% tiền lương trước khi bị đình chỉ công việc. Hết thời hạn tạm đình chỉ công việc, người sử dụng lao động phải nhận người lao động trở lại làm việc."
+      }
+    ],
+    "related_law": "Danh sách luật liên quan:\n - Chương 3 Điều 20 Khoản 1: Hợp đồng lao động phải được giao kết theo một trong các loại sau đây: a) Hợp đồng lao động không xác định thời hạn là hợp đồng mà trong đó hai bên không xác định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng; b) Hợp đồng lao động xác định thời hạn là hợp đồng mà trong đó hai bên xác định thời hạn, thời điểm chấm dứt hiệu lực của hợp đồng trong thời gian không quá 36 tháng kể từ thời điểm có hiệu lực của hợp đồng.\n - Chương 11 Điều 151 Khoản 2: Thời hạn của hợp đồng lao động đối với người lao động nước ngoài làm việc tại Việt Nam không được vượt quá thời hạn của Giấy phép lao động. Khi sử dụng người lao động nước ngoài làm việc tại Việt Nam, hai bên có thể thỏa thuận giao kết nhiều lần hợp đồng lao động xác định thời hạn.\n - Chương 8 Điều 128 Khoản 2: Thời hạn tạm đình chỉ công việc không được quá 15 ngày, trường hợp đặc biệt không được quá 90 ngày. Trong thời gian bị tạm đình chỉ công việc, người lao động được tạm ứng 50% tiền lương trước khi bị đình chỉ công việc. Hết thời hạn tạm đình chỉ công việc, người sử dụng lao động phải nhận người lao động trở lại làm việc.\n",
+    "score": 0,
+    "risk": "LOW",
+    "issues": []
+  },
+  {
+    "id": "Điều 2",
+    "content": "Lương và phụ cấp 2.1. Lương cơ bản: 20.000.000 đồng/tháng. 2.2. Phụ cấp trực đêm: 150.000 đồng/ca trực. 2.3. Phụ cấp độc hại, nguy hiểm: 300.000 đồng/tháng. 2.4. Trong giai đoạn đánh giá: 85% lương cơ bản = 17.000.000 đồng/tháng. 2.5. Trả lương ngày 15 hàng tháng qua chuyển khoản.",
+    "context": "\n            [Đoạn 1] Kỳ hạn trả lương\n            Nội dung: Bộ luật Lao động Việt Nam 2019 Chương 6, Điều 97:\nNgười lao động hưởng lương theo tháng được trả một tháng một lần hoặc nửa tháng một lần. Thời điểm trả lương do hai bên thỏa thuận và phải được ấn định vào một thời điểm có tính chu kỳ.\n            Entities liên quan: theo thỏa thuận, hằng tháng, hai bên, lương, được trả lương theo thỏa thuận của hai bên, theo sản phẩm, phải được ấn định vào một thời điểm có tính chu kỳ, nếu công việc phải làm trong nhiều tháng\n            Quan hệ:\n- lương --> involves --> nếu công việc phải làm trong nhiều tháng\n- phải được ấn định vào một thời điểm có tính chu kỳ --> involves --> theo thỏa thuận\n- được trả lương theo thỏa thuận của hai bên --> involves --> theo thỏa thuận\n- nếu công việc phải làm trong nhiều tháng --> involves --> lương\n- theo thỏa thuận --> involves --> phải được ấn định vào một thời điểm có tính chu kỳ\n- theo thỏa thuận --> involves --> được trả lương theo thỏa thuận của hai bên\n\n---\n\n            [Đoạn 2] Nghỉ hằng năm\n            Nội dung: Bộ luật Lao động Việt Nam 2019 Chương 7, Mục 2, Điều 113:\nNgười lao động làm việc đủ 12 tháng cho một người sử dụng lao động thì được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau: a) 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường; b) 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm; c) 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm.\n            Entities liên quan: làm nghề, công việc nặng nhọc, độc hại, nguy hiểm, đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm, đối với người làm công việc trong điều kiện bình thường, 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường, nặng nhọc, độc hại, nguy hiểm, đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm, công việc, 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường, làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm, công việc nặng, được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau, đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm, làm nghề, công việc nặng nhọc, độc hại, nguy hiểm, 12 ngày, nặng nhọc, độc hại, nguy hiểm, công việc, 14 ngày, người lao động chưa thành niên, lương, đặc biệt nặng nhọc, độc hại, nguy hiểm, thì được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau, công việc, đối với người làm công việc trong điều kiện bình thường, người lao động\n            Quan hệ:\n- người lao động --> applies_to --> đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm\n- người lao động --> defines --> đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm\n- 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường --> defines --> nặng nhọc, độc hại, nguy hiểm\n- được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau --> defines --> công việc nặng\n- đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm --> applies_to --> người lao động\n- đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm --> enables --> làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm\n- đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm --> defines --> người lao động\n- làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm --> enables --> đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm\n- nặng nhọc, độc hại, nguy hiểm --> defines --> 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường\n- công việc nặng --> defines --> được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau\n\n---\n\n            [Đoạn 3] Tiền lương\n            Nội dung: Bộ luật Lao động Việt Nam 2019 Chương 6, Điều 90:\nTiền lương là số tiền mà người sử dụng lao động trả cho người lao động theo thỏa thuận để thực hiện công việc, bao gồm mức lương theo công việc hoặc chức danh, phụ cấp lương và các khoản bổ sung khác.\n            Entities liên quan: mức lương tối thiểu, chức danh, lương, đối với người lao động làm công việc có giá trị như nhau, công việc, không được thấp hơn mức lương tối thiểu, bảo đảm trả lương bình đẳng, không phân biệt giới tính đối với người lao động làm công việc có giá trị như nhau, công việc\n            Quan hệ:\n- công việc --> involves --> mức lương tối thiểu\n- mức lương tối thiểu --> involves --> công việc\n",
+    "law_ids": [
+      "ch6_d97_k2",
+      "ch7_muc2_d113_k1",
+      "ch6_d90_k1"
+    ],
+    "law_list": [
+      {
+        "id": "ch6_d97_k2",
+        "type": "CLAUSE",
+        "text": "Chương 6 Điều 97 Khoản 2",
+        "content": "Người lao động hưởng lương theo tháng được trả một tháng một lần hoặc nửa tháng một lần. Thời điểm trả lương do hai bên thỏa thuận và phải được ấn định vào một thời điểm có tính chu kỳ."
+      },
+      {
+        "id": "ch7_muc2_d113_k1",
+        "type": "CLAUSE",
+        "text": "Chương 7 Điều 113 Khoản 1",
+        "content": "Người lao động làm việc đủ 12 tháng cho một người sử dụng lao động thì được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau: a) 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường; b) 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm; c) 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm."
+      },
+      {
+        "id": "ch6_d90_k1",
+        "type": "CLAUSE",
+        "text": "Chương 6 Điều 90 Khoản 1",
+        "content": "Tiền lương là số tiền mà người sử dụng lao động trả cho người lao động theo thỏa thuận để thực hiện công việc, bao gồm mức lương theo công việc hoặc chức danh, phụ cấp lương và các khoản bổ sung khác."
+      }
+    ],
+    "related_law": "Danh sách luật liên quan:\n - Chương 6 Điều 97 Khoản 2: Người lao động hưởng lương theo tháng được trả một tháng một lần hoặc nửa tháng một lần. Thời điểm trả lương do hai bên thỏa thuận và phải được ấn định vào một thời điểm có tính chu kỳ.\n - Chương 7 Điều 113 Khoản 1: Người lao động làm việc đủ 12 tháng cho một người sử dụng lao động thì được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau: a) 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường; b) 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm; c) 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm.\n - Chương 6 Điều 90 Khoản 1: Tiền lương là số tiền mà người sử dụng lao động trả cho người lao động theo thỏa thuận để thực hiện công việc, bao gồm mức lương theo công việc hoặc chức danh, phụ cấp lương và các khoản bổ sung khác.\n",
+    "score": 1,
+    "risk": "MEDIUM",
+    "issues": [
+      {
+        "severity": "LOW",
+        "reason": "Hợp đồng quy định phụ cấp độc hại, nguy hiểm nhưng chưa ghi nhận quyền lợi được nghỉ hằng năm 14 ngày làm việc của người lao động.",
+        "law_reference": "Chương 7 Điều 113 Khoản 1"
+      }
+    ]
+  },
+  {
+    "id": "Điều 3",
+    "content": "Thời giờ làm việc 3.1. Lịch làm việc theo ca: Ca ngày (07:00–15:00), ca chiều (13:00–21:00), ca đêm (21:00–07:00 hôm sau). Cụ thể theo bảng phân công ca hàng tháng của Trưởng khoa. 3.2. Số ngày làm việc trong tháng và số ca trực đêm do Trưởng khoa sắp xếp linh hoạt theo nhu cầu khoa phòng. 3.3. Người lao động đồng ý hỗ trợ khi thiếu nhân lực đột xuất ngoài lịch phân công, khoản phụ cấp sẽ tính theo quy chế nội bộ. 3.4. Nghỉ phép năm: 12 ngày/năm, thời điểm nghỉ phải được Trưởng khoa phê duyệt trước ít nhất 07 ngày.",
+    "context": "\n            [Đoạn 1] Nghỉ chuyển ca Người lao động làm việc theo ca được nghỉ ít nhất 12 giờ trước khi chuyển sang ca làm việc khác.\n            Nội dung: Bộ luật Lao động Việt Nam 2019 Chương 7, Mục 2, Điều 110:\nNghỉ chuyển ca Người lao động làm việc theo ca được nghỉ ít nhất 12 giờ trước khi chuyển sang ca làm việc khác.\n            Entities liên quan: \n            \n---\n\n            [Đoạn 2] Nghỉ trong giờ làm việc\n            Nội dung: Bộ luật Lao động Việt Nam 2019 Chương 7, Mục 2, Điều 109:\nNgười lao động làm việc theo thời giờ làm việc quy định tại Điều 105 của Bộ luật này từ 06 giờ trở lên trong một ngày thì được nghỉ giữa giờ ít nhất 30 phút liên tục, làm việc ban đêm thì được nghỉ giữa giờ ít nhất 45 phút liên tục. Trường hợp người lao động làm việc theo ca liên tục từ 06 giờ trở lên thì thời gian nghỉ giữa giờ được tính vào giờ làm việc.\n            Entities liên quan: 24 giờ, điều 105 của bộ luật lao động, điều 109, trường hợp người lao động làm việc theo ca liên tục từ 06 giờ trở lên thì thời gian nghỉ giữa giờ được tính vào giờ làm việc, làm việc ban đêm, khoản 1 điều 109, thời giờ làm việc, thì được nghỉ giữa giờ ít nhất 30 phút liên tục, làm việc ban đêm thì được nghỉ giữa giờ ít nhất 45 phút liên tục, được tính vào giờ làm việc, trường hợp người lao động làm việc theo ca liên tục từ 06 giờ trở lên, điều 105 của bộ luật lao động, bố trí cho người lao động các đợt nghỉ giải lao và ghi vào nội quy lao động, khoản 1 điều 109, người sử dụng lao động, nội quy lao động, được nghỉ giữa giờ ít nhất 30 phút liên tục, làm việc ban đêm thì được nghỉ giữa giờ ít nhất 45 phút liên tục, trường hợp người lao động làm việc theo ca liên tục từ 06 giờ trở lên\n            Quan hệ:\n- trường hợp người lao động làm việc theo ca liên tục từ 06 giờ trở lên --> applies_to --> điều 105 của bộ luật lao động\n- làm việc ban đêm --> defines --> khoản 1 điều 109\n- điều 105 của bộ luật lao động --> applies_to --> trường hợp người lao động làm việc theo ca liên tục từ 06 giờ trở lên\n- khoản 1 điều 109 --> defines --> làm việc ban đêm\n- khoản 1 điều 109 --> cites --> khoản 1 điều 109\n- khoản 1 điều 109 --> cites --> khoản 1 điều 109\n\n---\n\n            [Đoạn 3] Nghỉ hằng năm\n            Nội dung: Bộ luật Lao động Việt Nam 2019 Chương 7, Mục 2, Điều 113:\nNgười lao động làm việc đủ 12 tháng cho một người sử dụng lao động thì được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau: a) 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường; b) 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm; c) 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm.\n            Entities liên quan: làm nghề, công việc nặng nhọc, độc hại, nguy hiểm, đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm, đối với người làm công việc trong điều kiện bình thường, 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường, nặng nhọc, độc hại, nguy hiểm, đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm, công việc, 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường, làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm, công việc nặng, được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau, đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm, làm nghề, công việc nặng nhọc, độc hại, nguy hiểm, 12 ngày, nặng nhọc, độc hại, nguy hiểm, công việc, 14 ngày, người lao động chưa thành niên, lương, đặc biệt nặng nhọc, độc hại, nguy hiểm, thì được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau, công việc, đối với người làm công việc trong điều kiện bình thường, người lao động\n            Quan hệ:\n- người lao động --> applies_to --> đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm\n- người lao động --> defines --> đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm\n- 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường --> defines --> nặng nhọc, độc hại, nguy hiểm\n- được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau --> defines --> công việc nặng\n- đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm --> applies_to --> người lao động\n- đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm --> enables --> làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm\n- đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm --> defines --> người lao động\n- làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm --> enables --> đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm\n- nặng nhọc, độc hại, nguy hiểm --> defines --> 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường\n- công việc nặng --> defines --> được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau\n",
+    "law_ids": [
+      "ch7_muc2_d110",
+      "ch7_muc2_d109_k1",
+      "ch7_muc2_d113_k1"
+    ],
+    "law_list": [
+      {
+        "id": "ch7_muc2_d110",
+        "type": "ARTICLE",
+        "text": "Chương 7 Điều 110",
+        "content": "Nghỉ chuyển ca Người lao động làm việc theo ca được nghỉ ít nhất 12 giờ trước khi chuyển sang ca làm việc khác."
+      },
+      {
+        "id": "ch7_muc2_d109_k1",
+        "type": "CLAUSE",
+        "text": "Chương 7 Điều 109 Khoản 1",
+        "content": "Người lao động làm việc theo thời giờ làm việc quy định tại Điều 105 của Bộ luật này từ 06 giờ trở lên trong một ngày thì được nghỉ giữa giờ ít nhất 30 phút liên tục, làm việc ban đêm thì được nghỉ giữa giờ ít nhất 45 phút liên tục. Trường hợp người lao động làm việc theo ca liên tục từ 06 giờ trở lên thì thời gian nghỉ giữa giờ được tính vào giờ làm việc."
+      },
+      {
+        "id": "ch7_muc2_d113_k1",
+        "type": "CLAUSE",
+        "text": "Chương 7 Điều 113 Khoản 1",
+        "content": "Người lao động làm việc đủ 12 tháng cho một người sử dụng lao động thì được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau: a) 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường; b) 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm; c) 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm."
+      }
+    ],
+    "related_law": "Danh sách luật liên quan:\n - Chương 7 Điều 110: Nghỉ chuyển ca Người lao động làm việc theo ca được nghỉ ít nhất 12 giờ trước khi chuyển sang ca làm việc khác.\n - Chương 7 Điều 109 Khoản 1: Người lao động làm việc theo thời giờ làm việc quy định tại Điều 105 của Bộ luật này từ 06 giờ trở lên trong một ngày thì được nghỉ giữa giờ ít nhất 30 phút liên tục, làm việc ban đêm thì được nghỉ giữa giờ ít nhất 45 phút liên tục. Trường hợp người lao động làm việc theo ca liên tục từ 06 giờ trở lên thì thời gian nghỉ giữa giờ được tính vào giờ làm việc.\n - Chương 7 Điều 113 Khoản 1: Người lao động làm việc đủ 12 tháng cho một người sử dụng lao động thì được nghỉ hằng năm, hưởng nguyên lương theo hợp đồng lao động như sau: a) 12 ngày làm việc đối với người làm công việc trong điều kiện bình thường; b) 14 ngày làm việc đối với người lao động chưa thành niên, lao động là người khuyết tật, người làm nghề, công việc nặng nhọc, độc hại, nguy hiểm; c) 16 ngày làm việc đối với người làm nghề, công việc đặc biệt nặng nhọc, độc hại, nguy hiểm.\n",
+    "score": 8,
+    "risk": "HIGH",
+    "issues": [
+      {
+        "severity": "HIGH",
+        "reason": "Hợp đồng không quy định thời gian nghỉ giữa giờ cho các ca làm việc kéo dài từ 08 đến 10 tiếng.",
+        "law_reference": "Chương 7 Điều 109 Khoản 1"
+      },
+      {
+        "severity": "HIGH",
+        "reason": "Khung giờ các ca làm việc có thể dẫn đến việc người lao động không được nghỉ đủ ít nhất 12 giờ khi chuyển ca.",
+        "law_reference": "Chương 7 Điều 110"
+      },
+      {
+        "severity": "MEDIUM",
+        "reason": "Quy định cố định 12 ngày phép năm chưa loại trừ trường hợp người lao động làm công việc nặng nhọc, độc hại, nguy hiểm được hưởng chế độ nghỉ nhiều hơn.",
+        "law_reference": "Chương 7 Điều 113 Khoản 1"
+      }
+    ]
+  },
+  {
+    "id": "Điều 4",
+    "content": "Bảo hiểm và phúc lợi 4.1. Tham gia đầy đủ BHXH bắt buộc, BHYT và BHTN theo pháp luật. 4.2. Bảo hiểm sức khỏe toàn diện cho bản thân và gia đình theo chính sách Vinmec. 4.3. Khám sức khỏe định kỳ 02 lần/năm.",
+    "context": "\n            [Đoạn 1] Tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp\n            Nội dung: Bộ luật Lao động Việt Nam 2019 Chương 12, Điều 168:\nNgười sử dụng lao động, người lao động phải tham gia bảo hiểm xã hội bắt buộc, bảo hiểm y tế, bảo hiểm thất nghiệp; người lao động được hưởng các chế độ theo quy định của pháp luật về bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp. Khuyến khích người sử dụng lao động, người lao động tham gia các hình thức bảo hiểm khác đối với người lao động.\n            Entities liên quan: thất nghiệp, phải tham gia bảo hiểm xã hội bắt buộc, bảo hiểm y tế, bảo hiểm thất nghiệp, người sử dụng lao động, bảo hiểm y tế, bảo hiểm xã hội, theo quy định của pháp luật về bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp, bảo hiểm thất nghiệp, bảo hiểm thất nghiệp, trường hợp hai bên có thỏa thuận khác, bảo hiểm y tế, người lao động, hai bên có thỏa thuận khác, thất nghiệp, được hưởng các chế độ, bảo hiểm xã hội, đối với người lao động, hai bên\n            Quan hệ:\n- được hưởng các chế độ --> related_to --> bảo hiểm y tế\n- được hưởng các chế độ --> involves --> thất nghiệp\n- đối với người lao động --> requires --> hai bên có thỏa thuận khác\n- bảo hiểm xã hội --> enables --> bảo hiểm thất nghiệp\n- bảo hiểm y tế --> related_to --> được hưởng các chế độ\n- bảo hiểm y tế --> involves --> thất nghiệp\n- bảo hiểm thất nghiệp --> enables --> bảo hiểm xã hội\n- bảo hiểm thất nghiệp --> cites --> trường hợp hai bên có thỏa thuận khác\n- thất nghiệp --> involves --> được hưởng các chế độ\n- thất nghiệp --> involves --> bảo hiểm y tế\n- trường hợp hai bên có thỏa thuận khác --> cites --> bảo hiểm thất nghiệp\n- hai bên có thỏa thuận khác --> requires --> đối với người lao động\n\n---\n\n            [Đoạn 2] Sử dụng lao động là người khuyết tật\n            Nội dung: Bộ luật Lao động Việt Nam 2019 Chương 11, Mục 4, Điều 159:\nNgười sử dụng lao động phải bảo đảm về điều kiện lao động, công cụ lao động, an toàn, vệ sinh lao động và tổ chức khám sức khỏe định kỳ phù hợp với người lao động là người khuyết tật.\n            Entities liên quan: người lao động là người khuyết tật, phải tham khảo ý kiến của người lao động là người khuyết tật, người lao động là người khuyết tật, người lao động là người khuyết tật, phải bảo đảm về điều kiện lao động, công cụ lao động, an toàn, vệ sinh lao động và tổ chức khám sức khỏe định kỳ phù hợp với người lao động là người khuyết tật, người lao động\n            Quan hệ:\n- người lao động là người khuyết tật --> requires --> người lao động là người khuyết tật\n- người lao động là người khuyết tật --> requires --> người lao động là người khuyết tật\n\n---\n\n            [Đoạn 3] Giao kết nhiều hợp đồng lao động\n            Nội dung: Bộ luật Lao động Việt Nam 2019 Chương 3, Mục 1, Điều 19:\nNgười lao động đồng thời giao kết nhiều hợp đồng lao động với nhiều người sử dụng lao động thì việc tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp được thực hiện theo quy định của pháp luật về bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và an toàn, vệ sinh lao động.\n            Entities liên quan: thất nghiệp, an toàn, vệ sinh lao động, hợp đồng lao động, nhiều hợp đồng lao động, thất nghiệp, xã hội, bảo hiểm thất nghiệp, bảo hiểm xã hội, bảo hiểm thất nghiệp, thực hiện, bảo hiểm y tế, phải bảo đảm thực hiện đầy đủ các nội dung đã giao kết, bảo hiểm y tế, bảo hiểm xã hội, người sử dụng lao động, xã hội\n            Quan hệ:\n- phải bảo đảm thực hiện đầy đủ các nội dung đã giao kết --> involves --> an toàn, vệ sinh lao động\n- phải bảo đảm thực hiện đầy đủ các nội dung đã giao kết --> involves --> bảo hiểm thất nghiệp\n- người sử dụng lao động --> involves --> thực hiện\n- xã hội --> related_to --> bảo hiểm xã hội\n- xã hội --> cites --> thất nghiệp\n- xã hội --> related_to --> bảo hiểm y tế\n- thực hiện --> involves --> người sử dụng lao động\n- thực hiện --> involves --> bảo hiểm thất nghiệp\n- an toàn, vệ sinh lao động --> related_to --> bảo hiểm xã hội\n- an toàn, vệ sinh lao động --> involves --> phải bảo đảm thực hiện đầy đủ các nội dung đã giao kết\n- an toàn, vệ sinh lao động --> involves --> bảo hiểm thất nghiệp\n- bảo hiểm xã hội --> related_to --> xã hội\n- bảo hiểm xã hội --> related_to --> an toàn, vệ sinh lao động\n- bảo hiểm xã hội --> related_to --> bảo hiểm y tế\n- bảo hiểm y tế --> related_to --> bảo hiểm xã hội\n- bảo hiểm y tế --> related_to --> xã hội\n- bảo hiểm thất nghiệp --> involves --> phải bảo đảm thực hiện đầy đủ các nội dung đã giao kết\n- bảo hiểm thất nghiệp --> involves --> an toàn, vệ sinh lao động\n- bảo hiểm thất nghiệp --> involves --> thực hiện\n- thất nghiệp --> cites --> xã hội\n",
+    "law_ids": [
+      "ch12_d168_k1",
+      "ch11_muc4_d159_k1",
+      "ch3_muc1_d19_k2"
+    ],
+    "law_list": [
+      {
+        "id": "ch12_d168_k1",
+        "type": "CLAUSE",
+        "text": "Chương 12 Điều 168 Khoản 1",
+        "content": "Người sử dụng lao động, người lao động phải tham gia bảo hiểm xã hội bắt buộc, bảo hiểm y tế, bảo hiểm thất nghiệp; người lao động được hưởng các chế độ theo quy định của pháp luật về bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp. Khuyến khích người sử dụng lao động, người lao động tham gia các hình thức bảo hiểm khác đối với người lao động."
+      },
+      {
+        "id": "ch11_muc4_d159_k1",
+        "type": "CLAUSE",
+        "text": "Chương 11 Điều 159 Khoản 1",
+        "content": "Người sử dụng lao động phải bảo đảm về điều kiện lao động, công cụ lao động, an toàn, vệ sinh lao động và tổ chức khám sức khỏe định kỳ phù hợp với người lao động là người khuyết tật."
+      },
+      {
+        "id": "ch3_muc1_d19_k2",
+        "type": "CLAUSE",
+        "text": "Chương 3 Điều 19 Khoản 2",
+        "content": "Người lao động đồng thời giao kết nhiều hợp đồng lao động với nhiều người sử dụng lao động thì việc tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp được thực hiện theo quy định của pháp luật về bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và an toàn, vệ sinh lao động."
+      }
+    ],
+    "related_law": "Danh sách luật liên quan:\n - Chương 12 Điều 168 Khoản 1: Người sử dụng lao động, người lao động phải tham gia bảo hiểm xã hội bắt buộc, bảo hiểm y tế, bảo hiểm thất nghiệp; người lao động được hưởng các chế độ theo quy định của pháp luật về bảo hiểm xã hội, bảo hiểm y tế và bảo hiểm thất nghiệp. Khuyến khích người sử dụng lao động, người lao động tham gia các hình thức bảo hiểm khác đối với người lao động.\n - Chương 11 Điều 159 Khoản 1: Người sử dụng lao động phải bảo đảm về điều kiện lao động, công cụ lao động, an toàn, vệ sinh lao động và tổ chức khám sức khỏe định kỳ phù hợp với người lao động là người khuyết tật.\n - Chương 3 Điều 19 Khoản 2: Người lao động đồng thời giao kết nhiều hợp đồng lao động với nhiều người sử dụng lao động thì việc tham gia bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp được thực hiện theo quy định của pháp luật về bảo hiểm xã hội, bảo hiểm y tế, bảo hiểm thất nghiệp và an toàn, vệ sinh lao động.\n",
+    "score": 0,
+    "risk": "LOW",
+    "issues": []
+  },
+  {
+    "id": "Điều 5",
+    "content": "Nghĩa vụ và bảo mật 5.1. Tuân thủ quy trình chuyên môn, hướng dẫn lâm sàng và đạo đức nghề nghiệp y tế. 5.2. Bảo mật tuyệt đối thông tin bệnh nhân, hồ sơ bệnh án theo quy định pháp luật và cam kết nội bộ. 5.3. Không hành nghề y tế ngoài giờ tại cơ sở khác khi chưa được Ban Giám đốc Bệnh viện cho phép bằng văn bản.",
+    "context": "\n            [Đoạn 1] Bảo đảm an toàn, vệ sinh lao động tại nơi làm việc\n            Nội dung: Bộ luật Lao động Việt Nam 2019 Chương 9, Điều 134:\nNgười lao động có trách nhiệm chấp hành quy định, nội quy, quy trình, yêu cầu về an toàn, vệ sinh lao động; tuân thủ pháp luật và nắm vững kiến thức, kỹ năng về các biện pháp bảo đảm an toàn, vệ sinh lao động tại nơi làm việc.\n            Entities liên quan: biện pháp, bảo đảm quyền bình đẳng của lao động nữ, lao động nam, thực hiện các biện pháp bảo đảm bình đẳng giới và phòng, chống quấy rối tình dục tại nơi làm việc, lao động nữ, thực hiện, nơi làm việc, giao việc làm tại nhà, việc làm, lao động nam\n            Quan hệ:\n- thực hiện --> requires --> việc làm\n- biện pháp --> involves --> giao việc làm tại nhà\n- giao việc làm tại nhà --> involves --> biện pháp\n- việc làm --> requires --> thực hiện\n\n---\n\n            [Đoạn 2] Sử dụng người chưa đủ 15 tuổi làm việc\n            Nội dung: Bộ luật Lao động Việt Nam 2019 Chương 11, Mục 1, Điều 145:\nKhi sử dụng người chưa đủ 15 tuổi làm việc, người sử dụng lao động phải tuân theo quy định sau đây: a) Phải giao kết hợp đồng lao động bằng văn bản với người chưa đủ 15 tuổi và người đại diện theo pháp luật của người đó; b) Bố trí giờ làm việc không ảnh hưởng đến thời gian học tập của người chưa đủ 15 tuổi; c) Phải có giấy khám sức khỏe của cơ sở khám bệnh, chữa bệnh có thẩm quyền xác nhận sức khỏe của người chưa đủ 15 tuổi phù hợp với công việc và tổ chức kiểm tra sức khỏe định kỳ ít nhất một lần trong 06 tháng; d) Bảo đảm điều kiện làm việc, an toàn, vệ sinh lao động phù hợp với lứa tuổi.\n            Entities liên quan: phải tuân, cơ sở khám bệnh, chữa bệnh có thẩm quyền, người chưa đủ 15 tuổi, phải giao kết hợp đồng lao động bằng văn bản với người chưa đủ 15 tuổi và người đại diện theo pháp luật của người đó, kiểm tra sức khỏe định kỳ ít nhất một lần trong 06 tháng, giao kết, phải có giấy khám sức khỏe của cơ sở khám bệnh, chữa bệnh có thẩm quyền xác nhận sức khỏe của người chưa đủ 15 tuổi phù hợp với công việc và tổ chức kiểm tra sức khỏe định kỳ ít nhất một lần trong 06 tháng, người chưa đủ 15 tuổi, hợp đồng lao động, công việc, hợp đồng lao động, an toàn, vệ sinh lao động, người đại diện, tổ chức, giao kết, 06 tháng, người chưa đủ 15 tuổi, phải giao kết hợp đồng lao động bằng văn bản với người chưa đủ 15 tuổi và người đại diện theo pháp luật của người đó, theo quy định sau đây, bố trí giờ làm việc không ảnh hưởng đến thời gian học tập của người chưa đủ 15 tuổi, điều kiện làm việc\n            Quan hệ:\n- an toàn, vệ sinh lao động --> defines --> phải tuân\n- phải tuân --> requires --> tổ chức\n- phải tuân --> defines --> an toàn, vệ sinh lao động\n- cơ sở khám bệnh, chữa bệnh có thẩm quyền --> cites --> tổ chức\n- tổ chức --> cites --> cơ sở khám bệnh, chữa bệnh có thẩm quyền\n- tổ chức --> requires --> phải tuân\n\n---\n\n            [Đoạn 3] Tuân thủ pháp luật về an toàn, vệ sinh lao động Người sử dụng lao động, người lao động và cơ quan, tổ chức, cá nhân có liên quan đến lao động, sản xuất, kinh doanh phải thực hiện quy định của pháp luật về an toàn, vệ sinh lao động.\n            Nội dung: Bộ luật Lao động Việt Nam 2019 Chương 9, Điều 132:\nTuân thủ pháp luật về an toàn, vệ sinh lao động Người sử dụng lao động, người lao động và cơ quan, tổ chức, cá nhân có liên quan đến lao động, sản xuất, kinh doanh phải thực hiện quy định của pháp luật về an toàn, vệ sinh lao động.\n            Entities liên quan: \n            ",
+    "law_ids": [
+      "ch9_d134_k2",
+      "ch11_muc1_d145_k1",
+      "ch9_d132"
+    ],
+    "law_list": [
+      {
+        "id": "ch9_d134_k2",
+        "type": "CLAUSE",
+        "text": "Chương 9 Điều 134 Khoản 2",
+        "content": "Người lao động có trách nhiệm chấp hành quy định, nội quy, quy trình, yêu cầu về an toàn, vệ sinh lao động; tuân thủ pháp luật và nắm vững kiến thức, kỹ năng về các biện pháp bảo đảm an toàn, vệ sinh lao động tại nơi làm việc."
+      },
+      {
+        "id": "ch11_muc1_d145_k1",
+        "type": "CLAUSE",
+        "text": "Chương 11 Điều 145 Khoản 1",
+        "content": "Khi sử dụng người chưa đủ 15 tuổi làm việc, người sử dụng lao động phải tuân theo quy định sau đây: a) Phải giao kết hợp đồng lao động bằng văn bản với người chưa đủ 15 tuổi và người đại diện theo pháp luật của người đó; b) Bố trí giờ làm việc không ảnh hưởng đến thời gian học tập của người chưa đủ 15 tuổi; c) Phải có giấy khám sức khỏe của cơ sở khám bệnh, chữa bệnh có thẩm quyền xác nhận sức khỏe của người chưa đủ 15 tuổi phù hợp với công việc và tổ chức kiểm tra sức khỏe định kỳ ít nhất một lần trong 06 tháng; d) Bảo đảm điều kiện làm việc, an toàn, vệ sinh lao động phù hợp với lứa tuổi."
+      },
+      {
+        "id": "ch9_d132",
+        "type": "ARTICLE",
+        "text": "Chương 9 Điều 132",
+        "content": "Tuân thủ pháp luật về an toàn, vệ sinh lao động Người sử dụng lao động, người lao động và cơ quan, tổ chức, cá nhân có liên quan đến lao động, sản xuất, kinh doanh phải thực hiện quy định của pháp luật về an toàn, vệ sinh lao động."
+      }
+    ],
+    "related_law": "Danh sách luật liên quan:\n - Chương 9 Điều 134 Khoản 2: Người lao động có trách nhiệm chấp hành quy định, nội quy, quy trình, yêu cầu về an toàn, vệ sinh lao động; tuân thủ pháp luật và nắm vững kiến thức, kỹ năng về các biện pháp bảo đảm an toàn, vệ sinh lao động tại nơi làm việc.\n - Chương 11 Điều 145 Khoản 1: Khi sử dụng người chưa đủ 15 tuổi làm việc, người sử dụng lao động phải tuân theo quy định sau đây: a) Phải giao kết hợp đồng lao động bằng văn bản với người chưa đủ 15 tuổi và người đại diện theo pháp luật của người đó; b) Bố trí giờ làm việc không ảnh hưởng đến thời gian học tập của người chưa đủ 15 tuổi; c) Phải có giấy khám sức khỏe của cơ sở khám bệnh, chữa bệnh có thẩm quyền xác nhận sức khỏe của người chưa đủ 15 tuổi phù hợp với công việc và tổ chức kiểm tra sức khỏe định kỳ ít nhất một lần trong 06 tháng; d) Bảo đảm điều kiện làm việc, an toàn, vệ sinh lao động phù hợp với lứa tuổi.\n - Chương 9 Điều 132: Tuân thủ pháp luật về an toàn, vệ sinh lao động Người sử dụng lao động, người lao động và cơ quan, tổ chức, cá nhân có liên quan đến lao động, sản xuất, kinh doanh phải thực hiện quy định của pháp luật về an toàn, vệ sinh lao động.\n",
+    "score": 0,
+    "risk": "LOW",
+    "issues": []
+  },
+  {
+    "id": "Điều 6",
+    "content": "Chấm dứt hợp đồng 6.1. Thực hiện theo Bộ luật Lao động 2019. 6.2. Thông báo trước tối thiểu 45 ngày khi đơn phương chấm dứt.",
+    "context": "\n            [Đoạn 1] Hủy bỏ việc đơn phương chấm dứt hợp đồng lao động Mỗi bên đều có quyền hủy bỏ việc đơn phương chấm dứt hợp đồng lao động trước khi hết thời hạn báo trước nhưng phải thông báo bằng văn bản và phải được bên kia đồng ý.\n            Nội dung: Bộ luật Lao động Việt Nam 2019 Chương 3, Mục 3, Điều 38:\nHủy bỏ việc đơn phương chấm dứt hợp đồng lao động Mỗi bên đều có quyền hủy bỏ việc đơn phương chấm dứt hợp đồng lao động trước khi hết thời hạn báo trước nhưng phải thông báo bằng văn bản và phải được bên kia đồng ý.\n            Entities liên quan: \n            \n---\n\n            [Đoạn 2] Hợp đồng lao động đối với lao động là người giúp việc gia đình\n            Nội dung: Bộ luật Lao động Việt Nam 2019 Chương 11, Mục 5, Điều 162:\nThời hạn của hợp đồng lao động đối với lao động là người giúp việc gia đình do hai bên thỏa thuận. Một bên có quyền đơn phương chấm dứt hợp đồng lao động bất kỳ khi nào nhưng phải báo trước ít nhất 15 ngày.\n            Entities liên quan: thời giờ làm việc, trả, thỏa thuận trong hợp đồng lao động về hình thức trả lương, kỳ hạn trả lương, thời giờ làm việc hằng ngày, chỗ ở, chấm dứt hợp đồng lao động, phải báo trước ít nhất 15 ngày, hình thức trả lương\n            \n---\n\n            [Đoạn 3] Quyền đơn phương chấm dứt hợp đồng lao động của người lao động\n            Nội dung: Bộ luật Lao động Việt Nam 2019 Chương 3, Mục 3, Điều 35:\nNgười lao động có quyền đơn phương chấm dứt hợp đồng lao động nhưng phải báo trước cho người sử dụng lao động như sau: a) Ít nhất 45 ngày nếu làm việc theo hợp đồng lao động không xác định thời hạn; b) Ít nhất 30 ngày nếu làm việc theo hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng; c) Ít nhất 03 ngày làm việc nếu làm việc theo hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng; d) Đối với một số ngành, nghề, công việc đặc thù thì thời hạn báo trước được thực hiện theo quy định của Chính phủ.\n            Entities liên quan: phải báo trước cho người sử dụng lao động như sau, 36 tháng, hợp đồng lao động xác định thời hạn, 12 tháng, hợp đồng lao động, ít nhất 45 ngày, người sử dụng lao động, chấm dứt hợp đồng lao động, nếu làm việc theo hợp đồng lao động không xác định thời hạn, ít nhất 03 ngày làm việc nếu làm việc theo hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng, ít nhất 30 ngày nếu làm việc theo hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng, 45 ngày, ít nhất 45 ngày, thực hiện, từ 12 tháng đến 36 tháng, 30 ngày, có quyền đơn phương chấm dứt hợp đồng lao động nhưng phải báo trước cho người sử dụng lao động như sau, 03 ngày, công việc, hợp đồng lao động, chính phủ, theo quy định của chính phủ, ít nhất 45 ngày, 12 tháng, hợp đồng lao động, ngành, nghề, công việc, hợp đồng lao động không xác định thời hạn, đối với một số ngành, nghề, công việc đặc thù thì thời hạn báo trước được thực hiện, đối với một số ngành, nghề, công việc đặc thù, đối với một số ngành, nghề, công việc đặc thù, đơn phương chấm dứt hợp đồng lao động nhưng phải báo trước cho người sử dụng lao động như sau, hợp đồng lao động xác định thời hạn, hợp đồng lao động\n            Quan hệ:\n- có quyền đơn phương chấm dứt hợp đồng lao động nhưng phải báo trước cho người sử dụng lao động như sau --> has_condition --> nếu làm việc theo hợp đồng lao động không xác định thời hạn\n- nếu làm việc theo hợp đồng lao động không xác định thời hạn --> has_condition --> có quyền đơn phương chấm dứt hợp đồng lao động nhưng phải báo trước cho người sử dụng lao động như sau\n- thực hiện --> cites --> theo quy định của chính phủ\n- theo quy định của chính phủ --> cites --> thực hiện\n",
+    "law_ids": [
+      "ch3_muc3_d38",
+      "ch11_muc5_d162_k2",
+      "ch3_muc3_d35_k1"
+    ],
+    "law_list": [
+      {
+        "id": "ch3_muc3_d38",
+        "type": "ARTICLE",
+        "text": "Chương 3 Điều 38",
+        "content": "Hủy bỏ việc đơn phương chấm dứt hợp đồng lao động Mỗi bên đều có quyền hủy bỏ việc đơn phương chấm dứt hợp đồng lao động trước khi hết thời hạn báo trước nhưng phải thông báo bằng văn bản và phải được bên kia đồng ý."
+      },
+      {
+        "id": "ch11_muc5_d162_k2",
+        "type": "CLAUSE",
+        "text": "Chương 11 Điều 162 Khoản 2",
+        "content": "Thời hạn của hợp đồng lao động đối với lao động là người giúp việc gia đình do hai bên thỏa thuận. Một bên có quyền đơn phương chấm dứt hợp đồng lao động bất kỳ khi nào nhưng phải báo trước ít nhất 15 ngày."
+      },
+      {
+        "id": "ch3_muc3_d35_k1",
+        "type": "CLAUSE",
+        "text": "Chương 3 Điều 35 Khoản 1",
+        "content": "Người lao động có quyền đơn phương chấm dứt hợp đồng lao động nhưng phải báo trước cho người sử dụng lao động như sau: a) Ít nhất 45 ngày nếu làm việc theo hợp đồng lao động không xác định thời hạn; b) Ít nhất 30 ngày nếu làm việc theo hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng; c) Ít nhất 03 ngày làm việc nếu làm việc theo hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng; d) Đối với một số ngành, nghề, công việc đặc thù thì thời hạn báo trước được thực hiện theo quy định của Chính phủ."
+      }
+    ],
+    "related_law": "Danh sách luật liên quan:\n - Chương 3 Điều 38: Hủy bỏ việc đơn phương chấm dứt hợp đồng lao động Mỗi bên đều có quyền hủy bỏ việc đơn phương chấm dứt hợp đồng lao động trước khi hết thời hạn báo trước nhưng phải thông báo bằng văn bản và phải được bên kia đồng ý.\n - Chương 11 Điều 162 Khoản 2: Thời hạn của hợp đồng lao động đối với lao động là người giúp việc gia đình do hai bên thỏa thuận. Một bên có quyền đơn phương chấm dứt hợp đồng lao động bất kỳ khi nào nhưng phải báo trước ít nhất 15 ngày.\n - Chương 3 Điều 35 Khoản 1: Người lao động có quyền đơn phương chấm dứt hợp đồng lao động nhưng phải báo trước cho người sử dụng lao động như sau: a) Ít nhất 45 ngày nếu làm việc theo hợp đồng lao động không xác định thời hạn; b) Ít nhất 30 ngày nếu làm việc theo hợp đồng lao động xác định thời hạn có thời hạn từ 12 tháng đến 36 tháng; c) Ít nhất 03 ngày làm việc nếu làm việc theo hợp đồng lao động xác định thời hạn có thời hạn dưới 12 tháng; d) Đối với một số ngành, nghề, công việc đặc thù thì thời hạn báo trước được thực hiện theo quy định của Chính phủ.\n",
+    "score": 3,
+    "risk": "MEDIUM",
+    "issues": [
+      {
+        "severity": "HIGH",
+        "reason": "Quy định thông báo trước tối thiểu 45 ngày cho mọi trường hợp đơn phương chấm dứt hợp đồng làm hạn chế quyền lợi của người lao động làm việc theo hợp đồng xác định thời hạn.",
+        "law_reference": "Chương 3 Điều 35 Khoản 1"
+      }
+    ]
+  },
+  {
+    "id": "Điều 7",
+    "content": "Điều khoản chung Hợp đồng có hiệu lực từ ngày ký, lập 02 bản, mỗi bên giữ 01 bản.",
+    "context": "\n            [Đoạn 1] Hình thức hợp đồng lao động\n            Nội dung: Bộ luật Lao động Việt Nam 2019 Chương 3, Mục 1, Điều 14:\nHợp đồng lao động phải được giao kết bằng văn bản và được làm thành 02 bản, người lao động giữ 01 bản, người sử dụng lao động giữ 01 bản, trừ trường hợp quy định tại khoản 2 Điều này. Hợp đồng lao động được giao kết thông qua phương tiện điện tử dưới hình thức thông điệp dữ liệu theo quy định của pháp luật về giao dịch điện tử có giá trị như hợp đồng lao động bằng văn bản.\n            Entities liên quan: theo quy định của pháp luật về giao dịch điện tử có giá trị như hợp đồng lao động bằng văn bản, hợp đồng lao động, giao kết, người lao động, trường hợp, khoản 2 điều 14, phải được giao kết bằng văn bản và được làm thành 02 bản, người lao động giữ 01 bản, người sử dụng lao động giữ 01 bản, người sử dụng lao động, giao kết, hợp đồng lao động, điều 14, khoản 2 điều 14, được làm thành 02 bản, người lao động giữ 01 bản, người sử dụng lao động giữ 01 bản\n            Quan hệ:\n- trường hợp --> has_exception --> phải được giao kết bằng văn bản và được làm thành 02 bản, người lao động giữ 01 bản, người sử dụng lao động giữ 01 bản\n- trường hợp --> cites --> khoản 2 điều 14\n- giao kết --> related_to --> hợp đồng lao động\n- giao kết --> related_to --> theo quy định của pháp luật về giao dịch điện tử có giá trị như hợp đồng lao động bằng văn bản\n- hợp đồng lao động --> related_to --> giao kết\n- khoản 2 điều 14 --> cites --> trường hợp\n- theo quy định của pháp luật về giao dịch điện tử có giá trị như hợp đồng lao động bằng văn bản --> related_to --> giao kết\n- phải được giao kết bằng văn bản và được làm thành 02 bản, người lao động giữ 01 bản, người sử dụng lao động giữ 01 bản --> has_exception --> trường hợp\n\n---\n\n            [Đoạn 2] Hiệu lực của hợp đồng lao động Hợp đồng lao động có hiệu lực kể từ ngày hai bên giao kết, trừ trường hợp hai bên có thỏa thuận hoặc pháp luật có quy định khác.\n            Nội dung: Bộ luật Lao động Việt Nam 2019 Chương 3, Mục 1, Điều 23:\nHiệu lực của hợp đồng lao động Hợp đồng lao động có hiệu lực kể từ ngày hai bên giao kết, trừ trường hợp hai bên có thỏa thuận hoặc pháp luật có quy định khác.\n            Entities liên quan: \n            \n---\n\n            [Đoạn 3] Hợp đồng đào tạo nghề giữa người sử dụng lao động, người lao động và chi phí đào tạo nghề\n            Nội dung: Bộ luật Lao động Việt Nam 2019 Chương 4, Điều 62:\nHai bên phải ký kết hợp đồng đào tạo nghề trong trường hợp người lao động được đào tạo nâng cao trình độ, kỹ năng nghề, đào tạo lại ở trong nước hoặc nước ngoài từ kinh phí của người sử dụng lao động, kể cả kinh phí do đối tác tài trợ cho người sử dụng lao động. Hợp đồng đào tạo nghề phải làm thành 02 bản, mỗi bên giữ 01 bản.\n            Entities liên quan: trường hợp người lao động được đào tạo nâng cao trình độ, kỹ năng nghề, đào tạo lại ở trong nước hoặc nước ngoài từ kinh phí của người sử dụng lao động, kể cả kinh phí do đối tác tài trợ cho người sử dụng lao động, trong trường hợp người lao động được đào tạo nâng cao trình độ, kỹ năng nghề, đào tạo lại ở trong nước hoặc nước ngoài từ kinh phí của người sử dụng lao động, kể cả kinh phí do đối tác tài trợ cho người sử dụng lao động, người sử dụng lao động, phải làm thành 02 bản, mỗi bên giữ 01 bản, người sử dụng lao động, phải ký kết hợp đồng đào tạo nghề\n            Quan hệ:\n- trường hợp người lao động được đào tạo nâng cao trình độ, kỹ năng nghề, đào tạo lại ở trong nước hoặc nước ngoài từ kinh phí của người sử dụng lao động, kể cả kinh phí do đối tác tài trợ cho người sử dụng lao động --> requires --> phải làm thành 02 bản, mỗi bên giữ 01 bản\n- phải ký kết hợp đồng đào tạo nghề --> has_condition --> phải làm thành 02 bản, mỗi bên giữ 01 bản\n- phải làm thành 02 bản, mỗi bên giữ 01 bản --> has_condition --> phải ký kết hợp đồng đào tạo nghề\n- phải làm thành 02 bản, mỗi bên giữ 01 bản --> requires --> trường hợp người lao động được đào tạo nâng cao trình độ, kỹ năng nghề, đào tạo lại ở trong nước hoặc nước ngoài từ kinh phí của người sử dụng lao động, kể cả kinh phí do đối tác tài trợ cho người sử dụng lao động\n",
+    "law_ids": [
+      "ch3_muc1_d14_k1",
+      "ch3_muc1_d23",
+      "ch4_d62_k1"
+    ],
+    "law_list": [
+      {
+        "id": "ch3_muc1_d14_k1",
+        "type": "CLAUSE",
+        "text": "Chương 3 Điều 14 Khoản 1",
+        "content": "Hợp đồng lao động phải được giao kết bằng văn bản và được làm thành 02 bản, người lao động giữ 01 bản, người sử dụng lao động giữ 01 bản, trừ trường hợp quy định tại khoản 2 Điều này. Hợp đồng lao động được giao kết thông qua phương tiện điện tử dưới hình thức thông điệp dữ liệu theo quy định của pháp luật về giao dịch điện tử có giá trị như hợp đồng lao động bằng văn bản."
+      },
+      {
+        "id": "ch3_muc1_d23",
+        "type": "ARTICLE",
+        "text": "Chương 3 Điều 23",
+        "content": "Hiệu lực của hợp đồng lao động Hợp đồng lao động có hiệu lực kể từ ngày hai bên giao kết, trừ trường hợp hai bên có thỏa thuận hoặc pháp luật có quy định khác."
+      },
+      {
+        "id": "ch4_d62_k1",
+        "type": "CLAUSE",
+        "text": "Chương 4 Điều 62 Khoản 1",
+        "content": "Hai bên phải ký kết hợp đồng đào tạo nghề trong trường hợp người lao động được đào tạo nâng cao trình độ, kỹ năng nghề, đào tạo lại ở trong nước hoặc nước ngoài từ kinh phí của người sử dụng lao động, kể cả kinh phí do đối tác tài trợ cho người sử dụng lao động. Hợp đồng đào tạo nghề phải làm thành 02 bản, mỗi bên giữ 01 bản."
+      }
+    ],
+    "related_law": "Danh sách luật liên quan:\n - Chương 3 Điều 14 Khoản 1: Hợp đồng lao động phải được giao kết bằng văn bản và được làm thành 02 bản, người lao động giữ 01 bản, người sử dụng lao động giữ 01 bản, trừ trường hợp quy định tại khoản 2 Điều này. Hợp đồng lao động được giao kết thông qua phương tiện điện tử dưới hình thức thông điệp dữ liệu theo quy định của pháp luật về giao dịch điện tử có giá trị như hợp đồng lao động bằng văn bản.\n - Chương 3 Điều 23: Hiệu lực của hợp đồng lao động Hợp đồng lao động có hiệu lực kể từ ngày hai bên giao kết, trừ trường hợp hai bên có thỏa thuận hoặc pháp luật có quy định khác.\n - Chương 4 Điều 62 Khoản 1: Hai bên phải ký kết hợp đồng đào tạo nghề trong trường hợp người lao động được đào tạo nâng cao trình độ, kỹ năng nghề, đào tạo lại ở trong nước hoặc nước ngoài từ kinh phí của người sử dụng lao động, kể cả kinh phí do đối tác tài trợ cho người sử dụng lao động. Hợp đồng đào tạo nghề phải làm thành 02 bản, mỗi bên giữ 01 bản.\n",
+    "score": 0,
+    "risk": "LOW",
+    "issues": []
+  }
+]

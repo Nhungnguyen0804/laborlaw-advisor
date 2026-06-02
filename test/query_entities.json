@@ -1,37 +1,19 @@
 [
   {
-    "type": "RIGHT",
-    "text": "được tính như thế nào?",
+    "type": "LEGAL_ROLE",
+    "text": "lao động nữ",
     "span": [
-      18,
-      40
+      28,
+      39
     ],
     "source": "pattern"
   },
   {
     "type": "LEGAL_CONCEPT",
-    "text": " thôi việc ",
+    "text": "nghỉ thai sản",
     "span": [
-      7,
-      18
-    ],
-    "source": "pattern"
-  },
-  {
-    "type": "LEGAL_CONCEPT",
-    "text": "Trợ cấp thôi việc",
-    "span": [
-      0,
-      17
-    ],
-    "source": "pattern"
-  },
-  {
-    "type": "LEGAL_CONCEPT",
-    "text": "Trợ cấp",
-    "span": [
-      0,
-      7
+      10,
+      23
     ],
     "source": "pattern"
   }

@@ -13,7 +13,7 @@ import torch
 
 MODEL_NAME = "Qwen/Qwen2.5-1.5B-Instruct"
 GEN_CONFIG = {
-    "max_new_tokens": 1000, # 512, # 1000 180
+    "max_new_tokens": 512, # 512, # 1000 180
     "temperature": 0.1, # 0.3
     "do_sample": True, #True
     "top_p": 0.85,

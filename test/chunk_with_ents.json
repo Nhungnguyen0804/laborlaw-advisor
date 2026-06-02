@@ -1,89 +1,447 @@
 [
   {
-    "chunk_id": "chunk_00048",
+    "chunk_id": "chunk_00422",
     "chunk_type": "clause",
-    "content_with_context": "Chương 3, Mục 1, Điều 14:\nHợp đồng lao động phải được giao kết bằng văn bản và được làm thành 02 bản, người lao động giữ 01 bản, người sử dụng lao động giữ 01 bản, trừ trường hợp quy định tại khoản 2 Điều này. Hợp đồng lao động được giao kết thông qua phương tiện điện tử dưới hình thức thông điệp dữ liệu theo quy định của pháp luật về giao dịch điện tử có giá trị như hợp đồng lao động bằng văn bản.",
-    "rrf_score": 0.031544957774465976,
+    "content_with_context": "Chương 10, Điều 139:\nLao động nữ được nghỉ thai sản trước và sau khi sinh con là 06 tháng; thời gian nghỉ trước khi sinh không quá 02 tháng. Trường hợp lao động nữ sinh đôi trở lên thì tính từ con thứ 02 trở đi, cứ mỗi con, người mẹ được nghỉ thêm 01 tháng.",
+    "rrf_score": 0.032266458495966696,
     "graph": {
-      "article_id": "ch3_muc1_d14",
-      "article_title": "Hình thức hợp đồng lao động",
-      "clause_id": "ch3_muc1_d14_k1",
+      "article_id": "ch10_d139",
+      "article_title": "Nghỉ thai sản",
+      "clause_id": "ch10_d139_k1",
       "entities": [
         {
-          "id": "ent_589",
-          "label": "theo quy định của pháp luật về giao dịch điện tử có giá trị như hợp đồng lao động bằng văn bản",
-          "attributes": {},
-          "type": "LEGAL_REF"
-        },
-        {
-          "id": "ent_587",
-          "label": "hợp đồng lao động",
+          "id": "ent_5823",
+          "label": "lương",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_584",
-          "label": "giao kết",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_580",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_582",
-          "label": "trường hợp",
+          "id": "ent_5809",
+          "label": "trước khi sinh không quá 02 tháng",
           "attributes": {},
           "type": "CONDITION"
         },
         {
-          "id": "ent_590",
-          "label": "khoản 2 điều 14",
+          "id": "ent_5816",
+          "label": "nghỉ thai sản",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5808",
+          "label": "sau khi sinh con là 06 tháng",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5821",
+          "label": "thỏa thuận với người sử dụng lao động",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5820",
+          "label": "sau khi thỏa thuận với người sử dụng lao động",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5815",
+          "label": "bảo hiểm xã hội",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5807",
+          "label": "trường hợp lao động nữ sinh đôi trở lên thì tính từ con thứ 02 trở đi, cứ mỗi con, người mẹ được nghỉ thêm 01 tháng",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5811",
+          "label": "nghỉ thai sản",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5813",
+          "label": "xã hội",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_5814",
+          "label": "được hưởng chế độ thai sản",
+          "attributes": {},
+          "type": "RIGHT"
+        },
+        {
+          "id": "ent_5812",
+          "label": "lao động nữ",
+          "attributes": "[\"nữ\"]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_5817",
+          "label": "theo quy định của pháp luật về bảo hiểm xã hội",
           "attributes": {},
           "type": "LEGAL_REF"
         },
         {
-          "id": "ent_592",
-          "label": "phải được giao kết bằng văn bản và được làm thành 02 bản, người lao động giữ 01 bản, người sử dụng lao động giữ 01 bản",
+          "id": "ent_5806",
+          "label": "trường hợp lao động nữ sinh đôi trở lên",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5822",
+          "label": "nghỉ thai sản",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5819",
+          "label": "lao động nữ",
+          "attributes": "[\"nữ\"]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_5810",
+          "label": "trường hợp lao động nữ sinh đôi trở lên",
+          "attributes": {},
+          "type": "CONDITION"
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_00423",
+    "chunk_type": "clause",
+    "content_with_context": "Chương 10, Điều 139:\nTrong thời gian nghỉ thai sản, lao động nữ được hưởng chế độ thai sản theo quy định của pháp luật về bảo hiểm xã hội.",
+    "rrf_score": 0.032018442622950824,
+    "graph": {
+      "article_id": "ch10_d139",
+      "article_title": "Nghỉ thai sản",
+      "clause_id": "ch10_d139_k2",
+      "entities": [
+        {
+          "id": "ent_5829",
+          "label": "cơ sở khám bệnh, chữa bệnh có thẩm quyền",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_5828",
+          "label": "04 tháng",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_5825",
+          "label": "khoản 1 điều 139",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_5826",
+          "label": "khoản 1 điều 139",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_5827",
+          "label": "điều 139",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_5824",
+          "label": "khoản 1 điều 139",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_00425",
+    "chunk_type": "clause",
+    "content_with_context": "Chương 10, Điều 139:\nTrước khi hết thời gian nghỉ thai sản theo quy định tại khoản 1 Điều này, lao động nữ có thể trở lại làm việc khi đã nghỉ ít nhất được 04 tháng nhưng người lao động phải báo trước, được người sử dụng lao động đồng ý và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền về việc đi làm sớm không có hại cho sức khỏe của người lao động. Trong trường hợp này, ngoài tiền lương của những ngày làm việc do người sử dụng lao động trả, lao động nữ vẫn tiếp tục được hưởng trợ cấp thai sản theo quy định của pháp luật về bảo hiểm xã hội.",
+    "rrf_score": 0.031754032258064516,
+    "graph": {
+      "article_id": "ch10_d139",
+      "article_title": "Nghỉ thai sản",
+      "clause_id": "ch10_d139_k4",
+      "entities": [
+        {
+          "id": "ent_5859",
+          "label": "lao động nam",
+          "attributes": "[\"nam\"]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_5855",
+          "label": "06 tháng",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_5865",
+          "label": "mang thai hộ",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5866",
+          "label": "mang thai hộ",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5848",
+          "label": "trợ cấp",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5853",
+          "label": "điều 139",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_5852",
+          "label": "khoản 1 điều 139",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_5861",
+          "label": "xã hội",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_5846",
+          "label": "trợ cấp thai sản",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5847",
+          "label": "tiền lương",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5862",
+          "label": "được nghỉ việc hưởng chế độ thai sản",
+          "attributes": {},
+          "type": "RIGHT"
+        },
+        {
+          "id": "ent_5854",
+          "label": "phải báo trước, được người sử dụng lao động đồng ý và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền về việc đi làm sớm không có hại cho sức khỏe của người lao động",
           "attributes": {},
           "type": "OBLIGATION"
         },
         {
-          "id": "ent_579",
+          "id": "ent_5850",
+          "label": "khoản 1 điều 139",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_5842",
+          "label": "trước khi hết thời gian nghỉ thai sản theo",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5841",
+          "label": "trong trường hợp này, ngoài tiền lương của những ngày làm việc do người sử dụng lao động trả, lao động nữ vẫn tiếp tục được hưởng trợ cấp thai sản",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5844",
+          "label": "bảo hiểm xã hội",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5860",
+          "label": "lao động nữ",
+          "attributes": "[\"nữ\"]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_5864",
+          "label": "nhận nuôi con nuôi dưới 06 tháng tuổi",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5849",
+          "label": "khoản 1 điều 139",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        },
+        {
+          "id": "ent_5856",
+          "label": "người mẹ",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_5845",
+          "label": "nghỉ thai sản",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5840",
+          "label": "trường hợp này, ngoài tiền lương của những ngày làm việc do người sử dụng lao động trả, lao động nữ vẫn tiếp tục được hưởng trợ cấp thai sản",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5863",
+          "label": "khi vợ sinh con",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5843",
+          "label": "trả",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5851",
+          "label": "theo quy định của pháp luật về bảo hiểm xã hội",
+          "attributes": {},
+          "type": "LEGAL_REF"
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_00424",
+    "chunk_type": "clause",
+    "content_with_context": "Chương 10, Điều 139:\nHết thời gian nghỉ thai sản theo quy định tại khoản 1 Điều này, nếu có nhu cầu, lao động nữ có thể nghỉ thêm một thời gian không hưởng lương sau khi thỏa thuận với người sử dụng lao động.",
+    "rrf_score": 0.0315136476426799,
+    "graph": {
+      "article_id": "ch10_d139",
+      "article_title": "Nghỉ thai sản",
+      "clause_id": "ch10_d139_k3",
+      "entities": [
+        {
+          "id": "ent_5835",
+          "label": "lao động nữ",
+          "attributes": "[\"nữ\"]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_5838",
+          "label": "được hưởng trợ cấp thai sản",
+          "attributes": {},
+          "type": "RIGHT"
+        },
+        {
+          "id": "ent_5837",
+          "label": "quyền về việc đi làm sớm không có hại cho sức khỏe của người lao động",
+          "attributes": {},
+          "type": "RIGHT"
+        },
+        {
+          "id": "ent_5836",
+          "label": "xã hội",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_5839",
+          "label": "được người sử dụng lao động đồng ý và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền về việc đi làm sớm không có hại cho sức khỏe của người lao động",
+          "attributes": {},
+          "type": "RIGHT"
+        },
+        {
+          "id": "ent_5831",
           "label": "người sử dụng lao động",
           "attributes": "[]",
           "type": "LEGAL_ROLE"
         },
         {
-          "id": "ent_583",
-          "label": "giao kết",
-          "attributes": {},
-          "type": "ACTION"
+          "id": "ent_5830",
+          "label": "người sử dụng lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
         },
         {
-          "id": "ent_586",
-          "label": "hợp đồng lao động",
+          "id": "ent_5834",
+          "label": "lao động nữ",
+          "attributes": "[\"nữ\"]",
+          "type": "LEGAL_ROLE"
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_00419",
+    "chunk_type": "clause",
+    "content_with_context": "Chương 10, Điều 137:\nLao động nữ trong thời gian hành kinh được nghỉ mỗi ngày 30 phút, trong thời gian nuôi con dưới 12 tháng tuổi được nghỉ mỗi ngày 60 phút trong thời gian làm việc. Thời gian nghỉ vẫn được hưởng đủ tiền lương theo hợp đồng lao động.",
+    "rrf_score": 0.030798389007344232,
+    "graph": {
+      "article_id": "ch10_d137",
+      "article_title": "Bảo vệ thai sản",
+      "clause_id": "ch10_d137_k4",
+      "entities": [
+        {
+          "id": "ent_5752",
+          "label": "trường hợp đơn phương chấm dứt hợp đồng lao động hoặc tạm hoãn thực hiện hợp đồng lao động",
           "attributes": {},
-          "type": "LEGAL_CONCEPT"
+          "type": "CONDITION"
         },
         {
-          "id": "ent_591",
-          "label": "điều 14",
+          "id": "ent_5749",
+          "label": "trường hợp đơn phương chấm dứt hợp đồng lao động hoặc tạm hoãn thực hiện hợp đồng lao động",
           "attributes": {},
-          "type": "LEGAL_REF"
+          "type": "CONDITION"
         },
         {
-          "id": "ent_588",
-          "label": "khoản 2 điều 14",
+          "id": "ent_5750",
+          "label": "nếu có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền về việc tiếp tục làm việc sẽ ảnh hưởng xấu tới thai nhi",
           "attributes": {},
-          "type": "LEGAL_REF"
+          "type": "CONDITION"
         },
         {
-          "id": "ent_581",
-          "label": "được làm thành 02 bản, người lao động giữ 01 bản, người sử dụng lao động giữ 01 bản",
+          "id": "ent_5745",
+          "label": "thì có quyền đơn phương chấm dứt hợp đồng lao động hoặc tạm hoãn thực hiện hợp đồng lao động",
+          "attributes": {},
+          "type": "RIGHT"
+        },
+        {
+          "id": "ent_5746",
+          "label": "có quyền đơn phương chấm dứt hợp đồng lao động hoặc tạm hoãn thực hiện hợp đồng lao động",
+          "attributes": {},
+          "type": "RIGHT"
+        },
+        {
+          "id": "ent_5748",
+          "label": "quyền về việc tiếp tục làm việc sẽ ảnh hưởng xấu tới thai nhi",
+          "attributes": {},
+          "type": "RIGHT"
+        },
+        {
+          "id": "ent_5751",
+          "label": "trường hợp đơn phương chấm dứt hợp đồng lao động hoặc tạm hoãn thực hiện hợp đồng lao động thì phải thông báo cho người sử dụng lao động kèm theo xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền về việc tiếp tục làm việc sẽ ảnh hưởng xấu tới thai nhi",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5747",
+          "label": "quyền về việc tiếp tục làm việc sẽ ảnh hưởng xấu tới thai nhi thì có quyền đơn phương chấm dứt hợp đồng lao động hoặc tạm hoãn thực hiện hợp đồng lao động",
           "attributes": {},
           "type": "RIGHT"
         }
@@ -91,885 +449,581 @@
     }
   },
   {
-    "chunk_id": "chunk_00608",
+    "chunk_id": "chunk_00124",
     "chunk_type": "clause",
-    "content_with_context": "Chương 14, Mục 4, Điều 196:\nTrường hợp hòa giải thành, biên bản hòa giải thành phải bao gồm đầy đủ nội dung các bên đã đạt được thỏa thuận, có chữ ký của các bên tranh chấp và hòa giải viên lao động. Biên bản hòa giải thành có giá trị pháp lý như thỏa ước lao động tập thể của doanh nghiệp.",
-    "rrf_score": 0.03125,
+    "content_with_context": "Chương 3, Mục 3, Điều 37:\nNgười lao động nữ mang thai; người lao động đang nghỉ thai sản hoặc nuôi con dưới 12 tháng tuổi.",
+    "rrf_score": 0.030090497737556562,
     "graph": {
-      "article_id": "ch14_muc4_d196",
-      "article_title": "Trình tự, thủ tục giải quyết tranh chấp lao động tập thể về lợi ích",
-      "clause_id": "ch14_muc4_d196_k2",
+      "article_id": "ch3_muc3_d37",
+      "article_title": "Trường hợp người sử dụng lao động không được thực hiện quyền đơn phương chấm dứt hợp đồng lao động",
+      "clause_id": "ch3_muc3_d37_k3",
       "entities": [
         {
-          "id": "ent_8273",
-          "label": "hòa giải viên lao động",
-          "attributes": "[]",
+          "id": "ent_1957",
+          "label": "người lao động đang nghỉ thai sản hoặc nuôi con dưới 12 tháng tuổi",
+          "attributes": {},
+          "type": "PROHIBITION"
+        },
+        {
+          "id": "ent_1952",
+          "label": "lao động nữ",
+          "attributes": "[\"nữ\"]",
           "type": "LEGAL_ROLE"
         },
         {
-          "id": "ent_8270",
-          "label": "phải bao gồm đầy đủ nội dung các bên đã đạt được thỏa thuận, có chữ ký của các bên tranh chấp và hòa giải viên lao động",
-          "attributes": {},
-          "type": "OBLIGATION"
+          "id": "ent_1949",
+          "label": "người lao động nữ",
+          "attributes": "[\"nữ\"]",
+          "type": "LEGAL_ROLE"
         },
         {
-          "id": "ent_8269",
-          "label": "tranh chấp",
+          "id": "ent_1958",
+          "label": "không được trợ cấp thôi việc",
+          "attributes": {},
+          "type": "PROHIBITION"
+        },
+        {
+          "id": "ent_1955",
+          "label": "nghỉ thai sản",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_8267",
-          "label": "trường hợp hòa giải thành, biên bản hòa giải thành phải bao gồm đầy đủ nội dung các bên đã đạt được thỏa thuận, có chữ ký của các bên tranh chấp và hòa giải viên lao động",
+          "id": "ent_1959",
+          "label": "được trợ cấp thôi việc",
+          "attributes": {},
+          "type": "RIGHT"
+        },
+        {
+          "id": "ent_1953",
+          "label": "nuôi con dưới 12 tháng tuổi",
           "attributes": {},
           "type": "CONDITION"
         },
         {
-          "id": "ent_8275",
-          "label": "bên tranh chấp",
-          "attributes": "[]",
+          "id": "ent_1948",
+          "label": "người lao động đang nghỉ thai sản hoặc nuôi con dưới 12 tháng tuổi",
+          "attributes": "[\"nuôi con dưới 12 tháng tuổi\", \"đang nghỉ thai sản\"]",
           "type": "LEGAL_ROLE"
         },
         {
-          "id": "ent_8272",
-          "label": "hội đồng trọng tài lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
+          "id": "ent_1954",
+          "label": "mang thai",
+          "attributes": {},
+          "type": "CONDITION"
         },
         {
-          "id": "ent_8271",
-          "label": "tổ chức đại diện người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8274",
-          "label": "các bên tranh chấp",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
+          "id": "ent_1956",
+          "label": "người lao động nữ mang thai",
+          "attributes": {},
+          "type": "PROHIBITION"
         }
       ]
     }
   },
   {
-    "chunk_id": "chunk_00073",
+    "chunk_id": "chunk_00427",
     "chunk_type": "full_article",
-    "content_with_context": "Chương 3, Mục 1, Điều 23:\nHiệu lực của hợp đồng lao động Hợp đồng lao động có hiệu lực kể từ ngày hai bên giao kết, trừ trường hợp hai bên có thỏa thuận hoặc pháp luật có quy định khác.",
-    "rrf_score": 0.031099324975891997,
+    "content_with_context": "Chương 10, Điều 140:\nBảo đảm việc làm cho lao động nghỉ thai sản Lao động được bảo đảm việc làm cũ khi trở lại làm việc sau khi nghỉ hết thời gian theo quy định tại các khoản 1, 3 và 5  của Bộ luật này mà không bị cắt giảm tiền lương và quyền, lợi ích so với trước khi nghỉ thai sản; trường hợp việc làm cũ không còn thì người sử dụng lao động phải bố trí việc làm khác cho họ với mức lương không thấp hơn mức lương trước khi nghỉ thai sản.",
+    "rrf_score": 0.02964426877470356,
     "graph": {
-      "article_id": "ch3_muc1_d23",
-      "article_title": "Hiệu lực của hợp đồng lao động Hợp đồng lao động có hiệu lực kể từ ngày hai bên giao kết, trừ trường hợp hai bên có thỏa thuận hoặc pháp luật có quy định khác.",
+      "article_id": "ch10_d140",
+      "article_title": "Bảo đảm việc làm cho lao động nghỉ thai sản Lao động được bảo đảm việc làm cũ khi trở lại làm việc sau khi nghỉ hết thời gian theo quy định tại các khoản 1, 3 và 5  của Bộ luật này mà không bị cắt giảm tiền lương và quyền, lợi ích so với trước khi nghỉ thai sản; trường hợp việc làm cũ không còn thì người sử dụng lao động phải bố trí việc làm khác cho họ với mức lương không thấp hơn mức lương trước khi nghỉ thai sản.",
       "clause_id": null,
       "entities": []
     }
   },
   {
-    "chunk_id": "chunk_00580",
+    "chunk_id": "chunk_00426",
     "chunk_type": "clause",
-    "content_with_context": "Chương 14, Mục 2, Điều 188:\nBản sao biên bản hòa giải thành hoặc hòa giải không thành phải được gửi cho các bên tranh chấp trong thời hạn 01 ngày làm việc kể từ ngày lập biên bản.",
-    "rrf_score": 0.029877369007803793,
+    "content_with_context": "Chương 10, Điều 139:\nLao động nam khi vợ sinh con, người lao động nhận nuôi con nuôi dưới 06 tháng tuổi, lao động nữ mang thai hộ và người lao động là người mẹ nhờ mang thai hộ được nghỉ việc hưởng chế độ thai sản theo quy định của pháp luật về bảo hiểm xã hội.",
+    "rrf_score": 0.029418126757516764,
     "graph": {
-      "article_id": "ch14_muc2_d188",
-      "article_title": "Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động",
-      "clause_id": "ch14_muc2_d188_k5",
+      "article_id": "ch10_d139",
+      "article_title": "Nghỉ thai sản",
+      "clause_id": "ch10_d139_k5",
       "entities": [
         {
-          "id": "ent_7801",
-          "label": "hội đồng trọng tài lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_7805",
-          "label": "quyền yêu cầu hội đồng trọng tài lao động hoặc tòa án giải quyết",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_7804",
-          "label": "có quyền yêu cầu hội đồng trọng tài lao động hoặc tòa án giải quyết",
-          "attributes": {},
-          "type": "RIGHT"
-        },
-        {
-          "id": "ent_7799",
-          "label": "tranh chấp",
+          "id": "ent_5871",
+          "label": "bảo hiểm xã hội",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_7798",
-          "label": "kể từ ngày lập biên bản",
+          "id": "ent_5877",
+          "label": "công việc",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5882",
+          "label": "cung cấp đầy đủ thông tin về tính chất nguy hiểm, nguy cơ, yêu cầu của công việc để người lao động lựa chọn và phải bảo đảm điều kiện an toàn, vệ sinh lao động cho người lao động",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5869",
+          "label": "nhờ mang thai hộ",
           "attributes": {},
           "type": "CONDITION"
         },
         {
-          "id": "ent_7800",
-          "label": "phải được gửi cho các bên tranh chấp trong thời hạn 01 ngày làm việc kể từ ngày lập biên bản",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_7802",
-          "label": "tòa án",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        }
-      ]
-    }
-  },
-  {
-    "chunk_id": "chunk_00562",
-    "chunk_type": "clause",
-    "content_with_context": "Chương 14, Mục 1, Điều 182:\nTrong giải quyết tranh chấp lao động, các bên có nghĩa vụ sau đây: a) Cung cấp đầy đủ, kịp thời tài liệu, chứng cứ để chứng minh cho yêu cầu của mình; b) Chấp hành thỏa thuận đã đạt được, quyết định của Ban trọng tài lao động, bản án, quyết định của Tòa án đã có hiệu lực pháp luật.",
-    "rrf_score": 0.02964254577157803,
-    "graph": {
-      "article_id": "ch14_muc1_d182",
-      "article_title": "Quyền và nghĩa vụ của hai bên trong giải quyết tranh chấp lao động",
-      "clause_id": "ch14_muc1_d182_k2",
-      "entities": [
-        {
-          "id": "ent_7388",
-          "label": "có nghĩa vụ sau đây",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_7383",
-          "label": "giải quyết tranh chấp lao động, các bên có nghĩa vụ sau đây",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_7384",
-          "label": "cung cấp đầy đủ, kịp thời tài liệu, chứng cứ để chứng minh cho yêu cầu của mình",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_7391",
-          "label": "cung cấp đầy đủ, kịp thời tài liệu, chứng cứ để chứng minh cho yêu cầu của mình",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_7393",
-          "label": "tòa án",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_7382",
-          "label": "cung cấp đầy đủ, kịp thời tài liệu, chứng cứ để chứng minh cho yêu cầu của mình",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_7390",
-          "label": "cung cấp đầy đủ, kịp thời tài liệu, chứng cứ để chứng minh cho yêu cầu của mình",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_7381",
-          "label": "yêu cầu của mình",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_7387",
-          "label": "nghĩa vụ",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_7389",
-          "label": "yêu cầu của mình",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_7392",
-          "label": "ban trọng tài lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        }
-      ]
-    }
-  },
-  {
-    "chunk_id": "chunk_00255",
-    "chunk_type": "clause",
-    "content_with_context": "Chương 5, Mục 3, Điều 78:\nNgày có hiệu lực của thỏa ước lao động tập thể do các bên thỏa thuận và được ghi trong thỏa ước. Trường hợp các bên không thỏa thuận ngày có hiệu lực thì thỏa ước lao động tập thể có hiệu lực kể từ ngày ký kết. Thỏa ước lao động tập thể sau khi có hiệu lực phải được các bên tôn trọng thực hiện.",
-    "rrf_score": 0.02900988017658188,
-    "graph": {
-      "article_id": "ch5_muc3_d78",
-      "article_title": "Hiệu lực và thời hạn của thỏa ước lao động tập thể",
-      "clause_id": "ch5_muc3_d78_k1",
-      "entities": [
-        {
-          "id": "ent_3855",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_3860",
-          "label": "doanh nghiệp",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_3851",
-          "label": "toàn bộ người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_3852",
-          "label": "người lao động của các doanh nghiệp tham gia thỏa ước lao động tập thể",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_3850",
-          "label": "toàn bộ người lao động của doanh nghiệp",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_3847",
-          "label": "thỏa ước lao động tập thể",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_3848",
-          "label": "phải được các bên tôn trọng thực hiện",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_3849",
-          "label": "toàn bộ người sử dụng lao động và người lao động của các doanh nghiệp tham gia thỏa ước lao động tập thể",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_3854",
-          "label": "người sử dụng lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_3857",
+          "id": "ent_5880",
           "label": "người lao động",
           "attributes": "[]",
           "type": "LEGAL_ROLE"
         },
         {
-          "id": "ent_3856",
-          "label": "người lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_3853",
-          "label": "người lao động của doanh nghiệp",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        }
-      ]
-    }
-  },
-  {
-    "chunk_id": "chunk_00579",
-    "chunk_type": "clause",
-    "content_with_context": "Chương 14, Mục 2, Điều 188:\nHòa giải viên lao động có trách nhiệm hướng dẫn, hỗ trợ các bên thương lượng để giải quyết tranh chấp. Trường hợp các bên thỏa thuận được, hòa giải viên lao động lập biên bản hòa giải thành. Biên bản hòa giải thành phải có chữ ký của các bên tranh chấp và hòa giải viên lao động. Trường hợp các bên không thỏa thuận được, hòa giải viên lao động đưa ra phương án hòa giải để các bên xem xét. Trường hợp các bên chấp nhận phương án hòa giải thì hòa giải viên lao động lập biên bản hòa giải thành. Biên bản hòa giải thành phải có chữ ký của các bên tranh chấp và hòa giải viên lao động. Trường hợp phương án hòa giải không được chấp nhận hoặc có bên tranh chấp đã được triệu tập hợp lệ đến lần thứ hai mà vẫn vắng mặt không có lý do chính đáng thì hòa giải viên lao động lập biên bản hòa giải không thành. Biên bản hòa giải không thành phải có chữ ký của bên tranh chấp có mặt và hòa giải viên lao động.",
-    "rrf_score": 0.028814262023217248,
-    "graph": {
-      "article_id": "ch14_muc2_d188",
-      "article_title": "Trình tự, thủ tục hòa giải tranh chấp lao động cá nhân của hòa giải viên lao động",
-      "clause_id": "ch14_muc2_d188_k4",
-      "entities": [
-        {
-          "id": "ent_7750",
-          "label": "hòa giải viên lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_7756",
-          "label": "bên tranh chấp",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_7772",
-          "label": "trường hợp các bên chấp nhận phương án hòa giải thì hòa giải viên lao động lập biên bản hòa giải thành",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_7751",
-          "label": "các bên tranh chấp",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_7792",
-          "label": "trong thời hạn 01 ngày làm việc kể từ ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_7785",
-          "label": "tranh chấp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_7787",
-          "label": "tranh chấp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_7781",
-          "label": "lập biên bản hòa giải không thành",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_7779",
-          "label": "lập biên bản hòa giải thành",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_7791",
-          "label": "phải có chữ ký của bên tranh chấp có mặt và hòa giải viên lao động",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_7777",
-          "label": "thỏa thuận được, hòa giải viên lao động lập biên bản hòa giải thành",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_7776",
-          "label": "thương lượng để giải quyết tranh chấp",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_7753",
-          "label": "bên tranh chấp",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_7748",
-          "label": "hòa giải viên lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_7760",
-          "label": "các bên",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_7766",
-          "label": "biên bản hòa giải thành phải có chữ ký của các bên tranh chấp và hòa giải viên lao động",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_7752",
-          "label": "các bên tranh chấp",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_7778",
-          "label": "thỏa thuận được, hòa giải viên lao động đưa ra phương án hòa giải để các bên xem xét",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_7770",
-          "label": "trường hợp các bên thỏa thuận được, hòa giải viên lao động lập biên bản hòa giải thành",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_7765",
-          "label": "trường hợp các bên thỏa thuận được, hòa giải viên lao động lập biên bản hòa giải thành",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_7771",
-          "label": "trường hợp các bên không thỏa thuận được, hòa giải viên lao động đưa ra phương án hòa giải để các bên xem xét",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_7755",
-          "label": "bên tranh chấp",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_7784",
-          "label": "tranh chấp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_7782",
-          "label": "giải quyết",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_7790",
-          "label": "phải có chữ ký của các bên tranh chấp và hòa giải viên lao động",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_7795",
-          "label": "các bên tranh chấp",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_7774",
-          "label": "trường hợp các bên chấp nhận phương án hòa giải",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_7764",
-          "label": "không được chấp nhận hoặc có bên tranh chấp đã được triệu tập hợp lệ đến lần thứ hai mà vẫn vắng mặt không có lý do chính đáng thì hòa giải viên lao động lập biên bản hòa giải không thành",
-          "attributes": {},
-          "type": "PROHIBITION"
-        },
-        {
-          "id": "ent_7763",
-          "label": "các bên",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_7796",
-          "label": "bên tranh chấp",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_7759",
-          "label": "các bên",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_7749",
-          "label": "hòa giải viên lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_7789",
-          "label": "phải có chữ ký của các bên tranh chấp và hòa giải viên lao động",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_7758",
-          "label": "các bên",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_7786",
-          "label": "tranh chấp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_7762",
-          "label": "các bên",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_7793",
-          "label": "trong thời hạn 01 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_7767",
-          "label": "trường hợp các bên không thỏa thuận được, hòa giải viên lao động đưa ra phương án hòa giải để các bên xem xét",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_7754",
-          "label": "bên tranh chấp",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_7769",
-          "label": "trường hợp phương án hòa giải không được chấp nhận hoặc có bên tranh chấp đã được triệu tập hợp lệ đến lần thứ hai mà vẫn vắng mặt không có lý do chính đáng",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_7783",
-          "label": "giải quyết tranh chấp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_7794",
-          "label": "01 ngày",
-          "attributes": {},
-          "type": "TIME_PERIOD"
-        },
-        {
-          "id": "ent_7788",
-          "label": "có trách nhiệm hướng dẫn, hỗ trợ các bên thương lượng để giải quyết tranh chấp",
-          "attributes": {},
-          "type": "OBLIGATION"
-        },
-        {
-          "id": "ent_7780",
-          "label": "lập biên bản hòa giải thành",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_7773",
-          "label": "trường hợp phương án hòa giải không được chấp nhận hoặc có bên tranh chấp đã được triệu tập hợp lệ đến lần thứ hai mà vẫn vắng mặt không có lý do chính đáng thì hòa giải viên lao động lập biên bản hòa giải không thành",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_7775",
-          "label": "trường hợp phương án hòa giải không được chấp nhận hoặc có bên tranh chấp đã được triệu tập hợp lệ đến lần thứ hai mà vẫn vắng mặt không có lý do chính đáng",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_7768",
-          "label": "trường hợp các bên chấp nhận phương án hòa giải",
-          "attributes": {},
-          "type": "CONDITION"
-        }
-      ]
-    }
-  },
-  {
-    "chunk_id": "chunk_00233",
-    "chunk_type": "clause",
-    "content_with_context": "Chương 5, Mục 2, Điều 71:\nKhi thương lượng không thành, các bên thương lượng tiến hành thủ tục giải quyết tranh chấp lao động theo quy định của Bộ luật này. Trong khi đang giải quyết tranh chấp lao động, tổ chức đại diện người lao động không được tổ chức đình công.",
-    "rrf_score": 0.027056277056277056,
-    "graph": {
-      "article_id": "ch5_muc2_d71",
-      "article_title": "Thương lượng tập thể không thành",
-      "clause_id": "ch5_muc2_d71_k2",
-      "entities": [
-        {
-          "id": "ent_3530",
-          "label": "thương lượng không thành, các bên thương lượng tiến hành thủ tục giải quyết tranh chấp lao động",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_3531",
-          "label": "giải quyết tranh chấp lao động",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_3543",
-          "label": "thực hiện",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_3540",
-          "label": "doanh nghiệp",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_3532",
-          "label": "giải quyết tranh chấp lao động, tổ chức đại diện người lao động không được tổ chức đình công",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_3533",
-          "label": "giải quyết",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_3537",
-          "label": "theo quy định của bộ luật lao động",
+          "id": "ent_5872",
+          "label": "theo quy định của pháp luật về bảo hiểm xã hội",
           "attributes": {},
           "type": "LEGAL_REF"
         },
         {
-          "id": "ent_3544",
-          "label": "thương lượng tập thể",
+          "id": "ent_5867",
+          "label": "mang thai",
           "attributes": {},
-          "type": "LEGAL_CONCEPT"
+          "type": "CONDITION"
         },
         {
-          "id": "ent_3539",
-          "label": "thủ tục giải quyết tranh chấp lao động",
+          "id": "ent_5876",
+          "label": "có ảnh hưởng xấu tới chức năng sinh sản và nuôi con",
           "attributes": {},
-          "type": "PROCEDURE"
+          "type": "CONDITION"
         },
         {
-          "id": "ent_3538",
+          "id": "ent_5870",
+          "label": "nghỉ việc",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5868",
+          "label": "mang thai",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5884",
+          "label": "lựa chọn",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5883",
+          "label": "bảo đảm điều kiện an toàn, vệ sinh lao động cho người lao động",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5881",
+          "label": "yêu cầu của công việc để người lao động lựa chọn và phải bảo đảm điều kiện an toàn, vệ sinh lao động cho người lao động",
+          "attributes": {},
+          "type": "ACTION"
+        }
+      ]
+    }
+  },
+  {
+    "chunk_id": "chunk_00373",
+    "chunk_type": "clause",
+    "content_with_context": "Chương 8, Mục 1, Điều 122:\nKhông được xử lý kỷ luật lao động đối với người lao động đang trong thời gian sau đây: a) Nghỉ ốm đau, điều dưỡng; nghỉ việc được sự đồng ý của người sử dụng lao động; b) Đang bị tạm giữ, tạm giam; c) Đang chờ kết quả của cơ quan có thẩm quyền điều tra xác minh và kết luận đối với hành vi vi phạm được quy định tại khoản 1 và khoản 2 Điều 125 của Bộ luật này; d) Người lao động nữ mang thai; người lao động nghỉ thai sản, nuôi con dưới 12 tháng tuổi.",
+    "rrf_score": 0.02803921568627451,
+    "graph": {
+      "article_id": "ch8_muc1_d122",
+      "article_title": "Nguyên tắc, trình tự, thủ tục xử lý kỷ luật lao động",
+      "clause_id": "ch8_muc1_d122_k4",
+      "entities": [
+        {
+          "id": "ent_5316",
+          "label": "điều tra xác minh và kết luận đối với hành vi vi phạm được",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5299",
+          "label": "nuôi con dưới 12 tháng tuổi",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5296",
+          "label": "đối với người lao động đang trong thời gian sau đây",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5301",
+          "label": "điều tra xác minh và kết luận đối với hành vi vi phạm được",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5307",
           "label": "bộ luật lao động",
           "attributes": {},
           "type": "LEGAL_REF"
         },
         {
-          "id": "ent_3534",
-          "label": "giải quyết",
+          "id": "ent_5306",
+          "label": "khoản 2 điều 125 của bộ luật lao động",
           "attributes": {},
-          "type": "ACTION"
+          "type": "LEGAL_REF"
         },
         {
-          "id": "ent_3545",
-          "label": "thương lượng tập thể",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_3542",
-          "label": "thương lượng tập thể ngành, thương lượng tập thể có nhiều doanh nghiệp tham gia thực hiện",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_3536",
-          "label": "giải quyết tranh chấp",
+          "id": "ent_5310",
+          "label": "nghỉ ốm đau",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_3535",
-          "label": "giải quyết tranh chấp",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_3529",
-          "label": "không được tổ chức đình công",
+          "id": "ent_5312",
+          "label": "nghỉ việc được sự đồng ý của người sử dụng lao động",
           "attributes": {},
           "type": "PROHIBITION"
         },
         {
-          "id": "ent_3541",
-          "label": "nhiều doanh nghiệp",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        }
-      ]
-    }
-  },
-  {
-    "chunk_id": "chunk_00597",
-    "chunk_type": "clause",
-    "content_with_context": "Chương 14, Mục 3, Điều 193:\nTrong thời hạn 07 ngày làm việc kể từ ngày nhận được yêu cầu giải quyết tranh chấp theo quy định tại khoản 1 Điều này, Ban trọng tài lao động phải được thành lập để giải quyết tranh chấp.",
-    "rrf_score": 0.026856524873828405,
-    "graph": {
-      "article_id": "ch14_muc3_d193",
-      "article_title": "Giải quyết tranh chấp lao động tập thể về quyền của Hội đồng trọng tài lao động",
-      "clause_id": "ch14_muc3_d193_k2",
-      "entities": [
+          "id": "ent_5309",
+          "label": "nghỉ việc",
+          "attributes": {},
+          "type": "ACTION"
+        },
         {
-          "id": "ent_8121",
+          "id": "ent_5304",
+          "label": "nghỉ thai sản",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5297",
+          "label": "nghỉ ốm đau, điều dưỡng",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5314",
           "label": "cơ quan có thẩm quyền",
           "attributes": "[]",
           "type": "LEGAL_ROLE"
         },
         {
-          "id": "ent_8114",
-          "label": "khoản 1 điều 193",
+          "id": "ent_5317",
+          "label": "khoản 2 điều 125 của bộ luật lao động",
           "attributes": {},
           "type": "LEGAL_REF"
         },
         {
-          "id": "ent_8116",
-          "label": "khoản 1 điều 193",
+          "id": "ent_5313",
+          "label": "đang bị tạm giữ, tạm giam",
+          "attributes": {},
+          "type": "PROHIBITION"
+        },
+        {
+          "id": "ent_5311",
+          "label": "nghỉ ốm đau, điều dưỡng",
+          "attributes": {},
+          "type": "PROHIBITION"
+        },
+        {
+          "id": "ent_5305",
+          "label": "khoản 2 điều 125 của bộ luật lao động",
           "attributes": {},
           "type": "LEGAL_REF"
         },
         {
-          "id": "ent_8115",
-          "label": "khoản 1 điều 193",
+          "id": "ent_5298",
+          "label": "đối với hành vi vi phạm được",
           "attributes": {},
-          "type": "LEGAL_REF"
+          "type": "CONDITION"
         },
         {
-          "id": "ent_8122",
-          "label": "ban trọng tài lao động",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8123",
-          "label": "các bên tranh chấp",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_8117",
-          "label": "điều 193",
+          "id": "ent_5300",
+          "label": "mang thai",
           "attributes": {},
-          "type": "LEGAL_REF"
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5315",
+          "label": "đối với hành vi vi phạm được",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5303",
+          "label": "nghỉ ốm đau",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5302",
+          "label": "nghỉ việc",
+          "attributes": {},
+          "type": "ACTION"
         }
       ]
     }
   },
   {
-    "chunk_id": "chunk_00231",
+    "chunk_id": "chunk_00418",
     "chunk_type": "clause",
-    "content_with_context": "Chương 5, Mục 2, Điều 70:\nViệc thương lượng tập thể phải được lập biên bản, trong đó ghi rõ nội dung đã được các bên thống nhất, nội dung còn ý kiến khác nhau. Biên bản thương lượng tập thể phải có chữ ký của đại diện các bên thương lượng và của người ghi biên bản. Tổ chức đại diện người lao động tại cơ sở công bố rộng rãi, công khai biên bản thương lượng tập thể đến toàn bộ người lao động.",
-    "rrf_score": 0.026742581090407176,
+    "content_with_context": "Chương 10, Điều 137:\nNgười sử dụng lao động không được sa thải hoặc đơn phương chấm dứt hợp đồng lao động đối với người lao động vì lý do kết hôn, mang thai, nghỉ thai sản, nuôi con dưới 12 tháng tuổi, trừ trường hợp người sử dụng lao động là cá nhân chết, bị Tòa án tuyên bố mất năng lực hành vi dân sự, mất tích hoặc đã chết hoặc người sử dụng lao động không phải là cá nhân chấm dứt hoạt động hoặc bị cơ quan chuyên môn về đăng ký kinh doanh thuộc Ủy ban nhân dân cấp tỉnh ra thông báo không có người đại diện theo pháp luật, người được ủy quyền thực hiện quyền và nghĩa vụ của người đại diện theo pháp luật. Trường hợp hợp đồng lao động hết hạn trong thời gian lao động nữ mang thai hoặc nuôi con dưới 12 tháng tuổi thì được ưu tiên giao kết hợp đồng lao động mới.",
+    "rrf_score": 0.027106227106227107,
     "graph": {
-      "article_id": "ch5_muc2_d70",
-      "article_title": "Quy trình thương lượng tập thể tại doanh nghiệp",
-      "clause_id": "ch5_muc2_d70_k5",
+      "article_id": "ch10_d137",
+      "article_title": "Bảo vệ thai sản",
+      "clause_id": "ch10_d137_k3",
       "entities": [
         {
-          "id": "ent_3484",
-          "label": "các bên",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_3473",
-          "label": "thương lượng tập thể phải được lập biên bản, trong đó ghi rõ nội dung đã được các bên thống nhất, nội dung còn ý kiến khác nhau",
+          "id": "ent_5700",
+          "label": "không được sa thải hoặc đơn phương chấm dứt hợp đồng lao động đối với người lao động vì lý do kết hôn, mang thai, nghỉ thai sản, nuôi con dưới 12 tháng tuổi",
           "attributes": {},
-          "type": "ACTION"
+          "type": "PROHIBITION"
         },
         {
-          "id": "ent_3478",
-          "label": "thương lượng tập thể",
-          "attributes": {},
-          "type": "LEGAL_CONCEPT"
-        },
-        {
-          "id": "ent_3485",
-          "label": "trường hợp sau đây",
+          "id": "ent_5708",
+          "label": "trường hợp người sử dụng lao động là cá nhân chết, bị tòa án tuyên bố mất năng lực hành vi dân sự, mất tích hoặc đã chết hoặc người sử dụng lao động không phải là cá nhân chấm dứt hoạt động hoặc bị cơ quan chuyên môn về đăng ký kinh doanh thuộc ủy ban nhân dân cấp tỉnh ra thông báo không có người đại diện theo pháp luật, người được ủy quyền thực hiện quyền và nghĩa vụ của người đại diện theo pháp luật",
           "attributes": {},
           "type": "CONDITION"
         },
         {
-          "id": "ent_3482",
-          "label": "phải có chữ ký của đại diện các bên thương lượng và của người ghi biên bản",
+          "id": "ent_5737",
+          "label": "được hưởng đủ tiền lương theo hợp đồng lao động",
+          "attributes": {},
+          "type": "RIGHT"
+        },
+        {
+          "id": "ent_5719",
+          "label": "thực hiện",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5714",
+          "label": "nuôi con dưới 12 tháng tuổi",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5742",
+          "label": "cơ sở khám bệnh, chữa bệnh có thẩm quyền",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_5698",
+          "label": "cá nhân",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_5738",
+          "label": "nuôi con dưới 12 tháng tuổi",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5702",
+          "label": "trường hợp người sử dụng lao động là cá nhân chết, bị tòa án tuyên bố mất năng lực hành vi dân sự, mất tích hoặc đã chết hoặc người sử dụng lao động không phải là cá nhân chấm dứt hoạt động hoặc bị cơ quan chuyên môn về đăng ký kinh doanh thuộc ủy ban nhân dân cấp tỉnh ra thông báo không có người đại diện theo pháp luật, người được ủy quyền thực hiện quyền và nghĩa vụ của người đại diện theo pháp luật",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5732",
+          "label": "30 phút",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_5723",
+          "label": "hợp đồng lao động",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5710",
+          "label": "người sử dụng lao động là cá nhân chết, bị tòa án tuyên bố mất năng lực hành vi dân sự, mất tích hoặc đã chết hoặc người sử dụng lao động không phải là cá nhân chấm dứt hoạt động hoặc bị cơ quan chuyên môn về đăng ký kinh doanh thuộc ủy ban nhân dân cấp tỉnh ra thông báo không có người đại diện theo pháp luật, người được ủy quyền thực hiện quyền và nghĩa vụ của người đại diện theo pháp luật",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5731",
+          "label": "đăng ký",
+          "attributes": {},
+          "type": "PROCEDURE"
+        },
+        {
+          "id": "ent_5743",
+          "label": "người sử dụng lao động",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_5699",
+          "label": "cá nhân",
+          "attributes": "[]",
+          "type": "LEGAL_ROLE"
+        },
+        {
+          "id": "ent_5704",
+          "label": "người sử dụng lao động là cá nhân chết, bị tòa án tuyên bố mất năng lực hành vi dân sự, mất tích hoặc đã chết hoặc người sử dụng lao động không phải là cá nhân chấm dứt hoạt động hoặc bị cơ quan chuyên môn về đăng ký kinh doanh thuộc ủy ban nhân dân cấp tỉnh ra thông báo không có người đại diện theo pháp luật, người được ủy quyền thực hiện quyền và nghĩa vụ của người đại diện theo pháp luật",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5717",
+          "label": "mang thai",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5725",
+          "label": "nghỉ thai sản",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5711",
+          "label": "đối với người lao động vì lý do kết hôn, mang thai, nghỉ thai sản, nuôi con dưới 12 tháng tuổi, trừ trường hợp người sử dụng lao động là cá nhân chết, bị tòa án tuyên bố mất năng lực hành vi dân sự, mất tích hoặc đã chết hoặc người sử dụng lao động không phải là cá nhân chấm dứt hoạt động hoặc bị cơ quan chuyên môn về đăng ký kinh doanh thuộc ủy ban nhân dân cấp tỉnh ra thông báo không có người đại diện theo pháp luật, người được ủy quyền thực hiện quyền và nghĩa vụ của người đại diện theo pháp luật",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5722",
+          "label": "hợp đồng lao động",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5720",
+          "label": "thông báo không có người đại diện theo pháp luật, người được ủy quyền thực hiện quyền và nghĩa vụ của người đại diện theo pháp luật",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5712",
+          "label": "trường hợp hợp đồng lao động hết hạn trong thời gian lao động nữ mang thai hoặc nuôi con dưới 12 tháng tuổi",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5734",
+          "label": "60 phút",
+          "attributes": {},
+          "type": "TIME_PERIOD"
+        },
+        {
+          "id": "ent_5730",
+          "label": "không phải là cá nhân chấm dứt hoạt động hoặc bị cơ quan chuyên môn về đăng ký kinh doanh thuộc ủy ban nhân dân cấp tỉnh ra thông báo không có người đại diện theo pháp luật, người được ủy quyền thực hiện quyền và nghĩa vụ của người đại diện theo pháp luật",
           "attributes": {},
           "type": "OBLIGATION"
         },
         {
-          "id": "ent_3483",
-          "label": "các bên",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_3487",
-          "label": "trong thời hạn",
-          "attributes": {},
-          "type": "CONDITION"
-        },
-        {
-          "id": "ent_3481",
-          "label": "phải được lập biên bản, trong đó ghi rõ nội dung đã được các bên thống nhất, nội dung còn ý kiến khác nhau",
+          "id": "ent_5729",
+          "label": "phải là cá nhân chấm dứt hoạt động hoặc bị cơ quan chuyên môn về đăng ký kinh doanh thuộc ủy ban nhân dân cấp tỉnh ra thông báo không có người đại diện theo pháp luật, người được ủy quyền thực hiện quyền và nghĩa vụ của người đại diện theo pháp luật",
           "attributes": {},
           "type": "OBLIGATION"
         },
         {
-          "id": "ent_3486",
-          "label": "một bên từ chối thương lượng hoặc không tiến hành thương lượng trong thời hạn",
+          "id": "ent_5709",
+          "label": "trường hợp hợp đồng lao động hết hạn trong thời gian lao động nữ mang thai hoặc nuôi con dưới 12 tháng tuổi thì được ưu tiên giao kết hợp đồng lao động mới",
           "attributes": {},
           "type": "CONDITION"
         },
         {
-          "id": "ent_3474",
-          "label": "thương lượng tập thể phải có chữ ký của đại diện các bên thương lượng và của người ghi biên bản",
+          "id": "ent_5721",
+          "label": "giao kết",
           "attributes": {},
           "type": "ACTION"
         },
         {
-          "id": "ent_3479",
-          "label": "thương lượng tập thể",
+          "id": "ent_5724",
+          "label": "hợp đồng lao động",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_3480",
-          "label": "thương lượng tập thể",
+          "id": "ent_5705",
+          "label": "trường hợp hợp đồng lao động hết hạn trong thời gian lao động nữ mang thai hoặc nuôi con dưới 12 tháng tuổi",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5707",
+          "label": "trường hợp hợp đồng lao động hết hạn trong thời gian lao động nữ mang thai hoặc nuôi con dưới 12 tháng tuổi",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5726",
+          "label": "quyền và nghĩa vụ",
           "attributes": {},
           "type": "LEGAL_CONCEPT"
         },
         {
-          "id": "ent_3470",
-          "label": "tổ chức",
+          "id": "ent_5713",
+          "label": "nuôi con dưới 12 tháng tuổi",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5728",
+          "label": "nghĩa vụ",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5716",
+          "label": "mang thai",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5727",
+          "label": "chấm dứt hợp đồng lao động",
+          "attributes": {},
+          "type": "LEGAL_CONCEPT"
+        },
+        {
+          "id": "ent_5703",
+          "label": "trường hợp hợp đồng lao động hết hạn trong thời gian lao động nữ mang thai hoặc nuôi con dưới 12 tháng tuổi",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5701",
+          "label": "thì được ưu tiên giao kết hợp đồng lao động mới",
+          "attributes": {},
+          "type": "RIGHT"
+        },
+        {
+          "id": "ent_5718",
+          "label": "đơn phương chấm dứt hợp đồng lao động đối với người lao động vì lý do kết hôn, mang thai, nghỉ thai sản, nuôi con dưới 12 tháng tuổi",
+          "attributes": {},
+          "type": "ACTION"
+        },
+        {
+          "id": "ent_5706",
+          "label": "đối với người lao động vì lý do kết hôn, mang thai, nghỉ thai sản, nuôi con dưới 12 tháng tuổi, trừ trường hợp người sử dụng lao động là cá nhân chết, bị tòa án tuyên bố mất năng lực hành vi dân sự, mất tích hoặc đã chết hoặc người sử dụng lao động không phải là cá nhân chấm dứt hoạt động hoặc bị cơ quan chuyên môn về đăng ký kinh doanh thuộc ủy ban nhân dân cấp tỉnh ra thông báo không có người đại diện theo pháp luật, người được ủy quyền thực hiện quyền và nghĩa vụ của người đại diện theo pháp luật",
+          "attributes": {},
+          "type": "CONDITION"
+        },
+        {
+          "id": "ent_5741",
+          "label": "cơ sở khám bệnh, chữa bệnh có thẩm quyền",
           "attributes": "[]",
           "type": "LEGAL_ROLE"
         },
         {
-          "id": "ent_3477",
-          "label": "công bố rộng rãi",
+          "id": "ent_5715",
+          "label": "hết hạn",
           "attributes": {},
-          "type": "ACTION"
+          "type": "CONDITION"
         },
         {
-          "id": "ent_3476",
-          "label": "công khai biên bản",
+          "id": "ent_5736",
+          "label": "được nghỉ mỗi ngày 30 phút, trong thời gian nuôi con dưới 12 tháng tuổi được nghỉ mỗi ngày 60 phút trong thời gian làm việc",
           "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_3472",
-          "label": "các bên",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
-        },
-        {
-          "id": "ent_3488",
-          "label": "thương lượng tập thể không thành thuộc một trong các trường hợp sau đây",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_3475",
-          "label": "thương lượng tập thể đến toàn bộ người lao động",
-          "attributes": {},
-          "type": "ACTION"
-        },
-        {
-          "id": "ent_3471",
-          "label": "các bên",
-          "attributes": "[]",
-          "type": "LEGAL_ROLE"
+          "type": "RIGHT"
         }
       ]
     }
