@@ -159,7 +159,7 @@ def run_contract_pipeline(HD_INPUT):
         time.sleep(10)
         try:
             client = make_client(key)
-            results, total_score, overall_risk = analyze_contract(key,client, contract_items)
+            results, total_score, overall_risk = analyze_contract(client, contract_items)
            
             for item, res in zip(contract_items, results):
                 item['score'] = res['score']

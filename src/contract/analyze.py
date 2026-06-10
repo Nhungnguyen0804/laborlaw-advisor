@@ -15,11 +15,11 @@ def calc_score(issues):
     
 import random
 import time
-def analyze_contract(key,client, contract_items):
+def analyze_contract(client, contract_items):
     all_results = []
     total_score = 0
     
-    client = genai.Client(api_key=key)
+    # client = genai.Client(api_key=key)
     for item in contract_items:
         try:
             issues = analyze_contract_item(client,item)
@@ -43,10 +43,13 @@ def analyze_contract(key,client, contract_items):
         total_score += score
         
     # Score tổng thể
-    _, overall_risk = calc_score([])  # reuse logic
-    if total_score == 0:
+    if all_results:
+        avg_score = total_score / len(all_results)
+    else: 
+        avg_score = 0
+    if avg_score == 0:
         overall_risk = "LOW"
-    elif total_score <= 4:
+    elif avg_score <= 4:
         overall_risk = "MEDIUM"
     else:
         overall_risk = "HIGH"
