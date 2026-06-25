@@ -1,3 +1,31 @@
+# Website và video demo
+
+Website: https://nhungnguyen0804nhz-vn-laborlaw-advisor.hf.space/
+Link video demo: https://www.youtube.com/watch?v=llHJEYWXoMw
+
+# Thiết kế hệ thống
+
+Hệ thống tư vấn luật lao động với thiết kế 4 lớp
+![Sơ đồ chung](data/figure/all.png)
+
+## Lớp xử lý dữ liệu
+
+![diagram1](data/figure/l1.png)
+
+## Lớp truy xuất dữ liệu
+
+![diagram2](data/figure/l2.png)
+![diagram2](data/figure/dothi.png)
+![diagram2](data/figure/kethop.png)
+
+## Lớp mở rộng ngữ cảnh
+
+![diagram3](data/figure/l3.png)
+
+## Lớp sinh câu trả lời
+
+![diagram4](data/figure/l4.png)
+
 # Hướng dẫn cách cài đặt
 
 ## Yêu cầu hệ thống
@@ -81,9 +109,20 @@ chainlit run app.py
 
 # Demo
 
+---
+
 Câu hỏi cấu trúc pháp lý
 ![Demo câu hỏi cấu trúc pháp lý và trả lời](demo0.png)
+
+---
 
 Câu hỏi ngữ nghĩa pháp lý
 ![Demo câu hỏi ngữ nghĩa pháp lý và trả lời](demo1.png)
 ![Demo câu hỏi ngữ nghĩa pháp lý và trả lời](demo2.png)
+
+---
+
+Demo kết quả phân tích hợp đồng
+![Demo phân tích hợp đồng](demo_contract1.png)
+![Demo phân tích hợp đồng](demo_contract2.png)
+![Demo phân tích hợp đồng](demo_contract3.png)
