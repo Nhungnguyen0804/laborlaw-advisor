@@ -11,10 +11,13 @@ from src.labor_law.parser import (
     parse_clauses,
     parse_points,
 )
-from src.labor_law.vbhd.vbhd_func import (
+from src.labor_law.vbhd.vbhd_function import (
     filter_blld_year_outdate,
     test_content_doc,
-    extract_docx_text
+    extract_docx_text,
+    build_json,
+    debug_null_files,
+
 )
 
 
@@ -28,6 +31,12 @@ print('Số docx đang có: ',    len(docx_files))
 
 filted_blld_files = filter_blld_year_outdate(docx_files)
 print('Số docx còn lại sau khi lọc lần 1: ',    len(filted_blld_files))
+
+build_json(filted_blld_files, 'src/labor_law/vbhd/lan1.json')
 # test_content_doc(docx_files,0)
 # test_content_doc(docx_files,10)
+
+test_content_doc(docx_files, 50)
+
+null_files = debug_null_files(docx_files)
 
